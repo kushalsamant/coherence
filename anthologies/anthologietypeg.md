@@ -1,0 +1,18 @@
+**Anthologie Type - G**.
+
+**Giving**.
+
+Do you know what my dream is? Aise kyun have always been told that I should probably be involved in my family business or at least taken interest in it. So ja if you don't know about this then my great grandfather was a banker and everybody in my family so far has been an engineer or doctor or a banker. Or rather let me rephrase it, most people in my family have been in the commerce field and they all have married engineers doctors and lawyers. Dubai I look at this is that I am an Architect but I have never taken in keen interest in banking so far but the only thing that I might say is result of my DNA is that I happen to like the idea of giving things.
+
+I would love to sponsored projects give a money give treats to my college friends who are not doing enough even though I don't have enough to give them or even if I don't have enough for myself. It is as if I am addicted to the idea of giving. I've always wanted to have this one thing on my bucket list which was to be a venture capitalist or which was to be an agent in this society who will help people solve their problems.I did not take psychiatry for study so that I could help people battle mental illnesses and I did not do banking initially although my dream was to buy a Honda civic and drive around the entire world after completing CA or chartered accountancy. But because I have been so inclined to giving more than I take in my life as a theme now I think with this capacity and the power that I have been able to discover through this app I think I will do the next thing of my life which is to clear out my debt and build very good investment portfolio for myself so that I can share the returns with the local industries.
+
+**Google voice**.
+
+The funny part is that when I first started using Google voice input it would not give me the correct inputs like I would speak something or say something and then this app or the keyboard would interpret it differently. now that I think about it everything has slowly started to learn from me it is assive Google has its own AI running on this thing which launch my pronunciation and launch my voice and makes it easier for me to speak out long sentences without having to stop to edit a mistake. well I do agree that there are some words that it still does not pick up.but overall output is better now and it keeps getting better as I keep using this app on the keyboard for my writing it is very easy for me to share my thoughts and since I think a lot and have a lot of thoughts it is very easy for me now to be able to record all document them whenever I am even if I am waiting or if I am taking a dump or if I am designing something. It is like my personal notepad which is being shared to the world.
+
+It just help me make the process so fast that now I don't have to worry about pressing control c for control v and it is nice man I don't know what to tell you, you should also try this out. have you noticed how easy it is that I am posting articles but every time I keep doing this they keep getting longer and longer. I think at this rate I can even publish a book who actually I have published one book but I think I will share the link with you guys some day after I think I have made my target on typewriter I hope that I wished for something like this only in my life or rather actually wish I had found something like this earlier in my life but it's alright. Better late than never.
+
+**Greeks**.
+
+Even today, if the Greeks fall. There will be violence. Specks of mutiny as tiny islands on the world map go on to show the world how individuality can bring about a significant change in the world we live. No matter how absurd a thought.
+It is Powerful.
