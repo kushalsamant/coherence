@@ -1,3 +1,3 @@
-**Anthologie Type - X**.
+**Anthologie - Type X**.
 
 
