@@ -1,10 +1,5 @@
 **People**.
 
-> Raymond 'Red' Reddington : "Are you a gambling man, Crispin?"  
-> Sir Crispin Crandall : "No. I abhor casinos."  
-> Raymond 'Red' Reddington : "Oh, yes. Well, I would agree with you there. But perhaps you're familiar with the old saw "You can't beat the house"? No matter how many poor souls you turn into popsicles, the fix is in. The world in which you awaken will be one incapable of sustaining human life. And why? Because at the critical tipping point, one tragically quixotic megalomaniac cannibalized humanity of the very minds that might have been its salvation. You see, if you were a betting man, you would understand that now trumps later every time. The future is a sucker's bet, a maybe, a contingency, a "What if?" The only thing that is real is the present, and you've plundered it, robbed it of the very geniuses that might have averted the dystopia you so fear. Indeed, perhaps even the very one who might have devised a means to revive your sad, tired, frozen ass. Congratulations, Crispin. You've doubled down on extinction. Life on Earth is going to end. Soon."  
-> The Blacklist, a series on Netflix.
-
 These people taught me things that I could not have learnt otherwise.
 
 A&nbsp;V,&nbsp;Suchendra.  
@@ -140,8 +135,7 @@ Vora,&nbsp;Shyam.
 Wadhwani,&nbsp;Sakshi.  
 Yalgi,&nbsp;Mohit.  
 
-> "As is a tale, so is life: not how long it is, but how good it is, is what matters."  
-> J. K. Rowling quoting Lucius Annaeus Seneca.
+***
 
 These are the names of the people who signed up to be a part of Your Mail Project. They gave me an opportunity to contribute to your lives.
 
@@ -205,7 +199,4 @@ Talakad,&nbsp;Aishwarya&nbsp;Lakshmi.
 Tandon,&nbsp;Shivani.  
 Thakkar,&nbsp;Niyati.  
 Venkataraman,&nbsp;Harini.  
-Yadav,&nbsp;Chandrakala.  
-
-> "As my father used to say to me: "Just because you were bumped up to first chair in the orchestra... doesn't mean you can compose a symphony."  
-> Raymond 'Red' Reddington (James Spader) quoting his father in The Blacklist, a series on Netflix.
+Yadav,&nbsp;Chandrakala.

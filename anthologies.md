@@ -28,4 +28,4 @@
 - [Anthologie - Type X](https://kushalsamant.github.io/anthologies/anthologietypex.html).  
 - [Anthologie - Type Y](https://kushalsamant.github.io/anthologies/anthologietypey.html).  
 - [Anthologie - Type Z](https://kushalsamant.github.io/anthologies/anthologietypez.html).  
-- [Quotes](https://kushalsamant.github.io/anthologies/quotes.html).  
+- [Quotes](https://kushalsamant.github.io/anthologies/quotes.html).

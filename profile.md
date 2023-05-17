@@ -1,8 +1,5 @@
 **Profile**.
 
-> "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."  
-> Alan Kay.
-
 <img src="/assets/img/logo_kushal_samant_profile_picture_cute.png" alt="Architect Samant Kushal" width="150">
 
 Kushal&nbsp;Dhananjay&nbsp;Samant is an Architect, based in India.
@@ -22,6 +19,3 @@ In 2019, he proofread research papers at SVKM's NMIMS, Mumbai (NMIMS&nbsp;School
 In 2020, one of his repositories was selected for the <a href="https://youtu.be/fzI9FNjXQ0o" rel="noopener noreferrer" target="_blank">Arctic&nbsp;Code&nbsp;Vault</a> of the <a href="https://archiveprogram.github.com" rel="noopener noreferrer" target="_blank">GitHub&nbsp;Archive&nbsp;Program</a>. Later that year, he started <a href="https://yourmailproject.gumroad.com" rel="noopener noreferrer" target="_blank">Your&nbsp;Mail&nbsp;Project</a>.
 
 In 2022, he started as a core faculty at Dr.&nbsp;D.Y.&nbsp;Patil&nbsp;College&nbsp;of&nbsp;Architecture, Navi Mumbai. So far, he has worked in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
-
-> "For some reason, I've turned myself inside out and all my guts have spilled onto my blog."  
-> James Altucher.

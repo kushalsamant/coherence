@@ -1,8 +1,5 @@
 **Work**.
 
-> "Genuine love is volitional rather than emotional. The person who truely loves does so because of a decision to love. This person has made a commitment to be loving whether or not the loving feeling is present ...Conversely, it is not only possible but necessary for a loving person to avoid acting on feelings of love."  
-> M. Scott Peck, The Road Less Traveled: A New Psychology of Love, Traditional Values, and Spiritual Growth.
-
 These are the projects/ventures I've worked on.
 
 - Core Faculty of Architecture at Dr D.Y. Patil College of Architecture, Navi Mumbai.  
@@ -108,10 +105,9 @@ These are the projects/ventures I've worked on.
 - Bungalow. Proposed a lake house with circular form and bridges as corridors.  
 - Articles for Annual Architectural Magazine, Oculus 2 of KLS GIT, Belgaum.
 
-**Other Projects**.
+***
 
-> "I feel sympathy for the working class lad. I've always championed about ticket prices and try to equate that to people's salaries."  
-> Alex Ferguson.
+**Other Projects**.
 
 edStudio Architects.  
 Bangalore.
@@ -152,6 +148,3 @@ Bangalore.
 - Residence, Chamarajpet, Bangalore. Client: Mr. Sitaram and Mrs. Shruti.  
 - Residence + Interiors, Bangalore. Client: Dr. Ravindran.  
 - Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
-
-> "I recently discovered that being an adult about things by being supportive is the cure to all problems of life."  
-> Kushal Samant.
