@@ -1,2 +1,2 @@
-**Anthologie Type - Q**.
+**Anthologie - Type Q**.
 
