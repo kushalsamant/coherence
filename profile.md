@@ -1,6 +1,6 @@
 **Profile**.
 
-<img src="/assets/img/logo_kushal_samant_profile_picture_cute.png" alt="Architect Samant Kushal" width="150">
+<img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Samant Kushal" width="150">
 
 Kushal&nbsp;Dhananjay&nbsp;Samant is an Architect, based in India.
 
