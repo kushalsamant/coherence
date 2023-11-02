@@ -1,8 +1,18 @@
-**Anthologie Type - L**.
+**Anthologie - Type L**.
 
 **Lancymark**.
 
 Thoughtful this be unlike random bickerings I wish some more joy for you as a cure for it all with a passing train on a railroad cross. Across a bridge lies my heart tonight this I know now since you wrote these lines I hope we all be found; found in the best of moods for life.
+
+Lancymark.
+
+Thoughtful this be unlike random bickering, 
+I wish some more joy for you as a cure for it all, 
+with a passing train on a railroad cross. 
+
+Across a bridge lies my heart tonight, 
+this I know now since you wrote these lines, 
+I hope we all be found; found in the best of moods for life.
 
 **Lessons in running a scam 2020**.
 
@@ -23,7 +33,29 @@ Date: 4th June 2020
 2. C. Watch your World Bank fund become tax free money when these employees pay their electricity bills.
 Viola!
 
+Lessons In Running A Scam In 2020.
+
+Date: 4th June 2020.
+
+Label all the deaths that happen per year with a disease that is less deadly than TB, Measles, Mumps, SARS, HIV, and a few others.
+
+Declare an epidemic/ pandemic.
+
+Apply to World Bank for funds with this headcount.
+
+Enforce a shutdown of normal life and activate the work-from-home mode.
+
+Give liquidity funds to all MSMEs using the World Bank fund.
+
+Give salary hikes to all salaried employees of these MSMEs.
+
+Watch your World Bank fund become tax-free money when these employees pay their electricity bills. Viola!
+
 **Let me**.
+
+Let me lose myself in you. Behind those knocks on the door and sliding windows. There isn’t a moment I want, without your envelope, the smell of you body, the wetness of your skin, the curves that hold me, under your sheets, from winter nights to summer days, there is barely anything, that I want to not do with you, not want to feel in your company.
+
+Let Me.
 
 Let me lose myself in you. Behind those knocks on the door and sliding windows. There isn’t a moment I want, without your envelope, the smell of you body, the wetness of your skin, the curves that hold me, under your sheets, from winter nights to summer days, there is barely anything, that I want to not do with you, not want to feel in your company.
 
@@ -58,11 +90,47 @@ Ar. Kushal Dhananjay Samant.
 Architect | Council Of Architecture License & Registration No.: CA/2014/62537  
 Tel | +918779632310
 
+Letters To The Commissioner Of Police, Mumbai.
+
+Date: 15th May 2020
+
+Dear Mr. Param Bir Singh,
+Commissioner of Police,
+Mumbai,
+MH. India.
+
+I am Kushal Dhananjay Samant. I am a resident at the following address as per my passport records: 6/A2, Shree Hari CHS, Plot-11, Behind Neurogen Hospital, Sector 40, Seawoods (W), Navi Mumbai — 400706. MH. INDIA. I am a stranded individual at the following address at the moment: C/o Satchit Puranik, Flat No 14, Tabeer Terrace CHS, Lane Opposite Orchid Global Learning Academy, Versova, Andheri (W), Mumbai — 400061. MH. INDIA. My apologies because I was unaware of the changes in the online application process that were being carried out by Maharashtra Police when I was preparing the following documents for my Travel Pass application as a stranded individual as per the previous form that was available on the website — covid19.mhpolice.in. I have followed through meticulously on all tests, and documents required for my travel back home. I am sending these documents for your reference along with this letter.
+
+A prescription from Dr Vernon Miranda to get a COVID-19 test done, solely for travel purposes.
+
+COVID-19 test report from Suburban Diagnostics. My test report says, “SARS-CoV-2: Not detected.” i.e. COVID19 negative.
+
+Fitness Certificate from Dr Vernon Miranda based on this Test Report.
+
+DN Nagar Police Station has quoted, “They have not received any instructions regarding inter-district transit for stranded individuals”. I have been advised by one police officer to take an auto (which is unavailable) or take a private vehicle (which no one is willing to volunteer). This ball is now, apparently in your court. The Mumbai Police website — https://mumbaipolice.co.in/ApplicationforEmergencyTravelMigrant.html now deems it necessary that I should submit an RC Book and a driving license as an individual if I have to return home. Do you think that this is preposterous? Because I imagine it to be so. I would like to request you to kindly grant me either of these permissions.
+
+Permission to return home by public bus transport or,
+
+A letter that permits any auto driver to return home after dropping me home.
+
+I hope you shall support my return. You can reply to this message or contact me at +918779632310 for any queries. Thanking you very much.
+
+Yours truly,
+Ar Kushal Dhananjay Samant.
+Architect | Council Of Architecture License & Registration No.: CA/2014/62537
+Tel | +918779632310
+
 **Life**.
 
 La vida es para dar besos profundos y buscar amaneceres en ciudades nuevas.
 
 Life is to give deep kisses, and seek sunrises in new cities.
+
+Life.
+
+La vida es para dar besos profundos y buscar amaneceres en ciudades nuevas. 
+
+Life is to give deep kisses and seek sunrises in new cities.
 
 **Listening**.
 
@@ -73,9 +141,22 @@ The key to making better decisions is to de-cide. To cut away everything that yo
 > "If the answer is not a clear “Yes!”, then it is a clear “No.”  
 > Malcolm Gladwell.
 
+Listening.
+
+Whatever might be the reason that stops you from doing what you want, it is essential to recognize that the only way you can get things going is by trusting yourself blindly. The most common mistake that we do as humans is to ignore our inner voice, that inkling of a notion that beckons us against something or for something. That inner voice is always correct. It is always the quietest. It is more true than anything that surrounds it. 
+
+The key to making better decisions is to decide. To cut away everything that you don’t need. And the easiest way to find what you don’t need is to ask a single question. “Do I need this?” And a simpler rule: 
+
+“If the answer is not a clear “Yes!”, then it is a clear “No.”
+Malcolm Gladwell.
+
 **Listening to myself**.
 
 You know this is an additive process because I have been spending so many minutes on Instagram and other platforms on resuming content and it is pretty addicted to stay on those platforms because well that's how they are designed right. Now considering that I am speaking into the microphone and I am going to get paid for this voice over thing which is basically what you are eating at the moment there is nothing more satisfying than knowing that somebody out there will learn from you and from your mistakes and from your life experiences and will at to their own life all the good things that you have learnt in your life. So listening to me is not addictive enough for me but the knowledge of understanding that I can now make a difference by sharing ideas with the world is something that truly satisfies me as a person and I don't think I will ever stop posting using speech to text on Typewrighter.
+
+Listening To Myself.
+
+You know this is an additive process because I have been spending so many minutes on Instagram and other platforms on resuming content and it is pretty addictive to stay on those platforms because well that’s how they are designed right? Now considering that I am speaking into the microphone and I am going to get paid for this voice-over thing which is basically what you are eating at the moment there is nothing more satisfying than knowing that somebody out there will learn from you and from your mistakes and from your life experiences and will at to their own life all the good things that you have learnt in your life. So listening to me is not addictive enough for me but the knowledge of understanding that I can now make a difference by sharing ideas with the world is something that truly satisfies me as a person and I don’t think I will ever stop posting using speech to text on Typewrighter.
 
 **Local economy**.
 
@@ -83,7 +164,17 @@ Do you know what the idea is behind funding local economics? The the full idea w
 
 Please excuse me for all the spelling mistakes in my articles I am not typing them out I am trying to capture my thought and trying to figure out the next best thing to do for me.
 
+Local Economy.
+
+Do you know what the idea is behind funding local economics? The idea is the reason why I want to fund the local economy instead of se a brand as much life in this small top that I was having with this auto rickshaw driver while returning home before this lockdown. So the conversation that I had with him was about how taking a rickshaw back home instead of booking in Ola or Uber or maybe going via public transport was beneficial to everybody in the process. I am aware that you might know I’m talking about it is basically about taking my money and spending on things that are sold by people who have kids to feed and who badly make bye in today’s world. The idea of giving out your money and spending it in the right places is the key to banking. Because I am spending it on rickshaw rides I am pretty sure the rickshaw drivers kids would get or would be able to afford a decent education and it will make this world a better place.
+
+Please excuse me for all the spelling mistakes in my articles I am not typing them out I am trying to capture my thought and trying to figure out the next best thing to do for me.
+
 **Lone tree**.
+
+A lone tree standing at the edge of a cliff is not all lost, and lonely. It is what holds the cliff together.
+
+Lone Tree.
 
 A lone tree standing at the edge of a cliff is not all lost, and lonely. It is what holds the cliff together.
 

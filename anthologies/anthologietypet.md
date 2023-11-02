@@ -1,4 +1,4 @@
-**Anthologie Type - T**.
+**Anthologie - Type T**.
 
 **Taking chances**.
 

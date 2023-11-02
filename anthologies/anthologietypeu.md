@@ -1,4 +1,4 @@
-**Anthologie Type - U**.
+**Anthologie - Type U**.
 
 **Urban trekking**.
 

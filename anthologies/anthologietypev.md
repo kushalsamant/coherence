@@ -1,4 +1,4 @@
-**Anthologie Type - V**.
+**Anthologie - Type V**.
 
 **Variables**.
 

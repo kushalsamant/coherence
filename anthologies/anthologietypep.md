@@ -1,4 +1,4 @@
-**Anthologie Type - P**.
+**Anthologie - Type P**.
 
 **Paid**.
 

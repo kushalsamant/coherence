@@ -1,4 +1,4 @@
-**Anthologie Type - M**.
+**Anthologie - Type M**.
 
 **Magic**.
 

@@ -1,4 +1,4 @@
-**Anthologie Type - O**.
+**Anthologie - Type O**.
 
 **Occupying bathrooms**.
 

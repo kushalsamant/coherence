@@ -1,4 +1,4 @@
-**Anthologie Type - W**.
+**Anthologie - Type W**.
 
 **Waiting**.
 

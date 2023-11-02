@@ -1,4 +1,4 @@
-**Anthologie Type - S**.
+**Anthologie - Type S**.
 
 **Schedule for quick dating**.
 

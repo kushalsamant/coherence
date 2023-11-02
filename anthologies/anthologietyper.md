@@ -1,4 +1,4 @@
-**Anthologie Type - R**.
+**Anthologie - Type R**.
 
 **Railway line intervention**.
 

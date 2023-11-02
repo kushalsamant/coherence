@@ -1,4 +1,4 @@
-**Anthologie Type - N**.
+**Anthologie - Type N**.
 
 **Nadi**.
 
