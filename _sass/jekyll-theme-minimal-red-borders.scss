@@ -17,7 +17,7 @@
   }
 
   h1 {
-    color: #77ffffffff;
+    color: #DDDDDD;
     font-size: 15px;
     line-height: 1.5;
     margin: 15px;
@@ -25,7 +25,7 @@
   }
 
   .grid-container {
-    background-color: #77000000;
+    background-color: #333333;
     border-style: none;
     column-gap: 15px;
     display: grid;
@@ -37,8 +37,8 @@
   }
 
   body {
-    background-color: #77000000;
-    color: #77ffffffff;
+    background-color: #333333;
+    color: #DDDDDD;
     font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     margin: 15px;
@@ -48,26 +48,26 @@
   }
 
   blockquote {
-    border-left: 1px solid #77ff0000;
+    border-left: 1px solid #ff0000;
     font-style: italic;
     margin: 15px;
     padding: 15px;
   }
 
   a:hover {
-    background-color: #77ff0000;
-    color: #77000000;
+    background-color: #ff0000;
+    color: #333333;
     margin: 1px;
     padding: 1px;
     text-decoration: none;
   }
 
   a:focus {
-    border: 1px solid #77ff0000;
+    border: 1px solid #ff0000;
   }
 
   a {
-    color: #77ff0000;
+    color: #ff0000;
     text-decoration: none;
   }
 
@@ -75,7 +75,7 @@
 -----------------------------------------------------------------------------*/
 
   header p {
-    color: #77ffffffff;
+    color: #DDDDDD;
     font-size: 15px;
     line-height: 1.5;
     margin: 15px;
@@ -84,7 +84,7 @@
   }
 
   header h1 {
-    color: #77ffffffff;
+    color: #DDDDDD;
     font-size: 15px;
     line-height: 1.5;
     margin: 15px;
@@ -93,7 +93,7 @@
   }
 
   header.grid-item {
-    background-color: #77000000;
+    background-color: #333333;
     border-style: none;
     font-size: 15px;
     grid-column: 1 / 2;
@@ -104,7 +104,7 @@
   }
 
   header blockquote {
-    border-left: 1px solid #77ff0000;
+    border-left: 1px solid #ff0000;
     font-style: italic;
     margin: 15px;
     padding: 15px;
@@ -115,7 +115,7 @@
 -----------------------------------------------------------------------------*/
 
 section p {
-  color: #77ffffffff;
+  color: #DDDDDD;
   font-size: 15px;
   line-height: 1.5;
   margin: 15px;
@@ -124,7 +124,7 @@ section p {
 }
 
 section.grid-item {
-  background-color: #77000000;
+  background-color: #333333;
   border-style: none;
   font-size: 15px;
   grid-column: 2 / 3;
@@ -145,22 +145,22 @@ section.grid-item {
 }
 
 .btn:hover {
-  background-color: #77000000;
-  border: 1px solid #77ff0000;
+  background-color: #333333;
+  border: 1px solid #ff0000;
   border-radius: 45px;
   margin: 15px;
-  color: #77ff0000;
+  color: #ff0000;
   padding: 15px;
   text-align: center;
   text-decoration: none;
 }
 
 .btn {
-  background-color: #77ff0000;
-  border: 1px solid #77000000;
+  background-color: #ff0000;
+  border: 1px solid #333333;
   border-radius: 45px;
   margin: 15px;
-  color: #77000000;
+  color: #333333;
   padding: 15px;
   text-align: center;
   text-decoration: none;
@@ -170,7 +170,7 @@ section.grid-item {
 -----------------------------------------------------------------------------*/
 
   footer p {
-    color: #77ffffffff;
+    color: #DDDDDD;
     font-size: 15px;
     line-height: 1.5;
     margin: 15px;
@@ -179,7 +179,7 @@ section.grid-item {
   }
 
   footer.grid-item {
-    background-color: #77000000;
+    background-color: #333333;
     border-style: none;
     font-size: 15px;
     grid-column: 1 / 2;
@@ -206,7 +206,7 @@ section.grid-item {
   }
 
   h1 {
-    color: #77ffffffff;
+    color: #DDDDDD;
     font-size: 15px;
     line-height: 1.5;
     margin: 5px;
@@ -214,7 +214,7 @@ section.grid-item {
   }
 
   .grid-container {
-    background-color: #77000000;
+    background-color: #333333;
     border-style: none;
     column-gap: 5px;
     display: grid;
@@ -226,8 +226,8 @@ section.grid-item {
   }
 
   body {
-    background-color: #77000000;
-    color: #77ffffffff;
+    background-color: #333333;
+    color: #DDDDDD;
     font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     margin: 5px;
@@ -237,26 +237,26 @@ section.grid-item {
   }
 
   blockquote {
-    border-left: 1px solid #77ff0000;
+    border-left: 1px solid #ff0000;
     font-style: italic;
     margin: 5px;
     padding: 5px;
   }
 
   a:hover {
-    background-color: #77ff0000;
-    color: #77000000;
+    background-color: #ff0000;
+    color: #333333;
     margin: 1px;
     padding: 1px;
     text-decoration: none;
   }
 
   a:focus {
-    border: 1px solid #77ff0000;
+    border: 1px solid #ff0000;
   }
 
   a {
-    color: #77ff0000;
+    color: #ff0000;
     text-decoration: none;
   }
 
@@ -264,7 +264,7 @@ section.grid-item {
 -----------------------------------------------------------------------------*/
 
   header p {
-    color: #77ffffffff;
+    color: #DDDDDD;
     font-size: 15px;
     line-height: 1.5;
     margin: 5px;
@@ -273,7 +273,7 @@ section.grid-item {
   }
 
   header h1 {
-    color: #77ffffffff;
+    color: #DDDDDD;
     font-size: 15px;
     line-height: 1.5;
     margin: 5px;
@@ -282,7 +282,7 @@ section.grid-item {
   }
 
   header.grid-item {
-    background-color: #77000000;
+    background-color: #333333;
     border-style: none;
     font-size: 15px;
     grid-column: 1 / 2;
@@ -292,7 +292,7 @@ section.grid-item {
   }
 
   header blockquote {
-    border-left: 1px solid #77ff0000;
+    border-left: 1px solid #ff0000;
     font-style: italic;
     margin: 5px;
     padding: 5px;
@@ -303,7 +303,7 @@ section.grid-item {
 -----------------------------------------------------------------------------*/
 
   section p {
-    color: #77ffffffff;
+    color: #DDDDDD;
     font-size: 15px;
     line-height: 1.5;
     margin: 5px;
@@ -312,7 +312,7 @@ section.grid-item {
   }
 
   section.grid-item {
-    background-color: #77000000;
+    background-color: #333333;
     border-style: none;
     grid-column: 1 / 2;
     grid-row: 2 / 3;
@@ -332,22 +332,22 @@ section.grid-item {
   }
 
   .btn {
-    background-color: #77ff0000;
-    border: 1px solid #77000000;
+    background-color: #ff0000;
+    border: 1px solid #333333;
     border-radius: 45px;
     margin: 15px;
-    color: #77000000;
+    color: #333333;
     padding: 15px;
     text-align: center;
     text-decoration: none;
   }
 
   .btn:hover {
-    background-color: #77000000;
-    border: 1px solid #77ff0000;
+    background-color: #333333;
+    border: 1px solid #ff0000;
     border-radius: 45px;
     margin: 15px;
-    color: #77ff0000;
+    color: #ff0000;
     padding: 15px;
     text-align: center;
     text-decoration: none;
@@ -357,7 +357,7 @@ section.grid-item {
 -----------------------------------------------------------------------------*/
 
   footer p {
-    color: #77ffffffff;
+    color: #DDDDDD;
     font-size: 15px;
     line-height: 1.5;
     margin: 5px;
@@ -366,7 +366,7 @@ section.grid-item {
   }
 
   footer.grid-item {
-    background-color: #77000000;
+    background-color: #333333;
     border-style: none;
     font-size: 15px;
     grid-column: 1 / 2;
@@ -382,7 +382,7 @@ section.grid-item {
 
 @media print {
   body {
-    color: #77ffffffff;
+    color: #DDDDDD;
     font-size: 15px;
     padding: 1.0in;
     word-wrap: break-word;
