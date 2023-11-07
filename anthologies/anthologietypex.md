@@ -1,3 +1,0 @@
-**Anthologie - Type X**.
-
-
