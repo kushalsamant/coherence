@@ -1,2 +1,0 @@
-**Anthologie - Type Q**.
-
