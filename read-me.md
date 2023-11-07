@@ -4,11 +4,11 @@ If you think this website is unlike others, don't fret. This website is intentio
 
 This website is an intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant, vide Architect's&nbsp;Act,&nbsp;1972 of the Constitution&nbsp;of&nbsp;The&nbsp;Republic&nbsp;of&nbsp;India. Any violation of the Architect's Act is a punishable offence.
 
-If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, have a business or startup idea you want to talk to me about, or want to share something you made with me, or want to get me involved in what you're doing or want me to collaborate on some of your other projects, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://www.instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a>.
+If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, have a business or startup idea you want to talk to me about, or want to share something you made with me, or want to get me involved in what you're doing or want me to collaborate on some of your other projects, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://www.telegram.com/kvshvl" rel="noopener noreferrer" target="_blank">Telegram</a>.
 
 I try to respond to as many posts as possible. I know that's not as satisfying as sending a direct email but my inbox is a big fat mess and when I made it public there were too many messages to respond so they just went unread - that sucks for everyone.
 
-If you are nearby and want to connect personally or want a couple of minutes of my time on the phone, or in person, or anything that involves a commitment of time, any amount of time, I very very gently have to say no. Saying no is hard.
+If you are nearby and want to connect personally or want a couple of minutes of my time on the phone, or in person, or want to read my favourite [quotes](https://kushalsamant.github.io/quotes.html), or anything that involves a commitment of time, any amount of time, I very very gently have to say no. Saying no is hard.
 
 So many extraordinary circumstances that should warrant me saying yes, but I can't. It's a hard, inflexible no.
 
@@ -30,8 +30,6 @@ If you’re already following my content and want to chip in a little extra, you
 
 Photos and videos are edited using modern editors for videos, GIFs, and images:  
 <a href="https://www.videosoftdev.com" rel="noopener noreferrer" target="_blank">VSDC Video Editor</a>, <a href="https://play.google.com/store/apps/details?id=com.vsco.cam" rel="noopener noreferrer" target="_blank">VSCO Cam</a>, <a href="https://play.google.com/store/apps/details?id=maa.vaporwave_editor_glitch_vhs_trippy_pro" rel="noopener noreferrer" target="_blank">Vaporgram Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed" rel="noopener noreferrer" target="_blank">Snapseed</a>, <a href="https://kapwing.com" rel="noopener noreferrer" target="_blank">Kapwing</a>, <a href="https://play.google.com/store/apps/details?id=com.instagram.android" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot" rel="noopener noreferrer" target="_blank">Inshot</a>, and <a href="https://play.google.com/store/apps/details?id=kr.co.manhole.hujicam" rel="noopener noreferrer" target="_blank">Huji Cam</a>.
-
-**Anthologies**.
 
 - [$15 design guide](https://kushalsamant.github.io/anthologies/$15designguide.html).  
 - [Anthologie - Type A](https://kushalsamant.github.io/anthologies/anthologietypea.html).  
@@ -61,4 +59,3 @@ Photos and videos are edited using modern editors for videos, GIFs, and images:
 - [Anthologie - Type X](https://kushalsamant.github.io/anthologies/anthologietypex.html).  
 - [Anthologie - Type Y](https://kushalsamant.github.io/anthologies/anthologietypey.html).  
 - [Anthologie - Type Z](https://kushalsamant.github.io/anthologies/anthologietypez.html).  
-- [Quotes](https://kushalsamant.github.io/anthologies/quotes.html).
