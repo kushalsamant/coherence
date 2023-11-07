@@ -4,7 +4,7 @@ If you think this website is unlike others, don't fret. This website is intentio
 
 This website is an intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant, vide Architect's&nbsp;Act,&nbsp;1972 of the Constitution&nbsp;of&nbsp;The&nbsp;Republic&nbsp;of&nbsp;India. Any violation of the Architect's Act is a punishable offence.
 
-If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, have a business or startup idea you want to talk to me about, or want to share something you made with me, or want to get me involved in what you're doing or want me to collaborate on some of your other projects, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://www.telegram.com/kvshvl" rel="noopener noreferrer" target="_blank">Telegram</a>.
+If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, have a business or startup idea you want to talk to me about, or want to share something you made with me, or want to get me involved in what you're doing or want me to collaborate on some of your other projects, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://www.instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a>.
 
 I try to respond to as many posts as possible. I know that's not as satisfying as sending a direct email but my inbox is a big fat mess and when I made it public there were too many messages to respond so they just went unread - that sucks for everyone.
 
