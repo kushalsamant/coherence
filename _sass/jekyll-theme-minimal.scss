@@ -36,17 +36,10 @@
     row-gap: 15px;
   }
 
-  div {
-     width: 100%;
-     height: 400px;
-     background-image: url('/assets/img/wallpaper.png');
-     background-repeat: no-repeat;
-     background-size: cover;
-     border: 1px #F11111;
-  }
-
   body {
     background-color: #111111;
+    background-image: url('/assets/img/wallpaper.png');
+    background-size: cover;
     color: #FFFFFF;
     font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
@@ -234,17 +227,10 @@ section.grid-item {
     row-gap: 5px;
   }
 
-  div {
-     width: 100%;
-     height: 400px;
-     background-image: url('/assets/img/wallpaper.png');
-     background-repeat: no-repeat;
-     background-size: cover;
-     border: 1px #F11111;
-  }
-
   body {
     background-color: #111111;
+    background-image: url('/assets/img/wallpaper.png');
+    background-size: cover;
     color: #FFFFFF;
     font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
