@@ -1543,24 +1543,66 @@ You pull me roughly to you, and kiss me so I can taste myself off your mouth and
 And you feel me shudder around you and then feel me biting your shoulder and pulling your hair. You pull out, and get on top of me...
 
 **Erotica 5**.  
-I want to meet you in a wedding, find you in the crowd, from the other family's side. Look at you, and catch your gaze. I ask you, "Do you know where the rooms are?" I let you grab my hand, and show me where. Then let you go there with the keys. I follow you there, and close the door. I rip away your saree on the door, go down on you, and eat your clit, till you beg me to stop, so I ask you to sit. Then I pull you by your saree by that knot on your navel, and undo your hair.
-I turn you around, and press my cock on your ass. You can feel it through the clothes but you still moan. So I turn your neck, and nibble your lips, with my hand still on your clit. Then push you down, till your face is flat on the bed, with your ass up, and a vagina that's ready and wet. You undo my belt without seeing it, and gasp as you hold my boner, you ask me to fuck thee. Then I pin you down and slide it in, as slowly as I can, we hear the wedding drums begin.
-I want to fuck you to that drumbeat, until you can't take it anymore, till you gasp for breathe slowly sweating, with my fingers pinching your nipples, and my teeth undoing your lingerie. As my sweat drips from my face, on your back and you ask me if I am done yet. I politely say, "No bitch, we aren't going home tonight!" You ask me to stop, and don't stop in the same line.
-Then you say, "How about bringing your mouth to my boobs, slowly caressing them with your lips before sucking on my nipples" So I turn you around, and slide it in, going all missionary and tearing all your clothes, cup your boobs, and suck on both the nipples together. As you leave deep nail marks on my back, burning as our sweat runs over that.
-As you pull at my hair, I ask if you are married, you say, "Yes, aren't we both?  "Stop thinking!" ... And fuck me harder please!" And when I finally come up for air, you kiss me hard, bite my lips, and let some blood out there. So I slow down because I don't want to quit, I hear your moans go louder than that drumbeat until I cum inside you once, and you ask me to do it all over again. You suck my balls, slowly chew on my cock. You say, "Don't you do it because you can never have enough of me" as I get a better boner.
-You run your tongue from the bottom to the tip of my dick, I see you look up at me wide-eyed as you suck my dick and that turns me on even more. Then you clamp that head in between your lips and touch the tip with your tongue gently. As it gives me a freezing sensation, my body shivers, legs go weak, and I hold your hair with such a forceful grip, begging for mercy to let me live. You ask me to byheart your number before we leave because you want to ride me in your house's balcony.
-You want me to lift you up, and fuck me in the cold wind, sweating while your husband is in the other room, fucking his colleagues, 3, maybe 4. So I let myself go, and my cock oozes with glee, you drop all of it on your forehead, and it drips down slowly, from besides your eyes, down your nose, over a lip, and some goes inside your mouth as you open to tongue my cock some more.
-Then it drips down your chin like a never-ending river, drops on your chest, and rolls down your boobs, all the way down to your stomach, and navel. You blow me so hard, I fall exhausted on you. But my cock is now on your face, cumming away, till it goes to your clean-shaven pussy, and you scream, "oh! no, I don't want you to get me pregnant" So you rub it off as it overflows, down on the bed.
-You say, "We have a mess of this place, let's run away before anyone knows! Also, hey! are you married!?" ... "You wish" So I get you, your clothes from the hotel room, then we slip away back into the crowd again. I look at you and catch your gaze. Pretending to never have known you, but now a flashback to go to time and again. 
+I want to meet you at a wedding, find you in the crowd, from the other family’s side. Look at you, and catch your gaze. I ask you, “Do you know where the rooms are?” 
+
+I let you grab my hand, and show me where. 
+
+Then let you go there with the keys. I follow you there, and close the door. I rip away your saree on the door, go down on you, and eat your clit, till you beg me to stop, so I ask you to sit. 
+
+Then I pull you by your saree by that knot on your navel, and undo your hair. I turn you around, and press my cock on your ass. You can feel it through the clothes but you still moan. 
+
+So I turn your neck, and nibble your lips, with my hand still on your clit. Then push you down, till your face is flat on the bed, with your ass up, and a vagina that’s ready and wet. 
+
+You undo my belt without seeing it, and gasp as you hold my boner, you ask me to fuck thee. Then I pin you down and slide it in, as slowly as I can, we hear the wedding drums begin. 
+
+I want to fuck you to that drumbeat, until you can’t take it anymore, till you gasp for breathe slowly sweating, with my fingers pinching your nipples, and my teeth undoing your lingerie. 
+
+As my sweat drips from my face, on your back and you ask me if I am done yet. I politely say, “No bitch, we aren’t going home tonight!” You ask me to stop, and don’t stop in the same line. 
+
+Then you say, “How about bringing your mouth to my boobs, slowly caressing them with your lips before sucking on my nipples” 
+
+So I turn you around, and slide it in, going all missionary and tearing all your clothes, cup your boobs, and suck on both the nipples together. 
+
+As you leave deep nail marks on my back, burning as our sweat runs over that. As you pull at my hair, I ask if you are married, you say, “Stop thinking! … And fuck me harder please!” 
+
+And when I finally come up for air, you kiss me hard, bite my lips, and let some blood out there. 
+
+So I slow down because I don’t want to quit, I hear your moans go louder than that drumbeat until I cum inside you once, and you ask me to do it all over again. 
+
+You suck my balls, slowly chew on my cock. You say, “ Don’t you do it because you can never have enough of me” as I get a better boner. 
+
+You run your tongue from the bottom to the tip of my dick, I see you look up at me wide-eyed as you suck my dick and that turns me on even more. 
+
+Then you clamp that head in between your lips and touch the tip with your tongue gently. 
+
+As it gives me a freezing sensation, my body shivers, legs go weak, and I hold your hair with such a forceful grip, begging for mercy to let me live. 
+
+You ask me to byheart your number before we leave because you want to ride me in your house’s balcony. 
+
+You want me to lift you up, and fuck me in the cold wind, sweating while your husband is in the other room, fucking his colleagues, 3, maybe 4. 
+
+So I let myself go, and my cock oozes with glee, you drop all of it on your forehead, and it drips down slowly, from besides your eyes, down your nose, over a lip, 
+
+and some goes inside your mouth as you open to tongue my cock some more. 
+
+Then it drips down your chin like a never-ending river, drops on your chest, and rolls down your boobs, all the way down to your stomach, and navel. You blow me so hard, I fall exhausted on you. But my cock is now on your face, cumming away, till it goes to your clean-shaven pussy, and you scream, “oh! no, I don’t want you to get me pregnant” So you rub it off as it overflows, down on the bed. You say, “We have a mess of this place, let’s run away before anyone knows! Also, hey! are you married!?" 
+
+... "You wish" So I get you, your clothes from the hotel room, then we slip away back into the crowd again. I look at you and catch your gaze. Pretending to never have known you, but now a flashback to go to time and again.
+
 Phew!
  
 **Erotica 4**.  
-I want to whisper in your ears, and tell you things that I will do to you to make you squirt. I want to kiss you, bite you, eat you, and make you moan like you have never been fucked before. I want to tease you, dominate you, order you around, tell you what to do, show you what you deserve. Treat you like you are my bitch, you are my dirty little slut. I want to make you suck my dick till I cum in your mouth.
-Then kiss you when you are being a good girl, but if you are bad, then I will spank you really bad, hell, spank you anyway. I want to push you on to a wall, slap you as you stand there, then push you on to it by your neck, and then put my whole body on yours. Bite your ears, slide a arm under your thighs, and lift them up straight. Then slowly get one arm from behind your head, down to your panties, stretch that elastic and let it go, as it hits your waist and reminds you that it's me. 
-Then slide that hand under your top, slowly encroaching your tits. Remove that bra, in a quick tug, and bite your lips, as it snaps out of place, and I throw it away. Then I pinch your hard nipples, and turn you around. Spank your ass, real gently once, and then real bad twice. I will push my finger from the top of your back to the bottom, and slowly slide it inside your pussy, while my face is buried inside your back, biting away at all that muscle.
-Then as you get your hand and struggle with unbuckling me, you whip out my dick, all 7 inches of it. Tell me you are weak in your knees, such a convenient excuse, and fall right on them, to blow me to peace. You lick the tip, just a very subtle tease. Then you swallow it whole, keeping it dry, when you are dripping like a leaking tap. and you use both your hands to keep my cock in line. As you blow me and look me in the eye, you swallow my balls, and ask me to give you more!
-So I slide down those panties and ask you to come to an abandoned van, we roll down all windows, climb on the bonnet, we are star gazing, but are we? Because I am entering you slowly, mm by mm, as you can feel me slide. I want to fuck you till you scream. Then take you to a bed in that van, throw you on the bed, and make love to you some more.
-Then kiss you when you are being a good girl, but if you are bad, then I will spank you really bad, hell, spank you anyway. I want to push you on to a wall, slap you as you stand there, then push you on to it by your neck, and then put my whole body on yours. Bite your ears, slide a arm under your thighs, and lift them up straight. Then slowly get one arm from behind your head, down to your panties, stretch that elastic and let it go, as it hits your waist and reminds you that it’s me.
+I want to whisper in your ears, and tell you things that I will do to you to make you squirt. I want to kiss you, bite you, eat you, and make you moan like you have never been fucked before. I want to tease you, dominate you, order you around, tell you what to do, show you what you deserve. Treat you like you are my bitch, you are my dirty little slut. 
+
+I want to make you suck my dick till I cum in your mouth. Then kiss you when you are being a good girl, but if you are bad, then I will spank you really bad, hell, spank you anyway. I want to push you on to a wall, slap you as you stand there, then push you on to it by your neck, and then put my whole body on yours. Bite your ears, slide a arm under your thighs, and lift them up straight. 
+
+Then slowly get one arm from behind your head, down to your panties, stretch that elastic and let it go, as it hits your waist and reminds you that it’s me. Then slide that hand under your top, slowly encroaching your tits. Remove that bra, in a quick tug, and bite your lips, as it snaps out of place, and I throw it away. Then I pinch your hard nipples, and turn you around. 
+
+Spank your ass, real gently once, and then real bad twice. I will push my finger from the top of your back to the bottom, and slowly slide it inside your pussy, while my face is buried inside your back, biting away at all that muscle. Then as you get your hand and struggle with unbuckling me, you whip out my dick, all 7 inches of it. Tell me you are weak in your knees, such a convenient excuse, and fall right on them, to blow me to peace. 
+
+You lick the tip, just a very subtle tease. Then you swallow it whole, keeping it dry, when you are dripping like a leaking tap and you use both your hands to keep my cock in line. As you blow me and look me in the eye, you swallow my balls, and ask me to give you more! So I slide down those panties and ask you to come to an abandoned van, we roll down all windows, climb on the bonnet, we are star gazing, but are we? 
+
+Because I am entering you slowly, mm by mm, as you can feel me slide. I want to fuck you till you scream. Then take you to a bed in that van, throw you on the bed, and make love to you some more.
 
 **Erotica 14**.  
 I want you to suck me dry, see your body flow, into voluptuous curves, in dim light, of a lamp shade.
