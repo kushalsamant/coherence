@@ -1,383 +1,166 @@
-**Anthologie - Type A**.
+**Anthologie - Type A**.  
 
-**A butterfly**.
-
+**A butterfly**.  
 A butterfly to remind you, that all is not lost. A butterfly that flew by, when you were lost in your thoughts.
 
-**Abyss**.
-
-This picture reminds me of hierarchy. A man looks down on another, while being idle himself. The way this society prides upon its idle-being than those industrious-beings. With the background showing two buildings posing for the shot. Gaudy at their best, aspirational properties for those who lie in the foreground. If you look closely, the worker, and his tools are in the shadows. And the people who owns those posy buildings too. Remember that, all those who win are toiling away in the background. All work happens behind the scenes. The lesson here is that, “All work happens pre-season. Throughout your life you can see that those who are rich are so because they do the things that the majority are lazy to do. The fishermen can afford boats that cost more than your paycheck. The farmers own estate. Thinking about such paradoxes, I wonder if these men working on the foreground, were paid to be here buy the means that own these buildings. It is strange how men have structured civilization in selling everyone a dream, that even adults believe in. I am not against being employed. I am against not compounding my time with efforts that reap in perpetuity. That’s an abyss. Getting through this abyss means going hungry for a decade, and reaping your rewards in perpetual eternity.
-
+**Abyss**.  
+This picture reminds me of hierarchy. A man looks down on another, while being idle himself. The way this society prides upon its idle-being than those industrious-beings. With the background showing two buildings posing for the shot. Gaudy at their best, aspirational properties for those who lie in the foreground. If you look closely, the worker, and his tools are in the shadows. And the people who owns those posy buildings too. Remember that, all those who win are toiling away in the background. All work happens behind the scenes. The lesson here is that, “All work happens pre-season. Throughout your life you can see that those who are rich are so because they do the things that the majority are lazy to do. The fishermen can afford boats that cost more than your paycheck. The farmers own estate. Thinking about such paradoxes, I wonder if these men working on the foreground, were paid to be here buy the means that own these buildings. It is strange how men have structured civilization in selling everyone a dream, that even adults believe in. I am not against being employed. I am against not compounding my time with efforts that reap in perpetuity. That’s an abyss. Getting through this abyss means going hungry for a decade, and reaping your rewards in perpetual eternity.  
 - *Duur ke fayde ke liye, nazdiki nuksaan nahi dekhna chahiye.*
 
-**A chat**.
-
+**A chat**.  
 It is just hard for me to find someone who has the same troubles as I do. And then ignore them for the longest while till they fade away into the shadows. I wonder if they can still see me, but I wish they returned. I don’t know how to tell you, show you what I mean, because every time I want to find love, love escapes me. I wish you are well, and achieve all of your dreams, I wanted to write you letters, to all the places that you will be. Do you even like me a bit, is a question that haunts me, leaving me puzzled every night, with calls being cut by thee. It is hard to believe anything at all, with those midnight kisses that you sneak, I wish you were for real coz my heart aches, at the thought of losing something like you and me. I have no clue how we will meet, if we don’t talk till then, there must be a way that you know of, but I ain’t half as smart as thee.
-
 OK are you trying to sweep me off my feet, Because I ll have you know mister That I’ll be a bit heavy for thee.
-
 I don’t mind the weight of thee, when your thought scare me, to be distant, and far away from love in every living bliss. I admire you have a tact for poetry, but sometimes that is what kills, love, and lust, and breds anger forever, in something as subtle as we. Can I have your address? Something where you will always be, even if we don’t meet, and blah blah, that’s where I can write to see, seduce you through my words atleast, if not by my KGS.
-
 There is no tact in poetry It’s just lazy As is everything, Including you, and me, As there is no subtle we. Let me tell you a story, My paths crossed with a guy, Let’s call him dick, He was cute, and all But I am not sure we’d click But now as I write this, I think maybe it’s something, I guess i’ll have it in place of nothing. Write to me …
-
 That’s real address forever.
-
 That seems made up in the eon tonight, just to keep me separate for thee, must be for good, because you wouldn’t have made the effort, of writing a poem back to me.
-
 This is me, from eternity, in the search of an reply from thee, maybe we could write poems, and publish a love story. I agree many have been written in the memory of glee, but let’s make ours stand out of time, with our secret little relationship. Now don’t you go out there, and label, brand our relationship with sex, I am just using the word in a broader sense, and there shall be other things to feel.
-
 I have written a few line of love, disguised by lust in this midnight journey, I hope the reach you, and find you well, or maybe I should just change my metric.
-
 I want to write, a poem a day, it might be shit, but that’s okay.
-
 Let’s write our texts as poems, and publish them on medium, maybe it will work as the bond, to keep us together, and from falling apart. What say of this whispering, that my mind has begun to speak, shall we find each other, and love through the means of poetry.
 
-**A collective**.
-
+**A collective**.  
 I have spent my last three months trying to declutter. I have changed the way I live at least two dozen times. Right from the houses I live at, to my work profiles to my collection of books, my games, my documents — even my bank accounts, and stock collection.
-
 I have noticed that most of the changes in my personal assets make a rare dent in the lives of people around me. I consider this to be a lucky effect of being free. The hardest part of the process was — as opposed to my imagination: everything soft aka online.
-
 I moved content to, and from my laptop, phone, and two 1TB SSD drives. Also, Archinect, Behance, Eyeem, Facebook, Flickr, Freelancer, Instagram, LinkedIn, Medium, Snapchat, Tumblr, Twitter, Vimeo, Vine, and VSCO.
-
 The idea that I began with was to read/see/listen/learn, and delete. Stuff. The idea was to not hoard anything. Soon keeping things in check became harder, especially with the ever increasing hustle of the 8 odd email addresses I need to manage. As a result, I lost my girlfriend, and a lot of common friends.
-
 I am on a month long break — at least that’s what this is. I have been up nights in a row, trying to keep up with the progress at work from the interns to the architects who work with me. Until one of them had to see a neurologist for reasons undisclosed. It is freakish what the team had been going through. What I found was keeping me insane was this thing I started — the decluttering.
-
 A colleague once told me how her native language lacks gender differentiation — It hit me. The thing with doing away with most of what you own — tangible, and intangible is just a part of the solution. What most of us had been missing out on was our belief in segregation. — the kind of organization achieved by sorting systems into criteria.
-
 The first thing I did was to make a page. Filled in on everything I could in the social media section. Sometimes being open about the blunders that can cost you heavy does you good. My social media lady felt this was pathetic. She believes that apps come with a predefined purpose — for example, she says Tinder is for sex. I disagree. Tinder is to meet people. What you do there after is not of Tinder’s concerns. If a society is branding it as a hookup app, then there is something that should concern you about the said society.
-
 The second thing I did was to dump everything on those 1TB SSD drives. I was sorting files according to extensions, not projects, not clients, not dates. After all, what’s that search tool made for! This did free up one SDD — That’s progress.
-
 The next thing I did was to dump everything on an inventory account on slack. I feel sorry that GitHub has that 25MB upload limit. This has now made all my work cloud based; for free, and for an infinite time. Now since everything is on the cloud, I can live appliance free. I travel with just 1 book in my bag. As far as decluttering goes I have to deal with only one thing — the page.
-
 Since I have made a collective out of my everything, every kind of separation has ceased to exist. Life is simpler — maybe something the Americans can learn from.
-
 This is hard to understand for some of us, but soon you will start to get interesting — something like Twitter.
-
 A Collective.
 
-I have spent my last three months trying to declutter. I have changed the way I live at least two dozen times. Right from the houses I live at, to my work profiles to my collection of books, my games, my documents — even my bank accounts, and stock collection.
-
-I have noticed that most of the changes in my personal assets make a rare dent in the lives of people around me. I consider this to be a lucky effect of being free. The hardest part of the process was — as opposed to my imagination: everything soft aka online.
-
-I moved content to, and from my laptop, phone, and two 1TB SSD drives. Also, Archinect, Behance, Eyeem, Facebook, Flickr, Freelancer, Instagram, LinkedIn, Medium, Snapchat, Tumblr, Twitter, Vimeo, Vine, and VSCO.
-
-The idea that I began with was to read/see/listen/learn, and delete. Stuff. The idea was to not hoard anything. Soon keeping things in check became harder, especially with the ever increasing hustle of the 8 odd email addresses I need to manage. As a result, I lost my girlfriend, and a lot of common friends.
-
-I am on a month long break — at least that’s what this is. I have been up nights in a row, trying to keep up with the progress at work from the interns to the architects who work with me. Until one of them had to see a neurologist for reasons undisclosed. It is freakish what the team had been going through. What I found was keeping me insane was this thing I started — the decluttering.
-
-A colleague once told me how her native language lacks gender differentiation — It hit me. The thing with doing away with most of what you own — tangible, and intangible is just a part of the solution. What most of us had been missing out on was our belief in segregation. — the kind of organization achieved by sorting systems into criteria.
-
-The first thing I did was to make a page. Filled in on everything I could in the social media section. Sometimes being open about the blunders that can cost you heavy does you good. My social media lady felt this was pathetic. She believes that apps come with a predefined purpose — for example, she says Tinder is for sex. I disagree. Tinder is to meet people. What you do there after is not of Tinder’s concerns. If a society is branding it as a hookup app, then there is something that should concern you about the said society.
-
-The second thing I did was to dump everything on those 1TB SSD drives. I was sorting files according to extensions, not projects, not clients, not dates. After all, what’s that search tool made for! This did free up one SDD — That’s progress.
-
-The next thing I did was to dump everything on an inventory account on slack. I feel sorry that GitHub has that 25MB upload limit. This has now made all my work cloud based; for free, and for an infinite time. Now since everything is on the cloud, I can live appliance free. I travel with just 1 book in my bag. As far as decluttering goes I have to deal with only one thing — the page.
-
-Since I have made a collective out of my everything, every kind of separation has ceased to exist. Life is simpler — maybe something the Americans can learn from.
-
-This is hard to understand for some of us, but soon you will start to get interesting — something like Twitter.
-
-**A constant medium**.
-
+**A constant medium**.  
 If you are used to change the medium of publishing in your creative process then you should stop that. Like the mistake I make is to flip from using speech-to-text vs. typing on other projects. If I want to generate good ideas than writing yourself still cuts the mustard by being the best way to get a continuous flow of ideas. Because when you stop speaking, your brain goes about doing something else. Whereas if you are thinking while writing then your brain will be stuck in a loop giving you ideas because you won't change its general sense of direction. Change of work is often considered as a form of break. I know it's hard to believe that. But it is also the most productive ways to create using a different forms of media. As long as your aim dictates that you can slack in your creative process.
 
-A Constant Medium.
-
-If you are used to change the medium of publishing in your creative process then you should stop that. Like the mistake I make is to flip from using speech-to-text vs. typing on other projects. If I want to generate good ideas than writing yourself still cuts the mustard by being the best way to get a continuous flow of ideas. Because when you stop speaking, your brain goes about doing something else. Whereas if you are thinking while writing then your brain will be stuck in a loop giving you ideas because you won’t change its general sense of direction. Change of work is often considered as a form of break. I know it’s hard to believe that. But it is also the most productive ways to create using a different forms of media. As long as your aim dictates that you can slack in your creative process.
-
-**A dating pattern**.
-
+**A dating pattern**.  
 Oh well, I have been on dating apps since 2014. So I have an idea about that.
-
 1. Dating app algorithms give you a match mostly on Wednesdays and Thursdays. Not on Mondays.  
 1.a. Most people talk, get close, hookup or get intimate by Sunday.  
 1.b. Then the work week begins and you know that your partner lacks somethings. Everyone does. I do too.  
 1.c. You get new matches on the Wednesday/ Thursday again.  
-
 1.d. Here's the catch.  
 If you talk to anyone new, then you are splitting your attention between two people.  
 Your partner will notice this.  
 Your partner will do the same.  
-
 1.e. By the time it's Monday, your partner is already with the new person.  
 1.f. You get dumped because you are not-perfect no!  
 1.g. You sulk until Wednesday/ Thursday, and viola. You have a new match!
-
 P.S.: This is a time mapped problem. If you cut your nails at 1.a., then by the time you have completed the story and reached 1.g. You will have to cut your nails again. :D
-
 A Dating Pattern.
-
 Oh well, I have been on dating apps since 2014. So, I have an idea about this. Dating app algorithms give you a match mostly on Wednesdays and Thursdays. Not on Mondays.
-
 A. Most people talk, get close, hookup or get intimate by Sunday.
-
 B. Then the work week begins and you know that your partner lacks somethings. Everyone does. I do too.
-
 C. You get new matches on the Wednesday/ Thursday again.
-
 D. Here’s the catch: If you talk to anyone new, then you are splitting your attention between two people. Your partner will notice this. Your partner will do the same.
-
 E. By the time it’s Monday, your partner is already with the new person.
-
 F. You get dumped because you are not-perfect no!
-
 G. You sulk until Wednesday/ Thursday, and viola. You have a new match!
-
 P.S.: This is a time mapped problem. If you cut your nails at A., then by the time you have completed the story and reached G., you will have to cut your nails again. :D
 
-**Adios**.
-
+**Adios**.  
 Adios
 Aadios
-Adios
 Aaadios
 Looking for a heart
-Adios
-Adios
 Aadios…
 
-**Alone**.
-
+**Alone**.  
 Thank you for the inspiration. It is things like these that make me keep on going even when all the odds are against me, and the future of all my dreams seem bleak. On days when every motion you made seemed to have hit a dead block. These words you write make every moment worth reliving. Honestly, I haven’t read all of your post but the words I picked on when I scrolled down until here gave me enough to wake up from the middle of my sleep, and drag my mind into a pool of wretched commitment.
-
 And I mean no disrespect. All I can say is “You should write more.” It keeps guys like me going. As we feel direct influence, the people of our planet will soon see an impact of your work. Thank you a lot for pulling me out of timid safety.
-
 Alone.
 
-Thank you for the inspiration. It is things like these that make me keep on going even when all the odds are against me, and the future of all my dreams seem bleak. On days when every motion you made seemed to have hit a dead block. These words you write make every moment worth reliving. Honestly, I haven’t read all of your post but the words I picked on when I scrolled down until here gave me enough to wake up from the middle of my sleep, and drag my mind into a pool of wretched commitment.
-
-And I mean no disrespect. All I can say is “You should write more.” It keeps guys like me going. As we feel direct influence, the people of our planet will soon see an impact of your work. Thank you a lot for pulling me out of timid safety.
-
-**Also, on a different note**.
-
+**Also, on a different note**.  
 Also, on a different note, I was crossing the Vashi bridge yesterday. It was raining, and these harbour line trains usually sway in the strong winds on that bridge. You could see how everyone around the big doors is anxious. It's as if this train ride might be the last moments of your life. But the rain was beautiful. It was so scary that I thought that if everything you wanted becomes true, every thought you have had will come true, then I would want to think of living or just being alive. In that moment, I realized this: Everybody must have had a bad day, but not everyone was mulling over it. Some of us in the train were, not worried, or blank, or just being happy. Being happy was not something that happened to anyone of us, it was a choice these happy faces made. In the same way as worrying was also a choice I made. It was as intense as the choice to live, when those winds last night scared all of us in that train. So, staying happy needed our conscious attention, just like anything else in life.
-
 Also, On A Different Note.
-
 Also, on a different note, I was crossing the Vashi bridge yesterday. It was raining, and these harbour line trains usually sway in the strong winds on that bridge. You could see how everyone around the big doors is anxious. It’s as if this train ride might be the last moments of your life. But the rain was beautiful. It was so scary that I thought that if everything you wanted becomes true, every thought you have had will come true, then I would want to think of living or just being alive. In that moment, I realized this: Everybody must have had a bad day, but not everyone was mulling over it. Some of us in the train were, not worried, or blank, or just being happy. Being happy was not something that happened to anyone of us, it was a choice these happy faces made. In the same way as worrying was also a choice I made. It was as intense as the choice to live, when those winds last night scared all of us in that train. So, staying happy needed our conscious attention, just like anything else in life.
 
-**A mind that creates**.
-
+**A mind that creates**.  
 > "Lose an hour in the morning, and you will spend all day looking for it. "
 > Richard Whately.
-
 This is a journal entry on routines, and behaviours that come from people who are successful in different walks of life. E.g. The 4am club. I am a stern believer that the miniscule things that we do everyday amount to a lot in our life. If you have read James Clerk’s thesis on the Pareto principle, you will find that to the 1% of the world who happen to be winning at life, winning doesn’t happen. Winning is created. Curiously carved, over a long period of time. Waking up at 4am is an easy thing to do. If you differ with me on this point then that’s because it is also easy not to. The early hours of a day can give you the energy to get more done without much stress. Time flies, and at 4am it surely does. Every moment you spend in not doing or following your life’s purpose is a moment spent in undoing it.
-
 Most of the successful people I have met, track time consciously. And they don’t do it by the hour. They do it by the minute. Some of them, do it by the seconds. Once you get here, your amount of focus will determine if you will track time by the seconds. Peak performance is not an aim, it is a way of life. If you can get yourself to a happy, energetic mood before the hustle bustle of the world around your begins, then you have half won the day. Preparation is often the only differentiator between what gets done easy, and what gets done hardly. Consistency on the other hand will drive you into a spiral. Forward going, or backward moving spiral depends on the habits that you cultivate.
-
 This cultivation is a daily activity, so here’s a thing to do. Wake up at 4am, and read. Read whatever you think will spur your interest, and read something positive. Let positivity spur your interest. This is the beginning of a spiral. Most of my guests spend their mornings in utter silence. They be in the moment, and they design the moment as a stepping stone for all the moments that follow in the day. Some people run at 5am. Running/ any kind of exercise as Casey Neistat often says, helps you cover for lesser sleep. It means that if you sleep for 6 hours a day, and run for 2 hours in the morning.
-
 Your mind, and body will feel, and be healthier than sleeping for 8 hours, without any exercise. Usually, no mind bursts into unproductive habits the moment it wakes up. You need to give it direction. You can only make a few good decisions in a day. And the surety of a decision being good lies on how early in the day do you make a decision. Capitalize on the silence that you get in the morning. Not by making coffee though. Not by trudging through whatever direction your mind picks. But by being wakeful. By consciously knowing where you want to head, and what do you want to achieve.
-
 This is what my guests spend an hour thinking in the morning. They don’t take down notes. They de-cide. Our brain is a database. It has stored memory, years of daily experiences which form the basis of your instinct. When you ask it a question, the first answer that you will get, is the right answer. The answer that your mind tells you, not the answer you speak out. Things will slowly accumulate to give you an edge, e.g. It took me some many bullet points to write a paragraph without having to strive for it. The most common mistake we do, is to not declutter. When you know how you spend your time, you have the power to question every action you take.
-
 And by actions I mean things like looking left or glancing right. These small involuntary actions can shape a lot of your decisions. Because your senses will feed on the surplus of information that is now so easily available in this age. Your job is to consciously say “NO!”. It might take you days before you start catching yourself doing this. It might take you another few weeks to start saying “NO!” with ease. So a faster way of doing this is by beginning the day with self scrutiny. Analyzing your usual. An hour spent knowing where to catch yourself will help you catch yourself doing dumb shit better. You now have an exact summary of where your time goes.
-
 If you relentlessly de-clutter, and spend your time doing only those things that you do in a day simultaneously, you will find yourself doing your usual at unusual hours. This bit itself is curiosity inspiring. Being curious is essential at being creative. And if you do your work beforehand, you will end up with mass, and I mean MASS amounts of time in the same day, without a clue of what more can you do. This is like writing down a bucket list with a 100 things on it. Most people have to really start thinking hard about their dreams once they fill in about 25–50 things. You will have to really put your mind to work in figuring out the not so dumb to do things for the rest of your day. That my friends, is a dilemma worth being in. If you are a creative, let me rephrase that: Life is a creative establishment. And creativity is the only positive way to live.
-
 Nothing in life is easy. You can be anyone you want. You could be anyone now. But you will not be joyful if you don’t innovate your way through life. You should essentially think of the solutions to your most daunting problems/challenges at 6AM, or to be more exact, in the shower after your run. And read closely. Think of the solutions/challenges, not of your daunting problems. Make it a habit to take an hour long shower. This does not mean that you waste water by keeping your taps running. It solely means leaving your phone outside the bath, and spending an hour thinking in that closed room, undisturbed.
-
 Silence, and solitude is an antidote to stress. See, the human mind zones out if it has to go through tremendous amount of mental stress, or physical pain. It zones out not as a cowardly response, but as a mere attempt to research for relief. It is searching for silence, and solitude so that it can be less distracted when it is working on finding the solutions to the objects of stress. Change of jobs is also a means of taking a break. I don’t mean your day-job. I mean doing something else at hand for sometime. It’s like you can either dribble yourself tired across the football pitch, and try to score a goal, or better, you can pass the ball from player to player, and be fresh enough to try scoring the goal again. You can choose to edit your bath short, and zone out while you make yourself some breakfast. But thinking while your eating can set in a habit of daydreaming.
-
 Rejuvenating your body without paying close attention to the activity is not that healthy. Let’s stick to longer time in the showers for starters. Once you are ready to go-to work or wherever without a roof on yourself, try to find your horizon. Not mentally, but physically. Look at the further point of the street. I bet that you have not taken this gaze intently before. You will see things that you did not notice before. It can be a busy street, or it can be a plant on a field. But you will see new things. This is helpful because here’s what funny.
-
 Your life is the exact replica of the things you notice, the things you do, and the behaviours you follow — your habits. One of my Hungarian friends has a knack for cleanliness, a kind of an OCD. He told me that it was an Hungarian thing. But I don’t think it’s something that is specific to a particular race of people. What he told me was this. There is a reason why human beings behave in a certain fashion to others based on a perceived effect of the person they are interacting with. We are all blinking (refer Malcolm Gladwell) at each other without a moment’s restraint. We are looking for the things we do. We are searching for clues. We are sizing people up.
-
 Largely because “How you do anything is how you do everything.” This is the same reason why we humans have things like dinner dates, and luncheon meetings. It is a neat way of figuring someone out subconsciously by watching them eat. No wait, it’s watching them manage their plate rather. The way you organize yourself at the table can help people gauge your habits or reactions to life. The way you manage your food, or say resources. The way you treat table manners, or rules. What you do with the leftovers, if you have any. There are a lot of clues if you look closely. It is essentially the most believable metric to the effect of how our behaviors connect.
-
 Our habits shape us. We really have a few habits. Only different scenarios, and variations of it. The most common habit that is widely evident in people is neglect. It is also one of the starting, and fueling habits of all the downward spirals in the history of mankind. Looking at the horizon physically, will help you look at your mental horizon. Your mind stretches in a direct proportion to the depth of your gaze. This is the effect of space on our minds. Space can affect our minds, emotions, thoughts, and hence hold an influence over the behaviors that we exhibit. After seeing people huddled together in a tiny space under the pretext of an event or a gathering, in spaces designed to accommodate such affairs, I have gathered an interest in better understanding people, and the effects that spaces /emotions play in their behaviors.
-
 A Mind That Creates.
-
 “Lose an hour in the morning, and you will spend all day looking for it. ” Richard Whately.
 
-This is a journal entry on routines, and behaviours that come from people who are successful in different walks of life. E.g. The 4am club. I am a stern believer that the miniscule things that we do everyday amount to a lot in our life. If you have read James Clerk’s thesis on the Pareto principle, you will find that to the 1% of the world who happen to be winning at life, winning doesn’t happen. Winning is created. Curiously carved, over a long period of time. Waking up at 4am is an easy thing to do. If you differ with me on this point then that’s because it is also easy not to. The early hours of a day can give you the energy to get more done without much stress. Time flies, and at 4am it surely does. Every moment you spend in not doing or following your life’s purpose is a moment spent in undoing it.
-
-Most of the successful people I have met, track time consciously. And they don’t do it by the hour. They do it by the minute. Some of them, do it by the seconds. Once you get here, your amount of focus will determine if you will track time by the seconds. Peak performance is not an aim, it is a way of life. If you can get yourself to a happy, energetic mood before the hustle bustle of the world around your begins, then you have half won the day. Preparation is often the only differentiator between what gets done easy, and what gets done hardly. Consistency on the other hand will drive you into a spiral. Forward going, or backward moving spiral depends on the habits that you cultivate.
-
-This cultivation is a daily activity, so here’s a thing to do. Wake up at 4am, and read. Read whatever you think will spur your interest, and read something positive. Let positivity spur your interest. This is the beginning of a spiral. Most of my guests spend their mornings in utter silence. They be in the moment, and they design the moment as a stepping stone for all the moments that follow in the day. Some people run at 5am. Running/ any kind of exercise as Casey Neistat often says, helps you cover for lesser sleep. It means that if you sleep for 6 hours a day, and run for 2 hours in the morning.
-
-Your mind, and body will feel, and be healthier than sleeping for 8 hours, without any exercise. Usually, no mind bursts into unproductive habits the moment it wakes up. You need to give it direction. You can only make a few good decisions in a day. And the surety of a decision being good lies on how early in the day do you make a decision. Capitalize on the silence that you get in the morning. Not by making coffee though. Not by trudging through whatever direction your mind picks. But by being wakeful. By consciously knowing where you want to head, and what do you want to achieve.
-
-This is what my guests spend an hour thinking in the morning. They don’t take down notes. They de-cide. Our brain is a database. It has stored memory, years of daily experiences which form the basis of your instinct. When you ask it a question, the first answer that you will get, is the right answer. The answer that your mind tells you, not the answer you speak out. Things will slowly accumulate to give you an edge, e.g. It took me some many bullet points to write a paragraph without having to strive for it. The most common mistake we do, is to not declutter. When you know how you spend your time, you have the power to question every action you take.
-
-And by actions I mean things like looking left or glancing right. These small involuntary actions can shape a lot of your decisions. Because your senses will feed on the surplus of information that is now so easily available in this age. Your job is to consciously say “NO!”. It might take you days before you start catching yourself doing this. It might take you another few weeks to start saying “NO!” with ease. So a faster way of doing this is by beginning the day with self scrutiny. Analyzing your usual. An hour spent knowing where to catch yourself will help you catch yourself doing dumb shit better. You now have an exact summary of where your time goes.
-
-If you relentlessly de-clutter, and spend your time doing only those things that you do in a day simultaneously, you will find yourself doing your usual at unusual hours. This bit itself is curiosity inspiring. Being curious is essential at being creative. And if you do your work beforehand, you will end up with mass, and I mean MASS amounts of time in the same day, without a clue of what more can you do. This is like writing down a bucket list with a 100 things on it. Most people have to really start thinking hard about their dreams once they fill in about 25–50 things. You will have to really put your mind to work in figuring out the not so dumb to do things for the rest of your day. That my friends, is a dilemma worth being in. If you are a creative, let me rephrase that: Life is a creative establishment. And creativity is the only positive way to live.
-
-Nothing in life is easy. You can be anyone you want. You could be anyone now. But you will not be joyful if you don’t innovate your way through life. You should essentially think of the solutions to your most daunting problems/challenges at 6AM, or to be more exact, in the shower after your run. And read closely. Think of the solutions/challenges, not of your daunting problems. Make it a habit to take an hour long shower. This does not mean that you waste water by keeping your taps running. It solely means leaving your phone outside the bath, and spending an hour thinking in that closed room, undisturbed.
-
-Silence, and solitude is an antidote to stress. See, the human mind zones out if it has to go through tremendous amount of mental stress, or physical pain. It zones out not as a cowardly response, but as a mere attempt to research for relief. It is searching for silence, and solitude so that it can be less distracted when it is working on finding the solutions to the objects of stress. Change of jobs is also a means of taking a break. I don’t mean your day-job. I mean doing something else at hand for sometime. It’s like you can either dribble yourself tired across the football pitch, and try to score a goal, or better, you can pass the ball from player to player, and be fresh enough to try scoring the goal again. You can choose to edit your bath short, and zone out while you make yourself some breakfast. But thinking while your eating can set in a habit of daydreaming.
-
-Rejuvenating your body without paying close attention to the activity is not that healthy. Let’s stick to longer time in the showers for starters. Once you are ready to go-to work or wherever without a roof on yourself, try to find your horizon. Not mentally, but physically. Look at the further point of the street. I bet that you have not taken this gaze intently before. You will see things that you did not notice before. It can be a busy street, or it can be a plant on a field. But you will see new things. This is helpful because here’s what funny.
-
-Your life is the exact replica of the things you notice, the things you do, and the behaviours you follow — your habits. One of my Hungarian friends has a knack for cleanliness, a kind of an OCD. He told me that it was an Hungarian thing. But I don’t think it’s something that is specific to a particular race of people. What he told me was this. There is a reason why human beings behave in a certain fashion to others based on a perceived effect of the person they are interacting with. We are all blinking (refer Malcolm Gladwell) at each other without a moment’s restraint. We are looking for the things we do. We are searching for clues. We are sizing people up.
-
-Largely because “How you do anything is how you do everything.” This is the same reason why we humans have things like dinner dates, and luncheon meetings. It is a neat way of figuring someone out subconsciously by watching them eat. No wait, it’s watching them manage their plate rather. The way you organize yourself at the table can help people gauge your habits or reactions to life. The way you manage your food, or say resources. The way you treat table manners, or rules. What you do with the leftovers, if you have any. There are a lot of clues if you look closely. It is essentially the most believable metric to the effect of how our behaviors connect.
-
-Our habits shape us. We really have a few habits. Only different scenarios, and variations of it. The most common habit that is widely evident in people is neglect. It is also one of the starting, and fueling habits of all the downward spirals in the history of mankind. Looking at the horizon physically, will help you look at your mental horizon. Your mind stretches in a direct proportion to the depth of your gaze. This is the effect of space on our minds. Space can affect our minds, emotions, thoughts, and hence hold an influence over the behaviors that we exhibit. After seeing people huddled together in a tiny space under the pretext of an event or a gathering, in spaces designed to accommodate such affairs, I have gathered an interest in better understanding people, and the effects that spaces /emotions play in their behaviors.
-
-**An artist's abode by Rohit Mohite**.
-
+**An artist's abode by Rohit Mohite**.  
 It is rare to find a project where the clients have supreme clarity about what they want. This sort of clarity often rises from knowing what you don't want. The client is an artist. This provided us with a great opportunity to explore various ideas. She is clear that her desired language - which in this case - was Scandinavian style of home decor with a minimalistic approach to interiors.
-
 She played a major role in this process. We gave her a house, and she made it a home. We thoroughly enjoyed working on this project.
-
 An Artist’s Abode.
-
 It is rare to find a project where the clients have supreme clarity about what they want. This sort of clarity often rises from knowing what you don’t want. The client is an artist. This provided us with a great opportunity to explore various ideas. She is clear that her desired language - which in this case - was Scandinavian style of home decor with a minimalistic approach to interiors.
 
-She played a major role in this process. We gave her a house, and she made it a home. We thoroughly enjoyed working on this project.
-
-**A perfect mess**.
-
+**A perfect mess**.  
 You know what, I am happy that we are a perfect mess. And I think, the sooner we accept that, and not try to conform ourselves to any idea of perfection: we will be happy.
-
 A Perfect Mess.
 
-You know what, I am happy that we are a perfect mess. And I think, the sooner we accept that, and not try to conform ourselves to any idea of perfection: we will be happy.
-
-**Architects, and presentations**.
-
+**Architects, and presentations**.  
 Coming to think of it, presentations scare me. Architecture has given me the skill set to sell ice to the Eskimos at prices even Jobs would fear to mark up. But that’s just talk. When it comes to doing work to present your projects, and if you are an architect who wants to develop a product for yourself. Please put a deadline before you put the price tag.
-
 I find offhand inspiration at random moments during the year, when I can get more done in a week without having to push myself, while at other times, even an year long of work does not find the same level progress. The thing that I have caught myself doing is putting green tree marks on presentation sheets. Now I would certainly agree with you that you know ho to make those presentations look beautiful. Worth staring at! But have you ever found the amount of repetitive work that architects all over the world do creating the same styles of presentations. They rather be playing with an idea, then Photoshop their lives all along.
-
 Because sometimes focus gets lost. You waver away from developing a product to making things beautiful. If you are not careful, then you may have to start another project to back the first. If you are yet less careful, then you may as well be stuck in a cycle — starting a project to back another one — that’s more like lying to save another lie. Instead, why don’t we worry about action and getting done with things, the simplest of the idea — the basis.
-
 Why do most of us spend night after night plonking green trees on paper when we could be make ourselves more useful by doing. There is actually no need to plan a day — even today. Thinking keeps us thinking. Doing keeps us doing. Anything begets the same thing.
-
 The energies you give into the universe come back to you — magnified. What I am getting at here is that, our focus should be only on the things that we know will make an actual difference as we progress towards our goals. Yes, goals, not dreams. Deciding — ‘decide’ means ‘to cut’ — is really a process of choosing what not to do. This is something I read in Essentialism by Greg McKeown.
-
 I have seen noticeable difference in the amount of progress I have made with my life in the past two weeks since I began to decide. Decide is a verb. Beware! Architecture needs focus. Mostly on the things that matter. To achieve it, you may have to push your norms of acceptable behaviour that you follow in routine.
-
 Every breath of it. Question everything… The time you wake up, the colour of the wall that you see, the time you take to get to the bath to wash your face, the number of apps you use, the number of times you check these apps between opening your eyes, and the visit to the bath for a face wash. Even the number of breaths you take, and so on… Question everything. It will help you look inwards, declutter your life fully, and do remember to do this every beating second of your life, find meaning about what you do/have to do — doing is not the end of things. But it is the reason most of us find the reason to live.
-
 Remember this will make all the difference.
-
 Architects, And Presentations.
 
-Coming to think of it, presentations scare me. Architecture has given me the skill set to sell ice to the Eskimos at prices even Jobs would fear to mark up. But that’s just talk. When it comes to doing work to present your projects, and if you are an architect who wants to develop a product for yourself. Please put a deadline before you put the price tag.
-
-I find offhand inspiration at random moments during the year, when I can get more done in a week without having to push myself, while at other times, even an year long of work does not find the same level progress. The thing that I have caught myself doing is putting green tree marks on presentation sheets. Now I would certainly agree with you that you know ho to make those presentations look beautiful. Worth staring at! But have you ever found the amount of repetitive work that architects all over the world do creating the same styles of presentations. They rather be playing with an idea, then Photoshop their lives all along.
-
-Because sometimes focus gets lost. You waver away from developing a product to making things beautiful. If you are not careful, then you may have to start another project to back the first. If you are yet less careful, then you may as well be stuck in a cycle — starting a project to back another one — that’s more like lying to save another lie. Instead, why don’t we worry about action and getting done with things, the simplest of the idea — the basis.
-
-Why do most of us spend night after night plonking green trees on paper when we could be make ourselves more useful by doing. There is actually no need to plan a day — even today. Thinking keeps us thinking. Doing keeps us doing. Anything begets the same thing.
-
-The energies you give into the universe come back to you — magnified. What I am getting at here is that, our focus should be only on the things that we know will make an actual difference as we progress towards our goals. Yes, goals, not dreams. Deciding — ‘decide’ means ‘to cut’ — is really a process of choosing what not to do. This is something I read in Essentialism by Greg McKeown.
-
-I have seen noticeable difference in the amount of progress I have made with my life in the past two weeks since I began to decide. Decide is a verb. Beware! Architecture needs focus. Mostly on the things that matter. To achieve it, you may have to push your norms of acceptable behaviour that you follow in routine.
-
-Every breath of it. Question everything… The time you wake up, the colour of the wall that you see, the time you take to get to the bath to wash your face, the number of apps you use, the number of times you check these apps between opening your eyes, and the visit to the bath for a face wash. Even the number of breaths you take, and so on… Question everything. It will help you look inwards, declutter your life fully, and do remember to do this every beating second of your life, find meaning about what you do/have to do — doing is not the end of things. But it is the reason most of us find the reason to live.
-
-Remember this will make all the difference.
-
-**Arguments**.
-
+**Arguments**.  
 Let's talk about arguments. The whole concept of peace revolves around the presence mutual respect. I fear contempt more than the lack of mutual respect. I fight a lot everyday. Fight. Yes, fight. Not debate. Not argue. Not discuss. But yes, communicate. Having done so, I have found that most of us segue to other topics.
-
 Arguments.
-
 Let’s talk about arguments. The whole concept of peace revolves around the presence mutual respect. I fear contempt more than the lack of mutual respect. I fight a lot everyday. Fight. Yes, fight. Not debate. Not argue. Not discuss. But yes, communicate. Having done so, I have found that most of us segue to other topics.
 
-**A riding song**.
-
+**A riding song**.  
 I was just riding alone;
 On the way to my home.
 I thought to take you along;
 But you were gone.
-
 Never did I realize;
 You were riding for the sun.
 If I never had cried;
 In the library noon.
-
 You would not have tried;
 To keep me around.
 Oh yes! I was then riding alone;
-On the way to my home.
-
-I thought to take you along;
-But you were gone.
 I suffered from yet another block;
 Oh! This morning too soon.
-
 Then I thought of your love;
 And all it was gone.
 My nose block, and fever;
 Ain’t it nothing for you?
-
 No no no, I was just riding alone;
-On the way to my home.
-I thought to take you along;
-But you were gone.
 
-**A rule for dating and life**.
-
+**A rule for dating and life**.  
 She is the extreme good and the extreme bad. ek aur proof aaya mereko isse. proof for "the way you do anything is the way you do everything". bottomline, she is extreme. that closes her topic for now. but that lets you and I realize that the most quiet people are quiet constantly. the most extreme people are extreme constantly. iska matlab next ladka/ladki choose karna ho toh apne energy level ka hi choose karneka. nahi toh energy drain hoga kisi ek ka. yay! iska matlab if you want to be the chairman of your bank, you can choose to have the energy level of the chairman, and you will almost immediately be there. such classic physics!
 
-A Rule For Dating And Life.
-
-She is the extreme good and the extreme bad. ek aur proof aaya mereko isse. proof for “the way you do anything is the way you do everything”. bottomline, she is extreme. that closes her topic for now. but that lets you and I realize that the most quiet people are quiet constantly. the most extreme people are extreme constantly. iska matlab next ladka/ladki choose karna ho toh apne energy level ka hi choose karneka. nahi toh energy drain hoga kisi ek ka. yay! iska matlab if you want to be the chairman of your bank, you can choose to have the energy level of the chairman, and you will almost immediately be there. such classic physics!
-
-**A rule of thumb**.
-
+**A rule of thumb**.  
 Not the exact nature of woodworking but the idea of how things can be built. Bit by bit, block by block, or layer by layer. This layering is what everything around us is made of. From emotions to nature, even time. Relativity, or a better word to use would be relational-ity, is the key of how human understanding is formed. The ability to understand phenomena by adding known context is essential. Although this approach can make it harder for us to accept some things because they don’t fit in our history of experiences. This bit can explain natural or supernatural occurrences. This bit can also explain why everyone ran 4-minute miles within a week of the first guy who ran it. The thing to take away here is that the most common mistake we do is to think that people think like we do.
-
 Thought is an experiential concept. So is emotion. We are all living in a dream world. Our dependence on technology will devour all the humanness that is within us. Changing our sector of employment will be a need in the coming future. The only thing that is at the root of all our problems these days as a civilization is technology. The slot machine dopamine loops that we have shaped our lives around are something we will have to struggle to break out of eventually. Even though Amazon, and other multinational companies are making lives easier by providing for most of the services that were relevant in the past decade. This move is going to cost humanity. I believe Jeff Bezos may have good intentions but the overall effect of his actions are going to be the end all for most of us.
-
 Netflix may provide you entertainment, and bring out the best of the entertainment world. But there is a catch. When I was a kid, I would literally have a season for theaters. I did not fancy them back then. Now I realize that the amount of social interaction that comes from being around real people, and interacting with other people on a daily basis does shape the overall personality that we hold. It shapes the risk we take, and also priorities our own comfort over what’s right. There is a storm coming. A storm of education debt that has accumulated in the United States Of America. It is something that we have not prepared for. If you have money to get through these tough times, you are safe.
-
 If you have the ability to restrain yourself from spending your time, the most valuable resource, on dumb shit then you might not really need the amount of money the rich will spend in this time of crisis. I find it hard to accept the notion that most of us are oblivious to the obvious dangers of the current state of our civilization. I believe most of us are being lazy to chase less of social media, and more of life. There is so much more that we are missing out on by putting our heads down into our phones. There is so much more in libraries, theaters, and people that we haven’t tapped yet. Artificial intelligence may be claimed to be the best thing. But it comes with yet another catch. It comes with vast pockets of time that we haven’t thought of how to use. AI comes with idleness. And an idle mind is the devil’s workshop.
-
 The vast source of information that is available to us is lethal.
-
 - *An overdose of information is lethal.*
-
 It will drive us into inactivity, indecisiveness, and sheer disconcert for the others around us. It brings lethargy. And this is the bubble that will burst with a lot of lives on stake. So what can be a the solution to this? Having a practical priority. Finding out what won’t change in the next decade for vocation. Gratitude towards everyone, and everything. Choosing others before you, collectively. Spending time together with people, not technology.
-
 Our thumbs are probably a good indicator of where we are heading in our lives. Not the index finger that points out directions to others. Yes that’s correct. The index finger is for others. The thumb is for us. The things you hold, the things you make, and the things you tap on your screens have only one thing in common for all of us. The thumb. You may find the tone of this post hilarious, but then this is the only true indicator that’s right under our noses, that’s natural, from birth, and that’s devoid of any other need of technology. So if you are into profound thinking for making better decisions, asking better questions, and designing your own life then, start with your thumb. Your map will never be more accurate.
-
 Delete the things you can’t contribute to, and delete the things that don’t contribute to you. It can be the things you hoard, your wardrobe, your friendships, and enmities. Your time is valuable. After the age of 18, with the ongoing rate of life expectancy in most countries, you will see only about 25000 sunrises. I hope this gives you a new perspective. Be present. Be present in the present. A friend told me that you cannot be in the future or the past. If you spend your mind being attached to the past, not only shall you miss out on what’s happening right now, but also be delusional. If only you can stay in the present, and let the universe explore itself through your creative senses.
-
 It takes a certain amount of physical exercising like running to feel ready, and open minded to take in these expressions. Casey Neistat runs in NYC. Kushal Samant runs in Bangalore. No one stares at Casey, but they do at Kushal because Bangalore is more of a close knit community. This might explain why personal space is a thing for the Americans. This explains why Viren Brahmbhatt snapped, “What do you care?” when asked when his birthday was. It might come of as rude to some of us, but he was in the right. Behaviours are dominated by the place we belong to. Behaviours are not a cultural thing. Culture itself is a vague idea.
-
 The people you keep are a bigger influence on your creativity than your past, and culture. The point to learn here is that we should focus on creating, and not creativity. Creativity comes. The way to do is to begin. You might never know what you will create.
-
 But if you take the pen, and start scribbling, you will get past the first few lines of utter lack of clarity combined with wholesome words that have no direction to the conversations. But if you just begin, everything that’s messed up will start to fall into place. In ways that will make the mess seem like a petty folly.
 
-A Rule Of Thumb.
-
-Not the exact nature of woodworking but the idea of how things can be built. Bit by bit, block by block, or layer by layer. This layering is what everything around us is made of. From emotions to nature, even time. Relativity, or a better word to use would be relational-ity, is the key of how human understanding is formed. The ability to understand phenomena by adding known context is essential. Although this approach can make it harder for us to accept some things because they don’t fit in our history of experiences. This bit can explain natural or supernatural occurrences. This bit can also explain why everyone ran 4-minute miles within a week of the first guy who ran it. The thing to take away here is that the most common mistake we do is to think that people think like we do.
-
-Thought is an experiential concept. So is emotion. We are all living in a dream world. Our dependence on technology will devour all the humanness that is within us. Changing our sector of employment will be a need in the coming future. The only thing that is at the root of all our problems these days as a civilization is technology. The slot machine dopamine loops that we have shaped our lives around are something we will have to struggle to break out of eventually. Even though Amazon, and other multinational companies are making lives easier by providing for most of the services that were relevant in the past decade. This move is going to cost humanity. I believe Jeff Bezos may have good intentions but the overall effect of his actions are going to be the end all for most of us.
-
-Netflix may provide you entertainment, and bring out the best of the entertainment world. But there is a catch. When I was a kid, I would literally have a season for theaters. I did not fancy them back then. Now I realize that the amount of social interaction that comes from being around real people, and interacting with other people on a daily basis does shape the overall personality that we hold. It shapes the risk we take, and also priorities our own comfort over what’s right. There is a storm coming. A storm of education debt that has accumulated in the United States Of America. It is something that we have not prepared for. If you have money to get through these tough times, you are safe.
-
-If you have the ability to restrain yourself from spending your time, the most valuable resource, on dumb shit then you might not really need the amount of money the rich will spend in this time of crisis. I find it hard to accept the notion that most of us are oblivious to the obvious dangers of the current state of our civilization. I believe most of us are being lazy to chase less of social media, and more of life. There is so much more that we are missing out on by putting our heads down into our phones. There is so much more in libraries, theaters, and people that we haven’t tapped yet. Artificial intelligence may be claimed to be the best thing. But it comes with yet another catch. It comes with vast pockets of time that we haven’t thought of how to use. AI comes with idleness. And an idle mind is the devil’s workshop.
-
-The vast source of information that is available to us is lethal.
-
-An overdose of information is lethal.
-
-It will drive us into inactivity, indecisiveness, and sheer disconcert for the others around us. It brings lethargy. And this is the bubble that will burst with a lot of lives on stake. So what can be a the solution to this? Having a practical priority. Finding out what won’t change in the next decade for vocation. Gratitude towards everyone, and everything. Choosing others before you, collectively. Spending time together with people, not technology.
-
-Our thumbs are probably a good indicator of where we are heading in our lives. Not the index finger that points out directions to others. Yes that’s correct. The index finger is for others. The thumb is for us. The things you hold, the things you make, and the things you tap on your screens have only one thing in common for all of us. The thumb. You may find the tone of this post hilarious, but then this is the only true indicator that’s right under our noses, that’s natural, from birth, and that’s devoid of any other need of technology. So if you are into profound thinking for making better decisions, asking better questions, and designing your own life then, start with your thumb. Your map will never be more accurate.
-
-Delete the things you can’t contribute to, and delete the things that don’t contribute to you. It can be the things you hoard, your wardrobe, your friendships, and enmities. Your time is valuable. After the age of 18, with the ongoing rate of life expectancy in most countries, you will see only about 25000 sunrises. I hope this gives you a new perspective. Be present. Be present in the present. A friend told me that you cannot be in the future or the past. If you spend your mind being attached to the past, not only shall you miss out on what’s happening right now, but also be delusional. If only you can stay in the present, and let the universe explore itself through your creative senses.
-
-It takes a certain amount of physical exercising like running to feel ready, and open minded to take in these expressions. Casey Neistat runs in NYC. Kushal Samant runs in Bangalore. No one stares at Casey, but they do at Kushal because Bangalore is more of a close knit community. This might explain why personal space is a thing for the Americans. This explains why Viren Brahmbhatt snapped, “What do you care?” when asked when his birthday was. It might come of as rude to some of us, but he was in the right. Behaviours are dominated by the place we belong to. Behaviours are not a cultural thing. Culture itself is a vague idea.
-
-The people you keep are a bigger influence on your creativity than your past, and culture. The point to learn here is that we should focus on creating, and not creativity. Creativity comes. The way to do is to begin. You might never know what you will create.
-
-But if you take the pen, and start scribbling, you will get past the first few lines of utter lack of clarity combined with wholesome words that have no direction to the conversations. But if you just begin, everything that’s messed up will start to fall into place. In ways that will make the mess seem like a petty folly.
-
-**Ashore**.
-
+**Ashore**.  
 Lines from a forgotten past
 Time bound memories
 Of sand on the grounds
@@ -386,18 +169,12 @@ For breakfast on board
 While a burning sun, and mist
 Color yellow anoraks ashore.
 
-**A study in scarlet**.
-
+**A study in scarlet**.  
 Of expressing our emotions, and journaling innately inappropriate desires, in words and images, to know for myself, the exact nature of my being. So that I can edit myself, and make a version of me, through the process of constant trial and error, until I am certain about what I am.
-
 A Study In Scarlet.
 
-Of expressing our emotions, and journaling innately inappropriate desires, in words and images, to know for myself, the exact nature of my being. So that I can edit myself, and make a version of me, through the process of constant trial and error, until I am certain about what I am.
-
-**Automating your marketing**.
-
+**Automating your marketing**.  
 Automating your marketing by making Instagram Central.
-
 1. Make an account for your project/products/office/firm on YouTube, Twitter, Tumblr, Pinterest, Medium, Instagram, and Facebook Pages.
 2. Be mindful of having the same username on all platforms.
 3. Login to <a href="https://www.ifttt.com" rel="noopener noreferrer" target="_blank">IFTTT</a> using your Google account.
@@ -408,448 +185,229 @@ Automating your marketing by making Instagram Central.
 - If you make a new image post on Instagram then pin a post on the pin board in Pinterest.
 - If you make a new image post on Instagram then share the post to Facebook Pages.
 6. Repeat steps under section 5. for YouTube and Medium.
-
 Set this up first so that you don’t interrupt your creative flow later.
 
-**Anthologie - Type AI**.
-
+**Anthologie - Type AI**.  
 This is content generated by Plotter AI by <a href="https://www.stck.me" rel="noopener noreferrer" target="_blank">stck.me</a>.  
-
 ***
 
-The Lost Pages
-
+**The Lost Pages**.  
 As she turned the pages of the old journal, her heart raced with excitement and anticipation. The journal belonged to her great-grandmother and had been passed down through generations. It was said to contain secrets and stories that had been lost to time.
-
 She had always been fascinated by the journal, but her family had never allowed her to read it. They believed that the stories within were too painful to relive. But she was different; she wanted to know everything about her family's past.
-
 As she read through the pages, she discovered a story that had been forgotten by her family. It was the story of her great-grandmother's sister, who had disappeared without a trace.
-
 The more she read, the more intrigued she became. She found clues and hints that led her to believe that her great-grandmother's sister had been involved in something dangerous. But what was it? And why had her family kept it a secret for so long?
-
 Determined to find the truth, she set out on a journey to uncover the mystery of her great-grandmother's sister. She traveled to different cities and countries, following the clues that she had found in the journal.
-
 Along the way, she met new people and encountered dangerous situations. She realized that the story of her great-grandmother's sister was not just a family secret, but a story that needed to be told.
-
 As she continued her journey, she knew that the truth would be revealed, and the lost pages of her family's history would finally be uncovered.
 
-***
-
-Chasing Dreams
-
+**Chasing Dreams**.  
 The sun was setting, painting the sky with hues of orange and pink. Emily sat by the window, staring at the beautiful sight outside. She had always been a dreamer, chasing after her aspirations with unwavering determination. But lately, she felt lost, unsure of where her path was leading her.
-
 As she sipped her coffee, Emily's thoughts were interrupted by a knock on the door. It was her best friend, Lily, who had come to visit her after a long time. Emily's face lit up as she hugged her friend, grateful for the company.
-
 Over a cup of tea, Emily poured her heart out to Lily, confessing her fears and doubts about her future. Lily listened patiently, offering words of encouragement and support.
-
 "You are capable of achieving anything you set your mind to, Em," Lily said, placing a reassuring hand on her friend's shoulder. "Don't let your fears hold you back from chasing your dreams."
-
 Those words struck a chord with Emily, and she felt a newfound sense of determination rise within her. She knew that she had to take a leap of faith and pursue her passions, no matter how daunting it seemed.
-
 With Lily's help, Emily made a plan to start working towards her goals. She enrolled in an online course, started networking with like-minded individuals, and began taking small steps towards her dream career.
-
 As the weeks passed, Emily's confidence grew, and she felt more in control of her life. She realized that chasing dreams wasn't easy, but it was worth it.
-
 As the night drew to a close, Emily and Lily hugged goodbye, promising to stay in touch. Emily felt grateful for the support of her friend and the newfound courage to chase her dreams.
-
 She knew that the road ahead would be challenging, but she was ready to face it head-on. For Emily, the sky was the limit, and she was ready to soar.
 
-***
-
-Title: Chasing Dreams.
-
+**Title: Chasing Dreams**.  
 As a child, she had always dreamed of becoming a famous singer. She would spend hours singing in front of the mirror, imagining herself performing on big stages in front of thousands of people. But as she grew older, her dreams were pushed aside by the harsh realities of life.
-
 She got a job at a local restaurant, working long hours to make ends meet. Singing became a distant memory as she focused on paying her bills and taking care of her family. But the dream never truly died, it was always there, lurking in the back of her mind.
-
 One day, while working her shift at the restaurant, she overheard a group of musicians talking about an upcoming talent show. The winner would receive a recording contract and a chance to perform at a major music festival. It was as if fate had presented her with an opportunity to chase her dreams once again.
-
 With trembling hands, she filled out the application form and submitted a video of herself singing. Days turned into weeks, and she had almost given up hope when she received an email informing her that she had been selected for the auditions.
-
 The day of the audition arrived, and she stood nervously backstage, waiting for her turn to perform. As she stepped onto the stage, the bright lights blinded her momentarily, but she took a deep breath and began to sing. Her voice was shaky at first, but as she got into the rhythm, she felt a surge of confidence and energy that she had never experienced before.
-
 The judges were impressed with her performance, and she was selected to move on to the next round. Over the next few weeks, she worked tirelessly, perfecting her craft and honing her skills. With each passing day, she came closer to realizing her dream.
-
 Finally, the day of the finale arrived, and she walked onto the stage, feeling a mix of nervousness and excitement. As she began to sing, the audience erupted into applause, and she knew that she had given her best performance yet.
-
 When the results were announced, her heart skipped a beat as she heard her name being called out as the winner. Tears streamed down her face as she realized that her dream had finally come true.
-
 As she signed the recording contract and prepared for her first major performance, she knew that the road ahead would be filled with challenges and obstacles. But she was no longer afraid, for she had learned that chasing dreams was not just about achieving success, but about the journey itself.
 
-***
-
-Lost in Translation.
-
+**Lost in Translation**.  
 Samantha had always been fascinated by languages. She had studied French and Spanish in school, and had even taken a few classes in Mandarin in college. But her true passion was for the obscure, the forgotten tongues that few people had ever heard of. She spent hours poring over old books and manuscripts, trying to decipher the words and phrases that had been lost to time.
-
 One day, while browsing through a dusty old bookstore, Samantha came across a volume that caught her eye. It was titled "Languages of the Lost World," and it promised to reveal the secrets of dozens of ancient and forgotten tongues. She eagerly purchased the book and spent the next several weeks devouring its contents.
-
 As she read, Samantha began to feel a strange sense of connection to the languages she was studying. It was as if she could hear the words spoken aloud, even though she didn't understand their meanings. She spent hours practicing the sounds and rhythms of these lost tongues, until she could recite them perfectly.
-
 One night, as she was practicing a particularly difficult phrase, Samantha felt a sudden jolt. It was as if the words she was speaking had taken on a life of their own, and were pulling her into another world. She closed her eyes and surrendered to the sensation, feeling herself being pulled into a vortex of sound and light.
-
 When she opened her eyes again, Samantha found herself in a strange and unfamiliar place. The air was thick with the scent of exotic spices, and she could hear the babble of voices in a language she didn't recognize. She looked down at herself and saw that she was wearing a long, flowing robe made of shimmering silk.
-
 As she began to explore her surroundings, Samantha realized that she had somehow been transported to another time and place. She was in a bustling marketplace, filled with vendors selling colorful fruits and vegetables, exotic fabrics, and glittering jewels. The people around her were dressed in clothing that seemed to belong to another era, and their faces were unfamiliar to her.
-
 But despite the strangeness of her surroundings, Samantha felt a sense of excitement and wonder. She had always dreamed of traveling to far-off lands and experiencing new cultures, and now she had been given the chance to do just that.
-
 As she wandered through the marketplace, Samantha began to realize that she was able to understand the language spoken by the people around her. It was one of the obscure tongues she had studied in her book, and she felt a thrill of excitement at being able to communicate with these people.
-
 Over the next few days, Samantha explored this strange new world, learning more about its customs and traditions. She made friends with the locals, and even fell in love with a handsome young man who taught her the secrets of his people's language.
-
 But as much as she loved this new world, Samantha knew that she couldn't stay here forever. She had a life back in her own time, and she knew that she would eventually have to return to it.
-
 As she prepared to leave, Samantha felt a sense of sadness and loss. She had grown to love this place and its people, and she knew that she would never forget the experiences she had had here. But she also knew that she had been given a rare and precious gift - the chance to experience something truly magical, and to see the world in a way that few others ever could.
-
 With a heavy heart, Samantha closed her eyes and surrendered to the vortex of sound and light once more. As she felt herself being pulled back to her own time and place, she knew that she would always cherish the memories of her journey to this lost world, and the language that had brought her there.
 
-***
-
-Title: Crossroads.
-
+**Title: Crossroads**.  
 As the sun began to set, Sarah found herself standing at a crossroads. Literally. She had been walking for hours and had come to a point where the path split into two. One led to a dense forest, while the other went towards a small village she had heard about.
-
 Sarah had been on the run for weeks, ever since she had witnessed a murder in her hometown. She had been too scared to go to the police and had fled with nothing but the clothes on her back. Now, she was tired, hungry, and scared. She had to make a decision.
-
 As she stood there, she noticed a man walking towards her. He was tall, with a rugged look on his face. Sarah's heart began to race as she wondered if he was a threat. But as he got closer, she saw that he had a kind smile on his face.
-
 "Lost?" he asked.
-
 Sarah hesitated for a moment before nodding her head.
-
 The man introduced himself as Jack and offered to help Sarah. He asked her where she was headed and listened patiently as she told him her story. He then offered to guide her towards the village, where she could find shelter and food.
-
 Sarah was hesitant at first, but something about Jack made her trust him. As they walked towards the village, he told her stories about his own life and the people he had met on his travels. Sarah found herself opening up to him, telling him things she had never told anyone before.
-
 When they reached the village, Jack introduced Sarah to a kind woman who offered her a place to stay. Sarah was grateful for the help and felt a sense of relief wash over her.
-
 As she lay in bed that night, she realized that she had come to a crossroads in her life. She had a choice to make - to keep running or to start over. With Jack's help, she had chosen the latter. And for the first time in weeks, Sarah felt hopeful about her future.
 
-***
-
-Title: Connections.
-
-ctions are what make us human. We crave them, we seek them, we need them. But what happens when we lose them? When the connections we once had are broken, frayed, or simply no longer exist?
-
+**Title: Connections**.  
+Connections are what make us human. We crave them, we seek them, we need them. But what happens when we lose them? When the connections we once had are broken, frayed, or simply no longer exist?
 I found myself pondering this as I sat alone in a coffee shop, watching the bustling crowd of people around me. They all seemed so connected, so intertwined with each other, while I sat there like an outsider, a solitary figure in a sea of humanity.
-
 It wasn't always like this. I used to have connections, friends, family, a sense of belonging. But somewhere along the way, I lost them. Maybe it was my fault, maybe it was theirs, or maybe it was just the natural ebb and flow of life.
-
 Whatever the reason, I found myself adrift, disconnected from the world around me. And it was a lonely, isolating feeling.
-
 But then, as I sat there in that coffee shop, something unexpected happened. A stranger sat down at my table, a woman with a warm smile and a friendly demeanor. We struck up a conversation, and before I knew it, we were laughing and chatting like old friends.
-
 It was a small thing, but it meant the world to me. In that moment, I felt a connection, a spark of something that had been missing from my life for so long.
-
 And it made me realize that connections can come from anywhere, at any time. We just have to be open to them, to let ourselves be vulnerable and reach out to others, even if it's scary or uncomfortable.
-
 Because in the end, connections are what make life worth living. They give us purpose, meaning, and a sense of belonging. And even if we lose them, we can always find new ones, if we're willing to take a chance and reach out to the world around us.
 
-***
-
-The Lost Key
-
+**The Lost Key**.  
 Sophie had always been a curious child. She loved exploring and discovering new things. One day, while playing in the park, she found a small key buried in the dirt. She immediately knew it was important and decided to keep it safe.
-
 Sophie spent days trying to figure out what the key was for, but nothing seemed to fit. She asked her parents and friends, but nobody had any idea. Frustrated, she decided to take matters into her own hands and set out on a mission to find the lock that the key belonged to.
-
 Days turned into weeks and weeks turned into months, but Sophie refused to give up. She searched high and low, through parks and playgrounds, even venturing into the woods. As time passed, she became more and more obsessed with finding the lock.
-
 Her obsession began to take a toll on her relationships. She stopped spending time with her friends and family and became distant and irritable. Her grades at school began to suffer and she lost interest in the things she used to love.
-
 One day, while wandering through the woods, Sophie stumbled upon an old, abandoned house. It looked like nobody had lived there for years, but something drew her inside. As she explored the dusty rooms, she finally found the lock that the key belonged to.
-
 Sophie's heart raced as she inserted the key into the lock. With a satisfying click, the lock opened and revealed a small box inside. She eagerly opened it, but was disappointed to find that it was empty.
-
 Feeling defeated, Sophie sat down on the dusty floor and began to cry. She realized that her obsession with finding the lock had caused her to lose sight of what was truly important in life. She had neglected her relationships and her own well-being in pursuit of a meaningless goal.
-
 As she sat there, a feeling of calm washed over her. She realized that the key had taught her an important lesson - that sometimes the journey is more important than the destination. With a newfound sense of clarity, Sophie left the abandoned house and made her way back home, ready to start a new chapter in her life.
 
-***
-
-"Consistency II"
-
+**"Consistency II"**.  
 The protagonist of "Consistency I" sat in front of their computer screen, staring at the blinking cursor on a blank page. They had been trying to come up with a new story idea for weeks, but nothing seemed to stick. They thought about the Pareto principle and how they needed to consistently put in effort to achieve success, but the words just wouldn't come.
-
 As they sat there, feeling frustrated and defeated, a knock came at the door. It was their best friend, who they hadn't seen in months due to their busy schedules. They welcomed them in and caught up on old times, laughing and reminiscing about past adventures.
-
 In the midst of their conversation, their friend mentioned a new hobby they had picked up - painting. They showed the protagonist some of their recent work, which was breathtakingly beautiful. The protagonist was amazed and inspired by their friend's talent and dedication.
-
 It was then that they realized that consistency didn't have to be limited to one area of life. They could consistently put in effort towards multiple passions and hobbies, just like their friend had done with painting. They didn't have to limit themselves to just writing - they could explore other creative outlets and find inspiration in them.
-
 With a newfound sense of motivation, the protagonist thanked their friend for the visit and sat back down at their computer. They began to write about a character who discovers the power of consistency in pursuing multiple passions, and how it leads them to a fulfilling and well-rounded life.
-
 As they typed away, they couldn't help but feel grateful for their friend's visit and the reminder that consistency doesn't have to be a daunting task. It can be a joyful and fulfilling journey towards personal growth and discovery.
 
-***
-
-"Crossroads"
-
+**"Crossroads"**.  
 Lena stood at a crossroads, staring at the two paths in front of her. One led to a stable job, a comfortable life, and financial security. The other led to uncertainty, risk, and the possibility of failure. 
-
 She had always been a practical person, choosing the safe option and avoiding taking risks. But as she stood there, she couldn't shake off the feeling that she was meant for something more. She wanted to pursue her passion for photography and travel the world, capturing moments and telling stories through her lens. 
-
 But the thought of leaving behind her stable job and the security it provided was daunting. She had bills to pay and responsibilities to fulfill. Could she really take the risk and follow her dreams? 
-
 As she stood there, lost in thought, a man approached her. He introduced himself as Max, a successful photographer who had traveled the world and achieved his dreams. He had once stood at the same crossroads as Lena and had chosen the path of uncertainty, and it had led him to where he was today. 
-
 Max encouraged Lena to take the risk, to follow her passion and not settle for a life of mediocrity. He reminded her that life was short and that regrets were the worst thing to have. 
-
 With Max's words echoing in her mind, Lena made her decision. She would take the risk and pursue her dreams. She quit her job, packed her bags, and set off on a journey to explore the world through her lens. 
-
 As she traveled to new places and met new people, Lena realized that Max had been right. The path of uncertainty was scary, but it was also exhilarating. She felt alive in a way she never had before, and her photography reflected that. 
-
 At every new crossroads she faced, Lena chose the path of uncertainty, and it led her to places she never could have imagined. She realized that taking risks and following her passion was the key to living a fulfilling life. And as she continued on her journey, she knew that the road ahead would be full of challenges, but she was ready to face them head-on.
 
-***
-
-"The Art of Letting Go"
-
+**"The Art of Letting Go"**.  
 As the sun began to set, Sarah sat on the edge of the cliff overlooking the ocean. She had always been drawn to the unknown beauty of the ocean, despite the potential dangers. As she watched the waves crash against the rocks below, she couldn't help but think about the past year and how much had changed.
-
 It had been a year since she had ended her toxic relationship with her ex-boyfriend, Jack. The relationship had been suffocating, and she had lost herself in the process. But letting go of him had not been easy. She had held on for far too long, hoping that things would get better. It wasn't until she hit rock bottom that she realized she needed to let go and move on.
-
 Sarah took a deep breath and closed her eyes, allowing herself to feel the pain and sadness that still lingered. She knew that letting go was not a one-time event but a process that required patience and self-love.
-
 As she opened her eyes, she noticed a man walking towards her. He was tall with dark hair and piercing blue eyes. She couldn't help but feel drawn to him. He sat down beside her and smiled.
-
 "Beautiful view, isn't it?" he said.
-
 Sarah smiled back, feeling a sense of comfort in his presence. They talked for hours, sharing stories of their past and their dreams for the future. As the night grew darker, the man stood up and extended his hand.
-
 "It was lovely meeting you, Sarah. I hope we can meet again soon," he said.
-
 Sarah took his hand, feeling a sense of warmth and comfort. As she watched him walk away, she realized that sometimes letting go of the past meant opening yourself up to new possibilities.
-
 The next day, Sarah woke up feeling refreshed and renewed. She knew that letting go of Jack had been the best decision she had ever made. She was ready to move on and embrace new opportunities.
-
 As she walked along the beach, she saw a group of people practicing yoga. She had always been curious about yoga but had never tried it. She decided to join in and found that it brought her a sense of peace and calmness.
-
 Over the next few weeks, Sarah continued to explore new hobbies and activities. She started painting and found that she had a talent for it. She also joined a running group and signed up for a half-marathon.
-
 As she crossed the finish line of the half-marathon, Sarah felt a sense of accomplishment and pride. She had come so far since her breakup with Jack. She had learned the art of letting go and had opened herself up to new possibilities.
-
 As she walked back to her car, she saw the man from the cliff walking towards her. He smiled and handed her a piece of paper.
-
 "Here's my number. I would love to take you out sometime," he said.
-
 Sarah smiled, feeling a sense of excitement and anticipation. She knew that letting go of the past had led her to this moment, and she was ready to embrace whatever the future held.
 
-***
-
-"The Art of Persistence"
-
+**"The Art of Persistence"**.  
 The protagonist of the story is a struggling artist who has been trying to make a name for themselves in the competitive art world. They have faced numerous rejections and setbacks, but they refuse to give up on their dream.
-
 One day, they attend an art exhibition where they meet a successful artist who offers them some advice. The artist tells them that the key to success is persistence and consistency. They explain that they too faced rejections and setbacks, but they never gave up on their dream. They kept creating and putting their art out there, and eventually, someone noticed their talent.
-
 The protagonist takes this advice to heart and begins to work even harder on their craft. They start to experiment with new styles and techniques, and they put their art out there for the world to see. They still face rejections, but they don't let it discourage them. They keep pushing forward and creating, knowing that eventually, their hard work will pay off.
-
 As they continue to work towards their goal, they meet other artists who are also struggling to make a name for themselves. They form a supportive community, encouraging each other to keep creating and pushing forward.
-
 The story highlights the importance of persistence and consistency in achieving one's goals. It also emphasizes the value of community and support in the creative process. The protagonist learns that success doesn't come overnight, but with hard work and dedication, anything is possible.
-
 As the story ends, the protagonist is still working towards their goal, but they are no longer discouraged by setbacks. They are confident in their abilities and know that with persistence and consistency, they will eventually achieve their dreams.
 
-***
-
-The Consistent Writer
-
+**The Consistent Writer**.  
 Samantha was a writer who struggled with consistency. She would have bursts of inspiration and productivity, but then go through long periods of writer's block and procrastination. She knew that consistency was key to success, but she just couldn't seem to make it happen.
-
 One day, she came across an article about the power of consistency and how it related to the Pareto principle and the Diderot effect. She realized that making slight progress consistently was more important than sporadic bursts of productivity.
-
 Samantha decided to implement this principle in her writing. She set a goal to write at least 500 words every day, no matter how uninspired or unmotivated she felt. At first, it was difficult to stick to the routine, but she kept reminding herself of the power of consistency.
-
 As she continued to write every day, Samantha noticed that her writing improved. She was able to articulate her thoughts more clearly and concisely. She also found that ideas came to her more easily when she was consistently working on her craft.
-
 Samantha also took the author's advice on content creation and started posting her writing on various platforms. She compiled her best pieces into a book and self-published it. To her surprise, the book received positive reviews and even caught the attention of a few publishers.
-
 Samantha's consistency in her writing had paid off. She was now a published author and had established credibility in her field. She realized that consistency was not just a tool for success, but a mindset that could be applied to all aspects of life.
-
 From then on, Samantha made a conscious effort to be consistent in all areas of her life. She set goals, created routines, and made small progress every day. And just like with her writing, she saw positive results in her personal and professional life.
-
 The power of consistency had transformed Samantha's life. She was no longer a struggling writer, but a consistent one who was able to achieve her goals and maintain her position at the top.
 
-***
-
-"Continuation"
-
+**"Continuation"**.  
 The sun was setting, painting the sky with hues of orange and pink. The narrator sat on a bench in the park, reflecting on the power of consistency and the importance of continuing to make progress towards their goals. They pulled out their notebook and began to jot down ideas for their next piece of content.
-
 As they wrote, their mind wandered to memories of the past. They thought about the people who had come and gone in their life, and how each one had left a mark. They also thought about the relationships they had prioritized over their own personal growth and development.
-
 But now, they were determined to make a change. They were committed to putting in the work and making progress towards their goals, even if it meant sacrificing some of their social life. They knew that true fulfillment came from within and that they needed to focus on themselves before they could fully give to others.
-
 As the narrator continued to write, they felt a sense of peace wash over them. They knew that they were on the right path and that with consistency, they could achieve anything they set their mind to.
-
 The sound of laughter interrupted their thoughts, and they looked up to see a group of children playing in the nearby playground. The narrator smiled, feeling a sense of nostalgia for their own childhood. They remembered the simple joys of playing outside and being carefree.
-
 But now, as an adult, they knew that life was more complex. It was filled with responsibilities and challenges, but it was also filled with opportunities for growth and self-discovery.
-
 The narrator closed their notebook, feeling content with their reflections. They stood up and began to walk towards home, feeling a renewed sense of purpose and determination. They knew that the road ahead would be long and challenging, but they were ready to face it head-on, with consistency and dedication.
-
 As they walked, they thought about the importance of continuity and how every small step they took would lead them closer to their goals. They knew that they couldn't control the future, but they could control their own actions and the effort they put in every day.
-
 And so, with a renewed sense of purpose, the narrator continued on their journey, ready to face whatever challenges lay ahead.
 
-***
-
-"The Spiral of Progress"
-
+**"The Spiral of Progress"**.  
 As I sat reading James Clear's article on the power of consistency, I couldn't help but reflect on my own life. The Diderot effect had taken hold of me, and I found myself constantly buying new things to fill the void left by my lack of progress.
-
 But James' words reminded me that progress doesn't have to be a grand gesture. It can be as simple as taking small actions consistently over time. The Pareto principle also came to mind, and I realized that I needed to focus on the vital few actions that would lead to the most significant results.
-
 I started to make slight progress in any direction, whether it was learning a new skill or exercising regularly. And as I did, I found myself in a positive spiral of progress. Each small action led to another, and I began to see significant results.
-
 But progress wasn't just about personal growth. In the internet age, content creation had become essential in establishing credibility. By putting out universally true content, I could build a following and make a positive impact on others.
-
 As I continued to reflect on my journey, I realized that the key to progress was continuity. It wasn't about making massive strides in a short amount of time, but rather consistently making progress towards my goals.
-
 And so, I made a promise to myself to focus on the vital few actions and make slight progress consistently in any direction. I knew that it wouldn't be easy, but I was determined to maintain the positive spiral of progress.
-
 As I closed James' article, I couldn't help but feel a sense of gratitude. His words had reminded me of the power of consistency and the importance of focusing on the vital few actions. And with that, I was ready to continue on my journey towards success.
 
-***
-
-"The Lost City"
-
+**"The Lost City"**.  
 Deep in the heart of the Amazon rainforest lies a lost city, shrouded in mystery and legend. Many have searched for it, but few have returned. It is said that the city holds unimaginable treasures and secrets, guarded by ancient guardians who will stop at nothing to protect their home.
-
 One such adventurer is Samantha, a young archaeologist who has dedicated her life to finding the lost city. She has spent years studying ancient texts and maps, and has finally pieced together the clues that will lead her to the city's location.
-
 As she sets out on her journey, she is joined by a team of experts in various fields, including a historian, a linguist, and a survivalist. Together, they navigate the treacherous terrain of the rainforest, facing dangers such as poisonous snakes, deadly spiders, and hostile tribes.
-
 But their biggest challenge comes when they finally reach the lost city. The ancient guardians are not pleased with their presence, and unleash a series of traps and obstacles to prevent them from reaching the treasures within. Samantha and her team must use all their skills and knowledge to overcome these challenges and uncover the secrets of the lost city.
-
 However, as they delve deeper into the city's mysteries, they begin to realize that there is more at stake than just treasure. The secrets they uncover could change the course of history, and they must decide whether to reveal them to the world or keep them hidden.
-
 As they make their way back to civilization, Samantha and her team are haunted by the knowledge they have gained, and the responsibility that comes with it. They know that they will never be the same again, and that the lost city will always hold a special place in their hearts and minds.
 
-***
-
-The Cursed Painting
-
+**The Cursed Painting**.  
 Sophie had always been fascinated by art, and when she inherited her grandmother's house, she was thrilled to discover a small painting in the attic. It was a beautiful portrait of a young woman with long, flowing hair and piercing blue eyes. But as soon as Sophie hung the painting in her living room, strange things began to happen.
-
 At first, it was just small things like objects moving on their own or strange noises in the night. Sophie brushed it off as her imagination, but as the days went by, the occurrences became more frequent and intense. She began to feel like she was being watched, and the portrait seemed to follow her with its eyes.
-
 One night, Sophie had a vivid dream about the young woman in the painting. She was standing in a dark, eerie forest, and the woman was beckoning her to follow. Sophie woke up in a cold sweat, and from that moment on, she was convinced that the painting was cursed.
-
 Desperate to rid herself of the painting's influence, Sophie sought out an expert in the paranormal. The expert confirmed her suspicions and told her that the painting was cursed by a vengeful spirit who had been wronged by the young woman in the portrait.
-
 Sophie knew she had to act fast before the curse consumed her completely. She enlisted the help of a group of paranormal investigators, and together they performed a ritual to break the curse. As the ritual came to an end, the portrait suddenly burst into flames, and the curse was lifted.
-
 Sophie felt a sense of relief wash over her as she watched the cursed painting burn to ashes. She knew that she had narrowly escaped a terrible fate, and she vowed to never underestimate the power of the paranormal again.
 
-***
-
-The Journey
-
+**The Journey**.  
 Sophie had always dreamed of traveling the world. She had a list of all the places she wanted to visit and the experiences she wanted to have. But as she grew older, life got in the way. She got a job, started a family, and the dream of traveling became a distant memory.
-
 Years passed, and Sophie found herself feeling unfulfilled and stuck in a rut. She realized that she had been putting her dreams on hold for too long and decided that it was time to take action. She made a plan to save money, rearrange her work schedule, and finally go on the trip of a lifetime.
-
 As she embarked on her journey, Sophie felt a mix of excitement and fear. She was leaving behind the comfort and familiarity of her home and stepping into the unknown. But as she traveled from one place to another, she discovered a newfound sense of freedom and adventure. She met people from different cultures, tried new foods, and explored places she had only seen in pictures.
-
 Sophie's journey taught her that life is too short to put your dreams on hold. She learned that taking risks and stepping out of your comfort zone can lead to incredible experiences and personal growth. And most importantly, she realized that the journey is just as important as the destination.
-
 As Sophie returned home, she felt a sense of fulfillment and contentment that she had never experienced before. She knew that her journey had changed her in ways she could never have imagined, and she was grateful for the courage to take that first step.
 
-***
-
-Choices and Chances
-
+**Choices and Chances**.  
 The story follows a young woman named Lily who has just graduated from college and is trying to figure out her next steps in life. She has always been a planner, mapping out her goals and working hard to achieve them. But now, faced with the uncertainty of the future, she finds herself struggling to make a decision.
-
 Lily spends her days scrolling through job listings and sending out resumes, but nothing seems to catch her interest. She feels stuck, like she's standing at a crossroads with no idea which path to take.
-
 One day, while taking a walk in the park, Lily meets a man named Jack. They strike up a conversation, and she learns that he is a freelance photographer who travels the world, capturing the beauty of different cultures and landscapes. Lily is fascinated by Jack's adventurous spirit and his willingness to take risks.
-
 As they talk, Jack encourages Lily to step out of her comfort zone and take a chance on something new. He tells her that life is too short to play it safe and that sometimes the best opportunities come from unexpected places.
-
 Lily is hesitant at first, but Jack's words stay with her. She starts to think about all the things she's been too afraid to try, like traveling to a new country or starting her own business. She realizes that she's been so focused on making the "right" choices that she's been missing out on the chances that could lead to something truly great.
-
 With Jack's encouragement, Lily decides to take a chance and apply for a job in a field she's always been interested in but never pursued. To her surprise, she gets an interview and is offered the position. It's not the safe choice, but it feels like the right one.
-
 As Lily starts her new job, she realizes that taking chances doesn't mean throwing caution to the wind. It means trusting your instincts and having the courage to follow your dreams, even if they lead you down an uncertain path. And as she looks back on her journey so far, she knows that it's the choices she's made and the chances she's taken that have brought her to where she is today.
 
-***
-
-The Unseen Struggle
-
+**The Unseen Struggle**.  
 I've always been a people watcher. I like to observe the way they move, the way they interact with each other, and the way they carry themselves. It's fascinating to me how much we can learn about someone without actually speaking to them. But sometimes, I wish I could see more.
-
 There are people out there who are struggling with things that we can't see. Mental illness, chronic pain, invisible disabilities. These are the things that we often overlook because we can't physically see them. And because of that, we limit our view of others by the reality that we can imagine for ourselves.
-
 I recently met a woman who suffers from chronic pain. She told me about how difficult it is for her to get through the day, how every movement is a struggle. But when I looked at her, I saw a strong, independent woman who was pushing through her pain. I couldn't see the struggle she was facing on the inside.
-
 It made me realize how important it is to be aware of the struggles that others may be facing, even if we can't see them. We need to be more empathetic, more understanding, and more patient with each other.
-
 As I continued to watch the people around me, I noticed a man who seemed to be lost in thought. He was staring off into the distance, his eyes filled with sadness. I wondered what was going on in his mind, what struggles he may be facing that I couldn't see.
-
 It's easy to assume that we know what someone else is going through based on our own experiences. But the truth is, everyone's journey is unique. We need to be more open-minded and less judgmental. We need to remember that everyone thinks differently and that's what makes us all unique.
-
 The unseen struggle is real, and it's up to us to be more aware of it. We need to be more compassionate and understanding towards each other. We need to be the kind of people who can see beyond what's on the surface and truly connect with others on a deeper level.
 
-***
-
-The Illusionist's Game
-
+**The Illusionist's Game**.  
 I had always been fascinated by magic tricks and illusions. The way a skilled magician could make you believe in something that wasn't real was truly mesmerizing. But as I grew older, I realized that sometimes, life itself can be an illusion.
-
 I had everything I thought I wanted - a successful career, a beautiful home, and a loving partner. But as time went on, I began to feel like something was missing. I couldn't put my finger on it, but I knew that there was more to life than what I was experiencing.
-
 That's when I met him - the illusionist. He was unlike any magician I had ever seen before. His tricks were not just about sleight of hand, but about making you question your own reality. He would ask you to choose a card and then make it disappear, only to reveal it in the most unexpected place.
-
 But it wasn't just his tricks that intrigued me, it was his philosophy. He believed that life itself was an illusion, and that the only way to break free from it was to embrace the unknown. He encouraged me to take risks, to do things that scared me, and to question everything I thought I knew.
-
 At first, I was hesitant. I had always played it safe, never straying too far from my comfort zone. But as I began to take his advice, I realized that he was right. Life was an illusion, and the only way to truly live was to break free from it.
-
 Together, we embarked on a journey of self-discovery. We traveled to exotic places, tried new foods, and met interesting people. And with each new experience, I felt like I was shedding the layers of the illusion that had been holding me back.
-
 But as with any game, there were risks involved. The illusionist warned me that once I started down this path, there was no turning back. I would have to confront my fears, face my demons, and risk losing everything I had worked so hard for.
-
 And yet, I couldn't stop. The thrill of the unknown was too great. I wanted to see where this journey would take me, even if it meant losing everything I had ever known.
-
 So I took a deep breath, closed my eyes, and stepped into the unknown. The illusionist's game had begun, and I was ready to play.
 
-***
-
-Title: The Mask.
-
+**Title: The Mask**.  
 I always wear a mask. Not the physical one, but the one that hides my true emotions and feelings. I have been doing this for so long that I don't even remember when I started. Maybe it was when I was a child and my parents would fight all the time. Or maybe it was when I was in school and I was bullied by my classmates. Whatever the reason may be, I have become an expert in hiding my true self.
-
 But sometimes, the mask slips. And when it does, it's like a dam breaking. All my emotions come flooding out, and I can't control them. It's scary when that happens, and I try my best to avoid it. But sometimes, it's inevitable.
-
 I met someone recently who saw through my mask. It was like they had a sixth sense or something. They could see the pain and hurt that I was hiding. And for the first time in a long time, I felt like I could be myself around them.
-
 But then, they left. Just like everyone else in my life. And I was left alone again, with my mask firmly in place.
-
 I know that wearing a mask is not healthy. It's not a way to live. But it's become a part of me, and I don't know how to let it go. Maybe one day, I will find the courage to take it off and show the world who I really am. But until then, I will continue to wear my mask and hide my true self.
 
-***
-
-Memories
-
+**Memories**.  
 As I sit here, looking at old photographs, I am reminded of the memories that have shaped my life. The good times and the bad, the highs and the lows, all captured in these images. But as much as these memories have defined me, they have also limited me. I have held onto them for so long that I have become stuck in the past, unable to move forward.
-
 It is only when I meet a group of young travelers that I am reminded of the beauty of living in the present. They are carefree and spontaneous, moving from one adventure to the next without a care in the world. They remind me that life is not about the memories we hold onto, but the moments we create.
-
 Together, we embark on a journey of self-discovery, exploring new places and meeting new people. We learn to let go of our pasts and embrace the present, living in the moment and creating memories that will last a lifetime.
-
 But as much as I enjoy this newfound freedom, I am haunted by the memories of my past. They creep up on me when I least expect it, reminding me of the pain and heartache I have experienced. It is only when I confront these memories head-on that I am able to finally let go of them and move forward.
-
 As our journey comes to an end, I am grateful for the memories we have created together. But more than that, I am grateful for the lessons I have learned along the way. I have come to understand that life is not about the memories we hold onto, but the moments we create. And as long as we are living in the present, we will always have the power to create new memories and shape our own destiny.
 
-***
-
-Erotica 2.
-
-Title: Intoxicated.
+**Erotica 2**.  
+*Title: Intoxicated*.  
 The night was young, and so were we. As we walked into the bar, the air was thick with the smell of alcohol and desire. I watched you from across the room, your eyes scanning the crowd until they met mine. You smiled, and I knew that tonight was going to be something special.
 We ordered drinks, and I watched as you sipped yours slowly, savoring the taste. I couldn't resist the urge to lean in and kiss you, tasting the sweetness of your lips mixed with the bitterness of the alcohol.
 As the night wore on, we grew more and more intoxicated, our inhibitions melting away with each sip. We danced, our bodies moving together in perfect harmony, our hearts beating as one.
@@ -857,11 +415,7 @@ I whispered in your ear, telling you all the things that I wanted to do to you. 
 We made our way to my apartment, our lips never leaving each other's. Clothes were discarded haphazardly, and we fell onto the bed, our bodies entwined.
 We explored each other's bodies, our hands and mouths wandering over every inch of skin. The pleasure was intoxicating, and we lost ourselves in the moment, forgetting everything else but the feel of each other.
 As the sun began to rise, we lay tangled in each other's arms, our bodies still humming with desire. We knew that this was just the beginning, that there were many more nights like this to come. And we couldn't wait to explore them all.
-
-***
-
 Erotica 3.
-
 I woke up to the sound of rain tapping on my window. The room was dark, and the only light came from the streetlamps outside. I turned to my side, and there you were, sleeping peacefully next to me. Your chest rose and fell with every breath you took, and I couldn't help but admire your beauty.
 I reached out and ran my fingers through your hair, and you stirred in your sleep. You opened your eyes and looked at me, and I could see the desire in them. Without a word, you rolled over and straddled me, your hands on my chest, and your lips on mine.
 We kissed passionately, our tongues dancing together, and I could feel the heat building up inside me. I ran my hands down your back, feeling the curves of your body, and you moaned softly into my mouth.
@@ -870,11 +424,8 @@ I took one of your nipples into my mouth, sucking and nibbling on it, while my h
 You got off of me and lay on your back, spreading your legs wide open, inviting me in. I crawled between them, my mouth watering with anticipation. I ran my tongue over your clit, making you gasp, and then slid it inside you, feeling your wetness. I licked and sucked, and you bucked your hips, riding my face, and moaning my name.
 We made love all morning, exploring each other's bodies, and pushing each other to the limits of pleasure. As the rain stopped, and the sun started to rise, we lay next to each other, spent and satisfied, and I knew that I wanted to wake up to this every day for the rest of my life.
 
-***
-
-Erotica 4.
-
-Title: The Stranger
+**Erotica 4**.  
+*Title: The Stranger*.  
 It was a hot summer night, and she was sitting alone at the bar, sipping on her drink. She had just moved to the city and didn't know anyone yet. She was lost in her thoughts when she felt someone's gaze on her. She looked up and saw a man sitting a few seats away, looking at her intently.
 He was a stranger to her, but there was something about him that intrigued her. He was tall, with broad shoulders and a chiseled jawline. He had piercing blue eyes that seemed to look right through her. She felt a shiver run down her spine.
 He got up from his seat and walked over to her. He introduced himself and offered to buy her a drink. She hesitated for a moment, but then she decided to take a chance. They started talking, and she found herself drawn to him. He was charming and witty, and he seemed to understand her in a way that no one else ever had.
@@ -884,1204 +435,580 @@ He pulled away and looked at her. "Come home with me," he said. She hesitated fo
 He led her to his bedroom, and they undressed each other slowly. He kissed every inch of her body, and she moaned with pleasure. They made love all night, exploring each other's bodies and souls. It was as if they were meant to be together.
 In the morning, she woke up in his arms, feeling happy and content. She knew that she had just experienced something special with this stranger. She didn't know where it would lead, but she was willing to take the risk. She turned to him and kissed him softly. "Thank you," she whispered. He smiled and kissed her back. "No, thank you," he said.
 
-***
-
-Erotica 5.
-
+**Erotica 5**.  
 You wake up to find yourself in a dimly lit room, with no memory of how you got there. As your eyes adjust to the darkness, you realize that you are not alone. A tall, dark figure stands in the corner, watching you intently.
-
 You try to scream, but your voice fails you. The figure steps closer, and you can feel the heat emanating from its body. It reaches out a hand and touches your face, sending shivers down your spine.
-
 You try to move away, but you are restrained by some unseen force. The figure leans in closer, and you can smell its musky scent. It whispers in your ear, "Don't be afraid. I won't hurt you."
-
 You feel a surge of desire as the figure's lips brush against your neck. Its hands roam over your body, exploring every inch of your skin. You try to resist, but your body betrays you, responding to the figure's touch.
-
 The figure takes you in its arms and carries you to a bed. It removes your clothes, revealing your naked body to its hungry gaze. It kisses you deeply, its tongue exploring the depths of your mouth.
-
 You moan in pleasure as the figure's hands caress your breasts, teasing your nipples to hardness. It moves down your body, kissing and licking every inch of your skin. You arch your back, offering yourself to the figure's ministrations.
-
 As the figure enters you, you cry out in ecstasy. It moves in rhythm with your body, taking you to heights of pleasure you never thought possible. You lose yourself in the moment, surrendering to the figure's every whim.
-
 When it is over, the figure disappears into the darkness, leaving you alone with your thoughts. You realize that you have been forever changed by the encounter, and you can never go back to the person you were before.
 
-***
-
-Title: The Mysterious Bookstore
-
+**Title: The Mysterious Bookstore**.  
 Sophie had always been fascinated by the old bookstore on the corner of her street. It was a small, unassuming place, but there was something about it that drew her in every time she walked by. One day, she finally decided to go inside.
-
 As soon as she stepped through the door, she was hit by the smell of old books and dust. The shelves were packed with volumes of every size and color, and she could see a few people browsing through them. But there was something strange about the customers. They all seemed to be lost in thought, almost as if they were under a spell.
-
 Sophie walked deeper into the store, drawn by a gleaming light that seemed to come from the back. She found herself in a small room filled with leather-bound books and antique furniture. In the center of the room was a large, ornate book on a pedestal. The light was coming from it.
-
 Without thinking, Sophie reached out and opened the book. As she did, she felt a jolt of electricity run through her body. Suddenly, she was transported to a different place entirely.
-
 She found herself in a vast library, with shelves stretching up to the ceiling and rows of tables filled with people studying ancient texts. It was like nothing she had ever seen before. And then she noticed the man standing in front of her.
-
 He was tall and thin, with piercing blue eyes and a sharp suit. He introduced himself as the curator of the library and explained that Sophie had stumbled upon a magical book that allowed her to travel between worlds.
-
 Sophie was in awe, and the curator offered to show her around. They spent hours exploring the library and discussing the many different worlds that existed within it. Sophie was fascinated by it all.
-
 As the day drew to a close, the curator led Sophie back to the bookstore and gave her the magical book as a gift. He warned her that it was dangerous to travel between worlds and that she should use it wisely.
-
 Sophie left the bookstore feeling like she had just experienced something incredible. She knew that she would never forget the mysterious bookstore or the magical book that had transported her to another world.
 
-***
-
-Erotica 6
-
+**Erotica 6**.  
 She woke up feeling disoriented, her mind still foggy from the dream she had just had. It was a dream about a man she had never met before, but who had taken her to heights of pleasure she had never experienced in real life. She couldn't shake the feeling of his touch, his kiss, his everything.
-
 As she got out of bed and went about her day, she couldn't help but think about him. She tried to focus on her work, but her mind kept drifting back to the dream. She wondered if she would ever meet him in real life, or if he was just a figment of her imagination.
-
 Days turned into weeks, and the dream man became a distant memory. She went about her life as usual, until one day she walked into a coffee shop and saw him sitting at a table.
-
 Her heart skipped a beat as she made eye contact with him. He smiled and motioned for her to come over. She hesitated for a moment, unsure if she was ready to meet the man from her dreams in real life.
-
 But something inside her urged her forward, and before she knew it she was sitting across from him, sipping a latte and chatting like they had known each other for years.
-
 As they talked, she couldn't help but feel a sense of familiarity with him. It was as if they had already shared intimate moments together, even though they had just met.
-
 Eventually, he leaned in and whispered in her ear, "I want to show you something." Without hesitation, she followed him out of the coffee shop and into a nearby alley.
-
 He pushed her up against the wall and kissed her passionately, his hands roaming over her body. She moaned as he lifted her up and carried her to a nearby hotel room.
-
 What followed was a night of passion that exceeded even her wildest dreams. They explored each other's bodies in every way imaginable, and she knew that this was no longer just a dream.
-
 As she lay in his arms, sated and exhausted, she knew that she had found the man of her dreams. The man who had inspired her to write the most erotic story she had ever written. And she knew that there would be many more stories to come.
 
-***
-
-Title: The Haunted House
-
+**Title: The Haunted House**.  
 The old mansion on the outskirts of town had always been rumored to be haunted. The locals would tell stories of strange noises, ghostly apparitions, and a feeling of unease that came over anyone who entered. Despite the rumors, a young couple named Jack and Emily decided to buy the house and renovate it into their dream home.
-
 At first, everything seemed perfect. The couple spent their days painting, decorating, and making repairs. But as the days went on, strange things began to happen. Doors would slam shut on their own, objects would move without explanation, and a feeling of being watched would come over them at night.
-
 One evening, as they were sitting in the living room, they heard a loud crash coming from the kitchen. When they went to investigate, they found that all the cabinets and drawers had been opened and their contents scattered on the floor. They searched the house but found no signs of an intruder.
-
 As the weeks went on, the occurrences became more frequent and more intense. They would hear footsteps in the hallway at night, see shadows moving across the walls, and feel cold spots in certain rooms. Emily began to feel like something was trying to communicate with them, but she couldn't figure out what it was trying to say.
-
 One night, as they were lying in bed, they heard a voice whispering their names. They sat up in bed and looked around the room, but no one was there. Suddenly, the room grew cold and a figure appeared at the foot of the bed. It was a woman in a white dress, her hair flowing around her face. She reached out her hand and whispered, "Help me."
-
 The couple was terrified, but they knew they had to do something to help the woman. They began to research the history of the house and discovered that a woman had died there under mysterious circumstances. They found her diary hidden away in the attic and read about her struggles and her fears.
-
 With the help of a psychic, they were able to communicate with the woman's spirit and help her find peace. The strange occurrences stopped, and the couple was finally able to enjoy their dream home without fear. But they always knew that they were not alone in the house and that the spirit of the woman would always be watching over them.
 
-***
-
-The Secret Affair
-
+**The Secret Affair**.  
 The story revolves around a married woman who meets a younger man at a coffee shop. They strike up a conversation and quickly realize an attraction between them. They decide to meet again, and their meetings turn into secret dates at a hotel. The woman is torn between her love for her husband and her passion for the younger man. They engage in steamy and passionate moments, exploring each other's bodies and desires. The woman is conflicted and guilty about her infidelity but cannot resist the younger man's charm. The story ends with the woman realizing the consequences of her actions and the possibility of getting caught. She must decide whether to continue the affair or end it before it's too late.
 
-***
-
-Title: The Forbidden Room
-
+**Title: The Forbidden Room**.  
 The Forbidden Room is a story about a young couple who sneak into an abandoned mansion on the outskirts of town. They are searching for a thrill and hoping to find something exciting in the old, decrepit building. As they explore the mansion, they come across a door that is locked and marked with a warning sign. Intrigued, they try to open it, but it won't budge.
-
 Determined to find out what's behind the door, they search the mansion for a key. After hours of searching, they finally find one hidden in a dusty old book. Excited, they rush back to the door and unlock it.
-
 Inside the room, they find a strange, otherworldly portal. The room is filled with an eerie blue light, and the portal seems to be beckoning them closer. They are both hesitant, but the thrill of the unknown is too strong to resist.
-
 As they step through the portal, they are transported to a different world. A world unlike any they have ever seen before. The sky is a deep shade of purple, and the ground is covered in a thick layer of mist. Strange creatures roam the landscape, and the air is thick with magic.
-
 As they explore this new world, they realize that they are not alone. There are others here, people who have also stumbled upon this strange place. Some are friendly, while others are not.
-
 The young couple must navigate this new world, learning its secrets and trying to find a way back home. But as they delve deeper into the mysteries of this strange land, they realize that they may not want to leave after all. The forbidden room has opened up a whole new world of possibilities for them, and they are eager to explore everything it has to offer.
-
 The story ends with the couple standing at the portal, unsure of whether to step back through and return to their own world or to stay and explore this new one. The choice is theirs, and they must decide whether to embrace the unknown or to return to the safety of the familiar.
 
-***
-
-Erotica 12
-
+**Erotica 12**.  
 The morning sun peeked through the blinds, casting a warm glow on the tangled sheets of the bed. The room was quiet, except for the sound of soft breathing and the occasional rustle of movement. The woman lay on her side, her eyes closed as she savored the feeling of her lover's arm draped over her waist.
-
 As she drifted in and out of sleep, her mind wandered to the night before. The memory of their passionate lovemaking sent a shiver down her spine, and she couldn't help but smile to herself. She had never felt so alive, so connected to another person.
-
 Suddenly, she felt a hand brush against her thigh, and she opened her eyes to see her lover staring at her with a mischievous glint in his eye. Without a word, he leaned in and kissed her deeply, his tongue exploring every inch of her mouth.
-
 As they kissed, the woman felt a surge of desire wash over her. She wanted him again, right then and there. She pulled away from the kiss and sat up, straddling him as she looked down at him with a hunger in her eyes.
-
 He smiled up at her, his hands roaming over her body as she began to grind against him. The sensation of his hardness against her was almost too much to bear, and she moaned softly as he reached up to cup her breasts.
-
 They continued like that for what felt like hours, lost in a world of pleasure and desire. And as the morning turned to afternoon, they knew that they would never be able to get enough of each other.
-
-***
-
-The Secret Affair
-
 As the sun began to set, Sarah sat alone in her office, staring at the computer screen in front of her. She couldn't concentrate on work, her mind was preoccupied with thoughts of her secret lover, Jake. They had been seeing each other for a few months now, but they both knew it could never be anything more than just a physical relationship.
-
 Sarah and Jake had met at a work party, and the chemistry between them was undeniable. They had started flirting, and before they knew it, they were sneaking away to a nearby hotel room. Since then, they had been meeting regularly, always in secret, always with the thrill of getting caught.
-
 Sarah couldn't resist the temptation any longer. She picked up her phone and sent a text to Jake, "Meet me at the usual place, 8 pm."
-
 As she left the office, she felt a rush of excitement. The thought of being with Jake again was intoxicating. She arrived at the hotel room, and as soon as she entered, she was met with Jake's embrace. They kissed passionately, their bodies pressed against each other.
-
 Jake took control, pushing Sarah against the wall and kissing her neck. He whispered in her ear, "I want to make you feel good, baby." He began to undress her, revealing her lacy black lingerie. He ran his hands over her body, teasing her with his touch.
-
 Sarah moaned with pleasure as Jake kissed her breasts, taking her nipples into his mouth. He then dropped to his knees, pulling down her panties and burying his face between her thighs. Sarah's legs shook as Jake brought her to the brink of ecstasy.
-
 They moved to the bed, and Jake continued to explore Sarah's body with his hands and mouth. He entered her with force, and Sarah cried out in pleasure. They moved together in perfect harmony, their bodies entwined in a dance of passion.
-
 As they both reached their climax, Sarah knew that this was just a temporary escape from reality. They could never be together in the open, but for now, this secret affair was all they needed.
 
-***
-
-The Muse
-
+**The Muse**.  
 Ava sat at her desk, staring at the blank page in front of her. She had been struggling with writer's block for weeks now and it seemed like nothing could break her out of this rut. She had tried everything from taking walks in the park to reading her favorite books, but nothing seemed to work. The eclectic nature of mornings no longer inspired her and she was losing hope.
-
 One day, while browsing through an antique store, Ava stumbled upon an old typewriter. It was rusty and worn out, but something about it caught her eye. She decided to buy it, hoping that it would bring her some inspiration.
-
 As soon as Ava sat down at her desk with the typewriter, she felt a strange energy coursing through her veins. It was as if the typewriter had a life of its own, and it was calling out to her. She placed her fingers on the keys and began to type.
-
 The words flowed out of her effortlessly, as if she was being guided by some unseen force. She wrote about a young woman who had lost her way in life, and was searching for her purpose. As Ava typed, she felt a sense of clarity wash over her. It was as if the typewriter was her muse, and it was showing her the way.
-
 Days turned into weeks, and Ava found herself typing away on the old typewriter for hours on end. She had never felt so alive, so connected to her craft. The words came to her easily, and she was able to write poems that were more beautiful and profound than anything she had ever written before.
-
 One day, as she was typing away, Ava heard a knock on her door. It was a man, tall and handsome, with piercing blue eyes. He introduced himself as a fellow writer and asked if he could come in. Ava felt a sudden surge of nervousness, but she couldn't deny the attraction she felt towards him.
-
 As they sat together, talking about their work, Ava felt a spark ignite within her. It was as if this man was the missing piece in her life, the one who could help her find her way. They talked for hours, exchanging ideas and discussing their passions. And as the sun began to set, they found themselves kissing passionately, lost in the moment.
-
 Ava knew that this was just the beginning of a new chapter in her life. With the old typewriter as her muse, and this man as her inspiration, she felt confident that she could conquer any obstacle that came her way. She had found her purpose, and she was ready to live her life to the fullest.
 
-***
-
-The Art of Seduction
-
+**The Art of Seduction**.  
 The story follows a woman named Ava, who has a talent for seduction and enjoys the thrill of the chase. She meets a man named Ethan at a bar and immediately feels drawn to him. Ava uses her seductive skills to keep Ethan interested and engaged in conversation. As the night goes on, they exchange flirtatious banter and eventually leave the bar together.
-
 Once they arrive at Ethan's apartment, Ava takes control of the situation and begins to undress him. She teases him with her body and whispers in his ear, making him feel desired and wanted. They engage in passionate and intense sexual activity, with Ava taking the lead and showing Ethan her expertise in the art of seduction.
-
 The next morning, Ava leaves Ethan's apartment without saying goodbye. She enjoys the thrill of the chase and the satisfaction of knowing she can seduce any man she desires. However, as she continues to pursue her passion for seduction, she begins to question if it's truly fulfilling and if there's more to life than just the thrill of the chase.
-
 Ava meets another man named Max and feels a connection with him that goes beyond just physical attraction. Max challenges her to explore her emotions and desires, and Ava begins to realize that there's more to life than just seduction. She begins to question her lifestyle and whether it's truly fulfilling.
-
 The story ends with Ava struggling to decide between her love for the thrill of the chase and her desire for something more meaningful and fulfilling. She realizes that the art of seduction can only take her so far and that true happiness comes from within.
 
-***
-
-"The Secret Garden"
-
+**"The Secret Garden"**.  
 Lila had always been fascinated by the old mansion next door. It was abandoned for years, and the garden was overgrown with weeds and vines. But something about it called to her, and she found herself sneaking over the fence and exploring the grounds whenever she had the chance.
-
 One day, as she was wandering through the garden, Lila stumbled upon a hidden door. It was small and covered in ivy, but she managed to push it open and slip inside. What she found was beyond her wildest dreams.
-
 The garden was like nothing she had ever seen before. It was filled with exotic plants and flowers, and there was a small pond in the center with a fountain that sparkled in the sunlight. Lila was entranced, and she spent hours exploring every inch of the garden.
-
 As she was about to leave, Lila noticed a small statue tucked away in a corner. It was of a woman with long flowing hair, and there was a plaque at the base that read "The Guardian of the Secret Garden."
-
 Lila couldn't stop thinking about the garden, and she began to visit it every day. She even started bringing tools and supplies to help care for the plants and make the garden even more beautiful.
-
 One day, as she was working in the garden, Lila heard a rustling in the bushes. She turned to see a young boy, about her age, peeking out at her.
-
 "Who are you?" she asked.
-
 "I'm Max," he said. "I live in the mansion next door. I've been watching you work in the garden. It's amazing."
-
 Lila smiled. "Thanks. Do you want to help?"
-
 And so, Lila and Max became fast friends, spending their days exploring the garden and dreaming up new ways to make it even more magical. They soon discovered that the garden had a secret power - it could make anything grow.
-
 Together, Lila and Max worked to create a garden that was unlike any other, filled with wonders and surprises around every corner. And as they worked, they knew that they had stumbled upon something truly special - a secret garden that would bring them joy and wonder for years to come.
 
-***
-
-The Lost City
-
+**The Lost City**.  
 As I stood at the edge of the dense jungle, I couldn't help but feel a sense of excitement and fear. I had heard rumors of a lost city deep within the forest, and I was determined to find it. Armed with a map and a machete, I began my journey.
-
 The first few days were tough. The heat was unbearable, and the insects were relentless. I was constantly on the lookout for dangerous animals, but the only thing I encountered were monkeys swinging from tree to tree. I pushed on, driven by my desire to unravel the mysteries of the lost city.
-
 On the fourth day, I stumbled upon a clearing. In the distance, I could see the ruins of an ancient temple. My heart raced as I made my way towards it. As I got closer, I noticed that the temple was covered in vines and moss. It had clearly been untouched for centuries.
-
 I entered the temple cautiously, my machete at the ready. The air was thick with the smell of decay, and I could hear the sound of my own breathing echoing off the walls. I made my way through the temple, searching for any clues that would lead me to the lost city.
-
 As I turned a corner, I saw a glimmer of light. I ran towards it and found myself in a small chamber. In the center of the room was a pedestal, and on it, a golden amulet. I knew that this was what I had been searching for.
-
 I picked up the amulet and examined it closely. It was covered in intricate etchings that seemed to tell a story. I couldn't decipher the meaning of the etchings, but I knew that they held the key to finding the lost city.
-
 Excitedly, I made my way out of the temple and back into the jungle. I felt like I was on the verge of a great discovery, and nothing could stop me. Little did I know, the dangers that lay ahead were far greater than anything I had encountered so far.
-
-***
-
-The Lost Key
-
 Samantha was frantically searching for her house keys. She had a busy day ahead of her and was already running late. She rummaged through her bag, checked her pockets, and even looked under the doormat, but the keys were nowhere to be found.
-
 As she paced back and forth in front of her apartment, a stranger approached her. He was tall, with piercing blue eyes and a charming smile.
-
 "Can I help you with something?" he asked.
-
 Samantha hesitated for a moment before explaining her predicament. The stranger listened attentively and then offered to help her find her keys.
-
 Together, they searched every inch of the area around her apartment. As they walked, Samantha found herself drawn to the stranger's easy-going nature and kind demeanor. It was as if they had known each other for years.
-
 Finally, after an hour of searching, the stranger spotted something shiny on the ground. It was Samantha's key, lying in a patch of grass.
-
 "Here it is!" he exclaimed, holding up the key triumphantly.
-
 Samantha was overjoyed and thanked the stranger profusely. As she turned to leave, the stranger handed her a business card.
-
 "Call me if you ever need anything," he said with a smile.
-
 Samantha tucked the card into her pocket and walked away, feeling grateful and a little intrigued by the stranger.
-
 Over the next few weeks, Samantha couldn't stop thinking about the stranger. She found herself daydreaming about him at work, and even caught herself checking her phone constantly, hoping he would call.
-
 One day, she finally worked up the nerve to call the number on the business card. The stranger answered on the first ring, and they talked for hours, sharing stories and laughing together.
-
 As the weeks turned into months, Samantha and the stranger grew closer, and eventually, they started dating. They explored the city together, tried new restaurants, and went on long walks in the park.
-
 But as their relationship deepened, Samantha began to notice something strange about the stranger. He would disappear for days at a time, and when he returned, he would be vague about where he had been.
-
 One day, Samantha couldn't take it anymore. She confronted the stranger, demanding to know what was going on.
-
 To her shock, the stranger revealed that he was actually a spy, working for a top-secret government agency. He had been assigned to keep an eye on Samantha, who had unknowingly become involved in a dangerous conspiracy.
-
 Samantha was stunned. She had never imagined that the charming stranger she had met that day could be anything other than what he seemed.
-
 As the truth sank in, Samantha realized that she had fallen in love with a man who lived a dangerous and secretive life. She had no idea what the future held, but she knew that she was willing to take the risk.
-
 Together, they set out to uncover the truth behind the conspiracy, working side by side to bring down the corrupt organization that threatened their lives.
-
 As they faced danger and uncertainty, Samantha clung to the memory of that day when she had lost her keys and met the stranger who changed her life forever.
 
-***
-
-Facebook: Part 2
-
+**Facebook: Part 2**.  
 After quitting Facebook, Instagram, and WhatsApp, life felt different. The absence of constant notifications and updates allowed for more focus and clarity in everyday tasks. However, there was a sense of loneliness that came with disconnecting from social media. 
-
 One day, while sitting at a coffee shop, a woman approached and asked if the seat across from me was taken. I shook my head and she sat down with a smile. We struck up a conversation about the book I was reading and found out we had similar interests. As we talked, I realized that this was the kind of human connection I had been missing. 
-
 Her name was Sarah and we exchanged numbers before parting ways. Over the next few weeks, we texted and met up for coffee a few more times. It was refreshing to have genuine conversations with someone who wasn't just trying to sell me something or promote their own brand. 
-
 One day, Sarah invited me to a small get-together with some of her friends. I hesitated at first, but decided to go out of my comfort zone and give it a try. It turned out to be a fun evening filled with laughter and good company. 
-
 As the night came to an end, Sarah's friend, Alex, asked if I had heard about a new social media platform called "Connect." Apparently, it was created by a group of developers who wanted to create a platform that focused on real connections and human interactions, rather than just likes and followers. 
-
 I was skeptical at first, but Sarah and Alex both vouched for it and I decided to give it a try. The sign-up process was simple and the interface was clean and easy to navigate. Instead of scrolling through endless feeds of curated content, the homepage showed posts from people in my area who were interested in similar things. 
-
 I started following some of the people I had met at the get-together and soon found myself having meaningful conversations and making new connections. It was refreshing to be a part of a community that valued authenticity and genuine interactions. 
-
 As I logged out of Connect that night, I realized that maybe social media wasn't the problem, but rather the way we use it. With platforms like Connect, it was possible to have the benefits of social media without sacrificing real human connections. 
-
 I couldn't wait to see where this new journey would take me and who I would meet along the way.
 
-***
-
-The Lost Journal.
-
+**The Lost Journal**.  
 As I rummaged through my late grandfather's belongings, I stumbled upon an old leather-bound journal. The pages were yellowed and the ink had faded, but I could still make out the words. It was my grandfather's journal, filled with his thoughts and musings from his travels around the world.
-
 As I read through the pages, I felt like I was transported to a different time and place. My grandfather's words painted vivid pictures of the people he met, the cultures he experienced, and the adventures he embarked on. It was as if he was speaking to me from beyond the grave, sharing his wisdom and life lessons.
-
 One particular entry caught my eye. It was about a lost city that my grandfather had stumbled upon during his travels in South America. He described the city as being hidden away in the dense jungle, with towering temples and intricate carvings. He wrote about the excitement and wonder he felt as he explored the city, and the sense of mystery that surrounded it.
-
 I couldn't believe it. Was it possible that my grandfather had discovered a lost city? I knew I had to find out more. I spent weeks researching and poring over maps, trying to find any clues that could lead me to the lost city.
-
 Finally, I found a reference to a city that matched my grandfather's description. It was located deep in the Amazon rainforest, accessible only by a treacherous journey through the jungle. I knew it was a long shot, but I was determined to find the lost city and uncover the secrets it held.
-
 I gathered a team of explorers and set out on the journey of a lifetime. We battled through dense jungle, crossed treacherous rivers, and faced countless dangers along the way. But finally, we arrived at the lost city, just as my grandfather had described it.
-
 The city was even more magnificent than I had imagined. The towering temples and intricate carvings were a testament to the skill and ingenuity of the ancient civilization that had built it. But as we explored the city, we realized that there was more to it than just its beauty.
-
 We discovered hidden chambers filled with ancient artifacts and manuscripts, detailing the history and culture of the lost civilization. We found evidence of advanced technology and scientific knowledge that surpassed even our modern understanding. And we uncovered a dark secret that had been buried for centuries, a secret that threatened to shake the very foundations of our understanding of human history.
-
 As we made our way back through the jungle, I couldn't help but think about my grandfather and his journal. He had unknowingly set me on a path to discover something truly remarkable, and I knew that his legacy would live on through my own adventures and discoveries. The lost journal had led me to the lost city, but it had also opened up a whole new world of possibilities and mysteries to explore.
-
-***
-
 Title: Freedom Found.
-
 The decision to quit social media had been a liberating one for me. I felt like a weight had been lifted off my shoulders, and I was finally free to live my life on my own terms. But there was still something missing, something that I couldn't quite put my finger on.
-
 That's when I met her.
-
 She was different from anyone I had ever met before. She had a fire in her eyes that burned brighter than any flame I had ever seen. She was passionate, creative, and full of life. And she was just as tired of the rat race as I was.
-
 We connected instantly, and before I knew it, we were inseparable. We spent our days exploring the city, trying new things, and just enjoying each other's company. It was like we had found the missing piece of ourselves in each other.
-
 As we got to know each other better, we talked about our dreams and aspirations. We both wanted to live a life that was free from the constraints of society, a life that was filled with adventure, love, and creativity.
-
 So we made a plan.
-
 We decided to sell everything we owned and hit the road. We would travel the world, experience new cultures, and create art together. We would live a life that was free from the expectations of others, a life that was truly our own.
-
 It wasn't an easy decision, but it felt right. We knew that we were meant to be together, and that this was the only way we could truly be happy.
-
 And so, we set off on our journey, hand in hand, with nothing but our love and our dreams to guide us. We didn't know what the future held, but we knew that as long as we were together, we could conquer anything.
-
 As we drove off into the sunset, I felt a sense of peace wash over me. I had finally found what I had been searching for all along - freedom.
 
-***
-
-The Art of Letting Go
-
+**The Art of Letting Go**.  
 I sat on the edge of the cliff, watching the waves crash against the rocks below. It was a beautiful sight, but my mind was too clouded to appreciate it. I had just received news that my father had passed away, and I was struggling to come to terms with it.
-
 My father and I had a complicated relationship. He was a successful businessman, always focused on his career and making money. He had little time for me and my siblings, and I resented him for it. But now that he was gone, I realized how much I had held onto that resentment.
-
 As I sat there, I thought about all the things I wished I had said to him before he died. All the apologies and forgiveness that I had denied myself and him. But it was too late now.
-
 I took a deep breath and closed my eyes, feeling the wind on my face. I knew I had to let go of the anger and pain that I had been holding onto for so long. It was time to forgive and move on.
-
 I opened my eyes and looked out at the ocean again. The waves were still crashing against the rocks, but now I saw it as a symbol of the ebb and flow of life. Everything comes and goes, and we have to learn to let go.
-
 I stood up and took a step back from the edge of the cliff. I felt lighter, like a weight had been lifted off my shoulders. It was time to start a new chapter in my life, one where I let go of the past and embrace the present.
-
 As I walked away from the cliff, I knew that it wouldn't be easy. Letting go never is. But I was ready to face the challenge, to live my life fully and without regrets. The art of letting go was one that I was determined to master.
 
-***
-
-Geography (Chapter 2)
-
+**Geography (Chapter 2)**.  
 Aise Kyun sat in her office, staring at the world map on her wall. She had always been fascinated by geography, the way different countries and cultures could be so vastly different from one another. She had traveled to many places herself, but there were still so many she wanted to see.
-
 As she gazed at the map, her mind drifted to her dream of being a venture capitalist. She had been doing her research, looking for the right opportunity to invest in. She wanted to find a project that would not only make her money, but would also have a positive impact on the world.
-
 Suddenly, her phone rang, snapping her out of her thoughts. It was her friend and fellow architect, Rhea. "Hey Aise, I have a project I think you'll be interested in," Rhea said excitedly.
-
 Aise listened as Rhea explained the details of a new development project in a small village in India. The project aimed to provide sustainable housing for the community, using eco-friendly materials and construction techniques. It would also provide job opportunities for the locals, helping to boost the village's economy.
-
 Aise was immediately intrigued. This was exactly the kind of project she had been looking for. She agreed to meet with Rhea and the project team the next day to discuss the investment opportunity.
-
 As she hung up the phone, Aise felt a rush of excitement. This was her chance to make a real difference in the world, to use her skills and resources to help others. She couldn't wait to see where this project would take her, both geographically and professionally.
 
-***
-
-Title: Serendipity
-
+**Title: Serendipity**.  
 As a writer, I have always believed in the power of serendipity. It is the unexpected moments that often lead to the most interesting stories. And today was no exception.
-
 I was sitting at a coffee shop, typing away on my laptop, when a woman approached me. She was older, with kind eyes and a warm smile.
-
 "Excuse me," she said, "but I couldn't help but notice that you're a writer. I've always wanted to write a book, but I don't know where to start. Do you have any advice?"
-
 I was taken aback by her question, but I couldn't help but feel a sense of excitement. Here was an opportunity to help someone else achieve their dreams.
-
 We sat down together and I began to share my own experiences with writing. I told her about the importance of finding inspiration, of staying committed to the writing process, and of never giving up on your dreams.
-
 As we talked, I began to realize that this was more than just a chance encounter. This was serendipity at work, bringing two strangers together in a moment of shared passion.
-
 Before we parted ways, the woman thanked me for my advice and handed me a small business card. "If you ever need any help with your writing," she said, "don't hesitate to give me a call."
-
 I looked down at the card and saw that she was the owner of a small publishing company. It was as if the universe was telling me that I was on the right path, that my dreams were within reach.
-
 As I walked home that day, I couldn't help but feel a sense of gratitude. Serendipity had brought me one step closer to achieving my own goals, and I knew that anything was possible if I just kept writing.
 
-***
-
-The Power of Connection
-
+**The Power of Connection**.  
 The world is a vast and complex place, filled with people from all walks of life. And yet, despite our differences, we are all connected in some way. Whether it be through our shared experiences, our common goals, or simply our humanity, there is a power in connection that cannot be denied.
-
 For me, this power has been most evident in my work as a writer. Through my words, I have been able to connect with people from all over the world, sharing stories and ideas that resonate with them on a deep level. And in doing so, I have come to realize that we are all more alike than we are different.
-
 Of course, there are still those who would seek to divide us, to exploit our differences for their own gain. But I believe that the power of connection is stronger than any force of division. When we come together, when we share our stories and our struggles, we become a force to be reckoned with.
-
 And so, I will continue to write, to share my words with the world, and to connect with people from all walks of life. Because I believe that it is through these connections that we can truly make a difference in the world, and build a better future for ourselves and for generations to come.
 
-***
-
-The Power of Reflection.
-
+**The Power of Reflection**.  
 As I sat on my balcony, sipping my morning coffee, I couldn't help but reflect on the habits I had built over the years. Some had served me well, while others had held me back. It was time for a change.
-
 The second habit I wanted to build was reflection. It's easy to get caught up in the daily grind and forget to take a step back and evaluate your progress. Reflection is about taking the time to look at where you are, where you want to be, and how you're going to get there.
-
 I decided to start small, setting aside just five minutes each day to reflect on my goals and progress. I would ask myself questions like, "What did I accomplish today?" and "What can I do better tomorrow?" It was a simple practice, but it made a big difference.
-
 As I continued to reflect, I began to notice patterns in my behavior. I realized that I was spending too much time on tasks that weren't moving me closer to my goals. I was also neglecting my health and relationships.
-
 With this newfound awareness, I was able to make changes. I started delegating tasks that didn't require my attention, freeing up time to focus on what mattered most. I also made a conscious effort to prioritize my health and relationships, scheduling regular workouts and date nights with my partner.
-
 The power of reflection is that it allows you to course-correct before it's too late. It's easy to get stuck in a rut and continue down a path that's not serving you. But when you take the time to reflect, you give yourself the opportunity to make changes and create a life that truly fulfills you.
-
 As I finished my coffee and headed back inside, I felt a sense of excitement for the future. I knew that building the habit of reflection would continue to serve me well, and I was eager to see where it would take me next.
 
-***
-
-Hanxwriter: Connections.
-
+**Hanxwriter: Connections**.  
 As I sat there typing away on my Hanxwriter, I couldn't help but think about the importance of connections. In today's world, it's not just about what you know, but who you know.
-
 I had been struggling with finding a way to streamline my communication with my remote team. We were spread out all over the world, and it seemed like every platform we tried just added to the confusion.
-
 But then, I remembered a friend of mine who was a master networker. She always seemed to know someone who could help with whatever problem she was facing.
-
 I decided to reach out to her and ask for her advice. She suggested that I attend some networking events in my area and try to make connections with people in my industry.
-
 At first, I was hesitant. I'm not the most outgoing person, and the thought of going to a room full of strangers was daunting. But then, I remembered the lesson I had learned from the girl in my architectural class.
-
 I didn't have to make a hundred connections in one day. I just had to make one more connection than I had the day before.
-
 So, I started small. I reached out to a few people on LinkedIn and set up a coffee meeting with someone in my industry. And you know what? It was great. We had a lot in common, and he even knew someone who could help with my remote team communication problem.
-
 From there, things started to snowball. I attended a few networking events and made some more connections. I even found a platform that allowed me to streamline my communication with my remote team.
-
 It's amazing how one small habit can lead to so much growth and success. And it all started with the simple act of compounding and making one more connection than I had the day before.
-
 As I finished typing up my thoughts on the Hanxwriter, I couldn't help but feel grateful for the power of connections and the importance of building good habits. Who knows where this journey will take me next? But I'm excited to find out.
 
-***
-
-Title: The Art of Letting Go.
-
+**Title: The Art of Letting Go**.  
 It was a beautiful day in the city, the sun was shining and the birds were chirping. Emma had just finished her morning yoga routine and was feeling refreshed. As she walked back to her apartment, she noticed a poster on the bulletin board that read "Art of Letting Go Workshop." Intrigued, she decided to attend the workshop.
-
 The workshop was held in a cozy studio with soft music playing in the background. The instructor, Sarah, greeted Emma with a warm smile and invited her to take a seat. Sarah explained that the workshop was about learning to let go of things that no longer served us, whether it be physical possessions or emotional baggage.
-
 Emma listened intently as Sarah shared her own personal story of letting go of a toxic relationship and how it had changed her life for the better. She then led the group in a meditation exercise to help them release any negative emotions they were holding onto.
-
 After the meditation, Sarah handed out small pieces of paper and asked the group to write down something they were ready to let go of. Emma hesitated at first, but then decided to write down the name of an ex-boyfriend who had cheated on her.
-
 As the group went around and shared what they had written, Emma felt a sense of relief wash over her. She realized that holding onto the pain and anger from that past relationship was only hurting herself. It was time to let go and move on.
-
 The workshop ended with a group exercise where everyone wrote down their intention to let go and then released the paper into a bowl of water, symbolizing the act of releasing and letting go.
-
 Emma left the workshop feeling lighter and more at peace. She knew that letting go was not always easy, but it was necessary for growth and healing. She made a promise to herself to continue practicing the art of letting go and to live a life free of unnecessary baggage.
 
-***
-
-The Power of Connection.
-
+**The Power of Connection**.  
 As I sat in the bustling coffee shop, sipping my latte and scrolling through my social media feeds, I couldn't help but feel a sense of emptiness. Despite being connected to hundreds of people online, I felt disconnected from the world around me. It was as if my virtual connections had replaced my real-life relationships.
-
 That's when I noticed a woman sitting at the table next to me. She was engrossed in a book, but every few pages, she would look up and smile at someone passing by. After a while, I realized that she knew almost everyone in the coffee shop. She would wave at the barista, chat with the regulars, and even strike up conversations with strangers.
-
 I couldn't help but feel envious of her easy social skills. It seemed like she had a genuine connection with everyone she met. As I watched her, I realized that social media had made me forget the power of real-life connections.
-
 So, I decided to take a break from my phone and strike up a conversation with the woman next to me. We talked about her book, our favorite coffee shops, and even our shared love for hiking. It was a simple conversation, but it left me feeling energized and connected.
-
 As I left the coffee shop, I realized that real-life connections are what truly matter. They give us a sense of belonging, purpose, and joy. So, I made a promise to myself to put down my phone more often and focus on building real-life connections.
-
 Because in the end, it's not the number of followers we have online that matters, but the quality of the connections we make in real life.
 
-***
-
-The Art of Listening.
-
+**The Art of Listening**.  
 As a therapist, I have come across many clients who feel like they are not being heard or understood by their loved ones. It is a common issue in relationships, and it often leads to misunderstandings and conflicts.
-
 One of the most important skills that we can develop to improve our relationships is the art of listening. Listening is not just about hearing what the other person is saying, but it is also about understanding their perspective and showing empathy towards them.
-
 To become a good listener, we need to practice active listening. Active listening involves giving our full attention to the speaker, asking questions to clarify their message, and reflecting on what they are saying.
-
 Another important aspect of listening is to be non-judgmental. We need to put aside our own biases and opinions and try to understand the other person's point of view. This can be difficult, especially if we have strong beliefs or values that differ from theirs, but it is essential for effective communication and building strong relationships.
-
 It is also important to show empathy towards the speaker. Empathy is the ability to understand and share the feelings of another person. When we show empathy, we validate the other person's emotions and make them feel heard and understood.
-
 In conclusion, the art of listening is a crucial skill that we all need to develop to improve our relationships. It takes practice and effort, but the benefits are worth it. By becoming better listeners, we can build stronger connections with our loved ones and create a more harmonious world.
 
-***
-
-"The Ripple Effect"
-
+**"The Ripple Effect"**.  
 Mira was a young environmental activist who had recently moved to Bangalore to pursue her passion for sustainability. She had been working tirelessly to raise awareness about the impact of rapid urbanization and development on the city's environment.
-
 One day, she decided to organize a community event in Cubbon Park to discuss the issue and brainstorm potential solutions. She invited experts, residents, and local officials to join the conversation.
-
 As the event began, Mira was pleased to see a diverse group of people gathered around, eager to learn and contribute. They discussed the various problems facing the city, including air and water pollution, deforestation, and the displacement of local communities.
-
 As the discussion continued, Mira noticed that many of the attendees were not aware of the interconnectedness of these issues. She explained how each problem had a ripple effect on the others, and that addressing one issue could have a positive impact on the rest.
-
 The group then began to brainstorm potential solutions, ranging from planting more trees and creating green spaces to promoting public transportation and reducing waste.
-
 Mira was heartened by the enthusiasm and dedication of those in attendance, and realized that this was just the beginning. She knew that the ripple effect of their conversation would continue to spread, inspiring others to take action and work towards a more sustainable future for Bangalore.
-
 As the event came to a close, Mira reflected on the power of community and the importance of working together to create positive change. She knew that there was still much work to be done, but felt hopeful that they were on the right track.
 
-***
-
-The Writer's Mind
-
+**The Writer's Mind**.  
 The protagonist of the story, a struggling writer, sits at their desk staring at a blank page. They are frustrated with their lack of progress and the pressure to conform to writing rules and guidelines. They contemplate using writing apps like Hemingway or Grammarly to improve their writing, but ultimately decide against it.
-
 The protagonist believes that writing is a form of self-expression and that their unique voice should not be stifled by following someone else's rules. They argue that writing should be a reflection of one's thoughts and experiences, not a formulaic process.
-
 As they continue to write, the protagonist realizes that their writing is a reflection of their mind. They believe that the more they write, the more they understand themselves and their thoughts. They encourage others to write freely and without constraints, as it is a way to discover oneself.
-
 The protagonist acknowledges that writing is not easy and that it requires discipline and practice. They suggest setting aside time each day to write, even if it's just a few sentences. They believe that over time, the habit of writing will become easier and more natural.
-
 In the end, the protagonist realizes that writing is not just about the finished product, but also about the process. They encourage others to enjoy the journey of writing and to embrace their unique voice and perspective.
 
-***
-
-"The Wall"
-
+**"The Wall"**.  
 Sarah had always been a creative person. She loved to draw and paint, but she never felt like she was good enough to pursue it as a career. That was until she read about the power of compounding in a self-help book. The idea of doing one more thing each day than the day before appealed to her, and she decided to put it into practice.
-
 Sarah started small, with just one sketch a day. She would draw whatever came to mind, not worrying about whether it was good or not. At the end of the week, she had seven sketches, and she taped them to her bedroom wall. The next week, she added seven more, and so on.
-
 Before she knew it, her entire wall was covered in sketches. Some were good, some were bad, but she didn't care. She was proud of herself for sticking to her goal and seeing it through.
-
 As Sarah continued to compound her sketches, she noticed something interesting happening. Her drawing skills were improving. She was able to capture more detail and create more complex compositions. She started to experiment with different mediums and techniques, and her art began to take on a life of its own.
-
 Eventually, Sarah's wall of sketches caught the eye of a local art gallery owner. He was impressed by her dedication and talent, and he offered her a solo show. Sarah couldn't believe it. This was the opportunity she had been waiting for.
-
 The show was a huge success. People loved Sarah's work, and she sold almost every piece. She was even approached by a few art collectors who wanted to commission her for custom pieces.
-
 Sarah was over the moon. She had never felt so fulfilled in her life. And it was all thanks to the power of compounding. By doing one small thing each day, she had achieved something great.
-
 As Sarah looked at her wall of sketches, she realized that it was more than just a collection of drawings. It was a testament to her hard work and dedication. It was a reminder that anything was possible if she just kept going, one step at a time.
-
-***
-
-The Art of Letting Go
-
 Emma sat on her bed, staring at the blank screen of her laptop. She had been a freelance writer for years, but lately, she found herself struggling to come up with anything worth writing about. She had tried everything from changing her workspace to taking breaks, but nothing seemed to work.
-
 She sighed and decided to take a walk to clear her head. As she walked through the park, she noticed a group of people practicing yoga. She had always been curious about it but never tried it before. She approached the group and asked if she could join. They welcomed her with open arms.
-
 During the practice, the instructor talked about the importance of letting go. Emma realized that she had been holding on to her past successes and failures, which was hindering her growth. She had been so focused on trying to replicate her past successes that she had forgotten to enjoy the present moment.
-
 After the practice, Emma felt rejuvenated. She decided to let go of her past and start fresh. She started writing about things that she was passionate about, even if they were outside of her comfort zone. She also started taking up new hobbies, like painting and hiking.
-
 Slowly but surely, Emma started to see progress. She realized that letting go was not about forgetting the past, but about learning from it and moving forward. She started to enjoy the process of writing again, and her work reflected that.
-
 Emma's journey taught her that sometimes, the best thing we can do for ourselves is to let go of our preconceived notions of success and embrace the unknown. It's only then that we can truly grow and flourish.
 
-***
-
-The Power of Consistency
-
+**The Power of Consistency**.  
 The protagonist, a young entrepreneur named Maya, had always struggled with being consistent in her work. She would often start a project with great enthusiasm, only to lose interest and abandon it halfway through. This lack of consistency had held her back from achieving her goals and reaching her full potential.
-
 One day, Maya stumbled upon an article about the power of compounding. The article described how making small, consistent efforts over a long period of time can lead to significant growth and success. Maya was intrigued by this idea and decided to apply it to her work.
-
 She started by setting a goal to create one new product every week. At first, it was difficult for her to stay motivated, but she reminded herself of the power of compounding and kept pushing forward. As time passed, Maya began to notice a change in herself. She was more focused, disciplined, and productive than ever before.
-
 Maya's consistent efforts paid off as she started to see growth in her business. Her products were gaining popularity, and she was receiving positive feedback from customers. Maya realized that the power of compounding was not just limited to her work but could be applied to all aspects of her life.
-
 Inspired by her success, Maya decided to share her story with others. She started a blog where she wrote about the benefits of consistency and how it had helped her achieve her goals. The blog became popular, and Maya found herself with a new career as a motivational speaker.
-
 As Maya's success grew, she encountered new challenges. She struggled with balancing her work and personal life and faced criticism from those who doubted her abilities. However, Maya remained focused and reminded herself of the power of compounding.
-
 The story ends with Maya reflecting on her journey and encouraging others to embrace the power of consistency. She believes that anyone can achieve their goals if they are willing to make small, consistent efforts over a long period of time. Maya's story is a testament to the fact that success is not just about talent or luck but about the willingness to put in the work and stay consistent.
 
-***
-
-The Art of Observation
-
+**The Art of Observation**.  
 As a writer, it's important to observe the world around you. The protagonist of this story, a young journalist, understands this more than anyone else. She spends her days wandering through the city, observing people, and noting down her observations in her journal. It's her way of keeping her creative juices flowing.
-
 One day, while sitting at a café, she notices an elderly man sitting across from her. He's scribbling something in a notebook, and she can't help but wonder what he's writing. She strikes up a conversation with him and finds out that he's a retired detective who used to solve some of the city's most complex cases.
-
 Intrigued, she asks him if he could help her with her writing. He agrees and takes her on as his apprentice. He teaches her the art of observation, how to notice the smallest details, and how to read people's body language. She learns how to connect the dots and draw conclusions based on her observations.
-
 Together, they start solving small mysteries around the city. It's a fun exercise for the young journalist, and she's amazed at how much she's learning from the retired detective. As they solve more and more cases, she starts incorporating her newfound skills into her writing. Her articles become more engaging, and her readership grows.
-
 One day, while on a walk, they come across a group of children playing in the park. The retired detective notices that one of the children is limping and seems to be in pain. He approaches the child and asks him what's wrong. The child tells him that he fell while playing and hurt his knee. The retired detective examines the child's knee and realizes that it's not a simple injury. He suspects that the child might have a tumor.
-
 He advises the child's parents to take him to a doctor, and his suspicion is confirmed. The child has a tumor, but it's caught early enough to be treated. The parents are grateful to the retired detective and the young journalist for noticing something that they had missed.
-
 The experience teaches the young journalist that observation is not just an art, but also a responsibility. She continues to hone her skills and uses them to make a difference in people's lives.
 
-***
-
-The Art of Mindful Writing
-
+**The Art of Mindful Writing**.  
 The protagonist is a struggling writer who is constantly plagued by writer's block and self-doubt. They attend a mindfulness workshop where they learn the importance of being present in the moment and letting go of negative thoughts. The workshop leader encourages them to practice mindfulness while writing, and to focus on the process rather than the end result. 
-
 The protagonist begins to implement this practice in their writing routine and finds that they are able to write more freely and without inhibition. They also start to notice the beauty in the small details of their surroundings and incorporate them into their writing. 
-
 During a walk in the park, the protagonist meets a young girl who is drawing in a sketchbook. The girl shares her passion for art and how she uses it as a form of therapy. The protagonist is inspired by her story and starts to incorporate drawing into their writing process, using it as a way to visualize their ideas and express themselves in a different medium. 
-
 As the protagonist continues to practice mindfulness and incorporate drawing into their writing, they start to gain confidence in their abilities and begin to see success in their writing career. The story ends with the protagonist realizing that the journey of writing is just as important as the end result, and that mindfulness and creativity go hand in hand.
 
-***
-
-The Pyramid House
-
+**The Pyramid House**.  
 The group of architects were excited to take on the challenge of designing a house for their new client. The client had requested a unique and modern design that would stand out from the traditional houses in the area. The architects brainstormed various ideas and finally settled on a pyramid-shaped structure.
-
 As they began to work on the design, they soon realized that the pyramid shape was not practical for a residential house. The structure would require a lot of additional support and would be difficult to furnish. They were back to square one.
-
 After much discussion, the group decided to go with a more traditional box-shaped design. They used existing designs and materials to keep the budget low while still maintaining a modern look. They incorporated large windows to allow natural light to flow in and used eco-friendly materials to make the house sustainable.
-
 One of the main challenges they faced was designing the bathroom unit. The client had requested a large and luxurious bathroom with a bathtub and a separate shower area. The architects had to come up with a design that would fit within the limited space available.
-
 After several iterations, they finally came up with a design that met the client's requirements. The bathroom unit was designed to be compact yet functional, with a separate shower area and a bathtub that could be converted into a seating area when not in use.
-
 As the project progressed, the group faced a few conflicts and disagreements. However, they used conflict resolution exercises to resolve their differences and come up with a compromise that everyone was happy with.
-
 The Pyramid House was finally completed, and the client was thrilled with the final result. The house was modern, sustainable, and functional, with a touch of luxury. The architects were proud of their work and had learned valuable lessons about the importance of practicality and compromise in design.
 
-***
-
-Lost in Translation
-
+**Lost in Translation**.  
 The protagonist, a freelance translator, struggles to find work due to the COVID-19 pandemic. They reflect on the importance of language and communication in bringing people together and the irony of being isolated due to a virus that originated from a lack of communication. The protagonist also shares their experiences with different languages and cultures, including a trip to Japan where they struggled to communicate and navigate the city. The story then shifts to the protagonist's current struggles with finding work and their frustration with clients who do not understand the value of translation. The protagonist concludes that despite the challenges, they will continue to pursue their passion for language and hope to bridge the gap between cultures through their work. The title "Lost in Translation" reflects the protagonist's struggle to communicate and find their place in the world.
 
-***
-
-The Dreamer's Dilemma
-
+**The Dreamer's Dilemma**.  
 As a writer, Sarah was always on the lookout for new ideas. She spent hours poring over books, articles, and websites, hoping to find that one spark that would ignite her imagination. But lately, she had been feeling stuck. No matter how hard she tried, she couldn't seem to come up with anything new or exciting.
-
 One night, Sarah had a dream that changed everything. She found herself in a strange, fantastical world, filled with creatures she had never seen before. As she explored this new world, she felt a surge of inspiration. This was it, she thought. This was the idea she had been waiting for.
-
 But when Sarah woke up, she was filled with doubt. How could she possibly turn this dream into a story? It was too strange, too complex. She didn't even know where to begin.
-
 As she sat at her desk, staring at a blank page, Sarah heard a knock at her door. It was her neighbor, Mr. Johnson. He was a retired scientist who had always been fascinated by Sarah's writing.
-
 "Hello, Sarah," he said, smiling. "I hope I'm not interrupting anything."
-
 "No, not at all," Sarah replied. "What brings you here?"
-
 "I was just wondering if you might be interested in hearing about a new project I'm working on," Mr. Johnson said. "It's a device that allows you to record your dreams and turn them into stories."
-
 Sarah's heart skipped a beat. This was exactly what she needed. She eagerly followed Mr. Johnson to his house, where he showed her his invention.
-
 "It's still in the prototype stage," he said, "but I'd be happy to let you try it out."
-
 Sarah couldn't believe her luck. She strapped on the device and closed her eyes, focusing on the dream she had the night before. As she opened her eyes, she saw the words of her story scrolling across a screen.
-
 Over the next few weeks, Sarah worked tirelessly on her story, using Mr. Johnson's device to capture every detail of her dreams. The result was a masterpiece, a tale of adventure and wonder that captivated readers around the world.
-
 As Sarah sat back, basking in the success of her story, she realized something important. Ideas were not just something that came to her. They were something she could create, with a little help from her friends. And with that realization, she knew that the possibilities were endless.
 
-***
-
-The Second Encounter
-
+**The Second Encounter**.  
 It had been six months since their first meeting. The memory of that day was etched in his mind like a painting on a canvas. He had never felt so alive before, and the thought of seeing her again had been on his mind ever since. But fate had other plans for him.
-
 He had been busy with work and life, and before he knew it, six months had passed. But one day, as he was walking down the street, he saw her. It was like a scene out of a movie. She was walking towards him, and as their eyes met, he felt a jolt of electricity run through his body.
-
 "Hi," she said, smiling at him.
-
 "Hi," he replied, feeling his heart race.
-
 They stood there for a moment, looking at each other, before she spoke again.
-
 "Would you like to grab a coffee?" she asked.
-
 He nodded, unable to speak, and they walked to a nearby cafe. As they sat down, he couldn't help but feel grateful to fate for bringing them together again.
-
 They talked for hours, about everything and nothing. He felt like he had known her his whole life, and yet there was so much he wanted to know about her.
-
 As they said their goodbyes, she handed him a piece of paper with her phone number on it.
-
 "Call me," she said, smiling at him.
-
 He nodded, feeling like the luckiest man in the world. As he walked away, he couldn't help but wonder what the future held for them. But one thing was for sure, he was going to make sure that fate didn't keep them apart again.
 
-***
-
-Dreams of Tomorrow
-
+**Dreams of Tomorrow**.  
 The night sky was dark, and the stars were shining bright. I lay on the grass, staring at the sky, lost in my thoughts. I had always been a dreamer, and my mind was constantly filled with ideas of what the future could hold. As I lay there, I wondered if I would ever be able to make those dreams a reality.
-
 Suddenly, I heard a rustling in the bushes nearby. I sat up, my heart racing, wondering what it could be. As I peered into the darkness, I saw a figure emerge from the bushes. It was a woman, and she had a mischievous grin on her face.
-
 "Who are you?" I asked, feeling a little uneasy.
-
 "I'm your future," she replied, still grinning.
-
 "My future?" I repeated, confused.
-
 "Yes, your future," she said, walking towards me. "I'm here to show you what's in store for you."
-
 As she approached, I could see that she was holding a small, glowing orb in her hand. She held it out to me, and I took it, feeling its warmth in my palm.
-
 "Close your eyes," she said. "And let your mind wander."
-
 I did as she said, and as I closed my eyes, I felt a rush of energy flow through me. Suddenly, I was transported to a world of my own creation. It was a world filled with all of my hopes and dreams, a world where anything was possible.
-
 I explored this world for what felt like hours, marveling at all the wonders that lay before me. And as I wandered, I realized that this woman had given me a gift. She had shown me that my dreams were not just figments of my imagination, but that they could become a reality.
-
 When I opened my eyes, the woman was gone, and I was back on the grassy field. But I knew that I would never forget this experience, and that I would always hold onto the hope that my dreams of tomorrow could one day become a reality.
 
-***
-
-The Awakening.
-
+**The Awakening**.  
 I had always been a skeptic when it came to spirituality and the idea of a higher power. It all seemed like a bunch of hocus pocus to me. But then, something happened that shook me to my core.
-
 It was a normal day, just like any other. I was going about my usual routine when I felt a strange energy coursing through my body. It was like nothing I had ever experienced before. I felt a sense of peace and calm wash over me, and for the first time in my life, I felt truly connected to something greater than myself.
-
 I couldn't explain it, but I knew that this was the awakening I had been searching for. I had always felt like something was missing in my life, and now I knew what it was. I had been searching for a deeper meaning, a purpose beyond the mundane day-to-day existence.
-
 From that moment on, I began to explore spirituality in a way that I never had before. I read books, attended workshops, and talked to anyone who would listen about their own experiences. I discovered that there was so much more to life than what I had previously believed.
-
 I started to see the world in a different light. The beauty of nature, the kindness of strangers, and the interconnectedness of all things became more apparent to me. I began to feel a sense of gratitude for everything in my life, even the challenges and struggles.
-
 This awakening had transformed me in ways I never thought possible. I was no longer the skeptic I once was. I had found my purpose, my calling, and I knew that I was meant to share this newfound knowledge with others.
-
 As I continue on this journey, I know that there will be obstacles and setbacks. But I also know that I am not alone. I am connected to something greater, and that knowledge gives me the strength to keep going.
-
 The awakening has changed me in ways I never thought possible, and I am forever grateful for it.
-
-***
-
 The Journey Continues.
-
 As I sat by the river, watching the water flow, I couldn't help but think about how my life had changed over the years. From being lost and unsure about my path to finding my purpose and passion, it had been quite a journey.
-
 But the journey wasn't over yet. There were still so many places to go, people to meet, and experiences to have. And I was ready for it all.
-
 As I packed my bags and set out on the road once again, I felt a sense of excitement and anticipation. I didn't know what lay ahead, but that was part of the thrill.
-
 Along the way, I met new people and heard their stories. I saw sights that took my breath away and experienced things I never thought were possible. And through it all, I kept reminding myself to stay present, to not get lost in the past or future.
-
 As I traveled further, I realized that the journey wasn't just about the destination. It was about the experiences, the lessons, and the growth that came with it. It was about finding inner peace and living in harmony with the world around me.
-
 And so, the journey continues. I don't know where it will take me next, but I'm excited to find out. I'm ready to embrace whatever comes my way and to keep growing and learning along the way.
 
-***
-
-"The Unseen Guest"
-
+**"The Unseen Guest"**.  
 As a writer, I often find myself lost in my own thoughts, trying to come up with the next big idea. One day, while sitting in a coffee shop, I received a message from an unknown number. It read, "Meet me at the old library on 5th street. Ask for the unseen guest." 
-
 I was intrigued and decided to follow through with the message. When I arrived at the library, I asked the librarian about the unseen guest. She gave me a knowing smile and pointed to a woman sitting in the corner, hidden behind a stack of books.
-
 As I approached her, she introduced herself as Sophia. She was an elderly lady with kind eyes and a gentle voice. She explained that she had been a writer in her younger days and had come to the library to seek inspiration. However, she had been unable to write anything for years.
-
 Sophia then handed me a notebook and asked me to write down my thoughts. As I began to write, I felt a sense of calm wash over me. Sophia then shared her own writing with me, and I was amazed by her talent.
-
 We spent hours talking about writing and life, and I felt a connection with her that I had never experienced before. As I left the library, Sophia gave me a small note with her phone number and a message that read, "Don't be a stranger."
-
 Over the next few weeks, Sophia and I spoke on the phone regularly. She shared her wisdom and encouraged me to keep writing, even on days when I felt uninspired. With her guidance, I began to write again, and my work improved drastically.
-
 One day, when I called Sophia, her phone was disconnected. I went back to the library to look for her, but she was nowhere to be found. I asked the librarian about her, but she had no information.
-
 Months went by, and I had almost given up hope of ever finding Sophia again. However, one day, I received a package in the mail. It was a book, written by Sophia, with a note that read, "Thank you for bringing my words back to life."
-
 Sophia may have been an unseen guest, but her impact on my life was unforgettable. She taught me that inspiration can come from the most unexpected places and that true connections can be made with anyone, regardless of age or background.
-
-***
-
-"The Art of Letting Go"
-
 The story follows a young woman named Maya, who is struggling to let go of her past. She has recently gone through a difficult breakup and finds herself constantly dwelling on the memories of her ex-boyfriend. Maya's friends and family try to encourage her to move on, but she finds it difficult to let go of the life she had envisioned with her ex.
-
 One day, Maya meets a wise old woman named Rose, who teaches her the art of letting go. Rose tells Maya that holding onto the past only brings pain and that letting go is the key to finding happiness. She encourages Maya to focus on the present moment and to be grateful for the blessings in her life.
-
 As Maya begins to practice the art of letting go, she finds that she is able to release the pain and hurt that she has been carrying with her. She starts to see the beauty in the present moment and begins to appreciate the small things in life.
-
 Maya also meets a new love interest, a kind and caring man named Alex. At first, she is hesitant to pursue a new relationship, but with Rose's guidance, she learns to let go of her fears and take a chance on love again.
-
 The story ends with Maya feeling grateful for the lessons she has learned and excited for the future. She realizes that letting go is a continuous process, but one that is necessary for growth and happiness.
 
-***
-
-"The Mysterious Stranger"
-
+**"The Mysterious Stranger"**.  
 The story follows a man named Mark, who receives a cryptic message from an unknown number. The message simply reads, "Meet me at the park at midnight." Intrigued and a little unnerved, Mark decides to go to the park to see who sent the message. As he waits, he notices a woman walking towards him. She introduces herself as Nora, and Mark is surprised to find that her name fits the description of the mysterious message he received.
-
 Nora is a peculiar woman with an air of mystery around her. She tells Mark that she has a proposition for him, but warns him that it's not for the faint of heart. She wants Mark to join her in a treasure hunt, one that has been passed down through her family for generations. Nora believes that Mark is the perfect candidate for the job, and promises him a reward beyond his wildest dreams if he agrees to help her.
-
 Mark is skeptical at first, but Nora's confidence and charisma win him over. She gives him a small clue to start with, and Mark finds himself getting more and more wrapped up in the treasure hunt. As they travel from place to place, Mark discovers that Nora is not just a mysterious stranger, but also a skilled adventurer with a deep knowledge of history and archaeology.
-
 As they get closer to the treasure, Mark starts to realize that the journey has been more important than the destination. He has learned so much from Nora, not just about the treasure hunt but also about himself. He has discovered a sense of adventure and purpose that he never knew he had.
-
 The story ends with Mark and Nora standing in front of a hidden cave, the final destination of their journey. Nora looks at Mark and says, "Are you ready?" Mark nods, feeling a sense of excitement and anticipation. He knows that no matter what happens next, he will always remember the mysterious stranger who changed his life forever.
-
-***
-
-The Art of Letting Go
-
 The story follows the protagonist, Lily, who has been holding onto a toxic relationship for far too long. She knows deep down that it's not healthy, but she can't seem to let go. One day, she meets a stranger on a park bench who gives her some unexpected advice.
-
 The stranger tells Lily about the Japanese art of kintsugi, which is the practice of repairing broken pottery with gold. The idea behind it is that the cracks and imperfections are not something to hide, but rather something to embrace and celebrate. The stranger explains that just like the pottery, Lily's broken relationship can be mended with time and effort, but it's important to acknowledge the cracks and imperfections and not try to hide them.
-
 Lily takes the stranger's advice to heart and begins the process of letting go. She starts by purging her home of any reminders of her ex-partner and takes up new hobbies to fill her time. She also seeks therapy to work through her emotions and gain a better understanding of herself.
-
 As time passes, Lily begins to feel more confident and empowered. She realizes that letting go doesn't mean forgetting, but rather accepting that things have changed and moving forward with grace and dignity. She starts to see the beauty in the broken pieces of her past and embraces the idea that they have helped shape her into the person she is today.
-
 The story ends with Lily feeling grateful for the stranger's advice and the lessons she has learned along the way. She knows that the road ahead won't be easy, but she's ready to face it with a newfound sense of strength and resilience. The title "The Art of Letting Go" suggests that sometimes, the most beautiful things can come from the act of releasing what no longer serves us.
 
-***
-
-The Secret Ingredient
-
+**The Secret Ingredient**.  
 The Secret Ingredient is a story about a bartender who has a secret recipe for a drink that is known to change people's lives. The protagonist, Max, is a lonely man who spends his days mixing drinks for people but never getting to enjoy them himself. One day, a woman named Lily walks into the bar and asks for the secret drink. Max is hesitant at first, but something about Lily's energy makes him want to share it with her.
-
 The recipe includes condensed milk, fresh cream, instant coffee, chocolate sauce, vanilla extract, and a secret ingredient that Max refuses to reveal. Lily takes a sip of the drink and immediately feels a sense of clarity and purpose. She tells Max that she has been struggling with her career and personal life, but after drinking the secret drink, she knows exactly what she needs to do.
-
 Lily starts coming to the bar every day to drink the secret drink and talk to Max. The two form a bond over their shared love of mixology and Lily's newfound sense of direction. Max starts to feel less lonely and more fulfilled in his job, knowing that he is making a difference in people's lives.
-
 One day, Lily asks Max what the secret ingredient is. Max hesitates, but ultimately decides to tell her. The secret ingredient is love. Max explains that he puts love into every drink he makes, and that is what makes them so special. Lily is touched by Max's dedication and promises to always remember the secret ingredient.
-
 As the story ends, Max writes a short love poem on a napkin and gives it to Lily. The poem is about not letting someone leave with a broken heart and promising to love them forever. Lily smiles and thanks Max for the drink and the poem, knowing that she has found something special at the bar.
-
 The Secret Ingredient is a heartwarming story about the power of love and how it can transform even the simplest things in life.
 
-***
-
-Joan's Journey
-
+**Joan's Journey**.  
 Joan woke up with a smile on her face, feeling grateful for the new day. She had come a long way from where she was a year ago. She had left her toxic relationship, moved to a new city, and started a new job. It wasn't easy, but she was glad she took that leap of faith.
-
 As she got ready for work, she couldn't help but think about the new people she had met. Her colleagues were friendly, and she had even made a few friends outside of work. One person, in particular, stood out to her - a guy named Alex. He was charming, funny, and always knew how to make her laugh.
-
 Joan couldn't deny that she had a crush on Alex, but she didn't want to rush into anything. She had learned from her past mistakes and wanted to take things slow. However, she couldn't help but feel excited when he asked her to join him for lunch later that day.
-
 As they sat down at a cozy café, Joan couldn't help but feel nervous. She didn't want to mess things up with Alex, but she also didn't want to lose herself in the process. They talked about their interests, their families, and their hopes for the future. Joan was surprised to find that they had a lot in common.
-
 As they finished their meal, Alex looked at Joan and said, "I know we just met, but I feel like we have a connection. Would you like to go out with me again?"
-
 Joan smiled and said, "I would love that."
-
 As she walked back to work, Joan couldn't help but feel hopeful. Maybe this was the start of something new and beautiful. She had learned that it was okay to take risks and that sometimes, the best things in life come when you least expect them.
-
 Joan's journey was far from over, but she was excited to see where it would take her next.
 
-***
-
-Journeys: The Encounter
-
+**Journeys: The Encounter**.  
 Joan had always been a dreamer, lost in her own world of thoughts and ideas. She loved to travel and explore new places, and her latest journey had brought her to the bustling city of Mumbai. As she walked down the crowded streets, she couldn't help but feel a sense of excitement and adventure coursing through her veins.
-
 It was then that she saw him - a tall, rugged man with piercing blue eyes and a mischievous smile. He was leaning against a wall, casually smoking a cigarette, and Joan couldn't help but feel drawn to him.
-
 As she approached him, he looked up and their eyes met. There was an instant connection, a spark of electricity that seemed to pass between them. They struck up a conversation, and Joan found herself hanging onto his every word.
-
 He told her stories of his own travels, of the places he had been and the people he had met. He spoke of adventure and danger, of taking risks and living life to the fullest. Joan was entranced, and she knew that she wanted to experience all of these things for herself.
-
 They spent the rest of the day together, exploring the city and getting lost in the winding streets. They laughed and joked, and Joan felt as though she had known him her entire life. As the sun began to set, they found themselves sitting on a rooftop terrace, watching the city come alive with lights and sounds.
-
 It was then that he turned to her and said, "You know, Joan, I have a feeling that our journey together is just beginning."
-
 And Joan knew that he was right. This chance encounter had opened up a whole new world of possibilities, and she was excited to see where their journey would take them next.
 
-***
-
-The Secret of Kapwing
-
+**The Secret of Kapwing**.  
 As soon as Emma stumbled upon Kapwing, she knew she had found something special. The image editing tools were exactly what she needed for her job as a social media manager, and the video editing tools were just a bonus. She spent hours exploring all the features, creating memes, and editing videos. But there was something strange about Kapwing that she couldn't quite put her finger on.
-
 One day, while scrolling through the blog section, Emma noticed a post that caught her attention. It was titled "The Secret of Kapwing." She clicked on it, eager to find out more.
-
 The post was written by a former employee of Kapwing, who claimed that there was more to the website than met the eye. According to the writer, Kapwing was not just a simple editing tool, but a portal to another dimension. The writer had stumbled upon this secret while working on a project for the company.
-
 Emma was skeptical at first, but the more she read, the more intrigued she became. The writer claimed that Kapwing had been created by a group of tech wizards who had discovered a way to open a portal to another world. They had used this portal to create a digital platform that allowed users to access the tools they needed to create amazing content.
-
 The writer claimed that Kapwing was not just a tool, but a gateway to a world of endless possibilities. Emma couldn't believe what she was reading. Was it possible that Kapwing was more than just an editing tool?
-
 She decided to test the theory and started using Kapwing to create content that pushed the boundaries of what was possible. She created videos that defied the laws of physics, and images that seemed to come to life. And as she did, she began to notice something strange happening.
-
 Every time she used Kapwing, she felt a strange sensation, as if she was being transported to another world. She couldn't explain it, but she knew that there was something magical about Kapwing.
-
 Emma knew that she had uncovered something incredible, and she was determined to find out more. She continued to use Kapwing, pushing the limits of what was possible, and exploring the endless possibilities of this mysterious platform.
-
 Little did she know, the more she used Kapwing, the deeper she would be drawn into the world beyond the portal.
 
-***
-
-The Stranger in the Coffee Shop
-
+**The Stranger in the Coffee Shop**.  
 I sat in my usual corner of the coffee shop, sipping on my latte and typing away on my laptop. It was my favorite spot to write, with the gentle hum of conversation and the aroma of freshly brewed coffee filling the air. But today, something was different.
-
 A stranger had taken the seat opposite me, his piercing blue eyes scanning the room before settling on me. I felt a shiver run down my spine as he smiled and introduced himself as Jack.
-
 We struck up a conversation, and I found myself drawn to his easy charm and quick wit. He was a writer too, and we bonded over our shared love of words and storytelling.
-
 As the hours passed, we talked about everything from our favorite books to our deepest fears. I found myself opening up to him in a way I never had before, as though he could see right through me.
-
 But as the sun began to set and the coffee shop emptied out, Jack suddenly stood up and said he had to go. I watched him leave, feeling a sense of loss and confusion.
-
 Days passed, and I couldn't get Jack out of my mind. I tried to write, but my words felt hollow and meaningless. It was as though he had taken a piece of me with him when he left.
-
 Then, one day, he walked into the coffee shop again. This time, he didn't sit with me, but simply nodded in my direction before leaving once more.
-
 I never saw Jack again after that, but his brief presence in my life had left a lasting impact. I realized that sometimes, the most meaningful connections are the ones that are fleeting and unexplained. And so, I continued to write, hoping that one day, I would capture that elusive magic that had passed between us in the coffee shop.
 
-***
-
-The Secret Garden
-
+**The Secret Garden**.  
 Lila had always been fascinated by the overgrown garden hidden behind the old mansion. She had heard stories of its beauty and grandeur from her grandmother, who used to live in the mansion before it was abandoned. The garden had been a place of joy and happiness, filled with vibrant flowers and lush greenery. But now, it lay forgotten, a relic of the past.
-
 One day, Lila decided to explore the garden. She pushed aside the rusted gate and stepped inside, marveling at the sight before her. The garden was even more beautiful than she had imagined, with colorful flowers blooming everywhere and the scent of jasmine filling the air.
-
 As she wandered deeper into the garden, she noticed a small, hidden path leading to a secluded corner. Curiosity getting the better of her, Lila followed the path and found herself standing before a mysterious door. It was old and weathered, with intricate carvings etched into the wood.
-
 Without thinking, Lila pushed open the door and stepped inside. What she saw took her breath away. It was a secret garden, hidden away from the world. The garden was filled with exotic plants and flowers, and a small pond sparkled in the sunlight.
-
 Lila felt as though she had stumbled upon a hidden treasure. She spent hours exploring the garden, marveling at the beauty of nature and the peace it brought her.
-
 As the sun began to set, Lila knew she had to leave. But she promised herself that she would return to the secret garden, to bask in its beauty and find solace in its peacefulness.
-
 Little did she know, the garden held many secrets, secrets that would change her life forever.
 
-***
-
-Title: The Lost Key
-
+**Title: The Lost Key**.  
 The sun was setting over the city as Sarah walked down the deserted street. She had just finished her shift at the local diner and was looking forward to going home and relaxing. As she approached her apartment building, she reached into her bag to grab her keys, but they were nowhere to be found. She searched through her bag again and again, but the keys were gone.
-
 Sarah let out a sigh of frustration and leaned against the wall of the building. She couldn't believe she had lost her keys again. This was the third time this month. She knew she had to find them soon or she would have to pay for a new set.
-
 As she stood there, a man walked up to her. He was tall and had a rugged look about him. He introduced himself as Jack and asked if she needed help. Sarah was hesitant at first, but she didn't have any other options. She explained her situation, and Jack offered to help her look for her keys.
-
 Together, they retraced Sarah's steps from earlier in the day. They searched the diner, the streets she had walked on, and even checked with the local shops to see if anyone had turned in the keys. But they had no luck.
-
 As they were about to give up, Jack suggested they try the park. Sarah had no idea why they would find her keys there, but she followed Jack's lead. As they walked through the park, Sarah noticed a small key lying on the ground. She picked it up and realized it was her spare apartment key.
-
 Sarah was relieved and grateful to Jack for helping her. She thanked him and offered to buy him a cup of coffee. As they sat in the cafe, Sarah couldn't help but feel drawn to Jack. There was something about him that she couldn't quite put her finger on.
-
 As they talked, Sarah learned that Jack was a writer and had just moved to the city. He was still trying to find his place in the world. Sarah could relate to that feeling. They exchanged numbers and made plans to meet up again soon.
-
 As Sarah walked home that night, she couldn't help but feel like she had found something more valuable than her lost keys. She had found a new friend and maybe even something more. The future was uncertain, but for the first time in a while, Sarah felt like she was on the right path.
 
-***
-
-Lancymark: Part 2
-
+**Lancymark: Part 2**.  
 The small town of Lancymark was buzzing with excitement as the annual Harvest Festival was just around the corner. The townsfolk were busy preparing for the festivities, decorating the streets with colorful banners and setting up food stalls.
-
 Amongst the busy crowd was a young woman named Lily. She had recently moved to Lancymark and was eager to be a part of the celebrations. As she walked down the street, she noticed a group of musicians playing lively tunes on their instruments. She couldn't resist tapping her feet to the beat and soon found herself dancing along with the crowd.
-
 As she danced, she caught the eye of a handsome young man named Jack. He was a local farmer and had been living in Lancymark all his life. He had never seen anyone dance with such grace and was instantly smitten by Lily's beauty.
-
 Jack made his way towards Lily and introduced himself. They struck up a conversation and soon found that they shared a love for music and dancing. They spent the rest of the evening dancing together and getting to know each other.
-
 As the night came to an end, Jack asked Lily if she would like to go on a date with him. She happily agreed and they made plans to meet the next day at the Harvest Festival.
-
 The next day, Lily arrived at the festival dressed in a beautiful floral dress. She spotted Jack waiting for her by the entrance and they walked around the festival together, trying out different foods and playing games.
-
 As the sun began to set, they found a quiet spot by the river and sat down to watch the sunset. Jack took out his guitar and started playing a sweet melody. Lily closed her eyes and swayed to the music, feeling completely at peace.
-
 It was then that Jack leaned in and kissed her. It was a gentle kiss, but it was enough to make Lily's heart skip a beat. They looked into each other's eyes and knew that they had found something special.
-
 As the night fell, they made their way back to the town square where a bonfire had been lit. They joined the other townsfolk and danced around the fire, feeling the warmth of the flames and the joy of being in each other's company.
-
 Lancymark had brought them together, and they knew that their love story was just beginning.
 
-***
-
-Lessons In Running A Scam In 2020: Part 2.
-
+**Lessons In Running A Scam In 2020: Part 2**.  
 Date: 20th June 2020.
-
 Lancymark had always been a smooth talker. He could convince anyone to believe in his ideas and trust him with their money. He had made a fortune by running scams in the past, but this time he had outdone himself. The pandemic had provided him with the perfect opportunity to make even more money.
-
 Lancymark had been successful in getting the World Bank funds, and he had distributed them among the MSMEs as planned. But he wasn't satisfied yet. He wanted to make more money, and he had a new plan.
-
 He had heard about a new virtual currency that was gaining popularity. He knew that people were investing in it, hoping to make a quick profit. Lancymark saw this as an opportunity to make a fortune.
-
 He created a fake virtual currency and started promoting it on social media. He promised people that they would become millionaires if they invested in his currency. He even had a team of people who posed as successful investors and gave fake testimonials.
-
 Soon, people started investing in his currency, and Lancymark's bank account started filling up with money. He was thrilled with his success, but he knew that he had to be careful. He had to make sure that no one found out about his scam.
-
 But Lancymark's luck was about to run out. A group of investors had started investigating his virtual currency, and they had uncovered his scam. They had proof of his fraud, and they were ready to take legal action against him.
-
 Lancymark knew that he had to act fast. He had to find a way to escape from the country before he was caught. He had made a lot of enemies over the years, and he knew that he couldn't trust anyone.
-
 Lancymark packed his bags and left his house in the middle of the night. He had a fake passport and a plane ticket to a foreign country. He knew that he had to start a new life in a new place.
-
 As he boarded the plane, Lancymark felt a sense of relief. He had escaped from the law, and he had made a fortune. But he also knew that he had to be careful. He couldn't let his guard down, and he had to be ready for anything.
-
 Lancymark smiled to himself as the plane took off. He had learned a valuable lesson in running a scam in 2020. He knew that he had to stay one step ahead of everyone else, and he had to be ready to adapt to any situation.
-
 The future was uncertain, but Lancymark was ready for whatever came his way. He was a survivor, and he knew that he would always find a way to come out on top.
 
-***
-
-The Scam Unravels.
-
-Date: 10th June 2020.
-
+**The Scam Unravels**.  
+Date: 10th June 2020.  
 The plan had worked perfectly for the scammers. They had managed to get the World Bank funds, and the MSMEs were thriving with the liquidity. The salaried employees were happy with their salary hikes, and everything seemed to be going according to plan. But little did they know that their scam was about to unravel.
-
 It all started when a group of investigative journalists began to dig deeper into the pandemic numbers. They found out that the disease that was labeled as an epidemic was not as deadly as it was made out to be. They also discovered that the death toll was being manipulated to create panic among the people.
-
 The journalists published their findings, and soon the public was up in arms. They demanded answers, and the government had no choice but to investigate the matter. It didn't take long for them to uncover the scam.
-
 The scammers were arrested, and the funds were seized. The MSMEs were left to fend for themselves, and the salaried employees were left without their promised salary hikes. The public was outraged, and the government had a lot of explaining to do.
-
 But amidst all the chaos, there was one thing that remained constant - the love between two people. The couple from Lancymark had found solace in each other's arms, and nothing could break their bond. They had learned that in times of crisis, all that mattered was the people you loved.
-
 As the world tried to pick up the pieces, the couple held on to each other, knowing that they would always have each other's backs. The future was uncertain, but they were ready to face it together.
 
-***
-
-The Secret of Lancymark
-
+**The Secret of Lancymark**.  
 Lena had always been fascinated by the old abandoned mansion on the outskirts of town. The locals called it Lancymark, and whispered stories of its dark past. Some said it was cursed, others claimed it was haunted by the ghosts of its former occupants.
-
 One day, Lena decided to explore the mansion on her own. She sneaked past the rusty gates and made her way through the overgrown garden. As she approached the front door, she heard a faint whisper.
-
 "Let me in," the voice said.
-
 Lena froze. She looked around, but there was no one in sight. The voice spoke again, louder this time.
-
 "Let me in, Lena. I've been waiting for you."
-
 Lena's heart raced as she pushed open the creaky door. The inside of the mansion was dark and musty, and she could barely see anything. She took a step forward, and something brushed against her leg.
-
 She screamed and jumped back, but it was only a stray cat. She laughed nervously and continued exploring the mansion. As she climbed the stairs, she heard the whisper again.
-
 "Let me in, Lena. I have something to show you."
-
 Lena hesitated, but her curiosity got the better of her. She followed the voice to a locked room at the end of the hallway. She tried the handle, but it wouldn't budge.
-
 "Let me in," the voice said again.
-
 Lena closed her eyes and took a deep breath. She pushed against the door with all her might, and it finally gave way.
-
 Inside the room, she found an old book bound in leather. The pages were yellowed with age, and the writing was in a language she didn't recognize. As she flipped through the pages, she saw drawings of strange symbols and incantations.
-
 Suddenly, she heard a loud noise from downstairs. She quickly hid the book under her jacket and ran towards the exit. As she reached the front door, she saw a figure standing in the shadows.
-
 "Who are you?" she asked, her heart pounding.
-
 The figure stepped forward, revealing a man in a black robe. He had a sinister smile on his face.
-
 "I am the keeper of Lancymark," he said. "And you, my dear, have just discovered our little secret."
-
 Lena tried to run, but the man grabbed her by the arm. She felt a sharp pain in her neck, and everything went black.
-
 When she woke up, she was lying on the floor of the locked room. The book was gone, and so was the man in the black robe. Lena knew she had stumbled upon something dangerous, and she vowed to uncover the secret of Lancymark, no matter the cost.
 
-***
-
-The Inner Voice.
-
+**The Inner Voice**.  
 As Kushal sat in his temporary residence in Mumbai, he couldn't help but feel frustrated with the bureaucratic process of getting permission to travel back home. He had followed all the necessary steps, had all the required documents, and yet he was still stuck in limbo. He decided to take a walk to clear his mind.
-
 As he walked along the busy streets of Mumbai, he noticed the chaos around him. People rushing to get to work, vendors selling their wares, cars honking incessantly. But amidst all the noise, he heard a faint voice. It was his inner voice, telling him to trust himself and his decisions.
-
 Kushal realized that he had been ignoring his inner voice for far too long. He had always been a logical person, relying on facts and figures to make decisions. But he had forgotten that sometimes, the heart knows best.
-
 He decided to listen to his inner voice and take matters into his own hands. He went to the police station once again, armed with his documents and a newfound confidence. He spoke to the officers there, explaining his situation and pleading for their help. And this time, they listened.
-
 Within a few hours, Kushal had received the necessary permission to travel back home. As he boarded the bus, he felt a sense of relief wash over him. He had trusted his inner voice and it had led him to the right decision.
-
 From that day on, Kushal made a promise to himself to always listen to his inner voice. He knew that it would guide him towards the right path, even when he couldn't see it himself. And as he closed his eyes and leaned back against the bus seat, he felt a sense of peace wash over him. The chaos around him had faded away, and all he could hear was the gentle whisper of his inner voice.
 
-***
-
-The Sound of Silence.
-
+**The Sound of Silence**.  
 It was a quiet evening in Lancymark, a small town nestled in the countryside. The only sound that could be heard was the rustling of leaves in the wind and the occasional chirping of birds. But amidst this silence, there was a feeling of unease that hung in the air.
-
 Emily, a young woman who had recently moved to Lancymark, couldn't shake off this feeling. She had always been sensitive to her surroundings, and this town felt different. It was almost as if she could sense something lurking in the shadows.
-
 As she walked down the empty streets, she noticed a figure in the distance. It was a man, walking towards her. Emily quickened her pace, but the man seemed to be getting closer. She could hear his footsteps now, echoing in the silence.
-
 Suddenly, the man stopped in his tracks and turned around. Emily froze, unsure of what to do. But then, she noticed something strange. The man's face was covered by a mask, and he was holding a large bag.
-
 Emily's heart raced as she watched the man disappear into the darkness. She knew that something was not right, and she had to find out more.
-
 Over the next few days, Emily started to investigate the strange occurrences in Lancymark. She talked to the locals, visited the town archives, and even followed the man in the mask.
-
 What she discovered was shocking. The man was part of a group of thieves who were planning to rob the local bank. They had been using the silence of the town to plan their heist, and Emily had stumbled upon their plan.
-
 With the help of the police, Emily was able to foil the robbery and apprehend the thieves. The town of Lancymark was safe once again, and Emily had proven to herself that listening to her instincts was always the right thing to do.
-
 But even as she basked in the glory of her success, Emily couldn't shake off the feeling of unease that still lingered in the air. She knew that there was more to this town than met the eye, and she was determined to uncover its secrets.
 
-***
-
-The Art of Letting Go.
-
+**The Art of Letting Go**.  
 It was a warm summer evening when Maya sat on her balcony, staring at the sunset. She had been feeling lost lately, overwhelmed by the chaos of life. As she sipped her tea, she realized that she needed to let go of all the things that were holding her back.
-
 Maya had always been a planner, someone who liked to have control over every aspect of her life. But she had come to realize that life had its own plans, and sometimes the best thing to do was to let go and trust the universe.
-
 As she sat there, she made a list of all the things she needed to let go of. She needed to let go of her fear of failure, her need for validation from others, and her attachment to material possessions. She needed to let go of toxic relationships and negative thoughts that were holding her back.
-
 Maya knew that letting go wasn't going to be easy, but she was determined to do it. She started by decluttering her home, getting rid of things that no longer served a purpose. She also started practicing mindfulness and meditation, which helped her let go of negative thoughts and emotions.
-
 Slowly but surely, Maya started to feel lighter and more at peace. She realized that letting go wasn't about giving up, but about making space for new things to come into her life. She started to focus on the things that truly mattered to her, like spending time with loved ones, pursuing her passions, and being present in the moment.
-
 As the sun set on the horizon, Maya felt a sense of gratitude wash over her. She was grateful for the lessons she had learned, for the people in her life, and for the opportunity to start anew. She knew that letting go was a process, but she was ready to embrace it with open arms.
-
 Maya took a deep breath and whispered to herself, "Let go and trust the journey."
 
-**Anthologie - Type B**.
+**Anthologie - Type B**.  
 
-**Background music**.
-
+**Background music**.  
 There is this constant background music that comes to us in life. Most of it is the form of other people talking at us or other things around us that create sound or noise depending on the way you look at it. It is hard to pretend that these things do not bother us at work but the better way of doing things might be to say no. It is okay to ask for space. It is okay to ask for time.
-
 It is okay to be patient. It is okay to slow down. No matter that we try, in this life we should all believe in that story. The story which is probably the first story that you heard about. The story about the tortoise and the hare.
-
 The tortoise wins doesn't he/she? Well that my friends, is true even in life. Like one of my architects used to say, the slower you go, the longer things will last. Her rule applies even in everything. From dating to products. Everywhere.
-
 Background Music.
-
-There is this constant background music that comes to us in life. Most of it is the form of other people talking at us or other things around us that create sound or noise depending on the way you look at it. It is hard to pretend that these things do not bother us at work but the better way of doing things might be to say no. It is okay to ask for space. It is okay to ask for time.
-
-It is okay to be patient. It is okay to slow down. No matter that we try, in this life we should all believe in that story. The story which is probably the first story that you heard about. The story about the tortoise and the hare.
-
 The tortoise wins doesn’t he/she? Well that my friends, is true even in life. Like one of my architects used to say, the slower you go, the longer things will last. Her rule applies even in everything. From dating to products. Everywhere.
 
-**Balloons & bubbles**.
-
+**Balloons & bubbles**.  
 How do you change the name of a city? — You start with the local bus pass. Let’s be clear about this notion that what you see, and what you get are often not the best of what we will see happening in life. Most things revolve around to land nowhere. That, in fact, is a good thing. You can choose to bounce around in ecstatic motion for a certain number of years, only to have learned, grown, and prima facie, evolved. Evolution is the sole purpose of life. It is not progress, but paradigm shifts that challenge dogma, and act as catalysts to any decision making to the extent of being subconscious. If our lives are an one time event, we might as well be vulnerable, and prick ourselves, only to fly around the room like a balloon.
 
-Balloons & Bubbles.
-
-How do you change the name of a city? — You start with the local bus pass. Let’s be clear about this notion that what you see, and what you get are often not the best of what we will see happening in life. Most things revolve around to land nowhere. That, in fact, is a good thing. You can choose to bounce around in ecstatic motion for a certain number of years, only to have learned, grown, and prima facie, evolved. Evolution is the sole purpose of life. It is not progress, but paradigm shifts that challenge dogma, and act as catalysts to any decision making to the extent of being subconscious. If our lives are an one time event, we might as well be vulnerable, and prick ourselves, only to fly around the room like a balloon.
-
-**Bathroom door**.
-
+**Bathroom door**.  
 I opened the bathroom door, wondering what will my friends think about me if they discovered that one of the sober guys was doing it too. I mean getting more, and more involved in the whole prospect of the smoke.
-
 The other thought on my mind was, why do I always do things, say stuff, and act with the only question in my mind being: “what will they think of me?”
-
 Well that day, when I entered the bath, the only thing on my mind was “I want to smoke three cigarettes”.
-
 The mirror right in front of me, beckoned me to come talk to it. Do the same stuff, some power crazy, depressed maniac would does in the movies. Pep talk.
-
 But the second thought scared the shit out of me, when I could imagine it becoming a habit, and being able to let go of the habit.
-
 Letting Go. It brought me immediately next to my girl. Facing her, contemplating whether she might want to come back or I should give up the fight.
-
 Some voices outside brought me snapping back to reality. I looked at the toilet window, doing the math, which part of it should I close. My actions protecting the knowledge that my friend smokes; after all, it was his bathroom, his house, his mercy. I was a nobody. I had nothing.
-
 And for the first time in my life, I had nothing to lose as consequence of my actions. It felt sinister. It felt terrible.
-
 With my mind busy travelling a bizarre train of thought processes, my hand was busy trying out different combinations of letting the air out through the window.
-
 I got tired of the whole thing, and sat down on the sink, with my back to the mirror. The garden outside, still visible. The voices, still very much audible. I could see the window pane, the steel frame, green grass, the blank wall, the bright sunshine, and the things in my mind!
 
-Bathroom Door.
-
-I opened the bathroom door, wondering what will my friends think about me if they discovered that one of the sober guys was doing it too. I mean getting more, and more involved in the whole prospect of the smoke.
-
-The other thought on my mind was, why do I always do things, say stuff, and act with the only question in my mind being: “what will they think of me?”
-
-Well that day, when I entered the bath, the only thing on my mind was “I want to smoke three cigarettes”.
-
-The mirror right in front of me, beckoned me to come talk to it. Do the same stuff, some power crazy, depressed maniac would does in the movies. Pep talk.
-
-But the second thought scared the shit out of me, when I could imagine it becoming a habit, and being able to let go of the habit.
-
-Letting Go. It brought me immediately next to my girl. Facing her, contemplating whether she might want to come back or I should give up the fight.
-
-Some voices outside brought me snapping back to reality. I looked at the toilet window, doing the math, which part of it should I close. My actions protecting the knowledge that my friend smokes; after all, it was his bathroom, his house, his mercy. I was a nobody. I had nothing.
-
-And for the first time in my life, I had nothing to lose as consequence of my actions. It felt sinister. It felt terrible.
-
-With my mind busy travelling a bizarre train of thought processes, my hand was busy trying out different combinations of letting the air out through the window.
-
-I got tired of the whole thing, and sat down on the sink, with my back to the mirror. The garden outside, still visible. The voices, still very much audible. I could see the window pane, the steel frame, green grass, the blank wall, the bright sunshine, and the things in my mind!
-
-**Being supportive**.
-
+**Being supportive**.  
 What do you do if you travel to another city to spend time with your partner because she/he is sad. And she/he pushes you away, then asks you to wait for her/his birthday, and spend her/his birthday evening by going out with some other guy friend/girl friend who asked her/him for dinner at 8pm, and then say it's just drinks, and then come after dinner to do a small dinner post 10pm with you where he/she drops her/him and then your partner tells her/his friends that it was dinner, and you feel terribly sidelined? 
-
 What would you do?
 
-Being Supportive.
-
-What do you do if you travel to another city to spend time with your partner because she/he is sad. And she/he pushes you away, then asks you to wait for her/his birthday, and spend her/his birthday evening by going out with some other guy friend/girl friend who asked her/him for dinner at 8pm, and then say it’s just drinks, and then come after dinner to do a small dinner post 10pm with you where he/she drops her/him and then your partner tells her/his friends that it was dinner, and you feel terribly sidelined?
-
-What would you do?
-
-**Being torn**.
-
+**Being torn**.  
 Between a job or your own shop,
 Between money or that desire to hop,
 Even if it means that you might pretty much flop,
@@ -2094,266 +1021,91 @@ I am lost at making a decision dear,
 Between selling my craft, and saving my soul,
 Between things that might last, and a risky endeavour.
 
-Being Torn.
-
-Between a job or your own shop, Between money or that desire to hop, Even if it means that you might pretty much flop, Between being debt free, and poverty a top, Between a cage, and freedom of thoughts, Between what Jim Carrey said about his father, And what mom screams to you a lot, Between security, and your dreams of years, I am lost at making a decision dear, Between selling my craft, and saving my soul, Between things that might last, and a risky endeavour.
-
-**Being you**.
-
+**Being you**.  
 Life gives you exactly what you want. Have you ever noticed that ‘The Secret’ says: “Focus on what you want to happen. That’s all.” This means that if I were to focus on the kicker over, and over again, I would get exactly what I don’t want.
-
 But there again we are all sly in our own crooked ways. Have you ever realized that ‘what you don’t want’ is also a conscious choice? Knowing this, what if we try applying this bit of information? If I choose to not want happiness, then I will have an abundance of it. So why not? Why not choose to not want happiness, and live a life of content? The catch here is that I do not mean to choose ‘unhappiness’, ‘sorrow’, ‘I just don’t want to be happy’ — I just don’t want happiness. That specific. Happiness is temporary like everything else. Feeling content has permanence. You might lose everything in the process, but then you get to be as sly as the our politicians — in ways life be surprised, — be on the list of people the universe learns her tricks from, — you will realize what really matters, and who really stays. Do you see how until November 8th, there was this fairy tale like charm to the beginnings of the world. Post November 8th, there is an attitude of facing life situations with a harsh reality, not fantasy. You will be left with a choice of being sad, and grim OR you could look at these bright side of happenings, and life-could-be-a-dream.
-
 So then there are two sides to this coin. This might seem like the easy way, but then it is more of pretending that you don’t want something but liking it anyway when it comes to you. It is hard to keep doing this forever. You cannot lie to yourself and live with the fear that your thoughts affect your universe.
-
 First of all, you don’t have a universe. You have a bubble. We are all too small to make a lasting impact on the universe. Even a humpback whale is too small for the vast deep ocean. So even if the universe is helping you out, my guess is because no matter how big you are, you are still that whale.
-
 Secondly, no matter what happens or how anything makes you feel, life is just randomness at play — Just like this post and you are way better being true to yourself. Editing eats away a part of you. Be it writing, life or truth. “From a Mumbaikar’s perspective, American influence on his life just went from having a sense of Bandra to the menace of Harbour Line.”
 
-Being You.
-
-Life gives you exactly what you want. Have you ever noticed that ‘The Secret’ says: “Focus on what you want to happen. That’s all.” This means that if I were to focus on the kicker over, and over again, I would get exactly what I don’t want.
-
-But there again we are all sly in our own crooked ways. Have you ever realized that ‘what you don’t want’ is also a conscious choice? Knowing this, what if we try applying this bit of information? If I choose to not want happiness, then I will have an abundance of it. So why not? Why not choose to not want happiness, and live a life of content? The catch here is that I do not mean to choose ‘unhappiness’, ‘sorrow’, ‘I just don’t want to be happy’ — I just don’t want happiness. That specific. Happiness is temporary like everything else. Feeling content has permanence. You might lose everything in the process, but then you get to be as sly as the our politicians — in ways life be surprised, — be on the list of people the universe learns her tricks from, — you will realize what really matters, and who really stays. Do you see how until November 8th, there was this fairy tale like charm to the beginnings of the world. Post November 8th, there is an attitude of facing life situations with a harsh reality, not fantasy. You will be left with a choice of being sad, and grim OR you could look at these bright side of happenings, and life-could-be-a-dream.
-
-So then there are two sides to this coin. This might seem like the easy way, but then it is more of pretending that you don’t want something but liking it anyway when it comes to you. It is hard to keep doing this forever. You cannot lie to yourself and live with the fear that your thoughts affect your universe.
-
-First of all, you don’t have a universe. You have a bubble. We are all too small to make a lasting impact on the universe. Even a humpback whale is too small for the vast deep ocean. So even if the universe is helping you out, my guess is because no matter how big you are, you are still that whale.
-
-Secondly, no matter what happens or how anything makes you feel, life is just randomness at play — Just like this post and you are way better being true to yourself. Editing eats away a part of you. Be it writing, life or truth. “From a Mumbaikar’s perspective, American influence on his life just went from having a sense of Bandra to the menace of Harbour Line.”
-
-**Break**.
-
+**Break**.  
 Well I am thinking of taking a break from life, carrying the action camera i bought two years ago, and travelling through this country. vlog my way to travel. because somewhere i feel like: if i don't start living my daream life, then life might end before I begin.
 
-Break.
-
-Well I am thinking of taking a break from life, carrying the action camera i bought two years ago, and travelling through this country. vlog my way to travel. because somewhere i feel like: if i don’t start living my dream life, then life might end before I begin.
-
-**Breeze**.
-
+**Breeze**.  
 The most fun things to do, is to get up in the morning, and keep running. I have never found myself to be so lazy in my entire life until this quarantine. So far it has been quite an experience. well if you look at it I have barely been able to monetize most of the things that I have been working on but now many doors are opening up. Everything that I had worked on over the past 10 or 15 years have suddenly been a sought-after skill set that everyone wants to have but they have not put in the effort so they have no option but to hire someone like me.
-
 So all those years of learning and curiosity will now start to pay up. Which is very interesting to me because I never thought that this day would come. Almost everything from architecture to web design to venture capitalism 2 you just going out there and doing thanks has been the key for myself. Life is now breeze because I don't have to do a 9 to 5 job. Instead I can do a lot more monetarily by picking up these projects.
-
 Projects that are basically me trying to help other people solve their problems.
 
-Breeze.
-
-The most fun things to do, is to get up in the morning, and keep running. I have never found myself to be so lazy in my entire life until this quarantine. So far it has been quite an experience. well if you look at it I have barely been able to monetize most of the things that I have been working on but now many doors are opening up. Everything that I had worked on over the past 10 or 15 years have suddenly been a sought-after skill set that everyone wants to have but they have not put in the effort so they have no option but to hire someone like me.
-
-So, all those years of learning and curiosity will now start to pay up. Which is very interesting to me because I never thought that this day would come. Almost everything from architecture to web design to venture capitalism 2 you just going out there and doing thanks has been the key for myself. Life is now breeze because I don’t have to do a 9 to 5 job. Instead I can do a lot more monetarily by picking up these projects.
-
-Projects that are basically me trying to help other people solve their problems.
-
-**Brida 1**.
-
+**Brida 1**.  
 I wish there was a way to say or see the things that you are as I trod my favourite curve or see you limp on a path. There is so much for you to be so much for my words fall short but in you I see an angel in you I see a star as broken, and bruised you might be on you I see no scar. I see a glow that’s tender, innocent of the world afar, I see a joy so blissful, that my heart melts apart, and alone lies your blank stare that stops me in my tracks, and shows me how I blunder a search that I need not start.
 
-Brida 1.
-
-I wish there was a way to say or see the things that you are as I trod my favourite curve or see you limp on a path. There is so much for you to be so much for my words fall short but in you I see an angel in you I see a star as broken, and bruised you might be on you I see no scar. I see a glow that’s tender, innocent of the world afar, I see a joy so blissful, that my heart melts apart, and alone lies your blank stare that stops me in my tracks, and shows me how I blunder a search that I need not start.
-
-**Brida 2**.
-
+**Brida 2**.  
 I told you I am a filler but I have never told anyone what I think about myself, and to me it just means that I am stressed. And these thoughts are leaking in fragments, and I am telling them to you because I have never taken any one to theatre or a dining out too.
-
-Hell I have had many dates many more than men can count but to you I can pour my heart out. Hell I have had women ready with makeup, and all in the same room as me but I canned on them still such guts I have held but it all vanished when you were around.
-
-I have always felt like a filler some friends said it’s nothing but emotional baggage, and I have tried but in vain. I know cures to most things that trouble a human heart but an answer to this I cannot tell.
-
-I wished to see you romantically of course but then you are just 18 I am almost a decade older, and you wanted a friend. So I am trying to tell myself that I cannot do to you what I am looking for myself for ages since.
-
-I want a person just a person to crash but it’s a lot of emotional baggage attached. I have tried my best to keep this within me but the idea that scares me is that of regrets again.
-
-Of not telling you this, and parting away, and never know what it might be if things work a bit differently ages hence. I am so confused though my face doesn’t show I cannot see beyond you anymore.
-
-Most of my answers for life lie elsewhere but the thought of your absence pain me so much more. I am trying to hide it under the cloak of being friends, and I wish I can keep it that way but the pain hurts me to a point of numbness.
-
-I know we work together, and you have these rules I am praying that the next few weeks will be gentler to me. I wanted to tell you, all of this tomorrow but I was losing too many people, and beautiful lines than my mind can remember to share.
-
-So I am writing this down I am sorry again I wish you would understand I just want you to decide for us over my numb selfish mind doing the honours instead. I just want to be happy with what makes you stay for the idea of losing a friend hurts. It hurts beyond repair.
-
-For I have helped a million people in ways different but none of them have valued it, and thrown me away. I don’t seek attention maybe acceptance is the word but I don’t want to cry for it like this week again.
-
-It’s been so good of her to trust me with her shop, and her store but I don’t see what lies ahead. I am just so lost in an endless mystery but when it comes to the future I cannot see, anymore.
-
-Brida 2.
-
-I told you I am a filler but I have never told anyone what I think about myself, and to me it just means that I am stressed. And these thoughts are leaking in fragments, and I am telling them to you because I have never taken any one to theatre or a dining out too.
-
 Hell! I have had many dates many more than men can count but to you I can pour my heart out. Hell I have had women ready with makeup, and all in the same room as me but I canned on them still such guts I have held but it all vanished when you were around.
-
 I have always felt like a filler some friends said it’s nothing but emotional baggage, and I have tried but in vain. I know cures to most things that trouble a human heart but an answer to this I cannot tell.
-
 I wished to see you romantically of course but then you are just 18 I am almost a decade older, and you wanted a friend. So I am trying to tell myself that I cannot do to you what I am looking for myself for ages since.
-
 I want a person just a person to crash but it’s a lot of emotional baggage attached. I have tried my best to keep this within me but the idea that scares me is that of regrets again.
-
 Of not telling you this, and parting away, and never know what it might be if things work a bit differently ages hence. I am so confused though my face doesn’t show I cannot see beyond you anymore.
-
 Most of my answers for life lie elsewhere but the thought of your absence pain me so much more. I am trying to hide it under the cloak of being friends, and I wish I can keep it that way but the pain hurts me to a point of numbness.
-
 I know we work together, and you have these rules I am praying that the next few weeks will be gentler to me. I wanted to tell you, all of this tomorrow but I was losing too many people, and beautiful lines than my mind can remember to share.
-
 So, I am writing this down I am sorry again I wish you would understand I just want you to decide for us over my numb selfish mind doing the honours instead. I just want to be happy with what makes you stay for the idea of losing a friend hurts. It hurts beyond repair.
-
 For I have helped a million people in ways different but none of them have valued it, and thrown me away. I don’t seek attention maybe acceptance is the word but I don’t want to cry for it like this week again.
-
 It’s been so good of her to trust me with her shop, and her store but I don’t see what lies ahead. I am just so lost in an endless mystery but when it comes to the future I cannot see, anymore.
 
-**Bullets**.
-
+**Bullets**.  
 He shouted, “No Bro, Wait!” As he could see his silhouette disappear into the dim space. Just a street lamp to decorate the street. Make it look like an alley. He wanted to run into it, and feel alive.
-
 The panic in his heart set him free, froze his body as another chilled wind made him pause. To take it all in, and observe that pause, and capture the memory like a photograph before it faded away in the myriad of his neurons. He had too much to think, too much to sort through, and the anxiety was not helping him at all. Not a friend or a foe came to help him in his disruptive times. He was there for everyone meeting people, and finding friends again after 15 long years.
-
 But there he was all alone lonely when they put bullets into his heart.
 
-Bullets.
-
-He shouted, “No bro, wait!” As he could see his silhouette disappear into the dim space. Just a street lamp to decorate the street. Make it look like an alley. He wanted to run into it, and feel alive.
-
-The panic in his heart set him free, froze his body as another chilled wind made him pause. To take it all in, and observe that pause, and capture the memory like a photograph before it faded away in the myriad of his neurons. He had too much to think, too much to sort through, and the anxiety was not helping him at all. Not a friend or a foe came to help him in his disruptive times. He was there for everyone meeting people, and finding friends again after 15 long years.
-
-But there he was all alone lonely when they put bullets into his heart.
-
-**Bumble**.
-
+**Bumble**.  
 Well I matched with a girl on @bumble. She asked me out for the marine drive date. It was her idea entirely. So I went. This was a dating app date. Which she refused to call as a date. I met her for the first time. It was her first date on bumble. Second day on the app. In the middle of the night, she said she was sleepy, I am booking a cab back home.
-
 She said she is feeling dizzy. So I offered her water. Then she said she won’t drink water. Then she said she doesn’t like walking. Then she said she wants to go use a washroom. So I took her to Intercontinental to use their restaurant rest room. Then on the way there she said she is on her second day of her periods. Which I honestly don’t know whether to believe or not. Her argument was that she was uncomfortable because of the periods. So it was right on her part to leave midway.
-
 Which is okay I guess. But planning an all nighter during your periods is a no go na. So I agreed when she said she wants to book a cab and leave for home. So I was left with nothing to do but wait it out at marine drive for 5 hours. So I hitched a ride in her cab to Andheri because I knew I would get smokes and tea there. I bought smokes. I had a cup of tea and the cops drove this cyclewala away. I hate such women. When they quit on their own plans after its made clear that something like this will leave me stuck in the middle of the night. Half of me is angry on myself for taking a chance on someone planning an all nighter at marine drive again.
-
 I will probably never take a chance on anyone again. That night was so Deja Vu. I wish I had a better judgement of people after all the people I have met. I am now going to run my red flags for people without any leniency. I will probably sell my books on Instagram.
-
 She reconnected in 2020, and she confessed that she had lied about being on her chums. We decided to date but she quit that chapter because I did not apply for a government job.
 
-Bumble.
+**Anthologie - Type C**.  
 
-Well I matched with a girl on @bumble. She asked me out for the marine drive date. It was her idea entirely. So I went. This was a dating app date. Which she refused to call as a date. I met her for the first time. It was her first date on bumble. Second day on the app. In the middle of the night, she said she was sleepy, I am booking a cab back home.
-
-She said she is feeling dizzy. So I offered her water. Then she said she won’t drink water. Then she said she doesn’t like walking. Then she said she wants to go use a washroom. So I took her to Intercontinental to use their restaurant rest room. Then on the way there she said she is on her second day of her periods. Which I honestly don’t know whether to believe or not. Her argument was that she was uncomfortable because of the periods. So it was right on her part to leave midway.
-
-Which is okay I guess. But planning an all nighter during your periods is a no go na. So I agreed when she said she wants to book a cab and leave for home. So I was left with nothing to do but wait it out at marine drive for 5 hours. So I hitched a ride in her cab to Andheri because I knew I would get smokes and tea there. I bought smokes. I had a cup of tea and the cops drove this cyclewala away. I hate such women. When they quit on their own plans after its made clear that something like this will leave me stuck in the middle of the night. Half of me is angry on myself for taking a chance on someone planning an all nighter at marine drive again.
-
-I will probably never take a chance on anyone again. That night was so Deja Vu. I wish I had a better judgement of people after all the people I have met. I am now going to run my red flags for people without any leniency. I will probably sell my books on Instagram.
-
-She reconnected in 2020, and she confessed that she had lied about being on her chums. We decided to date but she quit that chapter because I did not apply for a government job.
-
-**Anthologie - Type C**.
-
-**Cadbury**.
-
+**Cadbury**.  
 A smile turned into a frown as he expected some love to stay;  
 for losing a like and a request on Instagram meant more to him than his girl making chocolate milkshake.
 
-Cadbury.
-
-A smile turned into a frown as he expected some love to stay;
-for losing a like and a request on Instagram meant more to him than his girl making chocolate milkshake.
-
-**Caffeine**.
-
+**Caffeine**.  
 When you have balls
 That seem to erode nicotine
 Pass through the smoke
 Don’t settle for caffeine.
 
-Caffeine.
-
-When you have balls 
-That seem to erode nicotine 
-Pass through the smoke 
-Don’t settle for caffeine.
-
-**Canciones de un incendio**.
-
-Que todavía se hablan, si usted sabía que yo no podía oír de usted? Supongo que lo haría, y por lo tanto sería I. Sus huellas se borran, por el aullido de los vientos; Y, sin embargo, usted respira canciones de en el aire que nunca se me va a tragar, Y yo todavía grabar su nombre en las piedras que nunca de la banda de rodadura.
-
-Canciones De Un Incendio.
-
+**Canciones de un incendio**.  
 Que todavía se hablan, si usted sabía que yo no podía oír de usted? Supongo que lo haría, y por lo tanto sería I. Sus huellas se borran, por el aullido de los vientos; Y, sin embargo, usted respira canciones de en el aire que nunca se me va a tragar, Y yo todavía grabar su nombre en las piedras que nunca de la banda de rodadura.
 
 Songs of a Fire.
-
 Would you still talk if you knew that I couldn't hear from you? I suppose it would, and therefore it would be I. Their tracks are erased, by the howling of the winds; And yet you breathe songs in the air that will never swallow me, And I will still carve your name into the stones that never tread.
 
 **Can you?**
-
 Can you catch up tonight? or my imagination, is gonna burn my memory. Can we sit by the drive? or a soothing temptation, is gonna rape my melody. Can I see you in a different light? or my poetic expression, is gonna lose all theory. Can’t the world say goodbye? ‘coz in you my heart, has found my everything.
 
-Can you?
-
-Can you catch up tonight? or my imagination, is gonna burn my memory. Can we sit by the drive? or a soothing temptation, is gonna rape my melody. Can I see you in a different light? or my poetic expression, is gonna lose all theory. Can’t the world say goodbye? ‘coz in you my heart, has found my everything.
-
-**Chance**.
-
+**Chance**.  
 From a tiresome decision to another chore take a chance someday. Follow your original detour this might backfire pretty much the same but you won’t have regrets on any other day.
 
-Chance.
-
-From a tiresome decision to another chore take a chance someday. Follow your original detour this might backfire pretty much the same but you won’t have regrets on any other day.
-
-**Circles**.
-
+**Circles**.  
 I think this is one of the rare posts agar aap not asked question before beginning to talk about it. I mean within this lockdown. Soyabean trying to not pick a topic and write a lot about it. The only trouble with this approach is that when I don't have a cold to talk about I end up wasting time trying to find a topic to write about or I end up looking at different ideas running parallel or intersecting each other or I just end up going around in circles. no matter how I look at this problem I will think I will need a group of people who will be able to suggest different topics that I can contribute to in the form of writing.
-
 Or maybe I can build a pool of words that I can pick at random and write about. Honestly speaking I think it would be great to be able to get suggestions of topics. This is something like what the haikujam app does. But I agree that their idea is a slight variation of what an actual haiku is. But it's a good thing to learn from something that might not be creating the best of its own craft.
-
 Learning again then becomes a byproduct of making mistakes by going around in circles.
 
-Circles.
-
-I think this is one of the rare posts agar aap not asked question before beginning to talk about it. I mean within this lockdown. Soyabean trying to not pick a topic and write a lot about it. The only trouble with this approach is that when I don’t have a cold to talk about I end up wasting time trying to find a topic to write about or I end up looking at different ideas running parallel or intersecting each other or I just end up going around in circles. no matter how I look at this problem I will think I will need a group of people who will be able to suggest different topics that I can contribute to in the form of writing.
-
-Or maybe I can build a pool of words that I can pick at random and write about. Honestly speaking I think it would be great to be able to get suggestions of topics. This is something like what the haikujam app does. But I agree that their idea is a slight variation of what an actual haiku is. But it’s a good thing to learn from something that might not be creating the best of its own craft.
-
-Learning again then becomes a byproduct of making mistakes by going around in circles.
-
-**Clocks**.
-
+**Clocks**.  
 When you are working from 8 PM to 4 AM every night, it is hard to realize how much of the news you are missing. I did not realize what the UK, and EU were upto until one of my colleagues popped the tripling of google searches on the topic, 17 hours after the vote was cast. Sometimes I feel that was a stupid thing to do. But maybe they were all being smart by checking for changes on the www. The point is I don’t think keeping the know how of the news is important enough.
-
 If it matters to you, your friends, and family will tell you about it. People in most of the places I have been to work complained about the amount of attention my work received. I should focus more on resting they said. But have you ever given it a thought? If you are going to an office, you are going there to create something, maybe destroy something — once I worked at a cafe where they taught me how to peel of oranges beautifully, they said.
-
 How sad! I love oranges. That was pure destruction. I quit in a week — but you go there to get something done. Isn’t it obvious that you don’t stop until it gets done? Where did these ideas of rest for the sake of closing time come from? Blame the Industrial revolution for it.
-
 Most of us wait on the clock for that bell. I believe that by noon, most of us forget that they woke up this morning for bringing in the light. Most of us forget that they got out of that bed for a reason. But the few who remember don’t get to the sack until they are done. How much do you work?
-
 How many hours of a week do you put in? These questions hardly make any sense when to a few of us. The ones I met did not wear watches. They would ignore the artificial sense of time, and go from one task to another. They would rest when they were waiting for updates.
-
 Things like someone on the team sleeping the night away would annoy them. Sometimes I think this is idiotic. But then if you look at the progress they made towards things like financial freedom was phenomenal. These people did not work with the world’s dogma of a clock. They ran a measure of time beyond the cycle of days, and nights, but one that was defined by project deadlines.
-
 Projects that were defined not by the money they made, but by progress. Progress towards living life without having to work for the rest of it. Astonishingly, most of these people are kids. 21 or so in age. And they are travelling, the world, unbound.
 
-Clocks.
-
-When you are working from 8 PM to 4 AM every night, it is hard to realize how much of the news you are missing. I did not realize what the UK, and EU were upto until one of my colleagues popped the tripling of google searches on the topic, 17 hours after the vote was cast. Sometimes I feel that was a stupid thing to do. But maybe they were all being smart by checking for changes on the www. The point is I don’t think keeping the know how of the news is important enough.
-
-If it matters to you, your friends, and family will tell you about it. People in most of the places I have been to work complained about the amount of attention my work received. I should focus more on resting they said. But have you ever given it a thought? If you are going to an office, you are going there to create something, maybe destroy something — once I worked at a cafe where they taught me how to peel of oranges beautifully, they said.
-
-How sad! I love oranges. That was pure destruction. I quit in a week — but you go there to get something done. Isn’t it obvious that you don’t stop until it gets done? Where did these ideas of rest for the sake of closing time come from? Blame the Industrial revolution for it.
-
-Most of us wait on the clock for that bell. I believe that by noon, most of us forget that they woke up this morning for bringing in the light. Most of us forget that they got out of that bed for a reason. But the few who remember don’t get to the sack until they are done. How much do you work?
-
-How many hours of a week do you put in? These questions hardly make any sense when to a few of us. The ones I met did not wear watches. They would ignore the artificial sense of time, and go from one task to another. They would rest when they were waiting for updates.
-
-Things like someone on the team sleeping the night away would annoy them. Sometimes I think this is idiotic. But then if you look at the progress they made towards things like financial freedom was phenomenal. These people did not work with the world’s dogma of a clock. They ran a measure of time beyond the cycle of days, and nights, but one that was defined by project deadlines.
-
-Projects that were defined not by the money they made, but by progress. Progress towards living life without having to work for the rest of it. Astonishingly, most of these people are kids. 21 or so in age. And they are travelling, the world, unbound.
-
-**Closer**.
-
+**Closer**.  
 She heard a teardrop for she could now see all the vile things that drew her closer to him, and his voice seemed cropped, crippled by her teardrops.
 
-Closer.
-
-She heard a teardrop for she could now see all the vile things that drew her closer to him, and his voice seemed cropped, crippled by her teardrops.
-
-**C’mon**.
-
+**C’mon**.  
 Step up to the unknown, it’s beautiful inside
 With beach sand flowing, into the high tide,
 These moments disappear, with a frightful force,
@@ -2362,49 +1114,20 @@ Little to be lost, staring at the horizon behind,
 Within a cloud of seamist, lies the unknown,
 Beckoning my soul, to the depths of an ocean,
 Cries of seagulls, and a big shoal.
-
 C’mon, C’mon, C’mon.
 
-C’mon.
-
-Step up to the unknown, it’s beautiful inside With beach sand flowing, into the high tide, These moments disappear, with a frightful force, Every cop patrolling, these sands last night, Little to be lost, staring at the horizon behind, Within a cloud of seamist, lies the unknown, Beckoning my soul, to the depths of an ocean, Cries of seagulls, and a big shoal.
-
-C’mon, C’mon, C’mon.
-
-**Coffee**.
-
+**Coffee**.  
 Is it time for some coffee already?
-
 It might be sort of very annoying for a lot of us to figure out how do we tackle this ongoing economic crisis that the entire planet probably is facing. Now I don't have an answer for that but I can share something from my past experience which might make some sense to solving your own personal economic crisis. The mistake that I have often done is to stop myself from contributing to the one single task that gives me any kind of returns. Has social beings, we measure returns by their size, or scale, or something else that affects the amount of respect our peers grant us. This outlook is a mistake.
-
 A better thing to do would be to find something that is non zero. Find anything that is giving you a return that is not zero. And then triple down your effort on that one single thing. Your efforts will keep generating returns that keep compounding if you are consistent. This consistent effort that generates a non-zero return is the answer to solve your own personal economic crisis.
 
-Coffee.
-
-Is it time for some coffee already?
-
-It might be sort of very annoying for a lot of us to figure out how do we tackle this ongoing economic crisis that the entire planet probably is facing. Now I don’t have an answer for that but I can share something from my past experience which might make some sense to solving your own personal economic crisis. The mistake that I have often done is to stop myself from contributing to the one single task that gives me any kind of returns. Has social beings, we measure returns by their size, or scale, or something else that affects the amount of respect our peers grant us. This outlook is a mistake.
-
-A better thing to do would be to find something that is non zero. Find anything that is giving you a return that is not zero. And then triple down your effort on that one single thing. Your efforts will keep generating returns that keep compounding if you are consistent. This consistent effort that generates a non-zero return is the answer to solve your own personal economic crisis.
-
-**Collective**.
-
+**Collective**.  
 Some things in life need a lot more rhythm to it than you can beat. And that’s okay. So today I went to a movie screening. There were thoughts being shared about collective work in the city. About how the people collectively make a city without any formal inspiration. Now I have a question. If the boundaries are to be dissolved, and the city becomes an ocean of collaboration, where, and how does one creative mind find individuality OR Identity of a creative expression? Does anybody have any thoughts?
 
-Collective.
-
-Some things in life need a lot more rhythm to it than you can beat. And that’s okay. So today I went to a movie screening. There were thoughts being shared about collective work in the city. About how the people collectively make a city without any formal inspiration. Now I have a question. If the boundaries are to be dissolved, and the city becomes an ocean of collaboration, where, and how does one creative mind find individuality OR Identity of a creative expression? Does anybody have any thoughts?
-
-**Competition 10000**.
-
+**Competition 10000**.  
 I want to taken hear you but I think the emails to write about a 10000 articles on typewriter and that's all. Mishal Thomas 2018 new achieve something as naturopathy feel it from you very very standpoint you thank you know that the whole. Of it American want to build something take out of nothing comes by twins why do they say goodbye. For that's great things come when small great things happen with small things come together something about nature is interesting but do you know there was a friend of mine who have this from your friend when he was in his master's course from there in the lage in architecture in the blanks and this is goal is to comment proposed on the sketch on the wall everyday and she do this on on on on on on for many days and soon atikraman stand seat cover the entire wallet always sketches the whole idea that we can actually learn from this example on this incident was that she started of the one small thing in which collector of it and that you need all the reference competition I am putting out right now on typewriter for everybody out here is to have as many post has taken the logic is this view of the current situation and nobody has means to on anything if you are corporate job is great for you but you cannot make operator job in a physical state forward to come to normal and 117 normalises additional see you will be able to then you know that are something else office so so what I am currently right now is to see that I want to to see for example forget about to write five articles and makeup 200% and 200 courses pay me about 10 rupees a day I want to make 10 lakh from different to make like to 10000 rupees 80 have to do ten thousand times no right then 10,000 10,000 10,000 so I have to write about thousand times more and I'm not saying everyday just one time thing you write an articles explicitly means how much tall man in the political. Limit on the textbox I think you is it now this no limit so you get me 5 articles get you 10 rupees then get 10,000 10,000 rupees you need to write how many articles to write 10,000 by 5 is equal to mm 10000 by 10,000 into 500 5,000 articles then you get about 10000 rupees a day bad number to have as passive income ideas with that number is not reach 2018 the charcoal 5000 if you understand what I am doing I so I am using Google voice input right now that's why everything is good but if you understand then find you I am trying to increase the space of national 28 articles in stock broking and furious by using voice to text instead of typing my let me letters out this is me be faster than you and that see who gets there was no matter who gets the first just being a part of this process is going to be this platform and where all can get paid and get money to make sure country's economy its fact no thank you so much for opportunity of people in this app wish something happens of this all the best wishes to all of you.
 
-Competition 10000.
-
-I want to taken hear you but I think the emails to write about a 10000 articles on typewriter and that’s all. Mishal Thomas 2018 new achieve something as naturopathy feel it from you very very standpoint you thank you know that the whole. Of it American want to build something take out of nothing comes by twins why do they say goodbye. For that’s great things come when small great things happen with small things come together something about nature is interesting but do you know there was a friend of mine who have this from your friend when he was in his master’s course from there in the lage in architecture in the blanks and this is goal is to comment proposed on the sketch on the wall everyday and she do this on on on on on on for many days and soon atikraman stand seat cover the entire wallet always sketches the whole idea that we can actually learn from this example on this incident was that she started of the one small thing in which collector of it and that you need all the reference competition I am putting out right now on typewriter for everybody out here is to have as many post has taken the logic is this view of the current situation and nobody has means to on anything if you are corporate job is great for you but you cannot make operator job in a physical state forward to come to normal and 117 normalises additional see you will be able to then you know that are something else office so so what I am currently right now is to see that I want to to see for example forget about to write five articles and makeup 200% and 200 courses pay me about 10 rupees a day I want to make 10 lakh from different to make like to 10000 rupees 80 have to do ten thousand times no right then 10,000 10,000 10,000 so I have to write about thousand times more and I’m not saying everyday just one time thing you write an articles explicitly means how much tall man in the political. Limit on the textbox I think you is it now this no limit so you get me 5 articles get you 10 rupees then get 10,000 10,000 rupees you need to write how many articles to write 10,000 by 5 is equal to mm 10000 by 10,000 into 500 5,000 articles then you get about 10000 rupees a day bad number to have as passive income ideas with that number is not reach 2018 the charcoal 5000 if you understand what I am doing I so I am using Google voice input right now that’s why everything is good but if you understand then find you I am trying to increase the space of national 28 articles in stock broking and furious by using voice to text instead of typing my let me letters out this is me be faster than you and that see who gets there was no matter who gets the first just being a part of this process is going to be this platform and where all can get paid and get money to make sure country’s economy its fact no thank you so much for opportunity of people in this app wish something happens of this all the best wishes to all of you.
-
-**Components of a trading plan**.
-
+**Components of a trading plan**.  
 Components of a trading plan includes:
 - Setting a time of day to trade
 - Risk management - % per trade
@@ -2414,1666 +1137,504 @@ Components of a trading plan includes:
 - Monthly % return
 - Assets to trade
 - Defined trading strategy
-
 Make it personal to your goals and refer to your trading plan daily.
 
-Components Of A Trading Plan.
-
-Components of a trading plan includes:
-
-Setting a time of day to trade
-
-Risk management - % per trade
-
-Number of trades per day
-
-Daily target
-
-Starting capital
-
-Monthly % return
-
-Assets to trade
-
-Defined trading strategy
-
-Make it personal to your goals and refer to your trading plan daily.
-
-**Condescending**.
-
+**Condescending**.  
 All they want,  
 Is to be heard;  
 Give them a voice,  
 And they will make you a God.
 
-**Consistency**.
-
-**Consistency I**.
-
+**Consistency**.  
+**Consistency I**.  
 Do you know how powerful consistency is?
-
 Like I said in the previously, compounding is a hedge against failing at consistency. This is because aa... let me tell you a story.
-
 There was an article on medium.com a few years ago. This article was by this guy called James Clear. well I read it at first and then I could never find it again I bookmarked it but it was taken down for some obscure reason which is still not clear to me yet. so let me just tell you just talk something I have learnt from it and let me add some of my own thoughts to it.
-
 The whole idea behind James article was finding the what the why and how of how we succeed in life and can keep at it. One of my teachers from school used to tell me that getting to the first rank is easy. The difficult part is staying first throughout your schooling life. And I think James's article answered how to do that.
-
 So there is a rule that I am assuming you must be very well aware of. It is called the Pareto principle. in simple terms it mean stack 20% of the effort that you put will give you 80% of the results that you get. Now Pareto who was in Italian economist who had a pea garden.
-
 In his story, Pareto discovered his rule by observing that 20% of the pea pods where producing 80% of his peas. And then he observed this ratio in almost everything in life and which is how he came to to publish the Pareto principle.
-
 What James did is exactly the same thing. James Clear planted a pee garden. But in an attempt to document and verify or understand the Pareto principle, James also installed cameras to take pictures of his pee garden. and James did not take the pictures from the top instead he took them from the side.
-
 As a result what James observed was that the speed of the pea pods that give him most of his peas wood grow sharply when they were closer to the height of all the plants around them. And they would continue to grow slowly when they weren't close to the height of any of the other pea pods around them.
-
 Now a plant needs three things to grow that James could not control. Light, good soil, and air. James could water all of them equally, but he could not control how much light a particular pod would get. He could not control how much of the nutrients that particular pod would absorb from the soil, and he could not control how much of the oxygen in the air around them would a pod take.
-
 But in his observation, James showcased with photographic proof that the parts that give him most of his produce would grow at a sharply fast speed when they were closer to the height of all the plants around them.
-
-I am continuing this in the next chapter.
-
-Consistency I.
-
-Do you know how powerful consistency is?
-
-Like I said in the previously, compounding is a hedge against failing at consistency. This is because aa… let me tell you a story.
-
-There was an article on medium.com a few years ago. This article was by this guy called James Clear. well I read it at first and then I could never find it again I bookmarked it but it was taken down for some obscure reason which is still not clear to me yet. so let me just tell you just talk something I have learnt from it and let me add some of my own thoughts to it.
-
-The whole idea behind James article was finding the what the why and how of how we succeed in life and can keep at it. One of my teachers from school used to tell me that getting to the first rank is easy. The difficult part is staying first throughout your schooling life. And I think James’s article answered how to do that.
-
-So there is a rule that I am assuming you must be very well aware of. It is called the Pareto principle. in simple terms it mean stack 20% of the effort that you put will give you 80% of the results that you get. Now Pareto who was in Italian economist who had a pea garden.
-
-In his story, Pareto discovered his rule by observing that 20% of the pea pods where producing 80% of his peas. And then he observed this ratio in almost everything in life and which is how he came to to publish the Pareto principle.
-
-What James did is exactly the same thing. James Clear planted a pee garden. But in an attempt to document and verify or understand the Pareto principle, James also installed cameras to take pictures of his pee garden. and James did not take the pictures from the top instead he took them from the side.
-
-As a result what James observed was that the speed of the pea pods that give him most of his peas wood grow sharply when they were closer to the height of all the plants around them. And they would continue to grow slowly when they weren’t close to the height of any of the other pea pods around them.
-
-Now a plant needs three things to grow that James could not control. Light, good soil, and air. James could water all of them equally, but he could not control how much light a particular pod would get. He could not control how much of the nutrients that particular pod would absorb from the soil, and he could not control how much of the oxygen in the air around them would a pod take.
-
-But in his observation, James showcased with photographic proof that the parts that give him most of his produce would grow at a sharply fast speed when they were closer to the height of all the plants around them.
-
 I am continuing this in the next chapter.
 
 **Consistency II.**
-
-Do you know how powerful consistency is?
-
 Continuing from the previous chapter, what James inferred was that in the human perspective this is how things would play.
-
 Now imagine an Olympic race or rather an Olympic swimming contest. This is what James called "The Winner Takes It All" syndrome. In an Olympic contest the difference between a winner and the person who comes as a runner up, can be defined by a split microsecond. But the reward that someone who comes second gets is nothing. Zero. Zilch... compared to the report that the winner gets. The winner will get better coaching better sponsorships better events better leagues the gold ofcourse and other things that come with winning. Which means that now the winner is in a position to compete better. 
-
 You have to remember that the winner is being able to get all the goodstuff due to a slight difference in performance. Which means that the winner has to be slightly better in every race when compared to all his competitors to keep up on this winning spiral.
-
 Now in a very common real world scenario that is you and me. For us, it means that next time you go to a job interview, you don't have to be the best in class or the gold medalist at the university or the best in your field to crack the job interview. All you have to do, is to be slightly again slightly better than the other applicants.
-
 Remember "slightly".
-
 I will continue this in the next chapter.
 
-Consistency II.
-
-Do you know how powerful consistency is?
-
-Continuing from the previous chapter, what James inferred was that in the human perspective this is how things would play.
-
-Now imagine an Olympic race or rather an Olympic swimming contest. This is what James called “The Winner Takes It All” syndrome. In an Olympic contest the difference between a winner and the person who comes as a runner up, can be defined by a split microsecond. But the reward that someone who comes second gets is nothing. Zero. Zilch… compared to the report that the winner gets. The winner will get better coaching better sponsorships better events better leagues the gold ofcourse and other things that come with winning. Which means that now the winner is in a position to compete better.
-
-You have to remember that the winner is being able to get all the goodstuff due to a slight difference in performance. Which means that the winner has to be slightly better in every race when compared to all his competitors to keep up on this winning spiral.
-
-Now in a very common real world scenario that is you and me. For us, it means that next time you go to a job interview, you don’t have to be the best in class or the gold medalist at the university or the best in your field to crack the job interview. All you have to do, is to be slightly again slightly better than the other applicants.
-
-Remember “slightly”.
-
-I will continue this in the next chapter.
-
-**Consistency III**.
-
-Do you know how powerful consistency is?
-
+**Consistency III**.  
 Continuing from the previous chapter. Remember "slightly"? That is the key to understand how the Pareto principle works.
-
 Now in my understanding the thing that you will learn in this chapter is one of the best takeaways from James Clear's work. It is the "Why?" of the Pareto principle.
-
 Why does the Pareto principle work?
-
 This is sort of a long story, but the answer lies here. Here's how. There was a guy called Denis Diderot. His greatest contribution towards is that he is the sole author of the original encyclopaedia. He was a French Man and he led a very poor life. Until the queen of France appointed him as the chief librarian of France. She also gave him a monthly stipend for his simple lifestyle. All was well until one day some aristocrat gave Denis a purple robe.
-
 The purple robe. It is very popular as a story. Diderot fell in love with his robe. One day, a famous French painter made a painting of Denis Diderot and his purple robe. As a result, Diderot noticed how all his other belongings would appear dull, grim, and poor in comparison to his royal robe. 
-
 So he started spending his money on buying things that would go well with the robe. Soon enough he ran out of money. On knowing that her chief librarian has gone broke, the queen of France did it again. She gave him a lot of wealth again.
-
 Diderot started spending his wealth again. To cut the long story short, soon enough, Denis Diderot's robe appeared dull, grim and poor in comparison to his other belongings. Diderot went broke for the second time.
-
 This is popularly known as the Diderot effect.
-
 Remember "the Diderot effect". I will continue in the next chapter.
 
-Consistency III.
-
-Do you know how powerful consistency is?
-
-Continuing from the previous chapter. Remember “slightly”? That is the key to understand how the Pareto principle works.
-
-Now in my understanding the thing that you will learn in this chapter is one of the best takeaways from James Clear’s work. It is the “Why?” of the Pareto principle.
-
-Why does the Pareto principle work?
-
-This is sort of a long story, but the answer lies here. Here’s how. There was a guy called Denis Diderot. His greatest contribution towards is that he is the sole author of the original encyclopaedia. He was a French Man and he led a very poor life. Until the queen of France appointed him as the chief librarian of France. She also gave him a monthly stipend for his simple lifestyle. All was well until one day some aristocrat gave Denis a purple robe.
-
-The purple robe. It is very popular as a story. Diderot fell in love with his robe. One day, a famous French painter made a painting of Denis Diderot and his purple robe. As a result, Diderot noticed how all his other belongings would appear dull, grim, and poor in comparison to his royal robe.
-
-So he started spending his money on buying things that would go well with the robe. Soon enough he ran out of money. On knowing that her chief librarian has gone broke, the queen of France did it again. She gave him a lot of wealth again.
-
-Diderot started spending his wealth again. To cut the long story short, soon enough, Denis Diderot’s robe appeared dull, grim and poor in comparison to his other belongings. Diderot went broke for the second time.
-
-This is popularly known as the Diderot effect.
-
-Remember “the Diderot effect”. I will continue in the next chapter.
-
-**Consistency IV**.
-
-Do you know how powerful consistency is?
-
+**Consistency IV**.  
 Remember "the Diderot effect"? Continuing from the previous chapter. This is what the takeaway from it is.
-
 Why does the Diderot effect work?
-
 When you give something you are also setting yourself up to give a bit more of yourself. For example, when you buy running shoes because you want to go running every morning, from reasons varying from, " looks cool" to "you want to say healthy": you are also setting yourself up to spend on the socks, your shorts, your running Jersey, and maybe an iPod because duh music!
-
 This is what happened with Denis Diderot.
-
 What you see is the backward spiral of "The Winner Takes It All" effect/syndrome. It also happens with slight changes but in the wrong direction. Remember slightly" from the first chapter about consistency?
-
 It is important to know that when you enter any spiral good or bad, your journey on it will often continue due to slight changes that you make. This will continue to the point when you are at your worst. Yes, the good news is that even the backward spiral has a limit.
-
 When anything you do will be better than everything you have done so far. This means that whatever you do next will mark a shift in progress in the forward direction.
-
 The takeaway (from chapters 1, 2, and 3 of this article) is that the defining quality which keeps a spiral going forward to backward to again forward, is the consistency with which you make slight progress in any direction.
-
 Consistency can solely chart your journey through life at a positive beginning or a negative ending or at a negative beginning and positive ending or any end result that you would like to reach.
-
 If you understand this then all you know that you have to keep creating and making an effort. Good or bad doesn't matter. After all everything is like a sine wave. The general law of nature is that whatever goes up has to come down, and whatever goes down will come up.
 
-Consistency IV.
-
-Do you know how powerful consistency is?
-
-Remember “the Diderot effect”? Continuing from the previous chapter. This is what the takeaway from it is.
-
-Why does the Diderot effect work?
-
-When you give something you are also setting yourself up to give a bit more of yourself. For example, when you buy running shoes because you want to go running every morning, from reasons varying from, “ looks cool” to “you want to say healthy”: you are also setting yourself up to spend on the socks, your shorts, your running Jersey, and maybe an iPod because duh music!
-
-This is what happened with Denis Diderot.
-
-What you see is the backward spiral of “The Winner Takes It All” effect/syndrome. It also happens with slight changes but in the wrong direction. Remember slightly” from the first chapter about consistency?
-
-Itis important to know that when you enter any spiral good or bad, your journey on it will often continue due to slight changes that you make. This will continue to the point when you are at your worst. Yes, the good news is that even the backward spiral has a limit.
-
-When anything you do will be better than everything you have done so far. This means that whatever you do next will mark a shift in progress in the forward direction.
-
-The takeaway (from chapters 1, 2, and 3 of this article) is that the defining quality which keeps a spiral going forward to backward to again forward, is the consistency with which you make slight progress in any direction.
-
-Consistency can solely chart your journey through life at a positive beginning or a negative ending or at a negative beginning and positive ending or any end result that you would like to reach.
-
-If you understand this then all you know that you have to keep creating and making an effort. Good or bad doesn’t matter. After all everything is like a sine wave. The general law of nature is that whatever goes up has to come down, and whatever goes down will come up.
-
-**Content creation for architects**.
-
+**Content creation for architects**.  
 I think you are thinking old school where the only way information would flow would be through peer recommendation. This is the internet age. You are as good as your content. Regardless of who thinks what. As long as the content you put out is universally true, you are good enough.
-
 A[1. Make a post,
 2. Repeat 1,
 3. Repeat 2,
 4. Repeat 3, and so on], B[...], C[...], and so on beyond Z[...], AA[...], AB[...], AC[...], and so on.
-
 If you then pick the best of your thoughts between A[...], B[...], C[...], and so on... to compile books A[...], B[...], C[...], and so on... you will have enough for the credibility you are looking for.
 
-Content Creation For Architects.
-
-I think you are thinking old school where the only way information would flow would be through peer recommendation. This is the internet age. You are as good as your content. Regardless of who thinks what. As long as the content you put out is universally true, you are good enough.
-
-A[1. Make a post,
-
-Repeat 1,
-
-Repeat 2,
-
-Repeat 3, and so on], B[…], C[…], and so on beyond Z[…], AA[…], AB[…], AC[…], and so on.
-
-If you then pick the best of your thoughts between A[…], B[…], C[…], and so on… to compile books A[…], B[…], C[…], and so on… you will have enough for the credibility you are looking for.
-
-**Continuity**.
-
+**Continuity**.  
 To help us go down memory lane, to crave a feeling of nostalgia. Even if as we speak of many memories that buildings evoke. There is nothing more than reflection to be found in those moments. It may be hard to accept as certain spaces evolve, but after all time changes, and things change with it. There are many places that most of us would go back to.
-
 To be in a time space of yesteryears, and to revolve a day or two in continuing those memories. But the fun lies not in reflection, but rather those hard, and fast stories that reality brings down on us. It watching things evolve just as a plant might take root upon the earth. There are so many such stages, that we forget about some until some happenings remind us about those in an instant. Every stage has a reason and those are the links that lead to learning in everything.
-
 Do you know what the world needs?
 A phone without the camera.
-
 Can you lick your elbow?
 You have tried that before.
-
 How many Ferrari’s can you buy?
 One. They are meant to be gifts.
-
 Is there a toilet in the basement?
 Ask Pee Provider.
-
 Is coldplay coming to Mumbai?
 We still don’t know who won those tickets.
-
 Why do night watchmen sleep?
 Because alcohol is so cheap.
-
 Why do you need a maid?
 Maybe you think you are Queen Elizabeth.
-
 Why not disconnect?
 Because the old dial-up still sings in your head.
-
 Why don’t you make your own things?
 Because you value your own time. Not human race’s.
-
 Why do transformers have stones under them?
 For massive earthing.
-
 Coming to the point, we have all been working. On small things that require little attention. We have been on spending our time, on social media. Most of us, unaware of who our neighbours are. This has all been done and dusted.
-
 You have known about this idea for years now, if not decades.
 What happens when we ignore the things we know?
 Climate change.
-
 Cedric Price might be wrong when he said, “Technology is the answer.” We, humans are guilty. Of spending time doing things that don’t matter. — Technology, social media, checking your phone, ordering food online instead of walking to a cafe where you can meet people so that people don’t crash, carrying anything but your keys, wearing a full sleeve shirt, killing mosquitoes with chemicals, watching videos instead of books, looking down at your phone, eating meals without conversations, drinking water between the meals, blah blah blah. How do you decide if something matters? Try not doing it.
-
 Instead. If we choose to weed out everything we have learnt, own or meet. We will not have decluttered, but discovered ourselves. And experience the world in a new light.
-
 Do you know what the world needs the most?
 Questions. A lot of them.
 
-Continuity.
-
-To help us go down memory lane, to crave a feeling of nostalgia. Even if as we speak of many memories that buildings evoke. There is nothing more than reflection to be found in those moments. It may be hard to accept as certain spaces evolve, but after all time changes, and things change with it. There are many places that most of us would go back to.
-
-To be in a time space of yesteryears, and to revolve a day or two in continuing those memories. But the fun lies not in reflection, but rather those hard, and fast stories that reality brings down on us. It watching things evolve just as a plant might take root upon the earth. There are so many such stages, that we forget about some until some happenings remind us about those in an instant. Every stage has a reason and those are the links that lead to learning in everything.
-
-Do you know what the world needs? A phone without the camera.
-
-Can you lick your elbow? You have tried that before.
-
-How many Ferrari’s can you buy? One. They are meant to be gifts.
-
-Is there a toilet in the basement? Ask Pee Provider.
-
-Is coldplay coming to Mumbai? We still don’t know who won those tickets.
-
-Why do night watchmen sleep? Because alcohol is so cheap.
-
-Why do you need a maid? Maybe you think you are Queen Elizabeth.
-
-Why not disconnect? Because the old dial-up still sings in your head.
-
-Why don’t you make your own things? Because you value your own time. Not human race’s.
-
-Why do transformers have stones under them? For massive earthing.
-
-Coming to the point, we have all been working. On small things that require little attention. We have been on spending our time, on social media. Most of us, unaware of who our neighbours are. This has all been done and dusted.
-
-You have known about this idea for years now, if not decades. What happens when we ignore the things we know? Climate change.
-
-Cedric Price might be wrong when he said, “Technology is the answer.” We, humans are guilty. Of spending time doing things that don’t matter. — Technology, social media, checking your phone, ordering food online instead of walking to a cafe where you can meet people so that people don’t crash, carrying anything but your keys, wearing a full sleeve shirt, killing mosquitoes with chemicals, watching videos instead of books, looking down at your phone, eating meals without conversations, drinking water between the meals, blah blah blah. How do you decide if something matters? Try not doing it.
-
-Instead. If we choose to weed out everything we have learnt, own or meet. We will not have decluttered, but discovered ourselves. And experience the world in a new light.
-
-Do you know what the world needs the most? Questions. A lot of them.
-
-**Countryside**.
-
+**Countryside**.  
 I should have been at 5,000 post but I am still at about 170, and I am not blaming anything for it it is just that I am lazy. Interestingly I have been able to improve my speech lot, have a couple of phone fights here and there, and arguments on the phone, but that's it. I often keep thinking that I should go back to the small place where I did my schooling and start accepting residentships for my Airbnb guests. It would be cool, no? To go in the countryside and live with people who come to stay with you to learn something from you and then you learn something from them in exchange. I think that must be really great idea because then you can also enjoy the countryside, have your bills paid, grow your network, and at the same time be great at your craft.
 
-Countryside.
-
-I should have been at 5,000 post but I am still at about 170, and I am not blaming anything for it it is just that I am lazy. Interestingly I have been able to improve my speech lot, have a couple of phone fights here and there, and arguments on the phone, but that’s it. I often keep thinking that I should go back to the small place where I did my schooling and start accepting residentships for my Airbnb guests. It would be cool, no? To go in the countryside and live with people who come to stay with you to learn something from you and then you learn something from them in exchange. I think that must be really great idea because then you can also enjoy the countryside, have your bills paid, grow your network, and at the same time be great at your craft.
-
-**Courage**.
-
+**Courage**.  
 How strange is it?
 We tell all our feelings
 To those who ask us out
 But never to the love we seek.
 
-Courage.
-
-How strange is it? 
-We tell all our feelings 
-To those who ask us out 
-But never to the love we seek.
-
-**Covid19 pandemic**.
-
+**Covid19 pandemic**.  
 "I think NatGeo cooked SARS-Cov-2 /myth (because #Covid19 only to those who are already ill w: cancer, diabetes, due for surgery), so with media spreading fear, you agree to spend more time at home. *It's good for nature*, PLUS More WFH lifestyle means you use more AT&T WiFi (1. owned by NatGeo) to watch Netflix (1.), PLUS you pay more to a private electricity company (hospitals and #Covid19 pay pharmaceutical industry, you don't) - is how World Bank (because WHO labels #Covid19 a pandemic) funds to governments/corporations, shows up as salary hikes, and gets converted to white money."
-
 What do you think?
 
-Covid19 Pandemic.
-
-“I think NatGeo cooked SARS-Cov-2 /myth (because #Covid19 only to those who are already ill w: cancer, diabetes, due for surgery), so with media spreading fear, you agree to spend more time at home. It’s good for nature, PLUS More WFH lifestyle means you use more AT&T WiFi (1. owned by NatGeo) to watch Netflix (1.), PLUS you pay more to a private electricity company (hospitals and #Covid19 pay pharmaceutical industry, you don’t) - is how World Bank (because WHO labels #Covid19 a pandemic) funds to governments/corporations, shows up as salary hikes, and gets converted to white money.”
-
-What do you think?
-
-**Crashing**.
-
+**Crashing**.  
 Somethings are worth fighting for, somethings are not, for some people choose the easy way, and in their horrors they drown you away. Some people write it on paper, burn away the rest of their souls, for love is not found in these things people say, in the things they tell you to make you like them, love is found in staying, staying even when the times seem tough, waiting for the hard times to pass, and begin again, not everyone will understand this for they are afraid, afraid that they might be wrong, about happiness or pain. For fear ruled their minds when they wrote about love, you see love is the opposite of fear instead, that’s why I don’t believe in these posts that don’t ring true to my heart, for my heart was not stolen, I gave it to you, to crush, and play all day, until you want to crash into me, and keep crashing again.
 
-Crashing.
-
-Somethings are worth fighting for, somethings are not, for some people choose the easy way, and in their horrors they drown you away. Some people write it on paper, burn away the rest of their souls, for love is not found in these things people say, in the things they tell you to make you like them, love is found in staying, staying even when the times seem tough, waiting for the hard times to pass, and begin again, not everyone will understand this for they are afraid, afraid that they might be wrong, about happiness or pain. For fear ruled their minds when they wrote about love, you see love is the opposite of fear instead, that’s why I don’t believe in these posts that don’t ring true to my heart, for my heart was not stolen, I gave it to you, to crush, and play all day, until you want to crash into me, and keep crashing again.
-
-**Crowd management in exigencies**.
-
+**Crowd management in exigencies**.  
 They have been extending the lockdown by 2 weeks whenever the scheduled end is around the corner. India started a lockdown on the 22nd of March. So far, the lockdown has been scheduled to end on 14th April, 30th April, 4th May, (and 17th May for some states). Some municipality worker has been heard of quoting June 10th to be the final date. June 10th is 3 months from March 10th - the festival of lights, Holi - which is when presumably, everyone was out celebrating socially, aka not social distancing.
-
 So, my common sense dictates that all governments of highly populated nations will enforce 3 months of lockdown/quarantine in total. Here's the fun bit about 'quarantine' from Wikipedia: The word 'quarantine' comes from quarantena, meaning "forty days", used in the Venetian language in the 14th and 15th centuries. The word is designated in the period during which all ships were required to be isolated before passengers and crew could go ashore during the Black Death plague. The quarantena followed the trentino, or "thirty-day isolation" period, first imposed in 1347 in the Republic of Ragusa, Dalmatia (modern Dubrovnik in Croatia). Merriam-Webster gives various meanings to the noun form, including "a period of 40 days", several relating to ships, "a state of enforced isolation", and as "a restriction on the movement of people and goods which is intended to prevent the spread of disease or pests".
-
 The word is also used as a verb. Quarantine is distinct from medical isolation, in which those confirmed to be infected with a communicable disease are isolated from the healthy population. Quarantine may be used interchangeably with cordon sanitaire, and although the terms are related, cordon sanitaire refers to the restriction of movement of people into or out of a defined geographic area, such as a community, in order to prevent an infection from spreading.
 
-Crowd Management In Exigencies.
-
-They have been extending the lockdown by 2 weeks whenever the scheduled end is around the corner. India started a lockdown on the 22nd of March. So far, the lockdown has been scheduled to end on 14th April, 30th April, 4th May, (and 17th May for some states). Some municipality worker has been heard of quoting June 10th to be the final date. June 10th is 3 months from March 10th - the festival of lights, Holi - which is when presumably, everyone was out celebrating socially, aka not social distancing.
-
-So, my common sense dictates that all governments of highly populated nations will enforce 3 months of lockdown/quarantine in total. Here’s the fun bit about ‘quarantine’ from Wikipedia: The word ‘quarantine’ comes from quarantena, meaning “forty days”, used in the Venetian language in the 14th and 15th centuries. The word is designated in the period during which all ships were required to be isolated before passengers and crew could go ashore during the Black Death plague. The quarantena followed the trentino, or “thirty-day isolation” period, first imposed in 1347 in the Republic of Ragusa, Dalmatia (modern Dubrovnik in Croatia). Merriam-Webster gives various meanings to the noun form, including “a period of 40 days”, several relating to ships, “a state of enforced isolation”, and as “a restriction on the movement of people and goods which is intended to prevent the spread of disease or pests”.
-
-The word is also used as a verb. Quarantine is distinct from medical isolation, in which those confirmed to be infected with a communicable disease are isolated from the healthy population. Quarantine may be used interchangeably with cordon sanitaire, and although the terms are related, cordon sanitaire refers to the restriction of movement of people into or out of a defined geographic area, such as a community, in order to prevent an infection from spreading.
-
-**Crowds**.
-
+**Crowds**.  
 Why do the crowds cheer aloud?
-
 If you have ever been to Times Square or Marine Drive, you will find people staring into space, groups minding their own business. No one ever bothers you with, “Hey man! What are you doing?” People seem to understand. But they are all quiet. But have you noticed that when large crowds assemble at a concert, they are screaming even if it is senseless with the mic off. It is all for one purpose — to russell.
 
-Crowds.
-
-Why do the crowds cheer aloud?
-
-If you have ever been to Times Square or Marine Drive, you will find people staring into space, groups minding their own business. No one ever bothers you with, “Hey man! What are you doing?” People seem to understand. But they are all quiet. But have you noticed that when large crowds assemble at a concert, they are screaming even if it is senseless with the mic off. It is all for one purpose — to russell.
-
-**Curb**.
-
+**Curb**.  
 Wishful thinking
 Red lights blinking
 Inching slowly for the curb
 Better walk than run over.
 
-Curb.
-
-Wishful thinking 
-Red lights blinking 
-Inching slowly for the curb 
-Better walk than be run over.
-
-**Curing a hickey**.
-
+**Curing a hickey**.  
 1. Water in a steel glass.
 2. Frozen for 12 hours.
 3. Pressed this steel glass on the hickey for 30 mins, with gentle massaging at intervals.
 4. After 60 mins, stretched the skin, and rubbed this steel glass over the hickey for 30 mins, with gentle massaging at intervals.
 5. Slept in a warm coziest blanket I could find, and hoped that my logic about capillaries, skin, and temperature would work.
 
-Curing A Hickey.
+**Anthologie - Type D**.  
 
-Water in a steel glass.
-
-Frozen for 12 hours.
-
-Pressed this steel glass on the hickey for 30 mins, with gentle massaging at intervals.
-
-After 60 mins, stretched the skin, and rubbed this steel glass over the hickey for 30 mins, with gentle massaging at intervals.
-
-Slept in a warm coziest blanket I could find, and hoped that my logic about capillaries, skin, and temperature would work.
-
-**Anthologie - Type D**.
-
-**Damage**.
-
+**Damage**.  
 We limit our view of others by the reality we can imagine for ourselves. In my lifetime, I have been boycotted, spat on, stoned, ambushed, assaulted, raped, and abandoned. Not been stabbed or shot yet. I told this to someone recently, and the response was, “All of that screams damage to me.” I hold a different view.
-
 This would have qualified as damage if I had chosen to whine about it. But I don’t remember feeling or doing that. The takeaway here is that we perceive the responses that people may have, based on a reflection of what we would do in a similar situation. That’s empathy. But empathy has a flaw.
-
 Most of us are unaware or not remember often that everyone thinks differently. Thoughts are as different as fingerprints. No one thinks the way you do. That’s what makes us all unique. No one shares the same journey.
-
 No one shares the same resources. No one shares the same stories. Since we don’t keep this one in our minds when we go about our daily lives, we limit our view of others by the reality that we can imagine for ourselves. That’s assuming. But being assuming has a flaw.
-
 Everytime you look at another, remember that what they may pursue as an ideal reaction or response differs from yours. The real stereotypes are the ones we hold about ourselves. These are not a part of what popular culture dictates. But more of what we wish for us, or think as ideal when we are posed with a new experience.
 Awareness as such, is essential for happiness.
 
-Damage.
-
-We limit our view of others by the reality we can imagine for ourselves. In my lifetime, I have been boycotted, spat on, stoned, ambushed, assaulted, raped, and abandoned. Not been stabbed or shot yet. I told this to someone recently, and the response was, “All of that screams damage to me.” I hold a different view.
-
-This would have qualified as damage if I had chosen to whine about it. But I don’t remember feeling or doing that. The takeaway here is that we perceive the responses that people may have, based on a reflection of what we would do in a similar situation. That’s empathy. But empathy has a flaw.
-
-Most of us are unaware or not remember often that everyone thinks differently. Thoughts are as different as fingerprints. No one thinks the way you do. That’s what makes us all unique. No one shares the same journey.
-
-No one shares the same resources. No one shares the same stories. Since we don’t keep this one in our minds when we go about our daily lives, we limit our view of others by the reality that we can imagine for ourselves. That’s assuming. But being assuming has a flaw.
-
-Everytime you look at another, remember that what they may pursue as an ideal reaction or response differs from yours. The real stereotypes are the ones we hold about ourselves. These are not a part of what popular culture dictates. But more of what we wish for us, or think as ideal when we are posed with a new experience. Awareness as such, is essential for happiness.
-
-**Death**.
-
+**Death**.  
 So here’s what happens when you die
 You close your eyes,
 and you see it coming
 You imagine all the ways within that moment
 Of how you can die.
-
 You might be lucky enough
 If you are stationary
 As in in your bed, and not
 Prowling on the streets /outside.
-
 For then there is no action
 Or reaction
 To concur
 That might cause your demise.
-
 If you are lucky
 You might see
 The exact way
 Held in time.
-
 But there is a thing
 About the future
 It changes
 Every time you look at it…
-
 Because
 You looked at it
 So that’s why
 Then you won’t die.
-
 And you know you have won a victory
 As temporary as it might be
 A victory over death
 For this thing happens to thee.
-
 There is one nice little pain in your fingers
 Almost like something is pinching inside
 But with more nerve sort of feeling
 Not an external desire.
-
 That pain makes you want to be alone
 Curl like a prawn, and feel your body inside
 It makes you want; to be lost in your own thoughts
 But then it subsides.
-
 Whenever you have to die
 A finger will pain
 From that point
 Near your palm.
-
 Usually it’s your left arm
 For most of your arteries,
 And veins there
 Go straight to the heart.
-
 And it will wake you up
 If you are not destined to die
 Or if you have seen the future
 Then it changes for you that’s why.
 
-Death.
-
-So here’s what happens when you die You close your eyes, and you see it coming You imagine all the ways within that moment Of how you can die.
-
-You might be lucky enough If you are stationary As in in your bed, and not Prowling on the streets /outside.
-
-For then there is no action Or reaction To concur That might cause your demise.
-
-If you are lucky You might see The exact way Held in time.
-
-But there is a thing About the future It changes Every time you look at it…
-
-Because You looked at it So that’s why Then you won’t die.
-
-And you know you have won a victory As temporary as it might be A victory over death For this thing happens to thee.
-
-There is one nice little pain in your fingers Almost like something is pinching inside But with more nerve sort of feeling Not an external desire.
-
-That pain makes you want to be alone Curl like a prawn, and feel your body inside It makes you want; to be lost in your own thoughts But then it subsides.
-
-Whenever you have to die A finger will pain From that point Near your palm.
-
-Usually it’s your left arm For most of your arteries, And veins there Go straight to the heart.
-
-And it will wake you up If you are not destined to die Or if you have seen the future Then it changes for you that’s why.
-
-**Delusions**.
-
+**Delusions**.  
 I saw Joker. He is a delusional character. He imagined his neighbour to be in love with him. And that seemed to be quite a thought for me. So here are a few thoughts.
-
 Are you real?
 Are you my delusion?
-
 Maybe, I am delusional about being in love with you. That's how delusions work, don't they? They are beliefs that you dream on under the name of faith, and hope. They are mostly akin to the emotions of being loved, being wanted, and belonging. They happen under the stress of mundane routine.
-
 Am I real?
 Am I your delusion?
-
 But, my story has a routine. It has a pattern of meeting people, and then of them leaving me. The only thing common about these experiences was routine. Do you notice how they leave me, and not the other way around of me leaving them? It's their choice.
-
 I have been going back to back having this same experience for 6 years now. So maybe I am only an idea that exists. That is passed from people to people. Maybe I exist in the human form. But I am only another entity.
-
 Maybe I am not the only one. There are so many of us out there who feel the same way. Maybe we are all but a figment of someone's imagination. A figment of imagination created by routine. The routine of doing things that render me so obvious that other people can't help but take me for granted.
-
 Now being taken for granted is not a problem. It's a sign. A sign that, in some cases, maybe your whole life is not actually happening the way you think it is. Maybe it's only imagination. Maybe this is what the Matrix is.
-
 Maybe that's what Einstein meant when he said, "Reality is merely an illusion. Albeit a very persistent one." The answer to break away is to consciously choose something non monotonous to do. To walk away from monotony. Maybe this is not the real meaning of life. But, a key to make you start thinking consciously and deep about every move you make.
 
-Delusions.
-
-I saw Joker. He is a delusional character. He imagined his neighbour to be in love with him. And that seemed to be quite a thought for me. So here are a few thoughts.
-
-Are you real? Are you my delusion?
-
-Maybe, I am delusional about being in love with you. That’s how delusions work, don’t they? They are beliefs that you dream on under the name of faith, and hope. They are mostly akin to the emotions of being loved, being wanted, and belonging. They happen under the stress of mundane routine.
-
-Am I real? Am I your delusion?
-
-But, my story has a routine. It has a pattern of meeting people, and then of them leaving me. The only thing common about these experiences was routine. Do you notice how they leave me, and not the other way around of me leaving them? It’s their choice.
-
-I have been going back to back having this same experience for 6 years now. So maybe I am only an idea that exists. That is passed from people to people. Maybe I exist in the human form. But I am only another entity.
-
-Maybe I am not the only one. There are so many of us out there who feel the same way. Maybe we are all but a figment of someone’s imagination. A figment of imagination created by routine. The routine of doing things that render me so obvious that other people can’t help but take me for granted.
-
-Now being taken for granted is not a problem. It’s a sign. A sign that, in some cases, maybe your whole life is not actually happening the way you think it is. Maybe it’s only imagination. Maybe this is what the Matrix is.
-
-Maybe that’s what Einstein meant when he said, “Reality is merely an illusion. Albeit a very persistent one.” The answer to break away is to consciously choose something non monotonous to do. To walk away from monotony. Maybe this is not the real meaning of life. But, a key to make you start thinking consciously and deep about every move you make.
-
-**Diet**.
-
+**Diet**.  
 **Note**: This article is not an advice from a General Practitioner (GP).
-
 - Jeera water is considered to be one of the most beneficial home remedies for gas pain. You can prepare jeera water by adding a teaspoon of cumin seeds in two cups of water. Boil it for at least 10 minutes. Then, let the water cool down.
-
 - One drink that can be made in a jiffy using just three ingredients is of green cardamom (elaichi), cumin (jeera) and fennel (saunf). According to ayurvedic expert, Dr. Ashutosh gautam, "A concoction made using these three ingredients is recommended for bloating. Fennel has diuretic properties, whereas cardamom and jeera both help in relieving gastric distention and are digestive in nature."
-
 - Other than this, boiling one teaspoon coriander seeds in water for 5 minutes and then drinking this concoction twice a day could also be beneficial in keeping bloating at bay. This drink also helps to reduce water retention in the body and makes one feel lighter," adds Dr. Ashutosh.
-
 - Have peppermint and chamomile tea once or twice in a week.
-
-
 **Side effects of jeera water**
-
 Jeera water is amazing for our health. But excess consumption of the same can be harmful and may lead to the following side effects.
-
 - Heartburn.
 - Lower blood sugar levels drastically.
 - Harmful for the growing foetus during pregnancy.
 - Interfere or slow down clotting of blood and lead to bleeding.
-
-***
-
-**Here's how you can make an ayurvedic drink for bloating**.  
-**Ingredients**.
-
+**Here's how you can make an ayurvedic drink for bloating**.    
+**Ingredients**.  
 - 1 tablespoon green cardamom.
 - 1 tablespoon jeera.
 - 1 tablespoon fennel seeds.
-
-**Method**.
-
+**Method**.  
 - To begin with, take a bowl and add water in it.
 - Bring it on high flame.
 - Next, add in all the three ingredients and allow them to boil.
 - After a while, strain the concoction and drink this warm.
-
-***
-
-**Lifestyle habits**.
-
+**Lifestyle habits**.  
 - Exercise can help release trapped gas and gas pain. Try walking after meals as a way to avoid gas. If you have gas pain, jumping rope, running, or walking may help you expel it.
 - Sit down during each meal and eat slowly.
 - Try not to take in too much air while you eat and talk.
 - Avoid smoking.
 - Find ways to work exercise into your routine, such as taking a walk after a meal.
-
-***
-
-**Use this format understand the following part**.
-
+**Use this format understand the following part**.  
 - **Avoid (foods to avoid).**
 - **Replacement (and its replacement).**
-
-***
-
 - Apples, and watermelons have also been known to cause bloating and other digestive issues for some people. The culprits are fructose (which is a fodmap) and the high fiber content. Fructose and fiber can both be fermented in the large intestine, and may cause gas and bloating. Cooked apples may be easier to digest than fresh ones. Check the recipe: here.
 - Other fruits, such as elaichi banana, blueberries, grapefruit, mandarins, oranges or strawberries, plum, peach.
-
-***
-
 - Artificial ingredients commonly found in low-carbohydrate and sugar-free products, such as sugar alcohol, sorbitol, and maltitol
 Beans and lentils.
 - Not available.
-
-***
-
 - Carbonated beverages like coke and all, the main culprit is coke for your gas.
-- Not available.
-
-***
-
 - Carbonated drinks which are another very common cause of bloating. Some of the gas gets trapped in the digestive system, which can cause uncomfortable bloating and even cramping.
 - Jeera water is always best. Other healthy alternatives include coffee, tea and fruit-flavored still water.
-
-***
-
 - Foods containing lactose, such as milk, cheese, and other dairy products.
-- Not available.
-
-***
-
 - Foods with high-fat content again difficult to digest.
-- Not available.
-
-***
-
 - Fried or spicy food.
-- Not available.
-
-***
-
 - Fruits containing fructose.
-- Not available.
-
-***
-
 - Garlic like onions contains fructans, which are fodmaps that can cause bloating. Allergy or intolerance to other compounds found in garlic is also fairly common, with symptoms such as bloating, belching and gas.
 - Try using other herbs and spices in your cooking, such as thyme, parsley, chives or basil.
-
-***
-
 - High-fiber food which is difficult to digest.
-- Not available.
-
-***
-
 - Lentils like beans, lentils also contain fodmaps. These sugars may contribute to excessive gas production and bloating.
 - Light coloured lentils are generally lower in fibre than darker ones, and may therefore cause less bloating.
-
-***
-
 - Most beans as they contain sugars called alpha-galactosides, which belong to a group of carbs called fodmaps.
 - Some beans are easier on the digestive system. Pinto beans and black beans may be more digestible, especially after soaking. You can also replace beans with grains, meat or quinoa.
-
-***
-
 - Onions as they are a known cause of bloating and other digestive discomforts. Cooking the onions may reduce these digestive effects.
 - Try using fresh herbs or spices as an alternative to onions.
-
-***
-
 - Wheat which is also a major source of fodmaps, which can cause digestive problems in many people.
 - There are many gluten-free alternatives to wheat, such as pure oats, quinoa, buckwheat, almond flour and coconut flour.
 
-Diet.
-
-Note: This article is not an advice from a General Practitioner (GP).
-
-Jeera water is considered to be one of the most beneficial home remedies for gas pain. You can prepare jeera water by adding a teaspoon of cumin seeds in two cups of water. Boil it for at least 10 minutes. Then, let the water cool down.
-
-One drink that can be made in a jiffy using just three ingredients is of green cardamom (elaichi), cumin (jeera) and fennel (saunf). According to ayurvedic expert, Dr. Ashutosh gautam, “A concoction made using these three ingredients is recommended for bloating. Fennel has diuretic properties, whereas cardamom and jeera both help in relieving gastric distention and are digestive in nature.”
-
-Other than this, boiling one teaspoon coriander seeds in water for 5 minutes and then drinking this concoction twice a day could also be beneficial in keeping bloating at bay. This drink also helps to reduce water retention in the body and makes one feel lighter,” adds Dr. Ashutosh.
-
-Have peppermint and chamomile tea once or twice in a week.
-
-Side effects of jeera water
-
-Jeera water is amazing for our health. But excess consumption of the same can be harmful and may lead to the following side effects.
-
-Heartburn.
-
-Lower blood sugar levels drastically.
-
-Harmful for the growing foetus during pregnancy.
-
-Interfere or slow down clotting of blood and lead to bleeding.
-
-Here’s how you can make an ayurvedic drink for bloating.
-Ingredients.
-
-1 tablespoon green cardamom.
-
-1 tablespoon jeera.
-
-1 tablespoon fennel seeds.
-
-Method.
-
-To begin with, take a bowl and add water in it.
-
-Bring it on high flame.
-
-Next, add in all the three ingredients and allow them to boil.
-
-After a while, strain the concoction and drink this warm.
-
-Lifestyle habits.
-
-Exercise can help release trapped gas and gas pain. Try walking after meals as a way to avoid gas. If you have gas pain, jumping rope, running, or walking may help you expel it.
-
-Sit down during each meal and eat slowly.
-
-Try not to take in too much air while you eat and talk.
-
-Avoid smoking.
-
-Find ways to work exercise into your routine, such as taking a walk after a meal.
-
-Use this format understand the following part.
-
-Avoid (foods to avoid).
-
-Replacement (and its replacement).
-
-Apples, and watermelons have also been known to cause bloating and other digestive issues for some people. The culprits are fructose (which is a fodmap) and the high fiber content. Fructose and fiber can both be fermented in the large intestine, and may cause gas and bloating. Cooked apples may be easier to digest than fresh ones. Check the recipe: here.
-
-Other fruits, such as elaichi banana, blueberries, grapefruit, mandarins, oranges or strawberries, plum, peach.
-
-Artificial ingredients commonly found in low-carbohydrate and sugar-free products, such as sugar alcohol, sorbitol, and maltitol Beans and lentils.
-
-Not available.
-
-Carbonated beverages like coke and all, the main culprit is coke for your gas.
-
-Not available.
-
-Carbonated drinks which are another very common cause of bloating. Some of the gas gets trapped in the digestive system, which can cause uncomfortable bloating and even cramping.
-
-Jeera water is always best. Other healthy alternatives include coffee, tea and fruit-flavored still water.
-
-Foods containing lactose, such as milk, cheese, and other dairy products.
-
-Not available.
-
-Foods with high-fat content again difficult to digest.
-
-Not available.
-
-Fried or spicy food.
-
-Not available.
-
-Fruits containing fructose.
-
-Not available.
-
-Garlic like onions contains fructans, which are fodmaps that can cause bloating. Allergy or intolerance to other compounds found in garlic is also fairly common, with symptoms such as bloating, belching and gas.
-
-Try using other herbs and spices in your cooking, such as thyme, parsley, chives or basil.
-
-High-fiber food which is difficult to digest.
-
-Not available.
-
-Lentils like beans, lentils also contain fodmaps. These sugars may contribute to excessive gas production and bloating.
-
-Light coloured lentils are generally lower in fibre than darker ones, and may therefore cause less bloating.
-
-Most beans as they contain sugars called alpha-galactosides, which belong to a group of carbs called fodmaps.
-
-Some beans are easier on the digestive system. Pinto beans and black beans may be more digestible, especially after soaking. You can also replace beans with grains, meat or quinoa.
-
-Onions as they are a known cause of bloating and other digestive discomforts. Cooking the onions may reduce these digestive effects.
-
-Try using fresh herbs or spices as an alternative to onions.
-
-Wheat which is also a major source of fodmaps, which can cause digestive problems in many people.
-
-There are many gluten-free alternatives to wheat, such as pure oats, quinoa, buckwheat, almond flour and coconut flour.
-
-**Dissociation**.
-
+**Dissociation**.  
 Thanks for writing in. 
-
 I practice something similar to disassociation. I think of it as a strength to being practical when required. Difference being that I do not shut down: I disconnect by conscious choice. I don't know if what I experience is dissociation/not because duh, I am no expert in this field. I don't get to the extreme of not being present in time, space, and reality (this can happen after smoking up). 
-
 I have not experienced a change is perception of space, except once in a 12th standard Math class. I can imagine, or doubt the reality of things, but those are only thoughts. Thoughts that show new perspectives, enable new discoveries, and engage new projects. You will have to show me the difference between, 1. the feeling of emotional emptiness, and 2. numbness. 
-
 I have no thoughts after an art of living meditation course. I can't control this specific thoughtlessness. I have specific type of thoughts, more of curiosity and wonder after smoking up. I can control this specific thoughtfulness. I have always felt my existence, but my general awareness is often absent. I float around through life in my own bubble, as in an empty daze: like a drunk stupor. 
-
 I have caught myself lighting another cigarette right after a cigarette without any memory of the smoking the first cigarette: my forgetfulness. Although I am aware of threat, and I choose to go through with threatening experiences because I value life experience more than living in a safety net: my curiosity. I often see similar behaviors, and patterns in other people. I feel like I am a mirror. Although most of us behave exactly the way those around us do: in contrast, my behavior is the copy of whoever I am engaged in a conversation with. 
-
 I am never empty of emotion, unless I choose to do so for practical reasons: which is again a emotion of purpose. So I am never empty of emotion. My behavior becomes mechanical when I am dazed, or presently since January this year. I haven't caught myself to have any signs of self training to appear normal. I cannot play a game of appearances. 
-
 I have no trouble functioning as a normal person. Or maybe I am so good at appearing normal, that it has become instinctive. My short term memory is very small at time. My long term memory, as I have been told, is amazing. Making notes in a journal helps my cognitive process. 
-
 If I ever feel empty, I fill it up with both good and bad habits. I have observed that this is usually: one bad habit, and the rest of it with many good habits. This mix of habits usually does the trick of bringing me back to recognizable limbo. 
-
 I understand that you have/had issues. If 1. it ever gets bad, or 2. you feel like switching off, or 3. you become mechanical, or 4. you find that your ability to experience or feel emotions is absent, then you can talk to me about it. 
-
 I believe that good communication makes everything better.
-
 Dissociation.
 
-Thanks for writing in.
-
-I practice something similar to disassociation. I think of it as a strength to being practical when required. Difference being that I do not shut down: I disconnect by conscious choice. I don’t know if what I experience is dissociation/not because duh, I am no expert in this field. I don’t get to the extreme of not being present in time, space, and reality (this can happen after smoking up).
-
-I have not experienced a change is perception of space, except once in a 12th standard Math class. I can imagine, or doubt the reality of things, but those are only thoughts. Thoughts that show new perspectives, enable new discoveries, and engage new projects. You will have to show me the difference between, 1. the feeling of emotional emptiness, and 2. numbness.
-
-I have no thoughts after an art of living meditation course. I can’t control this specific thoughtlessness. I have specific type of thoughts, more of curiosity and wonder after smoking up. I can control this specific thoughtfulness. I have always felt my existence, but my general awareness is often absent. I float around through life in my own bubble, as in an empty daze: like a drunk stupor.
-
-I have caught myself lighting another cigarette right after a cigarette without any memory of the smoking the first cigarette: my forgetfulness. Although I am aware of threat, and I choose to go through with threatening experiences because I value life experience more than living in a safety net: my curiosity. I often see similar behaviors, and patterns in other people. I feel like I am a mirror. Although most of us behave exactly the way those around us do: in contrast, my behavior is the copy of whoever I am engaged in a conversation with.
-
-I am never empty of emotion, unless I choose to do so for practical reasons: which is again a emotion of purpose. So I am never empty of emotion. My behavior becomes mechanical when I am dazed, or presently since January this year. I haven’t caught myself to have any signs of self training to appear normal. I cannot play a game of appearances.
-
-I have no trouble functioning as a normal person. Or maybe I am so good at appearing normal, that it has become instinctive. My short term memory is very small at time. My long term memory, as I have been told, is amazing. Making notes in a journal helps my cognitive process.
-
-If I ever feel empty, I fill it up with both good and bad habits. I have observed that this is usually: one bad habit, and the rest of it with many good habits. This mix of habits usually does the trick of bringing me back to recognizable limbo.
-
-I understand that you have/had issues. If 1. it ever gets bad, or 2. you feel like switching off, or 3. you become mechanical, or 4. you find that your ability to experience or feel emotions is absent, then you can talk to me about it.
-
-I believe that good communication makes everything better.
-
-**Distances**.
-
+**Distances**.  
 So I have been traveling back and forth cities now. The one thing that I have realised in process is that our perspective about distances change when we travel. For example, a distance between Bombay and Pune of about 122kms in 2.5 hours used to feel like a lot. But yesterday it felt like a place next door. Maybe that’s what globetrotting does to you.
-
 Our take on life changes in direct proportion to the experiences that you expose yourself to. Travel makes superficial everything that would be deemed important that a person who hasn’t travelled often would deem important. Life seems larger than what worries you everyday. Routine seems to blind us to the vast world that lies beyond it. It is funny how millions of us would choose to scurry into routines that seem dull to those who put themselves in situations that are reckless, dangerous, but alive.
 
-Distances.
-
-So I have been traveling back and forth cities now. The one thing that I have realised in process is that our perspective about distances change when we travel. For example, a distance between Bombay and Pune of about 122kms in 2.5 hours used to feel like a lot. But yesterday it felt like a place next door. Maybe that’s what globetrotting does to you.
-
-Our take on life changes in direct proportion to the experiences that you expose yourself to. Travel makes superficial everything that would be deemed important that a person who hasn’t travelled often would deem important. Life seems larger than what worries you everyday. Routine seems to blind us to the vast world that lies beyond it. It is funny how millions of us would choose to scurry into routines that seem dull to those who put themselves in situations that are reckless, dangerous, but alive.
-
-**Do you see?**
- 
+**Do you see?** 
 Do you see?  
 The mist, and the mountains tonight?
-
-Do you see?  
 The wind that blows into the land? 
-
-Do you see?  
 How beauty beat age again? 
-
-Do you see?  
 The sails that ruin the rain? 
-
-Do you see?  
 How sin can be found in the chords? 
-
-Do you see?  
 The air that reeks of smell? 
-
-Do you see?  
 How grammar changes the thought? 
-
-Do you see?  
 The cold in the dark night sky? 
-
-Do you see?  
 How bright these city lights are? 
-
-Do you see?  
 These things that block out the stars? 
-
-Do you see?  
 How no order this song has inside? 
-
-Do you see?  
 How quietly can meta survive? 
-
-Do you see?  
 It ain’t no fault of thine? 
-
-Do you see?  
 Why you should never give up for some wine!
 
-**Anthologie - Type E**.
+**Anthologie - Type E**.  
 
-**Eclectic**.
-
+**Eclectic**.  
 Losing poems
 In my sleep
 Why do mornings have to be
 So eclectic.
 
-Eclectic.
-
-Losing poems 
-In my sleep 
-Why do mornings have to be 
-So eclectic.
-
-**Erotica 8**.
-
+**Erotica 8**.  
 She: Idiot. Don't get slow while being smitten
-
 He: What do you mean?
-
 She: You're so smitten by me you're getting slowwwww.
-
 He: Slowwwww about?
-
 She: Are you getting the adrenaline rush you're looking for with this chat?
-
 He: I am not. I want that rip your clothes apart and push you on the wall, and kiss you, and bite your neck rush
-
 She: Wow.
-
 He: Are you?
-
 She: I'm enjoying this, in a sadistic fashion
-
 He: Dominating much?
-
 She: Haha. Not in bed
-
 He: I am. In bed.
-
 She: In general I don't know. I like being dominated in bed
-
 He: But it wears off
-
 She: Why would it
-
 He: Like I can make you want to fuck me because I will be essential fucking a stranger of sorts when we do it the first time.
-
 She: Was more of it yesterday. Law of marginally diminishing utility applies on everything I guess
-
 He: Then the next time I am more careful about if you are experiencing pain or pleasure. So I tone down
-
 She: Accha
-
 He: That's for objects.
-
 She: But dominance can still be there na
-
 He: Yes it will be
-
 She: Holds true for people also.
-
 He: You don't want me to be maddening wild
-
 She: Why not
-
 He: Trust me I don't fair well when I am thinking
-
 She: Fuck I have a headache. Sorry not to be whining
-
 He: Like I will shut off my brain and treat you like you are my bitch. Waiting to be punished, handled rough. That's only for the first time. Then once I figure what you like, I focus more on giving you pleasure. And that sucks for you.
-
 She: Why? Why would it suck?
-
 He: Because I like looking at you when you are being treated rough. That's my turn on, and I don't want it easy
-
 She: I see
-
 He: I like being forceful. But that's fucking you.
-
 She: Interesting
-
 He: Making love to you will be more gentle. And when I am dating you, I would not want to fuck you. I will want to make love to you. Making love is not fucking for me. I am still trying to understand scenarios where fucking is acceptable when dating someone. Like I want to have real reasons to put you through that. And I don't mean anger. Only obedience
-
 She: Elaborate
-
 He: Complicated? Or can you see the difference?
-
 She: Can see
-
 He: This will lead us to sexting
-
 She: Short replies cause eyes closing.
-
 He: Making you go down on me at the door. Making sure you are rough while you handle me. This is the key. The energy you get is the same as the energy you give. 
-
 She: Eyes will open with sexting.
-
 He: Bitch
-
 She: What if I can't be rough
-
 He: Then I will throw you on the bed. Be an arsonist
-
 She: And?
-
 He: Do things you ask me to stop. Like don't spoil my make up. Pull your hair. Turn you around
-
 She: Keep talking!
-
 He: Keep touching. 
-
 He: Take off all our clothes. Rip them away. Choke you. Bite your lips
-
 She: Love that.
-
 He: When you are down on me, slap you with my boner. Keep it on your lips. Hold your head in both my hands. Keep your hair back. And make you go deep throat. Then lift you up. Let you stand. Face in the wall. And keep that boner on your ass. And dry hump you. Or add some lube. And pin your hands on the wall. And turn your head to the side. And kiss you. With my whole weight on you. While your legs can't take it anymore
-
 She: You meant it when you said rough!
-
 He: Yes I did. Then go on the bed. Rub your clit with my boner
-
 She: Oh boy. You're doing things to me now.
-
 He: Make you say everything mean about yourself. Roleplay being someone who really wants me. And then suck on your nipples. Put your legs on my shoulders. And spit on your clit. Then slide my boner right inside
-
 She: Go on...
-
 He: As deep as 7" can go. And then fuck you very slowly. Making you feel every bit of me. Hold your head in my hands. And keep fucking you. With my lips on your collar bones, then turn you around, ask you to get into doggy style positions, and keep both my arms on your ass. Spank you. Multiple times. Pull your hair backwards. Ask you to lay your chest flat on the bed /whatever, and spit on your clit, and rub my boner on your clit, and slide it in. Then keep my entire weight on your shoulders, and fuck you. When your face goes red, and you moan because you can't take it anymore, and then bend forward, and kiss you while doing you doggy, and then come back up, rest my hands on your ass.
-
 She: Can't really
-
 He: And fuck you like I intend to pass out fucking you, while making sure that you are pressed down with your face sideways in the bed, and then do you till you orgasm, multiple times. Run my fingers on your back, gently while at it, and then scratch your back with my nails, and fuck you till I cum, rather get it out after you have cum, and you will cum first, usually.
-
 She: Ahaan!
-
 He: Then make you lie on your chest on the bed, and dry hump you. Maybe with some lube because then it the frictionless humping gets me a boner sooner, and then repeat. Missionary. And doggy. And all the rough holds.
-
 She: Stop
-
 He: and make you come to my cock as quickly as you can when I tell you that baby I am going to cum, and cum on your face. Forehead. Until it drips all the way down your face, and then kiss you, and go down to eat you up, and use my beard, and the tip of my tongue, to tease your clit, kiss it, suck on it, maybe bite gently, and not stop.
-
 She: Stopppp!
-
 He: Until my face is lathered in your precum, all of it, from forehead to my chin. My beard wet as hell, and then maybe if I don't have a boner or run out of lube, maybe I will stop. Expect get spat on your face followed by kisses, cum on your face, spanking, choking, or nail marks on your back, shoulders, thighs, and yes! If I am well rested the night before and freshened up on time, then this can go on for 6 hours if I really really like you. 10pm to 2am, and 4am to 7am.
-
 She: Are you mad?
-
 He: I don't know. So tell me, do you want me to make love to you? or do you want me to fuck you?
-
 He: I want us to be this wild
-
 She: Dare I say the former?
-
 He: No bitch. I am going to make sure you deserve all of this
-
 She: Ouch.
-
 He: :P Phew!
-
 She: I want one full brownie now. Okay. Let me get to work
-
 He: Are you talking about sucking my balls?
-
 She: 😄 No.
-
 He: And running your tongue from the bottom to top of my cock? And then spitting on the long iron rod of a boner. And swallowing it. And everything that can come out of it. Rubbing your lipstick off with that cock...
 
-Erotica 8.
-
-She: Idiot. Don’t get slow while being smitten
-
-He: What do you mean?
-
-She: You’re so smitten by me you’re getting slowwwww.
-
-He: Slowwwww about?
-
-She: Are you getting the adrenaline rush you’re looking for with this chat?
-
-He: I am not. I want that rip your clothes apart and push you on the wall, and kiss you, and bite your neck rush
-
-She: Wow.
-
-He: Are you?
-
-She: I’m enjoying this, in a sadistic fashion
-
-He: Dominating much?
-
-She: Haha. Not in bed
-
-He: I am. In bed.
-
-She: In general I don’t know. I like being dominated in bed
-
-He: But it wears off
-
-She: Why would it
-
-He: Like I can make you want to fuck me because I will be essential fucking a stranger of sorts when we do it the first time.
-
-She: Was more of it yesterday. Law of marginally diminishing utility applies on everything I guess
-
-He: Then the next time I am more careful about if you are experiencing pain or pleasure. So I tone down
-
-She: Accha
-
-He: That’s for objects.
-
-She: But dominance can still be there na
-
-He: Yes it will be
-
-She: Holds true for people also.
-
-He: You don’t want me to be maddening wild
-
-She: Why not
-
-He: Trust me I don’t fair well when I am thinking
-
-She: Fuck I have a headache. Sorry not to be whining
-
-He: Like I will shut off my brain and treat you like you are my bitch. Waiting to be punished, handled rough. That’s only for the first time. Then once I figure what you like, I focus more on giving you pleasure. And that sucks for you.
-
-She: Why? Why would it suck?
-
-He: Because I like looking at you when you are being treated rough. That’s my turn on, and I don’t want it easy
-
-She: I see
-
-He: I like being forceful. But that’s fucking you.
-
-She: Interesting
-
-He: Making love to you will be more gentle. And when I am dating you, I would not want to fuck you. I will want to make love to you. Making love is not fucking for me. I am still trying to understand scenarios where fucking is acceptable when dating someone. Like I want to have real reasons to put you through that. And I don’t mean anger. Only obedience
-
-She: Elaborate
-
-He: Complicated? Or can you see the difference?
-
-She: Can see
-
-He: This will lead us to sexting
-
-She: Short replies cause eyes closing.
-
-He: Making you go down on me at the door. Making sure you are rough while you handle me. This is the key. The energy you get is the same as the energy you give.
-
-She: Eyes will open with sexting.
-
-He: Bitch
-
-She: What if I can’t be rough
-
-He: Then I will throw you on the bed. Be an arsonist
-
-She: And?
-
-He: Do things you ask me to stop. Like don’t spoil my make up. Pull your hair. Turn you around
-
-She: Keep talking!
-
-He: Keep touching.
-
-He: Take off all our clothes. Rip them away. Choke you. Bite your lips
-
-She: Love that.
-
-He: When you are down on me, slap you with my boner. Keep it on your lips. Hold your head in both my hands. Keep your hair back. And make you go deep throat. Then lift you up. Let you stand. Face in the wall. And keep that boner on your ass. And dry hump you. Or add some lube. And pin your hands on the wall. And turn your head to the side. And kiss you. With my whole weight on you. While your legs can’t take it anymore
-
-She: You meant it when you said rough!
-
-He: Yes I did. Then go on the bed. Rub your clit with my boner
-
-She: Oh boy. You’re doing things to me now.
-
-He: Make you say everything mean about yourself. Roleplay being someone who really wants me. And then suck on your nipples. Put your legs on my shoulders. And spit on your clit. Then slide my boner right inside
-
-She: Go on…
-
-He: As deep as 7” can go. And then fuck you very slowly. Making you feel every bit of me. Hold your head in my hands. And keep fucking you. With my lips on your collar bones, then turn you around, ask you to get into doggy style positions, and keep both my arms on your ass. Spank you. Multiple times. Pull your hair backwards. Ask you to lay your chest flat on the bed /whatever, and spit on your clit, and rub my boner on your clit, and slide it in. Then keep my entire weight on your shoulders, and fuck you. When your face goes red, and you moan because you can’t take it anymore, and then bend forward, and kiss you while doing you doggy, and then come back up, rest my hands on your ass.
-
-She: Can’t really
-
-He: And fuck you like I intend to pass out fucking you, while making sure that you are pressed down with your face sideways in the bed, and then do you till you orgasm, multiple times. Run my fingers on your back, gently while at it, and then scratch your back with my nails, and fuck you till I cum, rather get it out after you have cum, and you will cum first, usually.
-
-She: Ahaan!
-
-He: Then make you lie on your chest on the bed, and dry hump you. Maybe with some lube because then it the frictionless humping gets me a boner sooner, and then repeat. Missionary. And doggy. And all the rough holds.
-
-She: Stop
-
-He: and make you come to my cock as quickly as you can when I tell you that baby I am going to cum, and cum on your face. Forehead. Until it drips all the way down your face, and then kiss you, and go down to eat you up, and use my beard, and the tip of my tongue, to tease your clit, kiss it, suck on it, maybe bite gently, and not stop.
-
-She: Stopppp!
-
-He: Until my face is lathered in your precum, all of it, from forehead to my chin. My beard wet as hell, and then maybe if I don’t have a boner or run out of lube, maybe I will stop. Expect get spat on your face followed by kisses, cum on your face, spanking, choking, or nail marks on your back, shoulders, thighs, and yes! If I am well rested the night before and freshened up on time, then this can go on for 6 hours if I really really like you. 10pm to 2am, and 4am to 7am.
-
-She: Are you mad?
-
-He: I don’t know. So tell me, do you want me to make love to you? or do you want me to fuck you?
-
-He: I want us to be this wild
-
-She: Dare I say the former?
-
-He: No bitch. I am going to make sure you deserve all of this
-
-She: Ouch.
-
-He: :P Phew!
-
-She: I want one full brownie now. Okay. Let me get to work
-
-He: Are you talking about sucking my balls?
-
-She: 😄 No.
-
-He: And running your tongue from the bottom to top of my cock? And then spitting on the long iron rod of a boner. And swallowing it. And everything that can come out of it. Rubbing your lipstick off with that cock…
-
-**Erotica 11**.
-
+**Erotica 11**.  
 :* You’re gonna be working and you’re gonna be getting frustrated. I’m gonna come to you, sit down write behind you on my knees and and run my hands through your hair and my chest against the back of your head. I’m gonna rub my hands on your shoulder and kiss you slowly and longingly on the side of your face and down your neck teasing your ear with my tongue. You’re gonna feel my tits grazing your shoulders and I’m gonna take your shirt off so you can feel my tits better. But before they touch you again, you’re gonna grab them and pull them toward you so that your head is buried between them and I’m gonna moan out in surprise. 
-
 My hands are going to slide to your chest and I’m going to come around and clamber across you with my knees on either side of you and my tits right up in your face. I’m going to take your mouth and tease your lips with mine while I can feel you growing harder by the second under me. And not kiss you but just almost get there and breathe slowly over your mouth. You’re gonna grab my tits and and pull me towards you so that my mouth is forced onto yours and you’re gonna hold my head while I kiss you oh so ferociously. And before you can even take a breath I’m gonna push my tits in your mouth and hold you between my boobs and gently tease your dick with my ass. 
-
 I’m gonna rub up on and kiss you deeper and deeper and plant my to mouth all over your neck and chest make you groan and teasing you by rubbing your nipples with my fingers while I’m sucking on your neck and rubbing my wet desperate pussy on your dick. You’re gonna moan and arch and twist around and I’m gonna hold your hands down and bite your chin and plant kisses down your chest right until I’m almost at your dick where I’m gonna lick all that wetness from my pussy off your stomach and dick oh so slowly just so I can watch you squirm. I’m gonna scramble on down, and before you know it, push your balls into my mouth and tease them with my tongue and teeth gently biting them as you grow harder and bigger for me. I’m gonna hold your hands on my head and make you gather my hair, and push my mouth slowly over the head of your dick while your wet, hair and throbbing for my tongue. I’m gonna lick the length of your dick so dam slowly, savouring every single bit, and while you lie back and groan in frustration, I’m gonna look at you and ask you if you want me.
-
 So tell me, do you want me?
-
 "Yes, I want all of you!"
-
 Before you can answer me, I’m gonna lock my eyes with you, and not even let you take a breath, and take you completely in my mouth. My mouth is going to be wet and tight and wrapped around you, with my tongue teasing your head rubbing on it ferociously because of how hungry I’ve been for you and sucking you out like there’s no tomorrow. I’m going to slobber all over you and not even take a breath because I can’t get enough of your hard and wet dick filling my mouth up and feeding me. While you’re holding my head down, my hands are going to go two ways, one down to the spot under your balls and one right up to your nipples. And my hand down is going rub on you making you squirm as my mouth eats you out and fills up with all of you. 
-
 My hand on your nipple is going to tease you and grab you because I’m not going to give you even a second. I’m going to pull my mouth off, and clamber on top of you, rubbing my wet pussy all over that wet hard dick, and my mouth devouring yours so you can taste how amazing you taste in my mouth. And without letting go of your mouth from mine, I’m going to push my tongue completely inside your mouth and hold you so close to me, and push you deep into my pussy holding onto you and dripping all down the length of that dick. And I’m going to whisper into your mouth to fuck me because I can’t bear to be one second more without you and I want you and only you, for every single moment, until I explode.
-
 "And you won't stop at exploring because I am going to have my face dripping with sweat, and I will slap you in bed, and hold you tighter, and make sure you feel me on everyone of your nerves. Rub that clit, bitch!"
-
 I’m going to cry out in pleasure and fuck you so hard, so hard, that I’m going tighten and tighten around your dick, getting wetter and wetter by the second until you feel my insides throbbing and rushing to explode around you. And before you know it, I’m going to moan so loud into your neck and break all over you shuddering and pressing my nails into your shoulders as I cum for you all over your dick that it drips down to your balls.
-
 "Don't stop there! Get on top of me."
-
 Who said I’m stopping? I’m getting on top of your face, and pushing my pussy onto your mouth so you can taste how I am after you’re in me. You’re going to grab my ass and lick my pussy up because you’re not done with me, and turn me onto the floor getting up and making me get down on my knees and bending over for you. You’re gonna run your hand down my back, pull my hair and spank my ass and tease it with your dick. I’m going to beg you not to tease me. And you’re going to spank me again and tell me that you’ll do what you want.
-
 "Yes, that's more like it"
-
 I’m going to moan as you make me bend over and tug on my tits and run your finger on my clit whispering in my ear that that pussy is only yours and you’re going to own it and take it in any which way you want. I’m going to beg you to fuck me, but you’re going to make me grab my own tits, and play with them while your one hand rubs my wet clit and one is spanking me as I squirm. You’re going to hold my neck and choke me whispering into my ear that if I don’t behave you’re going to not fuck me. I’m going to agree to listen to you and fall in front, hair and all and you’re going to pull me back, and thrust into me, without any warning so that I scream out. You’re going to pull me back, and grab my sides and thrust harder and harder making me moan oh so loudly, spanking my ass, and fucking me harder every time I make a sound.
-
 You’re going to fuck me until I’m begging you to cum and hold me down and fill me up, with every thrust just until you’re about to cum, and then pull out, and make me open my mouth and take you completely in, hitting the back of my throat. You’re going to hold my head, pushing deeper into my mouth, my tongue all over you, and I’m going to suck you up as you fill my mouth with your cum until it drips out.
 
-Erotica 11.
-
-:* You’re gonna be working and you’re gonna be getting frustrated. I’m gonna come to you, sit down write behind you on my knees and and run my hands through your hair and my chest against the back of your head. I’m gonna rub my hands on your shoulder and kiss you slowly and longingly on the side of your face and down your neck teasing your ear with my tongue. You’re gonna feel my tits grazing your shoulders and I’m gonna take your shirt off so you can feel my tits better. But before they touch you again, you’re gonna grab them and pull them toward you so that your head is buried between them and I’m gonna moan out in surprise.
-
-My hands are going to slide to your chest and I’m going to come around and clamber across you with my knees on either side of you and my tits right up in your face. I’m going to take your mouth and tease your lips with mine while I can feel you growing harder by the second under me. And not kiss you but just almost get there and breathe slowly over your mouth. You’re gonna grab my tits and and pull me towards you so that my mouth is forced onto yours and you’re gonna hold my head while I kiss you oh so ferociously. And before you can even take a breath I’m gonna push my tits in your mouth and hold you between my boobs and gently tease your dick with my ass.
-
-I’m gonna rub up on and kiss you deeper and deeper and plant my to mouth all over your neck and chest make you groan and teasing you by rubbing your nipples with my fingers while I’m sucking on your neck and rubbing my wet desperate pussy on your dick. You’re gonna moan and arch and twist around and I’m gonna hold your hands down and bite your chin and plant kisses down your chest right until I’m almost at your dick where I’m gonna lick all that wetness from my pussy off your stomach and dick oh so slowly just so I can watch you squirm. I’m gonna scramble on down, and before you know it, push your balls into my mouth and tease them with my tongue and teeth gently biting them as you grow harder and bigger for me. I’m gonna hold your hands on my head and make you gather my hair, and push my mouth slowly over the head of your dick while your wet, hair and throbbing for my tongue. I’m gonna lick the length of your dick so dam slowly, savouring every single bit, and while you lie back and groan in frustration, I’m gonna look at you and ask you if you want me.
-
-So tell me, do you want me?
-
-“Yes, I want all of you!”
-
-Before you can answer me, I’m gonna lock my eyes with you, and not even let you take a breath, and take you completely in my mouth. My mouth is going to be wet and tight and wrapped around you, with my tongue teasing your head rubbing on it ferociously because of how hungry I’ve been for you and sucking you out like there’s no tomorrow. I’m going to slobber all over you and not even take a breath because I can’t get enough of your hard and wet dick filling my mouth up and feeding me. While you’re holding my head down, my hands are going to go two ways, one down to the spot under your balls and one right up to your nipples. And my hand down is going rub on you making you squirm as my mouth eats you out and fills up with all of you.
-
-My hand on your nipple is going to tease you and grab you because I’m not going to give you even a second. I’m going to pull my mouth off, and clamber on top of you, rubbing my wet pussy all over that wet hard dick, and my mouth devouring yours so you can taste how amazing you taste in my mouth. And without letting go of your mouth from mine, I’m going to push my tongue completely inside your mouth and hold you so close to me, and push you deep into my pussy holding onto you and dripping all down the length of that dick. And I’m going to whisper into your mouth to fuck me because I can’t bear to be one second more without you and I want you and only you, for every single moment, until I explode.
-
-“And you won’t stop at exploring because I am going to have my face dripping with sweat, and I will slap you in bed, and hold you tighter, and make sure you feel me on everyone of your nerves. Rub that clit, bitch!”
-
-I’m going to cry out in pleasure and fuck you so hard, so hard, that I’m going tighten and tighten around your dick, getting wetter and wetter by the second until you feel my insides throbbing and rushing to explode around you. And before you know it, I’m going to moan so loud into your neck and break all over you shuddering and pressing my nails into your shoulders as I cum for you all over your dick that it drips down to your balls.
-
-“Don’t stop there! Get on top of me.”
-
-Who said I’m stopping? I’m getting on top of your face, and pushing my pussy onto your mouth so you can taste how I am after you’re in me. You’re going to grab my ass and lick my pussy up because you’re not done with me, and turn me onto the floor getting up and making me get down on my knees and bending over for you. You’re gonna run your hand down my back, pull my hair and spank my ass and tease it with your dick. I’m going to beg you not to tease me. And you’re going to spank me again and tell me that you’ll do what you want.
-
-“Yes, that’s more like it”
-
-I’m going to moan as you make me bend over and tug on my tits and run your finger on my clit whispering in my ear that that pussy is only yours and you’re going to own it and take it in any which way you want. I’m going to beg you to fuck me, but you’re going to make me grab my own tits, and play with them while your one hand rubs my wet clit and one is spanking me as I squirm. You’re going to hold my neck and choke me whispering into my ear that if I don’t behave you’re going to not fuck me. I’m going to agree to listen to you and fall in front, hair and all and you’re going to pull me back, and thrust into me, without any warning so that I scream out. You’re going to pull me back, and grab my sides and thrust harder and harder making me moan oh so loudly, spanking my ass, and fucking me harder every time I make a sound.
-
-You’re going to fuck me until I’m begging you to cum and hold me down and fill me up, with every thrust just until you’re about to cum, and then pull out, and make me open my mouth and take you completely in, hitting the back of my throat. You’re going to hold my head, pushing deeper into my mouth, my tongue all over you, and I’m going to suck you up as you fill my mouth with your cum until it drips out.
-
-**Erotica 15**.
-
+**Erotica 15**.  
 Hearing the phone buzz, I hear you move and stir around. I call you back to bed and you slide back into bed, so hard and so upright that I feel you right up against me. 
-
 You instantly pull me closer and thrust yourself deep into me without warning waking me up to a moan so loud you have to cover my mouth. And I feel you filled up inside me fucking me with everything you've got and holding my hair in one hand and my tits in another. 
-
 I turn to you, take your head and pull it close to my mouth, hold you close enough to kiss you, peck your nose, and take your mouth into mine hearing you moan. I bite your lip and tug on it with my teeth and hands are all up in your hair scrunching it up and I push you down on the bed and get right on top of you not leaving your mouth for even a breath. 
-
 While I kiss your mouth with all I've got, you feel my tits near your neck and grab them making me moan and arch my back just so you get a second of air. I'm gonna clamber in pleasure down on you collapsing with my tits in your face and my hair all over you, while I push you down, holding your head and push your face into my wet and wanting pussy. 
-
 As you eat me out I hold your head down on me and my back arches as I edge so close to coming in your mouth. And you grab me hard and push your tongue into me deeper and I explode all over your face. 
-
 You pull me roughly to you, and kiss me so I can taste myself off your mouth and thrust into me taking me in every which way and holding me all up in your arms and fucking me until you hear me screaming your name and you force your tongue into my mouth. While I'm sucking on your mouth, you hold me down and bite my neck as I push my fingernails into your back and ask you to go faster. 
-
 And you feel me shudder around you and then feel me biting your shoulder and pulling your hair. You pull out, and get on top of me...
 
-Erotica 15.
-
-Hearing the phone buzz, I hear you move and stir around. I call you back to bed and you slide back into bed, so hard and so upright that I feel you right up against me.
-
-You instantly pull me closer and thrust yourself deep into me without warning waking me up to a moan so loud you have to cover my mouth. And I feel you filled up inside me fucking me with everything you’ve got and holding my hair in one hand and my tits in another.
-
-I turn to you, take your head and pull it close to my mouth, hold you close enough to kiss you, peck your nose, and take your mouth into mine hearing you moan. I bite your lip and tug on it with my teeth and hands all up in your hair scrunching it up and I push you down on the bed and get right on top of you not leaving your mouth for even a breath.
-
-While I kiss your mouth with all I’ve got, you feel my tits near your neck and grab them making me moan and arch my back so that you get a second of air. I’m gonna clamber in pleasure down on you collapsing with my tits in your face and my hair all over you, while I push you down, holding your head and pushing your face into my wet and wanting pussy.
-
-As you eat me out I hold your head down on me and my back arches as I edge so close to coming in your mouth. And you grab me hard and push your tongue deeper, and I explode all over your face.
-
-You pull me roughly to you and kiss me so I can taste myself off your mouth and thrust into me taking me in every which way and holding me all up in your arms and fucking me until you hear me screaming your name and you force your tongue into my mouth. While I’m sucking on your mouth, you hold me down and bite my neck as I push my fingernails into your back and ask you to go faster.
-
-And you feel me shudder around you and then feel me biting your shoulder and pulling your hair. You pull out, and get on top of me…
-
-**Erotica 5**.
-
+**Erotica 5**.  
 I want to meet you in a wedding, find you in the crowd, from the other family's side. Look at you, and catch your gaze. I ask you, "Do you know where the rooms are?" I let you grab my hand, and show me where. Then let you go there with the keys. I follow you there, and close the door. I rip away your saree on the door, go down on you, and eat your clit, till you beg me to stop, so I ask you to sit. Then I pull you by your saree by that knot on your navel, and undo your hair.
-
 I turn you around, and press my cock on your ass. You can feel it through the clothes but you still moan. So I turn your neck, and nibble your lips, with my hand still on your clit. Then push you down, till your face is flat on the bed, with your ass up, and a vagina that's ready and wet. You undo my belt without seeing it, and gasp as you hold my boner, you ask me to fuck thee. Then I pin you down and slide it in, as slowly as I can, we hear the wedding drums begin.
-
 I want to fuck you to that drumbeat, until you can't take it anymore, till you gasp for breathe slowly sweating, with my fingers pinching your nipples, and my teeth undoing your lingerie. As my sweat drips from my face, on your back and you ask me if I am done yet. I politely say, "No bitch, we aren't going home tonight!" You ask me to stop, and don't stop in the same line.
-
 Then you say, "How about bringing your mouth to my boobs, slowly caressing them with your lips before sucking on my nipples" So I turn you around, and slide it in, going all missionary and tearing all your clothes, cup your boobs, and suck on both the nipples together. As you leave deep nail marks on my back, burning as our sweat runs over that.
-
 As you pull at my hair, I ask if you are married, you say, "Yes, aren't we both?  "Stop thinking!" ... And fuck me harder please!" And when I finally come up for air, you kiss me hard, bite my lips, and let some blood out there. So I slow down because I don't want to quit, I hear your moans go louder than that drumbeat until I cum inside you once, and you ask me to do it all over again. You suck my balls, slowly chew on my cock. You say, "Don't you do it because you can never have enough of me" as I get a better boner.
-
 You run your tongue from the bottom to the tip of my dick, I see you look up at me wide-eyed as you suck my dick and that turns me on even more. Then you clamp that head in between your lips and touch the tip with your tongue gently. As it gives me a freezing sensation, my body shivers, legs go weak, and I hold your hair with such a forceful grip, begging for mercy to let me live. You ask me to byheart your number before we leave because you want to ride me in your house's balcony.
-
 You want me to lift you up, and fuck me in the cold wind, sweating while your husband is in the other room, fucking his colleagues, 3, maybe 4. So I let myself go, and my cock oozes with glee, you drop all of it on your forehead, and it drips down slowly, from besides your eyes, down your nose, over a lip, and some goes inside your mouth as you open to tongue my cock some more.
-
 Then it drips down your chin like a never-ending river, drops on your chest, and rolls down your boobs, all the way down to your stomach, and navel. You blow me so hard, I fall exhausted on you. But my cock is now on your face, cumming away, till it goes to your clean-shaven pussy, and you scream, "oh! no, I don't want you to get me pregnant" So you rub it off as it overflows, down on the bed.
-
 You say, "We have a mess of this place, let's run away before anyone knows! Also, hey! are you married!?" ... "You wish" So I get you, your clothes from the hotel room, then we slip away back into the crowd again. I look at you and catch your gaze. Pretending to never have known you, but now a flashback to go to time and again. 
-
 Phew!
-
-Erotica 5.
-
-I want to meet you in a wedding, find you in the crowd, from the other family’s side. Look at you, and catch your gaze. I ask you, “Do you know where the rooms are?” I let you grab my hand, and show me where. Then let you go there with the keys. I follow you there, and close the door. I rip away your saree on the door, go down on you, and eat your clit, till you beg me to stop, so I ask you to sit. Then I pull you by your saree by that knot on your navel, and undo your hair.
-
-I turn you around, and press my cock on your ass. You can feel it through the clothes but you still moan. So I turn your neck, and nibble your lips, with my hand still on your clit. Then push you down, till your face is flat on the bed, with your ass up, and a vagina that’s ready and wet. You undo my belt without seeing it, and gasp as you hold my boner, you ask me to fuck thee. Then I pin you down and slide it in, as slowly as I can, we hear the wedding drums begin.
-
-I want to fuck you to that drumbeat, until you can’t take it anymore, till you gasp for breathe slowly sweating, with my fingers pinching your nipples, and my teeth undoing your lingerie. As my sweat drips from my face, on your back and you ask me if I am done yet. I politely say, “No bitch, we aren’t going home tonight!” You ask me to stop, and don’t stop in the same line.
-
-Then you say, “How about bringing your mouth to my boobs, slowly caressing them with your lips before sucking on my nipples” So I turn you around, and slide it in, going all missionary and tearing all your clothes, cup your boobs, and suck on both the nipples together. As you leave deep nail marks on my back, burning as our sweat runs over that.
-
-As you pull at my hair, I ask if you are married, you say, “Yes, aren’t we both? “Stop thinking!” … And fuck me harder please!” And when I finally come up for air, you kiss me hard, bite my lips, and let some blood out there. So I slow down because I don’t want to quit, I hear your moans go louder than that drumbeat until I cum inside you once, and you ask me to do it all over again. You suck my balls, slowly chew on my cock. You say, “Don’t you do it because you can never have enough of me” as I get a better boner.
-
-You run your tongue from the bottom to the tip of my dick, I see you look up at me wide-eyed as you suck my dick and that turns me on even more. Then you clamp that head in between your lips and touch the tip with your tongue gently. As it gives me a freezing sensation, my body shivers, legs go weak, and I hold your hair with such a forceful grip, begging for mercy to let me live. You ask me to byheart your number before we leave because you want to ride me in your house’s balcony.
-
-You want me to lift you up, and fuck me in the cold wind, sweating while your husband is in the other room, fucking his colleagues, 3, maybe 4. So I let myself go, and my cock oozes with glee, you drop all of it on your forehead, and it drips down slowly, from besides your eyes, down your nose, over a lip, and some goes inside your mouth as you open to tongue my cock some more.
-
-Then it drips down your chin like a never-ending river, drops on your chest, and rolls down your boobs, all the way down to your stomach, and navel. You blow me so hard, I fall exhausted on you. But my cock is now on your face, cumming away, till it goes to your clean-shaven pussy, and you scream, “oh! no, I don’t want you to get me pregnant” So you rub it off as it overflows, down on the bed.
-
-You say, “We have a mess of this place, let’s run away before anyone knows! Also, hey! are you married!?” … “You wish” So I get you, your clothes from the hotel room, then we slip away back into the crowd again. I look at you and catch your gaze. Pretending to never have known you, but now a flashback to go to time and again.
-
-Phew!
-
-**Erotica 4**.
-
+ 
+**Erotica 4**.  
 I want to whisper in your ears, and tell you things that I will do to you to make you squirt. I want to kiss you, bite you, eat you, and make you moan like you have never been fucked before. I want to tease you, dominate you, order you around, tell you what to do, show you what you deserve. Treat you like you are my bitch, you are my dirty little slut. I want to make you suck my dick till I cum in your mouth.
-
 Then kiss you when you are being a good girl, but if you are bad, then I will spank you really bad, hell, spank you anyway. I want to push you on to a wall, slap you as you stand there, then push you on to it by your neck, and then put my whole body on yours. Bite your ears, slide a arm under your thighs, and lift them up straight. Then slowly get one arm from behind your head, down to your panties, stretch that elastic and let it go, as it hits your waist and reminds you that it's me. 
-
 Then slide that hand under your top, slowly encroaching your tits. Remove that bra, in a quick tug, and bite your lips, as it snaps out of place, and I throw it away. Then I pinch your hard nipples, and turn you around. Spank your ass, real gently once, and then real bad twice. I will push my finger from the top of your back to the bottom, and slowly slide it inside your pussy, while my face is buried inside your back, biting away at all that muscle.
-
 Then as you get your hand and struggle with unbuckling me, you whip out my dick, all 7 inches of it. Tell me you are weak in your knees, such a convenient excuse, and fall right on them, to blow me to peace. You lick the tip, just a very subtle tease. Then you swallow it whole, keeping it dry, when you are dripping like a leaking tap. and you use both your hands to keep my cock in line. As you blow me and look me in the eye, you swallow my balls, and ask me to give you more!
-
 So I slide down those panties and ask you to come to an abandoned van, we roll down all windows, climb on the bonnet, we are star gazing, but are we? Because I am entering you slowly, mm by mm, as you can feel me slide. I want to fuck you till you scream. Then take you to a bed in that van, throw you on the bed, and make love to you some more.
-
-Erotica 4.
-
-I want to whisper in your ears, and tell you things that I will do to you to make you squirt. I want to kiss you, bite you, eat you, and make you moan like you have never been fucked before. I want to tease you, dominate you, order you around, tell you what to do, show you what you deserve. Treat you like you are my bitch, you are my dirty little slut. I want to make you suck my dick till I cum in your mouth.
-
 Then kiss you when you are being a good girl, but if you are bad, then I will spank you really bad, hell, spank you anyway. I want to push you on to a wall, slap you as you stand there, then push you on to it by your neck, and then put my whole body on yours. Bite your ears, slide a arm under your thighs, and lift them up straight. Then slowly get one arm from behind your head, down to your panties, stretch that elastic and let it go, as it hits your waist and reminds you that it’s me.
 
-Then slide that hand under your top, slowly encroaching your tits. Remove that bra, in a quick tug, and bite your lips, as it snaps out of place, and I throw it away. Then I pinch your hard nipples, and turn you around. Spank your ass, real gently once, and then real bad twice. I will push my finger from the top of your back to the bottom, and slowly slide it inside your pussy, while my face is buried inside your back, biting away at all that muscle.
-
-Then as you get your hand and struggle with unbuckling me, you whip out my dick, all 7 inches of it. Tell me you are weak in your knees, such a convenient excuse, and fall right on them, to blow me to peace. You lick the tip, just a very subtle tease. Then you swallow it whole, keeping it dry, when you are dripping like a leaking tap. and you use both your hands to keep my cock in line. As you blow me and look me in the eye, you swallow my balls, and ask me to give you more!
-
-So I slide down those panties and ask you to come to an abandoned van, we roll down all windows, climb on the bonnet, we are star gazing, but are we? Because I am entering you slowly, mm by mm, as you can feel me slide. I want to fuck you till you scream. Then take you to a bed in that van, throw you on the bed, and make love to you some more.
-
-**Erotica 14**.
-
+**Erotica 14**.  
 I want you to suck me dry, see your body flow, into voluptuous curves, in dim light, of a lamp shade.
-
 As you walk back into the room, from the shower, wrapped in a towel, still wet everywhere, leaking like a running tap.
-
 As you stand in front of me, seduce me true, watch my cock soar, in sheer lust, just for you.
-
 Have you come over, right on top of me, pushing me back into bed, and grind away, till that boner slips inside you all by itself.
-
 You can't help, but close your eyes, and take me in, take me in all the way, the whole 7 inches of it.
-
 These inches of joy, that you are with me for, with you cumming all over it, yet you carry on, to tease me with your tits.
-
 You pin my hands down, so I can't spank you, without putting up a fight, just to hold your neck/let you bite my fingers, as you fuck me right.
 
-Erotica 14.
-
-I want you to suck me dry, and see your body flow, into voluptuous curves, in the dim light, of a lampshade.
-
-As you walk back into the room, wrapped in a towel from the shower, still wet everywhere, leaking like a running tap.
-
-As you stand before me, seduce me truly, watch my cock soar, in sheer lust, just for you.
-
-Have you come over, right on top of me, pushing me back into bed, and grind away, till that boner slips inside you all by itself?
-
-You can’t help, but close your eyes, and take me in, take me in all the way, the whole 7 inches of it.
-
-These inches of joy, that you are with me for, with you cumming all over it, yet you carry on, to tease me with your tits.
-
-You pin my hands down, so I can’t spank you, without fighting, just to hold your neck/let you bite my fingers, as you fuck me right.
-
-**Erotica 9**.
-
+**Erotica 9**.  
 I want to trash talk to you like telling you what kind of a bitch you are, that I think that you are cheating on me, for which you need to be punished with spanking your ass, choking you, turning you around, rubbing my 7" boner on your fat fucking ass, kissing you hard while I am at it, then throwing you on the bed, and fucking you doggystyle. So do you want me to come over, and tear away your tee? I want to see your cleavage where I can park my boner. Just in case, you decide to go gentle on me. Because I won't let you catch a breath. Instead I will choke you, spank you, and if you are up for it then lose my mind, and slap you.
-
 I want to bite you everywhere, running my fingers up and down your back slowly, while at it. I want to nail your back so hard, that you will feel marked like never before, and fuck you doggy style till you cum, but then not stop with it. I want to keep going for hours, pull your hair, and make you moan, make you call me everything and anything I want you to say. I want to role play with you, and make you count the times you cum until it's 12 in one condom. Then throw that condom away, and slap my 7" boner on your face, force it in your mouth, and get it all wet while you choke.
-
 Then I want to slide it inside you, as rough as sex can get, almost consented rape. Then I want to fuck you harder till I cum all of me into you, yet keep going on it for an hour more till our faces are dripping with sweat. I want to turn you around, and kiss you right. First a gentle touch of our lips, then a nibble's delight. A bite, and tonguing all the way in, then go down on you, and eat you all up, while running a finger around your hard nipples till you cum.
-
 I want to stay down there until you quiver, and shake, suck on your clit, and finger you till you squirt like my morning milkshake. Then eat you till my face is wet, and my beard is dripping in your cum. I want to pick you up, and turn you around, pin you on a wall, and rub my boner on your ass, before I make you go down on your knees, make you give me a sloppy fucking blowjob for an hour and a half, before I cum on your face as long as from your face it drips.
 
-Erotica 9.
-
-I want to trash talk to you like telling you what kind of a bitch you are, that I think that you are cheating on me, for which you need to be punished with spanking your ass, choking you, turning you around, rubbing my 7” boner on your fat fucking ass, kissing you hard while I am at it, then throwing you on the bed, and fucking you doggystyle. So do you want me to come over, and tear away your tee? I want to see your cleavage where I can park my boner. Just in case, you decide to go gentle on me. Because I won’t let you catch a breath. Instead I will choke you, spank you, and if you are up for it then lose my mind, and slap you.
-
-I want to bite you everywhere, running my fingers up and down your back slowly, while at it. I want to nail your back so hard, that you will feel marked like never before, and fuck you doggy style till you cum, but then not stop with it. I want to keep going for hours, pull your hair, and make you moan, make you call me everything and anything I want you to say. I want to role play with you, and make you count the times you cum until it’s 12 in one condom. Then throw that condom away, and slap my 7” boner on your face, force it in your mouth, and get it all wet while you choke.
-
-Then I want to slide it inside you, as rough as sex can get, almost consented rape. Then I want to fuck you harder till I cum all of me into you, yet keep going on it for an hour more till our faces are dripping with sweat. I want to turn you around, and kiss you right. First a gentle touch of our lips, then a nibble’s delight. A bite, and tonguing all the way in, then go down on you, and eat you all up, while running a finger around your hard nipples till you cum.
-
-I want to stay down there until you quiver, and shake, suck on your clit, and finger you till you squirt like my morning milkshake. Then eat you till my face is wet, and my beard is dripping in your cum. I want to pick you up, and turn you around, pin you on a wall, and rub my boner on your ass, before I make you go down on your knees, make you give me a sloppy fucking blowjob for an hour and a half, before I cum on your face as long as from your face it drips.
-
-**Erotica 1**.
-
+**Erotica 1**.  
 I dreamt of us. You met me at a cafe, you winked at me, and bite your lips, held my hand, and we ran into a closet.
-
 In your office, behind the pantry, on conference tables, you sit. While I lean in to kiss you softly, you spread your legs. I hover my palms on your skin, neither touching or pressing, but only a slight presence that leaves you wanting, for more.
-
 As I feel the warmth of your thighs build up with your moans, you run your fingers through my hair, holding my face as we kiss, guiding my head down, over your chocolate hills, into a flowing valley, and holding me there.
-
 And I tease you with my beard tickling your panties. With my hands on your nipple, circling it slowly, and with patience. I wait until your moans grow so loud that everyone else in the office knows that you could not wait until day's end. Then I slid your wet panties off you, and let your skin feel my beard. As you force me to eat you.
-
 I hold back restraining. To kiss your clit first, then nibble. So when you tell me, "Fuck baby! Eat me", I can swallow your pussy whole with my tongue on you. Going deeper every second. As slowly as we can, feeling every inch of progress I make. With my mouth full of your cum, and my saliva dripping right back on your clit. I release it drop by drop, tantalizing your labia in return.
-
 A finger running slow, and deep. Making you believe that time is your enemy with all the pleasure that it brings you, and all the pain that you inflict on me. With your long nails, running all over my back. I howl in pain. To moan together in pleasure, we can't wait for you to dominate me, and then I will throw you on a bed and have you alone.
 
-Erotica 1.
-
-I dreamt of us. You met me at a cafe, you winked at me, and bite your lips, held my hand, and we ran into a closet.
-
-In your office, behind the pantry, on conference tables, you sit. While I lean in to kiss you softly, you spread your legs. I hover my palms on your skin, neither touching or pressing, but only a slight presence that leaves you wanting, for more.
-
-As I feel the warmth of your thighs build up with your moans, you run your fingers through my hair, holding my face as we kiss, guiding my head down, over your chocolate hills, into a flowing valley, and holding me there.
-
-And I tease you with my beard tickling your panties. With my hands on your nipple, circling it slowly, and with patience. I wait until your moans grow so loud that everyone else in the office knows that you could not wait until day’s end. Then I slid your wet panties off you, and let your skin feel my beard. As you force me to eat you.
-
-I hold back restraining. To kiss your clit first, then nibble. So when you tell me, “Fuck baby! Eat me”, I can swallow your pussy whole with my tongue on you. Going deeper every second. As slowly as we can, feeling every inch of progress I make. With my mouth full of your cum, and my saliva dripping right back on your clit. I release it drop by drop, tantalizing your labia in return.
-
-A finger running slow, and deep. Making you believe that time is your enemy with all the pleasure that it brings you, and all the pain that you inflict on me. With your long nails, running all over my back. I howl in pain. To moan together in pleasure, we can’t wait for you to dominate me, and then I will throw you on a bed and have you alone.
-
-**Erotica 7**.
-
+**Erotica 7**.  
 So here's how I really want you. Steamy, fresh after a bath with that first few buttons open, just enough for me to see the top of your cleavage. I want you to come to me when I get in the house, right on the main door. Then lay your hands on my shirt and push me back on the main door. Look at me in my eye, with a gaze that says, "You are mine." And as silent as you are on a cafe bench, I want you to grab my belt. No baby don't be gentle, just show me that you rule me, you are my queen. I want you to unbuckle the strap, and bite your lips. Come close enough to give me a kiss but don't give me any. Since you were planning to head out, and I interuptted your plans, I want you to be angry. You keep your bag next to me, on the floor near the wall, so that it doesn't get between you like I did. Then go down on your knees, and feel my cock from outside the pants. You undo the belt and unzip my pants. You pull out my hard on and say, "why is my package not a boner yet?" 
-
 Hand me the belt, so you can use both your hands to treat me right. I want your complete attention. Look right at me, and keep my cock on your lips. No your lips are not wet, but they soon will be. So you rub off that dark red lipstick on my cock, bickering about the heat. SInce I want to go handfree, I pull your hair up, and lap that belt around your neck. I slide it in the buckle as the leather makes you feel that I am being in control. I let go off your hair, and pull on the strap. It makes the belt fasten around your delicate neck. You choke.
-
 As I run my fingers on your mane, you close your eyes and kiss my cock...
 
-Erotica 7.
-
-So here’s how I really want you. Steamy, fresh after a bath with that first few buttons open, just enough for me to see the top of your cleavage. I want you to come to me when I get in the house, right on the main door. Then lay your hands on my shirt and push me back on the main door. Look at me in my eye, with a gaze that says, “You are mine.” And as silent as you are on a cafe bench, I want you to grab my belt. No baby don’t be gentle, just show me that you rule me, you are my queen. I want you to unbuckle the strap, and bite your lips. Come close enough to give me a kiss but don’t give me any. Since you were planning to head out, and I interuptted your plans, I want you to be angry. You keep your bag next to me, on the floor near the wall, so that it doesn’t get between you like I did. Then go down on your knees, and feel my cock from outside the pants. You undo the belt and unzip my pants. You pull out my hard on and say, “why is my package not a boner yet?”
-
-Hand me the belt, so you can use both your hands to treat me right. I want your complete attention. Look right at me, and keep my cock on your lips. No your lips are not wet, but they soon will be. So you rub off that dark red lipstick on my cock, bickering about the heat. SInce I want to go handfree, I pull your hair up, and lap that belt around your neck. I slide it in the buckle as the leather makes you feel that I am being in control. I let go off your hair, and pull on the strap. It makes the belt fasten around your delicate neck. You choke.
-
-As I run my fingers on your mane, you close your eyes and kiss my cock…
-
-**Erotica 6**.
-
+**Erotica 6**.  
 I love eating you out, and hearing you moan, like a toy in my hands. I love sucking your tits, running my nails on your back. I want to tear away your tops. All of them. I want to give you continuous hickies. I want to get Honey, Nutella, Hershey's syrup, and peanut butter. I want to swallow your cum. Being horny is expensive, and you are the only expense I want. I want us to be dirty baby. Add some Mayonnaise please.
-
 I want to rip away your delicate panties, and pull you by your legs, dragging you towards me on the bed, spit on your clit, and tongue it, deeper, and rub my lips on your clit. I want to try all of these, one by one. Let's start with honey, I want to eat you, while you eat breakfast, can you tease me some more baby! I want to be greedy for you. I want to suck hard on your pussy. Touch yourself right now. I want you to orgasm tonight. Now I wish you were here, baby let's just live in together? I cannot stay away from those hard nipples. So I want to eat pizza off you.
-
 I want to fuck you with my rock hard boners, not the ones you have seen yet. I am hard enough to slap your face with my cock, and make you feel it on you. I want to cum tonight. I want you to wear a blouse the next time, if we are travelling then pack it and then change into a saree in the room. I want to fuck you with your saree on. I want to fucking make love to you like nobody's business. I want you baby, and I want to scream these words while we fuck. I want those words to echo in the room, while my thighs slap against your ass, and add a beat to make our sex sound like rap. We are never meeting outside again.
-
 I can't take it anymore, or if we are then it's in an empty cafe, where I can fuck you on the couch, and you can be all naked, and be the cause of awe from all pedestrians on the roadside. I want you to wear low backs that tease me by almost revealing your ass. I want it all baby. Fuck me harder soon. I cannot think straight. I want you to be my art, and I want you to be mine. I want to fuck you in the rain in some private balcony, looking down on a city block. I want to kiss your neck, leave bites. I can't take this anymore. My cock is going to explode with cum, hall over your tits, navel, and body for sure. 
-
 I want you to lick my cum off your tits. Then take you to the bathroom. I want you to hold the towel rod, and stay pinned there. Throw water on you while you're still wearing the blouse, while I do things to you on your belly. Then undo the hooks as slowly as I can. I am going to get you all wet baby, and be gentle as water flows on your skin, only to drink that water to quench my thirst, stop the droplets running down your boobs with my lips. I want to fuck you in a hot shower for hours everyday. I don't want to talk to you anymore. I want to be rubbing my cock hard. I just want to make rough love to you, and sneak away to be with you, slide one finger in baby, slide in two, stay there as you feel the way I finger you until your gspot and around.
-
 It's getting cold here, the fan is on. I want you to shiver, as I throw my hot body on you, dry hump you without clothes, and bite you everywhere, on your thighs, ass, your abs, suck on your nipples, your neck, let the world know that I am taken, and some bitch has marked me like she owns me now. I am never going to stop, so you will have to live all hot and bothered always. If you are going to stay with me, because the only thing on my bucket list now is to have you with me like my bitch, and be your dog. Come get me baby. I want to fuck you on your main door. I want to push your face in the door, and spank your ass hard for being such an ass, and not fucking me soon everyday.
 
-Erotica 6.
-
-I love eating you out, and hearing you moan, like a toy in my hands. I love sucking your tits, running my nails on your back. I want to tear away your tops. All of them. I want to give you continuous hickies. I want to get Honey, Nutella, Hershey’s syrup, and peanut butter. I want to swallow your cum. Being horny is expensive, and you are the only expense I want. I want us to be dirty baby. Add some Mayonnaise please.
-
-I want to rip away your delicate panties, and pull you by your legs, dragging you towards me on the bed, spit on your clit, and tongue it, deeper, and rub my lips on your clit. I want to try all of these, one by one. Let’s start with honey, I want to eat you, while you eat breakfast, can you tease me some more baby! I want to be greedy for you. I want to suck hard on your pussy. Touch yourself right now. I want you to orgasm tonight. Now I wish you were here, baby let’s just live in together? I cannot stay away from those hard nipples. So I want to eat pizza off you.
-
-I want to fuck you with my rock hard boners, not the ones you have seen yet. I am hard enough to slap your face with my cock, and make you feel it on you. I want to cum tonight. I want you to wear a blouse the next time, if we are travelling then pack it and then change into a saree in the room. I want to fuck you with your saree on. I want to fucking make love to you like nobody’s business. I want you baby, and I want to scream these words while we fuck. I want those words to echo in the room, while my thighs slap against your ass, and add a beat to make our sex sound like rap. We are never meeting outside again.
-
-I can’t take it anymore, or if we are then it’s in an empty cafe, where I can fuck you on the couch, and you can be all naked, and be the cause of awe from all pedestrians on the roadside. I want you to wear low backs that tease me by almost revealing your ass. I want it all baby. Fuck me harder soon. I cannot think straight. I want you to be my art, and I want you to be mine. I want to fuck you in the rain in some private balcony, looking down on a city block. I want to kiss your neck, leave bites. I can’t take this anymore. My cock is going to explode with cum, hall over your tits, navel, and body for sure.
-
-I want you to lick my cum off your tits. Then take you to the bathroom. I want you to hold the towel rod, and stay pinned there. Throw water on you while you’re still wearing the blouse, while I do things to you on your belly. Then undo the hooks as slowly as I can. I am going to get you all wet baby, and be gentle as water flows on your skin, only to drink that water to quench my thirst, stop the droplets running down your boobs with my lips. I want to fuck you in a hot shower for hours everyday. I don’t want to talk to you anymore. I want to be rubbing my cock hard. I just want to make rough love to you, and sneak away to be with you, slide one finger in baby, slide in two, stay there as you feel the way I finger you until your gspot and around.
-
-It’s getting cold here, the fan is on. I want you to shiver, as I throw my hot body on you, dry hump you without clothes, and bite you everywhere, on your thighs, ass, your abs, suck on your nipples, your neck, let the world know that I am taken, and some bitch has marked me like she owns me now. I am never going to stop, so you will have to live all hot and bothered always. If you are going to stay with me, because the only thing on my bucket list now is to have you with me like my bitch, and be your dog. Come get me baby. I want to fuck you on your main door. I want to push your face in the door, and spank your ass hard for being such an ass, and not fucking me soon everyday.
-
-**Erotica 10**.
-
+**Erotica 10**.  
 She: You ain't gonna jerk off. You gonna be hard and upright, and throbbing and you won't be allowed to touch yourself at all. All hands away. No hands. 
-
 He: You are going to undress me too when we meet. With your teeth. With sex friendly beats playing in the background. 
-
 She: Just my mouth, teasing your head slowly with my tongue and just when you sigh and think this is it, pushing you completely and fully, deep into my mouth till you're at the back of my throat within that second. And I'm going to devour you. 
-
 She: You're going to arch back in surprise and delight and hold my head into you and I'm going to dig my nails in the back of your thighs and push you deeper into my mouth, sucking and filling my mouth with all of you and holding firmly onto you with my lips wrapped around tight as you can think and my teeth just teasing you. 
-
 She: And you'll then hold my hair, gather it, move it away from my face so you can see me looking at you. Deeply in your dark eyes and seeing only you, for you and nothing but you while I pull you out of my mouth, run my hands on your balls and firmly but softly at the same time cradle them and run your dick in and out of my tight lipped mouth dripping with every drop of you until you can stand anymore. 
-
 He: Are you touching yourself right now? If not then circle that clit, run your fingers slowly as you keep typing to me. 
-
 She: Till you want to collapse, and let me climb over you, and eat you up like I'm never going to get to. 
-
 She: And while I cower over you, my tits are gonna touch your thighs, gently grazing them and you're gonna feel how hard they are with my hair all over your stomach and my mouth swallowing you in your entirety right back in and keep you there, in the grips of my wet and thirsty tight lipped mouth, while my hands, specifically my fingers find your balls and tease you by touching then ever so slightly and letting my tits graze them while I suck out every last drop you have for me. 
-
 She: Until you start shaking and wanting more and I pullback and look at you with all the longing in my heart, and hold you back down, and finish you off by blowing you so hard that you cannot contain yourself and you explode in my mouth filling it up and forcing me to swallow all of what you've given me just so I can catch my breath. 
-
 He: Why don't you come up and kiss every part of my skin!? 
-
 She: Nope. Nothing but your dick and my mouth. Kisses are for another time.
 
-Erotica 10.
-
-She: You ain’t gonna jerk off. You gonna be hard and upright, and throbbing and you won’t be allowed to touch yourself at all. All hands away. No hands.
-
-He: You are going to undress me too when we meet. With your teeth. With sex friendly beats playing in the background.
-
-She: Just my mouth, teasing your head slowly with my tongue and just when you sigh and think this is it, pushing you completely and fully, deep into my mouth till you’re at the back of my throat within that second. And I’m going to devour you.
-
-She: You’re going to arch back in surprise and delight and hold my head into you and I’m going to dig my nails in the back of your thighs and push you deeper into my mouth, sucking and filling my mouth with all of you and holding firmly onto you with my lips wrapped around tight as you can think and my teeth just teasing you.
-
-She: And you’ll then hold my hair, gather it, move it away from my face so you can see me looking at you. Deeply in your dark eyes and seeing only you, for you and nothing but you while I pull you out of my mouth, run my hands on your balls and firmly but softly at the same time cradle them and run your dick in and out of my tight lipped mouth dripping with every drop of you until you can stand anymore.
-
-He: Are you touching yourself right now? If not then circle that clit, run your fingers slowly as you keep typing to me.
-
-She: Till you want to collapse, and let me climb over you, and eat you up like I’m never going to get to.
-
-She: And while I cower over you, my tits are gonna touch your thighs, gently grazing them and you’re gonna feel how hard they are with my hair all over your stomach and my mouth swallowing you in your entirety right back in and keep you there, in the grips of my wet and thirsty tight lipped mouth, while my hands, specifically my fingers find your balls and tease you by touching then ever so slightly and letting my tits graze them while I suck out every last drop you have for me.
-
-She: Until you start shaking and wanting more and I pullback and look at you with all the longing in my heart, and hold you back down, and finish you off by blowing you so hard that you cannot contain yourself and you explode in my mouth filling it up and forcing me to swallow all of what you’ve given me just so I can catch my breath.
-
-He: Why don’t you come up and kiss every part of my skin!?
-
-She: Nope. Nothing but your dick and my mouth. Kisses are for another time.
-
-**Erotica 13**.
-
+**Erotica 13**.  
 She: So what's ur move? To get started in bed? Because with the way you speak, I know you have not one but a few moves that you start with.
-
 He: I will start with your neck. Please don't turn me on right now. I am already all hot and bothered. I want to hold you. In a surprise, from your back. Kiss your neck, and bite it. Mark my territory, and slide my fingers done your waist. Keep them there, and bite your ears. Slowly watching you bite your lips. How about you?
-
 She: I don't have a move. :P But I do. Well I would usually start by taking a sit with my legs around your waist kissing you slowly, and then deepen the kiss. Maybe softly bite the lip, and then pull your head back with my hand in your hair trailing kisses till your ear. Lick your earlobe and softly whisper... do you know what you have to do next? Or will I have to tell you?
-
 He: You are fucking me. Because you won't survive the way I will toss you and throw you around in bed. This kind of teasing is making me want you. I am going to run my fingers all over you. Not ripping your clothes like I usually would. But peel layers of it, off you... Slowly. As slowly as time can run, while kissing you slowly. Actually, not a kiss but a peck. Only rubbing my lips on yours, then a nibble. A slow kiss on your upper lip. Stop. Freeze there, holding your lips in mine as my hands continue to undress you.
-
 Yes. Un-dress you. Not torture nor punish nor tear you into bare nakedness. And let this silence of waiting for my next move eat away your patience. Then I slide my tongue to touch yours. Deep slow kisses. While my fingers are playing a symphony on your back. Running across it, in the most slow soft manner. Then run my tongue down your neck, collar bones, chest, boobs, and waist then whisper... Do you know where I am headed? Or do you want to lead?
-
 She: Well if that happens I would pull you with your collar to the bed, push all of you in and show you how leading is not something you should be thinking about with me, unless I tell you to.
-
 He: Then I will pull myself out and put my tulips on your organ to eat you out before you can blink.
-
 She: Okay now you are turning me on which is not a good sign.
-
 He: Well, I am going to make sure that you get addicted to me.
 
-Erotica 13.
-
-She: So what’s your move? To get started in bed? Because with the way you speak, I know you have not one but a few moves that you start with.
-
-He: I will start with your neck. Please don’t turn me on right now. I am already all hot and bothered. I want to hold you. In a surprise, from your back. Kiss your neck, and bite it. Mark my territory, and slide my fingers done your waist. Keep them there, and bite your ears. Slowly watching you bite your lips. How about you?
-
-She: I don’t have a move. :P But I do. Well, I would usually start by taking a sit with my legs around your waist kissing you slowly, and then deepening the kiss. Maybe softly bite the lip, and then pull your head back with my hand in your hair trailing kisses till your ear. Lick your earlobe and softly whisper… do you know what you have to do next? Or will I have to tell you?
-
-He: You are fucking me. Because you won’t survive the way I will toss you and throw you around in bed. This kind of teasing is making me want you. I am going to run my fingers all over you. Not ripping your clothes like I usually would. But peel layers of it, off you… Slowly. As slowly as time can run while kissing you slowly. Not a kiss but a peck. Only rubbing my lips on yours, then a nibble. A slow kiss on your upper lip. Stop. Freeze there, holding your lips in mine as my hands continue to undress you.
-
-Yes. Un-dress you. Not torture nor punish nor tear you into bare nakedness. And let this silence of waiting for my next move eat away your patience. Then I slide my tongue to touch yours. Deep slow kisses. While my fingers are playing a symphony on your back. Running across it, in the most slow soft manner. Then run my tongue down your neck, collar bones, chest, boobs, and waist then whisper… Do you know where I am headed? Or do you want to lead?
-
-She: Well if that happens I would pull you with your collar to the bed, push all of you in and show you how leading is not something you should be thinking about with me unless I tell you to.
-
-He: Then I will pull myself out and put my tulips on your organ to eat you out before you can blink.
-
-She: Okay now you are turning me on which is not a good sign.
-
-He: Well, I am going to make sure that you get addicted to me.
-
-**Erotica 3**.
-
+**Erotica 3**.  
 So it's an early morning. You wake up on bed and turned to hug me but find yourself alone on bed wearing just your underwear and bare body. You rush out of the bedroom to find me. And your eyes stops at the sight of me in the kitchen. Wearing your long sleeved white shirt from the last night.
-
 Buttons randomly done exposing my bra strap on one side of my shoulder my hairs tied out in a messy pony tail. And I'm busy mixing something in bowl. And earphones in my ears. Moving on the beats and enjoying cooking. Couldn't hear you calling out for me.
-
 So I walk to you, you hear me come, but you pretend to not have noticed me. I get close, real close, nibble your ear, and let my hard-on touch your ass. You smile and continue with the mixing. I slowly undo your shirt off your shoulder, and bite the bra strap. Slide my hand under the shirt on your back and hold your waist tightly.
-
 I can feel your hair smell of shampoo, like a fresh woman for me to eat. I spank your ass, and turn you around. You slide the bowl away from us on the counter, and you sit on the top. So I pull your bra strap, and let it snap back to hit you. You jolt, and let me kiss you.
-
 I press my lips against yours, rubbing it there for a second. Then slowly nibble your lower lip, till you draw your tongue out to enter my mouth. I bite your lip, and you gasp. I enjoy how both my hands are now inching slowly up your waist to your back. And running up your spine, to your neck and hold your neck to kiss you harder.
-
 I could feel warm of your body as you coming closer. My hearts biting faster and anxious at the same time to feel your touch on my skin. As you nibble on my ears. I feel a shiver run across my skin and between my legs. I feel my knees going weak with the way you bite my bra strap.
-
 Making my panties wet. And right when you grabed my waist damn I literally lost my breath. Finally catching my breath and trying to make it sound normal. I uttered in a low voice, "Umm! Ah! You are up so early?"
 I pause for a second, slide my arms behind you, look for the hook, to undo it again. I slide it off your shoulder, and down your arms, gently caressing them, till the bra falls apart.
-
 I pull your shirt away, as you gasp, "Oh! it will tear." So I cup your left tit in my palm, and touch the tip of my tongue to it. You run a chill down your spine. Hold my head clenching my hair for a while. So I move back, and slide down a finger, that tugs at your wet panties, and pull them away like I own you now.
-
 I spread your legs slightly apart, and then go I down.
 
-Erotica 3.
-
-So it’s an early morning. You wake up on bed and turned to hug me but find yourself alone on bed wearing just your underwear and bare body. You rush out of the bedroom to find me. And your eyes stops at the sight of me in the kitchen. Wearing your long sleeved white shirt from the last night.
-
-Buttons randomly done exposing my bra strap on one side of my shoulder my hairs tied out in a messy pony tail. And I’m busy mixing something in bowl. And earphones in my ears. Moving on the beats and enjoying cooking. Couldn’t hear you calling out for me.
-
-So I walk to you, you hear me come, but you pretend to not have noticed me. I get close, real close, nibble your ear, and let my hard-on touch your ass. You smile and continue with the mixing. I slowly undo your shirt off your shoulder, and bite the bra strap. Slide my hand under the shirt on your back and hold your waist tightly.
-
-I can feel your hair smell of shampoo, like a fresh woman for me to eat. I spank your ass, and turn you around. You slide the bowl away from us on the counter, and you sit on the top. So I pull your bra strap, and let it snap back to hit you. You jolt, and let me kiss you.
-
-I press my lips against yours, rubbing it there for a second. Then slowly nibble your lower lip, till you draw your tongue out to enter my mouth. I bite your lip, and you gasp. I enjoy how both my hands are now inching slowly up your waist to your back. And running up your spine, to your neck and hold your neck to kiss you harder.
-
-I could feel warm of your body as you coming closer. My hearts biting faster and anxious at the same time to feel your touch on my skin. As you nibble on my ears. I feel a shiver run across my skin and between my legs. I feel my knees going weak with the way you bite my bra strap.
-
-Making my panties wet. And right when you grabed my waist damn I literally lost my breath. Finally catching my breath and trying to make it sound normal. I uttered in a low voice, “Umm! Ah! You are up so early?” I pause for a second, slide my arms behind you, look for the hook, to undo it again. I slide it off your shoulder, and down your arms, gently caressing them, till the bra falls apart.
-
-I pull your shirt away, as you gasp, “Oh! it will tear.” So I cup your left tit in my palm, and touch the tip of my tongue to it. You run a chill down your spine. Hold my head clenching my hair for a while. So I move back, and slide down a finger, that tugs at your wet panties, and pull them away like I own you now.
-
-I spread your legs slightly apart, and then go I down.
-
-**Erotica 12**.
-
+**Erotica 12**.  
 She: It is a quaint Sunday afternoon, 
 A long while since I have sat and reflected. 
 My sister sits in the next room,
@@ -4081,39 +1642,33 @@ Laughing on some random video.
 The occasional chirping of birds,
 Is more clear these days. 
 Oh gosh, how I have missed these voices.
-
 He: or did you miss the sound of water
 When you were staring at me in the bath
 That splashing on that stone
 That hid your thumping heart
 From my lecherous moans?
-
 She: Words can deceive, 
 I agree. 
 But let not emotions hide. 
 Leave, let's go. 
 And find ourselves wrapped in bedsheets
 Late until the afternoon.
-
 He: Where though?
 I'm shut away by the powers that be
 I can't help but wait for your teases
 See if you mean
 All those lists you want to do for me
-
 Most of me think otherwise
 Thinks of you as a thief of hearts
 Dragging men by your flowing hair
 Leaving them all in tears
 On a mountainside
-
 She: Ah! Won't that be nice? 
 To steal hearts and make others cry
 Instead of the one being 
 Who always ends up crying 
 Of us, let's not put so much thought into it.
 Cause who knows what we would be by the end of it
-
 He: How dare you to give me hope 
 And snatch it all away in a poem
 You are getting assaulted
@@ -4123,7 +1678,6 @@ In the airport lounge
 And made love to 
 In the nearest cabin 
 We find
-
 She: I give you not thee 
 The power to kidnap me
 And fuck me in a cabin
@@ -4132,19 +1686,16 @@ Take me to a cafe
 And then later 
 Let's find a place 
 And fuck for like ages
-
 He: You are a seductress
 Why? Would I trust you!
 What? If you ghost me!
 Runaway into an urban jungle?
 Without leaving a clue!
-
 She: People leave clues 
 For where they can not find
 You and I are bound 
 And no matter where we are 
 We always end up around
-
 He: What's taking you long?
 What plans are you hatching?
 Is this a trap?
@@ -4155,21 +1706,18 @@ To burn all those calories
 And all those electric touches
 That I spent on all the wrong women
 Wishing they had our exact spark
-
 Well, I am going to hold you tight, 
 Push you down harder
 Slide my boner in
 Till you choke
 And then be as gentle as I can be
 Until you don't want to let me go
-
 She: Days have gone by hard and crude 
 We both suffered and howled 
 Calling me names 
 And not trusting me now
 Will only bring more pain
 And I am done with that now
-
 He: Like tie you up, blindfold you
 Tease you for very long
 Running my hands and lips
@@ -4177,11 +1725,9 @@ All over your body
 Kissing you as a tease
 Only a tease and nothing else
 Until you beg me to eat you out
-
 She: I will cry out your name
 And the world will know 
 That a passion is born
-
 He: I hate this distance 
 That lie between us
 Between Doon and Bangalore
@@ -4189,7 +1735,6 @@ And now Noida and BOM
 I want a wildfire running through your arms
 When my fingers touch you,
 Feel it all warming up
-
 She: My vagina will flow and flow 
 An endless volcano 
 That makes you trip 
@@ -4198,7 +1743,6 @@ I will show you how it's done
 So you know
 I am a queen 
 And who should get love!
-
 He: You better move here this month
 Because I can't take it anymore
 My boner is all set to explode
@@ -4207,7 +1751,6 @@ And never gonna stop
 Till you learn to count till 12
 And trash talk to you
 Until you feel mentally unwell
-
 She: Distance makes the heart grow fonder
 They say
 Who knows, when we meet 
@@ -4217,7 +1760,6 @@ I can't this anymore
 Come here 
 Hold me tight 
 And engulf me whole
-
 He: Fuck what the world says
 Fuck all other quotes
 I want to move to you
@@ -4247,308 +1789,121 @@ Tease me with pictures
 Tease me now
 Tease me when you aren't orgasming
 To my keyboard, and sounds
-
 She: You want me to tie you down and run my lips all over your skin?
 Like you own me? 
-
 He: Without letting me touch you? 
 Hold you? 
 Or feel you grind gently? 
 Go slow! 
 Until it's obvious that you want me harder than ever 
 No matter where we are
-
 She: And without letting you see me
 And then go down on you
 Without touching you at all
-
 He: How good are you?
 How long can you last?
 Haven't you any idea?
 Because you move like a pro
 Though I know you are no match for my cock
-
 She: I'm pretty sure that's true
-
 He: Well, I am going to hold you tight, 
-Push you down harder
-Slide my boner in
-Till you choke
-And then be as gentle as I can be
-Until you don't want to let me go
-
 She: I definitely don't want to let you go!
 Gentle?
-
 He: Because you won't last the minute
 The minute I unleash the monster inside me
 You will crumble like breadsticks
 Dipped in mayonnaise and cream
 
-Erotica 12.
-
-She: It is a quaint Sunday afternoon, A long while since I have sat and reflected. My sister sits in the next room, Laughing on some random video. The occasional chirping of birds, Is more clear these days. Oh gosh, how I have missed these voices.
-
-He: or did you miss the sound of water When you were staring at me in the bath That splashing on that stone That hid your thumping heart From my lecherous moans?
-
-She: Words can deceive, I agree. But let not emotions hide. Leave, let’s go. And find ourselves wrapped in bedsheets Late until the afternoon.
-
-He: Where though? I’m shut away by the powers that be I can’t help but wait for your teases See if you mean All those lists you want to do for me
-
-Most of me think otherwise Thinks of you as a thief of hearts Dragging men by your flowing hair Leaving them all in tears On a mountainside
-
-She: Ah! Won’t that be nice? To steal hearts and make others cry Instead of the one being Who always ends up crying Of us, let’s not put so much thought into it. Cause who knows what we would be by the end of it
-
-He: How dare you to give me hope And snatch it all away in a poem You are getting assaulted The moment you land here You will be kidnap-ped In the airport lounge And made love to In the nearest cabin We find
-
-She: I give you not thee The power to kidnap me And fuck me in a cabin Instead, show me around Take me to a cafe And then later Let’s find a place And fuck for like ages
-
-He: You are a seductress Why? Would I trust you! What? If you ghost me! Runaway into an urban jungle? Without leaving a clue!
-
-She: People leave clues For where they can not find You and I are bound And no matter where we are We always end up around
-
-He: What’s taking you long? What plans are you hatching? Is this a trap? For you cannot disappear for years Like the last time around And leave me wanting To burn all those calories And all those electric touches That I spent on all the wrong women Wishing they had our exact spark
-
-Well, I am going to hold you tight, Push you down harder Slide my boner in Till you choke And then be as gentle as I can be Until you don’t want to let me go
-
-She: Days have gone by hard and crude We both suffered and howled Calling me names And not trusting me now Will only bring more pain And I am done with that now
-
-He: Like tie you up, blindfold you Tease you for very long Running my hands and lips All over your body Kissing you as a tease Only a tease and nothing else Until you beg me to eat you out
-
-She: I will cry out your name And the world will know That a passion is born
-
-He: I hate this distance That lie between us Between Doon and Bangalore And now Noida and BOM I want a wildfire running through your arms When my fingers touch you, Feel it all warming up
-
-She: My vagina will flow and flow An endless volcano That makes you trip And me on your top I will show you how it’s done So you know I am a queen And who should get love!
-
-He: You better move here this month Because I can’t take it anymore My boner is all set to explode At the same time as your volcano And never gonna stop Till you learn to count till 12 And trash talk to you Until you feel mentally unwell
-
-She: Distance makes the heart grow fonder They say Who knows, when we meet We may burn the earth down Stop stop stop I can’t this anymore Come here Hold me tight And engulf me whole
-
-He: Fuck what the world says Fuck all other quotes I want to move to you Or have you move to me The moment this quarantine goes So don’t you waste your time Sitting around at home Book your flight tickets And come down to Bombay We will find a place for you And work on sharing the rent Spend none on condoms Only on stuff for our own creative studio Or if Delhi is cheaper Then move out of home I will join you there And we can rule the world I doubt we will ever write Except for our own personal erotica And all those moans that will echo Might as well sell background score for sex I so want to get a kennel though For a million more dogs So I can see you be happy Whenever I am not around Tease me with pictures Tease me now Tease me when you aren’t orgasming To my keyboard, and sounds
-
-She: You want me to tie you down and run my lips all over your skin? Like you own me?
-
-He: Without letting me touch you? Hold you? Or feel you grind gently? Go slow! Until it’s obvious that you want me harder than ever No matter where we are
-
-She: And without letting you see me And then go down on you Without touching you at all
-
-He: How good are you? How long can you last? Haven’t you any idea? Because you move like a pro Though I know you are no match for my cock
-
-She: I’m pretty sure that’s true
-
-He: Well, I am going to hold you tight, Push you down harder Slide my boner in Till you choke And then be as gentle as I can be Until you don’t want to let me go
-
-She: I definitely don’t want to let you go! Gentle?
-
-He: Because you won’t last the minute The minute I unleash the monster inside me You will crumble like breadsticks Dipped in mayonnaise and cream
-
-**Erotica 2**.
-
+**Erotica 2**.  
 How about I surprise you, 
 Sneak up to you, 
 When you are just out of your bath
 Have you scared, 
 But when you turn around, 
 You go, "Ah! It's you!"
-
 Then I take you to the nearest wall, 
 Pin you gently, 
 And see you run your arms around my back, 
 Push you on it harder, 
 As your nipples harden up. 
-
 Then I give you a kiss, 
 As slow as they can get, 
 Just place my lips on yours, 
 And do nothing more yet. 
-
 Then I cup your face is both my palms, 
 And nibble on that upper lip, 
 Then bit the lower one, 
 To stay there kissing, 
 While our hands run a different story. 
-
 I turn you around, 
 Push you face forward into that wall, 
 Place my boner on your ass, 
 And slip off one bra strap. 
-
 Then slowly run my hands to your nipple, 
 And circle it slowly, 
 I won't stop with it, 
 Until you scream and moan, 
 Until you push me back on the bed. 
-
 So I take off your tops, 
 And pin one of your arms, 
 Up.
-
 Then run my tongue from the bottom of your back, 
 All the way, 
 Up to your mane. 
-
 Then bite your back, 
 And mark my territory, 
 Just like dogs would do. 
-
 Slide my hand, 
 Down, 
 And circle that clit, 
 Until you beg me to stop. 
-
 But you want to, 
 Feel my boner slither, 
 Mm by mm, 
 Inside you, softly. 
-
 As your moans, 
 Grow louder, 
 You turn your cheek, 
 To kiss me on my lips.
 
-Erotica 2.
-
-How about I surprise you, Sneak up to you, When you are just out of your bath Have you scared, But when you turn around, You go, “Ah! It’s you!”
-
-Then I take you to the nearest wall, Pin you gently, And see you run your arms around my back, Push you on it harder, As your nipples harden up.
-
-Then I give you a kiss, As slow as they can get, Just place my lips on yours, And do nothing more yet.
-
-Then I cup your face is both my palms, And nibble on that upper lip, Then bit the lower one, To stay there kissing, While our hands run a different story.
-
-I turn you around, Push you face forward into that wall, Place my boner on your ass, And slip off one bra strap.
-
-Then slowly run my hands to your nipple, And circle it slowly, I won’t stop with it, Until you scream and moan, Until you push me back on the bed.
-
-So I take off your tops, And pin one of your arms, Up.
-
-Then run my tongue from the bottom of your back, All the way, Up to your mane.
-
-Then bite your back, And mark my territory, Just like dogs would do.
-
-Slide my hand, Down, And circle that clit, Until you beg me to stop.
-
-But you want to, Feel my boner slither, Mm by mm, Inside you, softly.
-
-As your moans, Grow louder, You turn your cheek, To kiss me on my lips.
-
-**Essentialism**.
-
+**Essentialism**.  
 The idea is to lose yourself in nature, and find the time to nurture your creative pursuits. Emptying the hard-drive. Publishing all the work we have done for a decade on the website. Six is so-so. Last year I was on 20.
-
 I was dead sleepy tired on the last day of the year. So much so that I could not help but sleep all the way through my birthday, and the eve, right until 9am of January 1st. That’s me being a lot lazy. That’s 48 hours mostly at a stretch. I promised myself that I would not work another day into my 26th year.
-
 I have been bootstrapping all my ventures so far. A few things made me realise that a shift into the economic perspective of things is apparent. My team desires so, and they are correct with the effort they put into these projects. I was contacted by Prestashop about their amazing Ecommerce product. This got me thinking about using Ecommerce to fund housing.
-
 We are not keen on becoming a marketplace but the idea seems lucrative. It might help me get some maker friends do more good work. Prestashop might save us from the hassles of funding / crowdfunding / dealing with a lot of back, and forth mailers / client projects / et cetera. This idea is to pursue essentialism. Stay in our niche of WikiHouse, and develop the platform.
-
 But then again we are all creators. Ideas come, and go like the tide. It is often very hard to decide what we should not pursue. There might be a lot to process before we have a standard operating protocol. Besides all of that I love writing.
-
 Maybe a book or two shall help me present our work here to the vast outside world. Getting about 2000+ reads on Medium is quite a morale boost for someone who is in the habit of emptying his mind on every opportunity he seeks. I have been asked to write, to photograph, and to create art. Some of us believe that these are some of the things I do well. But then being an essentialist, and having a basic need for variety in life doesn’t always run in sync.
-
 With a lot of things popping up, and sleeplessness being the theme of the decade, I think I might as well shoot for us collaborating with others on a massive scale. It is in knowing that being self reliant when it comes to funding shall not only enable us to anticipate our options. But now because you have the money, asking questions like, “Do you want a house for free?” comes natural, and easy to deliver. Architects can have a bigger social impact that any other trade around the world. After all that’s the 101 of architecture — to use your intelligence to make this world a better place.
 
-Essentialism.
-
-The idea is to lose yourself in nature, and find the time to nurture your creative pursuits. Emptying the hard-drive. Publishing all the work we have done for a decade on the website. Six is so-so. Last year I was on 20.
-
-I was dead sleepy tired on the last day of the year. So much so that I could not help but sleep all the way through my birthday, and the eve, right until 9am of January 1st. That’s me being a lot lazy. That’s 48 hours mostly at a stretch. I promised myself that I would not work another day into my 26th year.
-
-I have been bootstrapping all my ventures so far. A few things made me realise that a shift into the economic perspective of things is apparent. My team desires so, and they are correct with the effort they put into these projects. I was contacted by Prestashop about their amazing Ecommerce product. This got me thinking about using Ecommerce to fund housing.
-
-We are not keen on becoming a marketplace but the idea seems lucrative. It might help me get some maker friends do more good work. Prestashop might save us from the hassles of funding / crowdfunding / dealing with a lot of back, and forth mailers / client projects / et cetera. This idea is to pursue essentialism. Stay in our niche of WikiHouse, and develop the platform.
-
-But then again we are all creators. Ideas come, and go like the tide. It is often very hard to decide what we should not pursue. There might be a lot to process before we have a standard operating protocol. Besides all of that I love writing.
-
-Maybe a book or two shall help me present our work here to the vast outside world. Getting about 2000+ reads on Medium is quite a morale boost for someone who is in the habit of emptying his mind on every opportunity he seeks. I have been asked to write, to photograph, and to create art. Some of us believe that these are some of the things I do well. But then being an essentialist, and having a basic need for variety in life doesn’t always run in sync.
-
-With a lot of things popping up, and sleeplessness being the theme of the decade, I think I might as well shoot for us collaborating with others on a massive scale. It is in knowing that being self reliant when it comes to funding shall not only enable us to anticipate our options. But now because you have the money, asking questions like, “Do you want a house for free?” comes natural, and easy to deliver. Architects can have a bigger social impact that any other trade around the world. After all that’s the 101 of architecture — to use your intelligence to make this world a better place.
-
-**Etched**.
-
+**Etched**.  
 5 becomes 20, 20 becomes an age, age I spend with wonder, wonder that shall we ever remain the same, same as our fantasies, fantasies of lust, lust for a love, love for each other. Other day another time, time for a company, company of her, her thoughts plunder, plunder my restless soul.
 
-Etched.
-
-5 becomes 20, 20 becomes an age, age I spend with wonder, wonder that shall we ever remain the same, same as our fantasies, fantasies of lust, lust for a love, love for each other. Other day another time, time for a company, company of her, her thoughts plunder, plunder my restless soul.
-
-**Eternity**.
-
+**Eternity**.  
 “Just for one last time, we will try to shoot at where our hearts lie, as we have run from end to end, of calendars on techno-bend, deserted as we may feel, in a decade long of ignorance, until New Year’s Eve, we shall play, or cherish these memories, for eternity.”
 
-Eternity.
+**Anthologie - Type F**.  
 
-“Just for one last time, we will try to shoot at where our hearts lie, as we have run from end to end, of calendars on techno-bend, deserted as we may feel, in a decade long of ignorance, until New Year’s Eve, we shall play, or cherish these memories, for eternity.”
-
-**Anthologie - Type F**.
-
-**Facebook**.
-
+**Facebook**.  
 > “Everything around me is evaporating. My whole life, my memories, my imagination, and its contents, my personality?-?it’s all evaporating. I continuously feel that I was someone else, that I felt something else, that I thought something else. What I’m attending here is a show with another set. And the show I’m attending is myself.”  
 > Fernando Pessoa, The Book of Disquiet.
-
 Why should I do something about Facebook?
-
 Here’s what I know.
-
 Mark Zuckerberg, aims to connect the world. Well that’s such a noble thought. I couldn’t agree more. But then simply put, Mark is making money off me. With or without my knowledge can be a perfect place to start a debate in his favour, but. Do I need a friend who is as noble as a doctor, offers me chocolates, and then bills me for diabetic treatment?
-
 This is what I think.
-
 I believe that the way you do anything, is the way you do everything. This means that your failures/ successes will be same in every aspect of your life. This means that the amount of focus you put in brushing your teeth (usually the first task of the day for most people), is the amount of focus you will put in the rest of it. The amount of focus that you apply to your principles, are reflected in your habits. Your habits shape your weeks, day by day. All of these cycles of successes, or failures, start at every other action you make in your waking hours. I have a feeling your dreams count too. That’s why I dreamt of punching orders, and have certain nightmares which are directly synonymous with the happenings of a whole week. I believe that if self respect is a concern for you, then it should be a concern to the T. Read that as, “If anything is a concern for you, then it should be a concern to the T.”
-
 Else I consider the lesser level of concern as hypocritical. I believe that any level of half heartedness is reflected back in every thing you do. So my question to you is, do you want a half hearted life? half hearted success? Oh! Thank goodness, that means your failures won’t hit you hard, because they are half hearted too. But then again, do you want failures? Coming back to “Do I need a friend who is as noble as a doctor, offers me chocolates, and then bills me for diabetic treatment?”
-
 “No.”
-
 Because of the vibe that kind of duality brings into my life. This is why I quit Facebook, Instagram, WhatsApp. To be honest, it is a matter of a question, more than anything else. To be honest, it is a matter of a revelation, more than anything else. To be honest, it is a matter of humanity’s future, more than anything else. Humanity’s future because posterity will carry the vibe, and that’s making everyone of us, “A friend who is as noble as a doctor, offering others chocolates, and then billing them for diabetic treatment.” That future, is something I don’t want, because I think, it is hypocritical to the T.
-
 > “So many people live within unhappy circumstances, and yet will not take the initiative to change their situation because they are conditioned to a life of security, conformity, and conservatism, all of which may appear to give one peace of mind, but in reality nothing is more damaging to the adventurous spirit within a man than a secure future. The very basic core of a man’s living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new, and different sun.”  
 > Christopher McCandless in Into The Wild (2007).
 
-Facebook.
-
-“Everything around me is evaporating. My whole life, my memories, my imagination, and its contents, my personality?-?it’s all evaporating. I continuously feel that I was someone else, that I felt something else, that I thought something else. What I’m attending here is a show with another set. And the show I’m attending is myself.”
-
-Fernando Pessoa, The Book of Disquiet.
-
-Why should I do something about Facebook?
-
-Here’s what I know.
-
-Mark Zuckerberg, aims to connect the world. Well that’s such a noble thought. I couldn’t agree more. But then simply put, Mark is making money off me. With or without my knowledge can be a perfect place to start a debate in his favour, but. Do I need a friend who is as noble as a doctor, offers me chocolates, and then bills me for diabetic treatment?
-
-This is what I think.
-
-I believe that the way you do anything, is the way you do everything. This means that your failures/ successes will be same in every aspect of your life. This means that the amount of focus you put in brushing your teeth (usually the first task of the day for most people), is the amount of focus you will put in the rest of it. The amount of focus that you apply to your principles, are reflected in your habits. Your habits shape your weeks, day by day. All of these cycles of successes, or failures, start at every other action you make in your waking hours. I have a feeling your dreams count too. That’s why I dreamt of punching orders, and have certain nightmares which are directly synonymous with the happenings of a whole week. I believe that if self respect is a concern for you, then it should be a concern to the T. Read that as, “If anything is a concern for you, then it should be a concern to the T.”
-
-Else I consider the lesser level of concern as hypocritical. I believe that any level of half heartedness is reflected back in every thing you do. So my question to you is, do you want a half hearted life? half hearted success? Oh! Thank goodness, that means your failures won’t hit you hard, because they are half hearted too. But then again, do you want failures? Coming back to “Do I need a friend who is as noble as a doctor, offers me chocolates, and then bills me for diabetic treatment?”
-
-“No.”
-
-Because of the vibe that kind of duality brings into my life. This is why I quit Facebook, Instagram, WhatsApp. To be honest, it is a matter of a question, more than anything else. To be honest, it is a matter of a revelation, more than anything else. To be honest, it is a matter of humanity’s future, more than anything else. Humanity’s future because posterity will carry the vibe, and that’s making everyone of us, “A friend who is as noble as a doctor, offering others chocolates, and then billing them for diabetic treatment.” That future, is something I don’t want, because I think, it is hypocritical to the T.
-
-“So many people live within unhappy circumstances, and yet will not take the initiative to change their situation because they are conditioned to a life of security, conformity, and conservatism, all of which may appear to give one peace of mind, but in reality nothing is more damaging to the adventurous spirit within a man than a secure future. The very basic core of a man’s living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new, and different sun.”
-
-Christopher McCandless in Into The Wild (2007).
-
-**Fill**.
-
+**Fill**.  
 And fill the air with rustic pride
 Till we find another sunrise
 For the silences in the night
 Don’t let me fall in your dreams for life.
 
-Fill.
-
-And fill the air with rustic pride 
-Till we find another sunrise 
-For the silences in the night 
-Don’t let me fall into your dreams for life.
-
-**Firefly**.
-
+**Firefly**.  
 This might be late but realize
 It is too hard to write,
 When you are happy,
@@ -4561,543 +1916,165 @@ That I spent
 In the company
 Of fireflies.
 
-Firefly.
-
-This might be late but realize 
-It is too hard to write 
-When you are happy, 
-Coz’ there are so many thoughts to catch, 
-Like butterflies in the night skies, 
-Or was it a firefly! 
-I wonder why was every night 
-Memorable 
-That I spent In the company 
-Of fireflies.
-
-**Free**.
-
+**Free**.  
 Of living with her. And spending every moment in her presence, shut the world out, and create things of immense cuteness (not babies, if you are there yet), I want to make passionate love to her, and get dirty in every passing moment, take her out to places, where we can hear the universe inside of us, travel with her crazy, adopt a dog before getting a child, sauna every morning, and together we mould a work free life.
 
-Free.
-
-Of living with her. 
-And spending every moment in her presence shutting the world out, and creating things of immense cuteness (not babies, if you are there yet), I want to make passionate love to her, get dirty in every passing moment, take her out to places, where we can hear the universe inside of us, travel with her crazy, adopt a dog before getting a child, sauna every morning, and together we mould a work-free life.
-
-**Fuck**.
-
+**Fuck**.  
 Fuck me while you can, fuck me while no one has their eyes on us, spoon with me till we have some life. Showers of youth in our soul, like a whispering gasp for a boner, and the sweet silence on a phone call, from decent talks to dirty sex, let us bare ourselves to one another, find a spark of love in our lust, and a climax with all the regret, and guilt of not having met, you before.
 
-Fuck.
+**Anthologie - Type G**.  
 
-Fuck me while you can, fuck me while no one has their eyes on us, spoon with me till we have some life. Showers of youth in our soul, like a whispering gasp for a boner, and the sweet silence on a phone call, from decent talks to dirty sex, let us bare ourselves to one another, find a spark of love in our lust, and a climax with all the regret, and guilt of not having met, you before.
-
-**Anthologie - Type G**.
-
-**Giving**.
-
+**Giving**.  
 Do you know what my dream is? Aise kyun have always been told that I should probably be involved in my family business or at least taken interest in it. So ja if you don't know about this then my great grandfather was a banker and everybody in my family so far has been an engineer or doctor or a banker. Or rather let me rephrase it, most people in my family have been in the commerce field and they all have married engineers doctors and lawyers. Dubai I look at this is that I am an Architect but I have never taken in keen interest in banking so far but the only thing that I might say is result of my DNA is that I happen to like the idea of giving things.
-
 I would love to sponsored projects give a money give treats to my college friends who are not doing enough even though I don't have enough to give them or even if I don't have enough for myself. It is as if I am addicted to the idea of giving. I've always wanted to have this one thing on my bucket list which was to be a venture capitalist or which was to be an agent in this society who will help people solve their problems.I did not take psychiatry for study so that I could help people battle mental illnesses and I did not do banking initially although my dream was to buy a Honda civic and drive around the entire world after completing CA or chartered accountancy. But because I have been so inclined to giving more than I take in my life as a theme now I think with this capacity and the power that I have been able to discover through this app I think I will do the next thing of my life which is to clear out my debt and build very good investment portfolio for myself so that I can share the returns with the local industries.
 
-Giving.
-
-Do you know what my dream is? Aise Kyun has always been told that I should probably be involved in my family business or at least take an interest in it. So ja if you don’t know about this then my great-grandfather was a banker and everybody in my family so far has been an engineer or doctor or a banker. Or rather let me rephrase it, most people in my family have been in the commerce field and they all have married engineers doctors and lawyers. Dubai I look at this that I am an Architect but I have never taken a keen interest in banking so far the only thing that I might say is the result of my DNA is that I happen to like the idea of giving things.
-
-I would love to sponsor projects give money give treats to my college friends who are not doing enough even though I don’t have enough to give them or even if I don’t have enough for myself. It is as if I am addicted to the idea of giving. I’ve always wanted to have this one thing on my bucket list which was to be a venture capitalist or which was to be an agent in this society who will help people solve their problems. I did not take psychiatry to study so that I could help people battle mental illnesses and I did not do banking initially although my dream was to buy a Honda Civic and drive around the entire world after completing CA or chartered accountancy. But because I have been so inclined to give more than I take in my life as a theme now I think with this capacity and the power that I have been able to discover through this app I think I will do the next thing of my life which is to clear out my debt and build a very good investment portfolio for myself so that I can share the returns with the local industries.
-
-**Google voice**.
-
+**Google voice**.  
 The funny part is that when I first started using Google voice input it would not give me the correct inputs like I would speak something or say something and then this app or the keyboard would interpret it differently. now that I think about it everything has slowly started to learn from me it is assive Google has its own AI running on this thing which launch my pronunciation and launch my voice and makes it easier for me to speak out long sentences without having to stop to edit a mistake. well I do agree that there are some words that it still does not pick up.but overall output is better now and it keeps getting better as I keep using this app on the keyboard for my writing it is very easy for me to share my thoughts and since I think a lot and have a lot of thoughts it is very easy for me now to be able to record all document them whenever I am even if I am waiting or if I am taking a dump or if I am designing something. It is like my personal notepad which is being shared to the world.
-
 It just help me make the process so fast that now I don't have to worry about pressing control c for control v and it is nice man I don't know what to tell you, you should also try this out. have you noticed how easy it is that I am posting articles but every time I keep doing this they keep getting longer and longer. I think at this rate I can even publish a book who actually I have published one book but I think I will share the link with you guys some day after I think I have made my target on typewriter I hope that I wished for something like this only in my life or rather actually wish I had found something like this earlier in my life but it's alright. Better late than never.
 
-Google Voice.
-
-The funny part is that when I first started using Google Voice input it would not give me the correct inputs I would speak something or say something and then this app or the keyboard would interpret it differently. now that I think about it everything has slowly started to learn from me it is massive Google has its own AI running on this thing which launches my pronunciation and launches my voice and makes it easier for me to speak out long sentences without having to stop to edit a mistake. well, I do agree that there are some words that it still does not pick up. but overall output is better now and it keeps getting better as I keep using this app on the keyboard for my writing it is very easy for me to share my thoughts and since I think a lot and have a lot of thoughts it is very easy for me now to be able to record all document them whenever I am even if I am waiting or if I am taking a dump or if I am designing something. It is like my personal notepad which is being shared with the world.
-
-It just help me make the process so fast that now I don’t have to worry about pressing control c for control v and it is nice man I don’t know what to tell you, you should also try this out. Have you noticed how easy it is that I am posting articles but every time I keep doing this they keep getting longer and longer? I think at this rate I can even publish a book. I have published one book but I think I will share the link with you guys someday after I think I have made my target on a typewriter I hope that I wished for something like this only in my life or rather actually wish I had found something like this earlier in my life but it’s alright. Better late than never.
-
-**Greeks**.
-
+**Greeks**.  
 Even today, if the Greeks fall. There will be violence. Specks of mutiny as tiny islands on the world map go on to show the world how individuality can bring about a significant change in the world we live. No matter how absurd a thought.
 It is Powerful.
 
-Greeks.
+**Anthologie - Type H**.  
 
-Even today, if the Greeks fall. There will be violence. Specks of mutiny as tiny islands on the world map go on to show the world how individuality can bring about a significant change in the world we live. No matter how absurd a thought. It is powerful.
-
-**Anthologie - Type H**.
-
-**Habits**.
-
+**Habits**.  
 What is the best habit that you can build for yourself?
-
 Here are a series of habits that will contribute greatly to your growth and success. Now the first habit that I would like to build is compounding. by itself compounding is a very popular habit which has been recommended by a lot of people especially in regards to money and investing but this thing about habits the moment you build a habit it often spills over to every aspect of your life.
-
 So, why compounding?
-
-Youyou know there was a time when a friend of mine told me about this girl in his Masters architectural class who would make sketches: simple line drawings that she would make everyday and pin them on a wall. my friend says on the first day she had only one sketch on the wall in the small corner and nobody paid attention to it. but as days meant by she was able to fill the entire wall bit by bit as if she was doing a wall full of art brick by brick.
-
+You know there was a time when a friend of mine told me about this girl in his Masters architectural class who would make sketches: simple line drawings that she would make everyday and pin them on a wall. my friend says on the first day she had only one sketch on the wall in the small corner and nobody paid attention to it. but as days meant by she was able to fill the entire wall bit by bit as if she was doing a wall full of art brick by brick.
 This is what I learnt from the story.
-
 I I learnt that this kid wood make one more sketch then she had made the previous day. what that means if she made of sketch today she would make two tomorrow and three day after and so on. In that way it did not take a lot of days to fill up that wall. Now most of the creatives here would argue that she could have also achieved the same results by doing one sketch in a day. But that is not the point. 
-
 See see the trouble with doing one thing a day and trying to keep doing only one thing a day is that it needs you to be consistent because if you do not make one you will be on zero. The secret to all success is being non zero. Which means that he was building habit to create art and she was also at the same time creating a hedge against failing by creating more of it by giving more than what was required of her. 
-
 This way if she ever had to stop in between the series of creativity and go at end to something that was far more important in life he would be able to who achieved the minimum for the day and at the same time not stress about losing on time and be able to focus on the other thing at the same time.
-
 This means that compounding is the hedge against failing at consistency.
 
-Habits.
-
-What is the best habit that you can build for yourself?
-
-Here are a series of habits that will contribute greatly to your growth and success. Now the first habit that I would like to build is compounding. By itself, compounding is a very popular habit which has been recommended by a lot of people, especially in regard to money and investing but this thing about habits the moment you build a habit it often spills over to every aspect of your life.
-
-So, why compounding?
-
-You know there was a time when a friend of mine told me about this girl in his Masters's architectural class who would make sketches: simple line drawings that she would make every day and pin them on a wall. my friend says on the first day she had only one sketch on the wall in the small corner and nobody paid attention to it. but as days meant by she was able to fill the entire wall bit by bit as if she was doing a wall full of art brick by brick.
-
-This is what I learnt from the story.
-
-I I learnt that this kid would make one more sketch than she had made the previous day. what that means is if she made of sketch today she would make two tomorrow and three the day after and so on. In that way, it did not take a lot of days to fill up that wall. Now most of the creatives here would argue that she could have also achieved the same results by doing one sketch in a day. But that is not the point.
-
-See see the trouble with doing one thing a day and trying to keep doing only one thing a day is that it needs you to be consistent because if you do not make one you will be on zero. The secret to all success is being non-zero. This means that he was building a habit to create art and she was also at the same time creating a hedge against failing by creating more of it by giving more than what was required of her.
-
-This way if she ever had to stop in between the series of creativity and go at the end to something that was far more important in life he would be able to achieve the minimum for the day and at the same time not stress about losing on time and be able to focus on the other thing at the same time.
-
-This means that compounding is the hedge against failing at consistency.
-
-**Hanxwriter**.
-
+**Hanxwriter**.  
 I have no clue about how fast I can type using this inanimate typewriter or if coding is something I should worry about as per the geekiness of being a static site web developer, and all the banter about those GitHub pages hosting issues. It can seem to be a pain to learn these things but it seems to me like a one-time thing, or maybe I shouldn’t bother so much on the layout, and search for the most minimalistic wordpress website, and add to the latest post like I am doing here. it may be weird to have no actual web presence since it will be harder for my remote team to contribute, unless I find another method for communications. I am tired of the way we are divided on multiple platforms. I want to limit my work to my mobile device, and my application usage to my webpage for all communications.
-
 Maybe there is something that lets me use my email account as a web hosting site. So that all my activities focused but not limited to one platform.
 
-Hanxwriter.
-
-I have no clue about how fast I can type using this inanimate typewriter or if coding is something I should worry about as per the geekiness of being a static site web developer, and all the banter about those GitHub page hosting issues. It can seem to be a pain to learn these things but it seems to me like a one-time thing, or maybe I shouldn’t bother so much with the layout, search for the most minimalistic WordPress website, and add to the latest post like I am doing here. it may be weird to have no actual web presence since it will be harder for my remote team to contribute unless I find another method of communication. I am tired of the way we are divided on multiple platforms. I want to limit my work to my mobile device, and my application usage to my webpage for all communications.
-
-Maybe there is something that lets me use my email account as a web hosting site. So that all my activities are focused on but not limited to one platform.
-
-**Happy X sad**.
-
+**Happy X sad**.  
 There was a thought in my mind about randomness. Have you ever noticed that there is nothing that has an order. Even chaos theory needs you to look for the pattern before you can see anything. Isn’t the idea of essentialism lost here? If every time I need to find the pattern then am I not forcing the trend? 
-
 There seems to be little that is diurnal when it comes to routine. In my entire commute from work to home, I have caught myself being in the exact same position at the exact same time observing the exact same time only thrice. I believe “Deja vu” is sheer coincidence. This is what happens when you have a lot of ideas roaming around in your head. There is very little that actually matters.
-
 Most of those ideas are media, and popular trends. The result of which is the absence of mind. How many days can you remember? Days when you could describe the events that happened “as is”. Most of us cannot recall events before a week or two ago.
-
 If you are a social media addict millennial then even that’s a lot to ask for. No wonder our society is breaking up, relationships seem harder, and ideas like “the frequency of conversation needs control” exist. Humans are social animals. I think they are more of political animals. They realized that being alone is not the best of the worlds.
-
 So the political mind suggested being social was the solution. Our world is taking that too far. There is a saying that I hear often. “Too much is too bad.” The idea of making everything social loses the point.
-
 There are places from cafes to spaces that binge on the idea of being social. They are clearly missing the point. If you are always going to be in a space filled with people, you will never appreciate the people. At times, you won’t appreciate being alone. Have you ever wondered why promenades like Marine Drive feel nice? 
-
 That’s your mind telling you something. Listen! The times when you are most hit by depression is right after a Big Party. Drained of energy, and a low mood are something that will govern your life until the next Big Event. This is why people rush from one event to another.
-
 They are running from themselves. Maybe not everyone of is happy with what they might find when they are alone. A bookstore in Cairo made a space that allows people to scream the stress out. It is a good thing. But the better thing would be to live in a society that does not need such devices to keep sane.
-
 I am not blaming them but it goes to say a lot about the world we live in. We need spaces like those but only until we feel comfortable about being without them. The idea here is not to be a recluse. It is balance. With a constant stream of joy.
-
 Now, the first thought that might come to your mind is that wouldn’t a bit of sadness be needed to maintain balance? My answer is No. “Sad is the opposite of Happy, that's Happy X Sad and Joy X Sorrow” We all aim to be happy. Happiness is a temporary thing. It comes with the other side of the coin: Sadness.
-
 Instead if we focus on making an effort to keep joyful, our minds will be full and our hearts will feel content, and that's good enough.
 
-Happy X Sad.
-
-There was a thought in my mind about randomness. Have you ever noticed that there is nothing that has an order? Even chaos theory needs you to look for the pattern before you can see anything. Isn’t the idea of essentialism lost here? If every time I need to find the pattern then am I not forcing the trend?
-
-There seems to be little that is diurnal when it comes to routine. In my entire commute from work to home, I have caught myself being in the same position at the same time observing the same time only thrice. I believe “Deja vu” is sheer coincidence. This is what happens when you have a lot of ideas roaming around in your head. There is very little that matters.
-
-Most of those ideas are media and popular trends. The result of which is the absence of mind. How many days can you remember? Days when you could describe the events that happened “as is”. Most of us cannot recall events from a week or two ago.
-
-If you are a social media addict millennial then even that’s a lot to ask for. No wonder our society is breaking up, relationships seem harder, and ideas like “the frequency of conversation needs control” exist. Humans are social animals. I think they are more political animals. They realized that being alone is not the best in the worlds.
-
-So the political mind suggested being social was the solution. Our world is taking that too far. There is a saying that I hear often. “Too much is too bad.” The idea of making everything social loses its point.
-
-There are places from cafes to spaces that binge on the idea of being social. They are missing the point. If you are always going to be in a space filled with people, you will never appreciate the people. At times, you won’t appreciate being alone. Have you ever wondered why promenades like Marine Drive feel nice?
-
-That’s your mind telling you something. Listen! The times when you are most hit by depression are right after a Big Party. Drained energy, and a low mood are something that will govern your life until the next Big Event. This is why people rush from one event to another.
-
-They are running from themselves. Maybe not everyone is happy with what they might find when they are alone. A bookstore in Cairo made a space that allows people to scream the stress out. It is a good thing. But the better thing would be to live in a society that does not need such devices to keep sane.
-
-I am not blaming them but it goes to say a lot about the world we live in. We need spaces like those but only until we feel comfortable about being without them. The idea here is not to be a recluse. It is balance. With a constant stream of joy.
-
-Now, the first thought that might come to your mind is that wouldn’t a bit of sadness is needed to maintain balance? My answer is No. “Sad is the opposite of Happy, that’s Happy X Sad and Joy X Sorrow” We all aim to be happy. Happiness is a temporary thing. It comes with the other side of the coin: Sadness.
-
-Instead, if we focus on making an effort to keep joyful, our minds will be full and our hearts will feel content, and that’s good enough.
-
-**Hard to imagine**.
-
+**Hard to imagine**.  
 I was looking at youtube videos on Steve Jobs. Most of them displayed how self appreciation was a key to better marketing. I wonder if anyone else feels that way about Steve. I did some browsing, and reading here on Medium. Lot of good stuff I must say.
-
 It made me think of all the things I should focus on — the businesses, the next step, the blah blah, and the needs to get done, period. I wondered if at all I had to begin that list from it’s end, I will get to a point where the rest of the list becomes invalid. I believe that what needs to be done is something we all can imagine. Rather it gets done because we can imagine it. Ain’t that easy, human?
 
-Hard To Imagine.
-
-I was looking at YouTube videos on Steve Jobs. Most of them displayed how self-appreciation was a key to better marketing. I wonder if anyone else feels that way about Steve. I did some browsing, and reading here on Medium. A lot of good stuff I must say.
-
-It made me think of all the things I should focus on — the businesses, the next step, the blah blah, and the needs to get done, period. I wondered if I had to begin that list from its end, I will get to a point where the rest of the list becomes invalid. I believe that what needs to be done is something we all can imagine. Rather it gets done because we can imagine it. Ain’t that easy, human?
-
-**Harness**.
-
+**Harness**.  
 Today is sort of my last day at https://www.theblackcanvas.in/ Mummy returns at dawn, and I shall be gone. This cool pic of their camera harness reminds me a lot of my archer’s sling. Miss those days of shooting arrows in a Chikmagalur range. And the bow just says it well.
-
 The nearer the better. The faster you pull your string, that larger shall you miss your game. There is a thing this stint thought me. That slowness is the way to capture all beauty instead. Look at that amazing detail, I am sure must be driving all you wedding photographers insane.
-
 But the strength of a sling is in it’s straddle, and not in the bolts beware. I wish that you order at least of one these masterpieces, for the fun of making them, goes beyond any artistic care. There is so much more to do, with these on your apparel, gear. Watch that audience rhyme with envy, as you swing, and shoot with cameras dear.
 
-Harness.
-
-Today is sort of my last day at https://www.theblackcanvas.in/ Mummy returns at dawn, and I shall be gone. This cool pic of their camera harness reminds me a lot of my archer’s sling. Miss those days of shooting arrows in a Chikmagalur range. And the bow just says it well.
-
-The nearer the better. The faster you pull your string, the larger shall you miss your game. There is a thing this stint thought me. That slowness is the way to capture all beauty instead. Look at that amazing detail, I am sure must be driving all of you wedding photographers insane.
-
-But the strength of a sling is in its straddle, and not in the bolts beware. I wish that you order at least of one these masterpieces, for the fun of making them, goes beyond any artistic care. There is so much more to do, with these on your apparel, and gear. Watch that audience rhyme with envy, as you swing, and shoot with cameras dear.
-
 **Has Bangalore thought about this?**
-
 I am from Bombay, and the two things that I have found to be missing in my rendezvous with Bangalore are, in my opinion as an architect, major reasons for the issues with traffic, and a solution to most anti-outsiders viewpoints that have been shared to me by most of the Uber drivers I have spoken to in this city. Bombay does two things differently. Let us take a closer look at what follows at rush hours. In Bombay, the way the city moves usually takes care of most traffic problems. When people leave from offices, the traffic is divided in a vast numbers into two major segments.
-
 Most people opt for the local trains. If you are a Bangalorean then this should translate as public transport. The rest of the crowd take to the roads, and use the Western Express Highway. Please don’t read this article, and build a fucking huge highway inside Bangalore. You don’t have the space for any expansion.
-
 Means of transport are one of the means to tackle rush hour traffic. But hey, Bombay does it because the British already did it for them. I want you to focus your attention on the second thing. Bombay has a particular case of what I call the seaside effect. Because there is a seaside available in vast lengths for most of the citizens.
-
 They have spaces like Marine Drive, and the Bandra Promenade, and well that’s all they need.
-
 - You don’t have that in Bangalore. I am not talking about the sea. I am talking about 24x7 open, safe, public spaces for all. This can change your entire city in one smart move.
-
 Here’s how it helps. When people leave from office, at say 7pm. Most people, especially those with families head for home. The rest, usually the younger generations, head for Marine Drive?-?If you are a Bangalorean, read this as the kind of public space I wrote about above. Not everyone goes to Marine Drive everyday, but you get the point — the population of office goers is split into two groups “home going”, and “chilling”.
-
 What happens is that the pressure on the traffic is now split.
-
 - Some citizens in Bombay have a tendency of leaving late from work because the traffic is lesser. These people either work hard, and drive a Porsche around on New Year’s Eve, or they go look at the sea, and do life talks.
-
 Talk about the sort of controversial debate on the anti-immigrant view shared by Bangalore Uber drivers? Here’s what I see. I understand that Bangalore is more open to social drinking, at least when compared to my circles in Bombay. Most of the pro or anti western culture talk that the Uber local drivers gave me are just a matter of perspective. I think they are the locals so we should all respect their cultures.
-
 My point here is simple — people tend to drink indoors more than outdoors. Because as an immigrant, I will explore my human nature to the best possible opportunities. This is true for anyone, anywhere. People tell strangers their deepest secrets, and fears. And people are more comfortable in risking it out on anything but their home turfs.
-
 - So if you light up your parks, and keep them public, most of the nuisance that these drivers keep talking to me about, are out of the window. That’s how people are. People will be what people have always been — that’s people.
-
 What you can learn is this! Bangalore does not need wider roads, because they have no space for it, or matter of fact, I think spending taxpayers money on road widening is wasteful when you can (here’s a solution),
-
 - Build a public space, or redesign Cubbon Park (or any other space that can be walking distance from your business districts) to make it as safe as Marine Drive.
-
 - The standard is that; if you go to sleep with your belongings open on Marine Drive, like flat down on the Promenade, no one will rob you — that safe. We don’t mess up on Marine Drive. Marine Drive is sacred. So give one public space to Bangalore, and it shall reduce traffic. It shall give people a space to mingle, and understand each other.
-
 It shall facilitate cultural infusion. This shall give you a healthier society in most respects. If you are serious about these things, then two more examples would be The High Line Project, and Central Park, New York would increase the acceptance of this idea by some folds. Since if small roads are a problem then bigger roads is not the answer.
 
-Has Bangalore Thought About This?
-
-I am from Bombay, and the two things that I have found to be missing in my rendezvous with Bangalore are, in my opinion as an architect, major reasons for the issues with traffic, and a solution to most anti-outsiders' viewpoints that have been shared to me by most of the Uber drivers I have spoken to in this city. Bombay does two things differently. Let us take a closer look at what follows at rush hours. In Bombay, the way the city moves usually takes care of most traffic problems. When people leave offices, the traffic is divided in vast numbers into two major segments.
-
-Most people opt for the local trains. If you are a Bangalorean then this should translate as public transport. The rest of the crowd takes to the roads and uses the Western Express Highway. Please don’t read this article, and build a fucking huge highway inside Bangalore. You don’t have the space for any expansion.
-
-Means of transport are one of the means to tackle rush hour traffic. But hey, Bombay does it because the British already did it for them. I want you to focus your attention on the second thing. Bombay has a particular case of what I call the seaside effect. Because there is a seaside available in vast lengths for most of the citizens.
-
-They have spaces like Marine Drive and the Bandra Promenade, and well that’s all they need.
-
-You don’t have that in Bangalore. I am not talking about the sea. I am talking about 24x7 open, safe, public spaces for all. This can change your entire city in one smart move.
-
-Here’s how it helps. When people leave from office, at say 07 00 PM. Most people, especially those with families head for home. The rest, usually the younger generations, head for Marine Drive?-?If you are a Bangalorean, read this as the kind of public space I wrote about above. Not everyone goes to Marine Drive every day, but you get the point — the population of office-goers is split into two groups “homegoing”, and “chilling”.
-
-What happens is that the pressure on the traffic is now split.
-
-Some citizens in Bombay have a tendency of leaving late from work because the traffic is lesser. These people either work hard, and drive a Porsche around on New Year’s Eve, or they go look at the sea and do life talks.
-
-Talk about the sort of controversial debate on the anti-immigrant view shared by Bangalore Uber drivers. Here’s what I see. I understand that Bangalore is more open to social drinking, at least when compared to my circles in Bombay. Most of the pro or anti-western culture talk that the Uber local drivers gave me is just a matter of perspective. I think they are the locals so we should all respect their cultures.
-
-My point here is simple — people tend to drink indoors more than outdoors. Because as an immigrant, I will explore my human nature to the best possible opportunities. This is true for anyone, anywhere. People tell strangers their deepest secrets and fears. And people are more comfortable risking it out on anything but their home turfs.
-
-So if you light up your parks, and keep them public, most of the nuisance that these drivers keep talking to me about, is out of the window. That’s how people are. People will be what people have always been — that’s people.
-
-What you can learn is this! Bangalore does not need wider roads, because they have no space for it, As or matter of fact, I think spending taxpayer's money on road widening is wasteful when you can (here’s a solution),
-
-Build a public space, or redesign Cubbon Park (or any other space that can be within walking distance from your business districts) to make it as safe as Marine Drive.
-
-The standard is that; if you go to sleep with your belongings open on Marine Drive, like flat down on the Promenade, no one will rob you — that safe. We don’t mess up on Marine Drive. Marine Drive is sacred. So give one public space to Bangalore, and it shall reduce traffic. It shall give people a space to mingle and understand each other.
-
-It shall facilitate cultural infusion. This shall give you a healthier society in most respects. If you are serious about these things, then two more examples would be The High Line Project, and Central Park, New York would increase the acceptance of this idea by some folds. Since if small roads are a problem then bigger roads are not the answer.
-
-**Heart**.
-
+**Heart**.  
 Put your mind over the bar,  
 And your body will follow.
 
-Heart.
-
-Put your mind over the bar,
-And your body will follow.
-
-**Hemingway app**.
-
+**Hemingway app**.  
 The reason I stopped using hemingway app is not because I think they do a bad job. Well that is certainly not the case. They do an amazing job. My thought is that I write that way I think. I wonder how will I shape my mind, my way, if I learn by the rules set by others or in this case, the makers of a sincerely awesome app.
-
 > “Writing is after all just jotting your mind down.”
 
-Hemingway App.
-
-The reason I stopped using the Hemingway app is not because I think they do a bad job. Well, that is certainly not the case. They do an amazing job. My thought is that I write the way I think. I wonder how will I shape my mind, my way if I learn by the rules set by others or in this case, the makers of a sincerely awesome app.
-
-“Writing is after all just jotting your mind down.”
-
-**Hope**.
-
+**Hope**.  
 Today I saw this beautiful woman at some shop in Sher-e-Punjab. Like cat eyes, fair, and she had a cold, Stuck in traffic. The share passenger, the cab driver, and me were being all Manjunath at her. Until people started honking. And I was thinking, good but my girl be better.
-
-Your eyes, and the way the light falls on your face, the way your skin glows under a haze, gives me hope, gives me hope.
-
-Hope.
-
-Today I saw this beautiful woman at a shop in Sher-e-Punjab. Like cat eyes, fair, and she had a cold, Stuck in traffic. The share passenger, the cab driver, and I were being all Manjunath at her. Until people started honking. And I was thinking, good but my girl is better.
-
 Your eyes, and the way the light falls on your face, the way your skin glows under a haze, gives me hope, gives me hope.
 
 **How to apply for a Covid19 travel pass?**
-
 Date: 12th May 2020
-
 If you are stranded away from home, then these are the steps to apply for a travel pass.
-
 1. Find a doctor for check up.
-
 2. Then get a prescription for a covid19 test.
-
 3. Then apply for a test at any local diagnostics centers such as Suburban Diagnostics, Metropolis, SRL, etc.
-
 - This is a tricky process because they are not allowed to administer the test if you have no symptoms.
 - They rejected my doctor's prescription which mentioned no symptoms.
 - They asked me to wait at the counter, and get a fake prescription from the same doctor with minimum of two symptoms.
 - The test is chargeable by law at INR 3500 if you visit a test center for sample collection, and INR 4500 if the technicians visit your home for sample collection.
 - Nonetheless, the diagnostic center will charge you INR 4500 even if you visit a test centre for sample collection. i.e. they will bill you for a home visit for a sample collection that they take at the test center.
-
 4. Then take the test.
-
 5. Then wait for 48 hours for test report.
-
 6. Then use that report to get a fitness certificate from the same doctor.
-
 7. Then use that fitness certificate to apply for the travel pass on the website of the state you are stranded in.
-
 - For example if you are stranded in Maharashtra then it is covid19.mhpolice.in
 - Please Google search the website for your respective state.
-
 A. This is a tricky process because the police will ask for a vehicle number with corresponding RC book.
-
 - This applies even if you select the public transport option on the application.
 - So assuming that you don't own a bus, you will have to be hopeful that they accept your application without the RC book.
-- **So you cannot go home if you don't own a vehicle**.
-
+- **So you cannot go home if you don't own a vehicle**.  
 B. For Mumbai, the website will direct to a emergency pass for medical cases page.
-
 - It says, if you are a stranded student, migrant, or tourist, please apply to the local police station directly.
 - Upon my visit to the police station, the cops at the police station informed that they have received instructions to issue travel pass only for interstate transit.
 - They have received no instructions to issue travel pass for interdistrict transit.
 - The local police advised to go home in an auto or a private vehicle.
 - The autos are not allowed to cross intrastate borders.
-- **So you cannot go home if you are stranded within Mumbai**.
-
-How To Apply For A Covid-19 Travel Pass?
-
-Date: 12th May 2020
-
-If you are stranded away from home, then these are the steps to apply for a travel pass.
-
-Find a doctor for a check-up.
-
-Then get a prescription for a covid19 test.
-
-Then apply for a test at any local diagnostics centres such as Suburban Diagnostics, Metropolis, SRL, etc.
-
-This is a tricky process because they are not allowed to administer the test if you have no symptoms.
-
-They rejected my doctor’s prescription which mentioned no symptoms.
-
-They asked me to wait at the counter and get a fake prescription from the same doctor with a minimum of two symptoms.
-
-The test is chargeable by law at INR 3500 if you visit a test centre for sample collection, and INR 4500 if the technicians visit your home for sample collection.
-
-Nonetheless, the diagnostic centre will charge you INR 4500 even if you visit a test centre for sample collection. i.e. they will bill you for a home visit for a sample collection that they take at the test centre.
-
-Then take the test.
-
-Then wait for 48 hours for the test report.
-
-Then use that report to get a fitness certificate from the same doctor.
-
-Then use that fitness certificate to apply for the travel pass on the website of the state you are stranded in.
-
-For example, if you are stranded in Maharashtra then it is covid19.mhpolice.in
-
-Please Google Search the website for your respective state.
-
-A. This is a tricky process because the police will ask for a vehicle number with a corresponding RC book.
-
-This applies even if you select the public transport option on the application.
-
-So assuming that you don’t own a bus, you will have to be hopeful that they accept your application without the RC book.
-
-So you cannot go home if you don’t own a vehicle.
-
-B. For Mumbai, the website will direct to an emergency pass for medical cases page.
-
-It says, if you are a stranded student, migrant, or tourist, please apply to the local police station directly.
-
-Upon my visit to the police station, the cops at the police station informed me that they have received instructions to issue travel passes only for interstate transit.
-
-They have received no instructions to issue travel passes for interdistrict transit.
-
-The local police advised me to go home in an auto or a private vehicle.
-
-The autos are not allowed to cross intrastate borders.
-
-So you cannot go home if you are stranded in Mumbai.
+- **So you cannot go home if you are stranded within Mumbai**.  
 
 **How to develop a better you?**
-
 Ok, so the thing is that I don't know exactly what I am doing. But I am trying to use the LiveTranscribe application. I have been working without my laptop. I have been out of the house for the past 50 days. It is hectic to type everything using my phone keyboard.
-
 This phone that I am using has a small keyboard. It does not do justice to my flow of thoughts. I intend to record voice notes, minute by minute. So that I can copy them to my Google Keep. I hope to create a collection of notes that I can upload to Typewrighter.
-
 It will become a book someday. I am trying to skip the process of editing by choosing my words carefully while taking these voice notes down. This effort will also help me develop a clearer line of thought with practice. So what you are reading now is actually spoken word dumped onto paper. This is an experimental process.
-
 I intend to develop an efficient way of creating articles. Instead of thinking of a topic and then spending time to create articles around it, I find it easier to blabber voice notes and then pick the things from the rant that can be published. It's very hard to talk about certain things. This is kind of going to be more like a ramble but I like this App. The only trouble is to zone out.
-
 It's so easy to zone out when you like thinking about things in your mind and when you try to talk about it. It is very hard to come up with the same thoughts with the same intensity and the same imagination and creativity. That it is kind of very I don't know what to say but it's been trying very hard to do this and it's not as effective. It's not as if I  thought of the whole idea of this can't be learned. I think everything can be learned.
-
 The difficulty of how hard things are is in the fact that the only difficult part lies in not trying. The initial idea was to document everything that is for body enough to be documented, but now I think it is better to rant instead of anything else. Now the idea is to set a 40 minutes timer on a Pomodoro app. If everything goes well then I will be able to probably collect enough ideas within that timeframe. Ideas that are good enough to post on Typewrighter or something.
-
 This strategy has one problem. I have to edit the transcript a lot. That is hard for me as a process. Firstly because I am lazy. Secondly, because of the time it consumes.
-
 I will try to refine this process. I will keep making new articles here to keep you guys posted. One of ways I had tried was to speak out short sentences. The precision of LiveTranscribe is better in this. In this way, I don't have to edit a lot.
-
 I am unaware of what is the minimum word count required on Typewrighter. Besides most of the articles that you post on to Typewrighter gets rejected because of unspecified reasons. They do say that it can be anything from grammar, plagiarism, quality of content, or wordcount. Their lack of specifics makes it harder for me as a writer to understand what exactly is lacking in my art. This hinders my self-growth as an artist.
-
 I am not sure if this article can make sense to you but I am trying to do somethings differently. I am unaware if this idea of speech to text is a good idea, but I am trying to make a collection of articles from this. It is also a good way to help create a neat nice flow of thoughts. A skill that can come handy if you want to give an impromptu speech or record a podcast! Aha! For the lack of content, I soundboard to myself.
-
 I say my thoughts out loud. Basically talking to myself. Kind of crazy but it works in creating ideas quickly. Everything can then happen because of this. I know I will have to edit these articles but the writing happens as a byproduct of say a kind of speech therapy.
-
 Well yeah, that's it. So wish me luck. I'll see how much of talking can one document hold. I'll also see how many hours can I keep talking in one go. The best thing to do right now is to not spend money on education in India.
-
 Instead write books on everything I know, while doing an online degree from Harvard's. Then use this degree and my books to give guest lectures globally. The most important thing to remember is to keep at it. Most things progress slowly in exigency situations. Not quitting is the key.
-
 You should not waste your time because you have something unique about yourself. Even if you can't see it at this moment. Because very few of us can manage to resolve situations all by themselves. You have to be strong by nature in that perspective. So, you should not catch yourself doing something that you are not excited about.
-
 More than anything else, I think it is important for you to remember all the time that no matter how distraught the whole situation is - no matter how much you might want to blame everything around you - you must aspire to be like the guys who could take a robbery designed to go down under the cover of darkness and pull it off in broad fucking daylight. Your destiny is to develop your sense of strength and power. No one should tell you what to do, stand in your way, or control the terms of your life. It's important for you to create your own rules. Even if you don't relate to your intensity, you're meant to prioritize your own experience and be driven by your passions.
-
 > "If something doesn't excite you, then it's not for you."
 
-How To Develop A Better You?
-
-Ok, so the thing is that I don’t know exactly what I am doing. But I am trying to use the LiveTranscribe application. I have been working without my laptop. I have been out of the house for the past 50 days. It is hectic to type everything using my phone keyboard.
-
-This phone that I am using has a small keyboard. It does not do justice to my flow of thoughts. I intend to record voice notes, minute by minute. So that I can copy them to my Google Keep. I hope to create a collection of notes that I can upload to Typewrighter.
-
-It will become a book someday. I am trying to skip the process of editing by choosing my words carefully while taking these voice notes down. This effort will also help me develop a clearer line of thought with practice. So what you are reading now is spoken word dumped onto paper. This is an experimental process.
-
-I intend to develop an efficient way of creating articles. Instead of thinking of a topic and then spending time creating articles around it, I find it easier to blabber voice notes and then pick the things from the rant that can be published. It’s very hard to talk about certain things. This is kind of going to be more like a ramble but I like this App. The only trouble is to zone out.
-
-It’s so easy to zone out when you like thinking about things in your mind and when you try to talk about them. It is very hard to come up with the same thoughts with the same intensity and the same imagination and creativity. That it is kind of very I don’t know what to say but it’s been trying very hard to do this and it’s not as effective. It’s not as if I thought the whole idea of this can’t be learned. I think everything can be learned.
-
-The difficulty of how hard things are is in the fact that the only difficult part lies in not trying. The initial idea was to document everything that is for body enough to be documented, but now I think it is better to rant instead of anything else. Now the idea is to set a 40 minutes timer on a Pomodoro app. If everything goes well then I will be able to probably collect enough ideas within that timeframe. Ideas that are good enough to post on Typewrighter or something.
-
-This strategy has one problem. I have to edit the transcript a lot. That is hard for me as a process. Firstly because I am lazy. Secondly, because of the time it consumes.
-
-I will try to refine this process. I will keep making new articles here to keep you guys posted. One of the ways I tried was to speak out short sentences. The precision of LiveTranscribe is better in this. In this way, I don’t have to edit a lot.
-
-I am unaware of what is the minimum word count required on Typewrighter. Besides most of the articles that you post on Typewrighter get rejected because of unspecified reasons. They do say that it can be anything from grammar, plagiarism, quality of content, or word count. Their lack of specifics makes it harder for me as a writer to understand what exactly is lacking in my art. This hinders my self-growth as an artist.
-
-I am not sure if this article can make sense to you but I am trying to do some things differently. I am unaware if this idea of speech-to-text is a good idea, but I am trying to make a collection of articles from this. It is also a good way to help create a neat nice flow of thoughts. This a skill that can come in handy if you want to give an impromptu speech or record a podcast! Aha! For the lack of content, I soundboard to myself.
-
-I say my thoughts out loud. Talking to myself. Kind of crazy but it works in creating ideas quickly. Everything can then happen because of this. I know I will have to edit these articles but the writing happens as a byproduct of say a kind of speech therapy.
-
-Well yeah, that’s it. So wish me luck. I’ll see how much talking can one document hold. I’ll also see how many hours can I keep talking in one go. The best thing to do right now is to not spend money on education in India.
-
-Instead write books on everything I know, while doing an online degree from Harvard’s. Then use this degree and my books to give guest lectures globally. The most important thing to remember is to keep at it. Most things progress slowly in exigency situations. Not quitting is the key.
-
-You should not waste your time because you have something unique about yourself. Even if you can’t see it at this moment. Because very few of us can manage to resolve situations all by ourselves. You have to be strong by nature in that perspective. So, you should not catch yourself doing something that you are not excited about.
-
-More than anything else, I think it is important for you to remember all the time that no matter how distraught the whole situation is - no matter how much you might want to blame everything around you - you must aspire to be like the guys who could take a robbery designed to go down under the cover of darkness and pull it off in broad fucking daylight. Your destiny is to develop your sense of strength and power. No one should tell you what to do, stand in your way, or control the terms of your life. You need to create your own rules. Even if you don’t relate to your intensity, you’re meant to prioritize your own experience and be driven by your passions.
-
-“If something doesn’t excite you, then it’s not for you.”
-
 **How to keep your creative writing spree alive?**
-
 I spent last night creating a timed protocol to create articles.
-
 1. Set a pomodoro timer to 3 intervals of 5 mins each.  
 The first five minutes are for recording a basic draft using LiveTranscribe by Google.  
 The second five minutes are for editing the draft into an one page article using Grammarly keyboard.  
 The third five minutes are to post the finished article to Typewrighter.
-
 2. Repeat the above session thrice before taking a break.  
 My mind tends to saturate after three consecutive train of thoughts. You can choose your normals.
-
 3. Take a 15 min long break to attend to daily tasks around me.
-
 4. Repeat this process until I hit my target number of posts on Typewrighter.
 
-How To Keep Your Creative Writing Spree Alive?
-
-I spent last night creating a timed protocol to create articles.
-
-Set a Pomodoro timer to 3 intervals of 5 mins each.
-The first five minutes are for recording a basic draft using LiveTranscribe by Google.
-The second five minutes are for editing the draft into a one-page article using the Grammarly keyboard.
-The third five minutes are to post the finished article to Typewrighter.
-
-Repeat the above session thrice before taking a break.
-My mind tends to saturate after three consecutive trains of thought. You can choose your normals.
-
-Take a 15 min long break to attend to daily tasks around me.
-
-Repeat this process until I hit my target number of posts on Typewrighter.
-
-**How to not re-invent the wheel?**.
-
+**How to not re-invent the wheel?**.  
 I wish structures was an everyday thing, back in school. It gets erratically wavering between technical-informal from here on. Last night, when we were designing a house for a particular client, we were stuck on a very simple design we had just finished detailing to the T. We were stuck on triangles. My architect wanted to rest 15' high slant walls on each other — basically building a pyramid.
-
 Only to realise later that building all the wet areas into a pyramid of wood will trample all our plans. So we waited. You know, for inspiration. “The last minute deadline”, as the saying goes. It did not take us long though to realise that we could make a box.
-
 After all that’s what most of us, small time architects do. It feels like an Udupi restaurant when you imagine a client walk in the office, and the design team goes, What do you want? Big, small, medium, high-rise, long, short, wide, SMLXL? What do you want? So we decided to go cliche.
-
 Only this time, with a twist. We decided to download files for 311 Fountainbridge, and adapt those to our specific geographic location. What I mean by that is — take a wooden house built in cold-dry-wet-whatever weather of Edinburgh, and plant the prototype in the torrential Indian monsoons. And Ah! All this, while it is pouring all over you. Cannot be more of a jerk now, can I?
-
 Building a house in the monsoon season is not easy; granted. But it is definitely “the” most fun thing to do. (If you can survive a cold later). So we decided to give something back. You guessed it — the ability to do so.
-
 We added a bathroom unit to the WikiHouse. The way I see it, now all you have to do is plonk a cosy warm/cold WikiHouse bath in your space, and add all the furniture — you have been eyeing all this while — around it. Dead simple, kinda fun. Today when we are closer to deploying the process, we figured that using existing designs even scraps or re-sourced material helps keep the time invested — minimum, budget on the low, while giving a positive outlook as far as possibility of successful execution goes. And we found all of these characteristics in what we began with.
-
 Maybe that’s why they say,
-
 > “Everything you need is around you.”
-
 So, stop looking. Reflect instead.
 
-How To Not Re-invent The Wheel?
-
-I wish structures was an everyday thing, back in school. It gets erratically wavering between technical-informal from here on. Last night, when we were designing a house for a particular client, we were stuck on a very simple design we had just finished detailing to the T. We were stuck on triangles. My architect wanted to rest 15’ high slant walls on each other — building a pyramid.
-
-Only to realise later that building all the wet areas into a pyramid of wood will trample all our plans. So we waited. You know, for inspiration. “The last-minute deadline”, as the saying goes. It did not take us long though to realise that we could make a box.
-
-After all, that’s what most of us, small-time architects do. It feels like a Udupi restaurant when you imagine a client walking into the office, and the design team goes, What do you want? Big, small, medium, high-rise, long, short, wide, SMLXL? What do you want? So we decided to go cliche.
-
-Only this time, with a twist. We decided to download files for 311 Fountainbridge and adapt those to our specific geographic location. What I mean by that is — take a wooden house built in cold-dry-wet-whatever weather of Edinburgh, and plant the prototype in the torrential Indian monsoons. And Ah! All this, while it is pouring all over you. Cannot be more of a jerk now, can I?
-
-Building a house in the monsoon season is not easy; granted. But it is definitely “the” most fun thing to do. (If you can survive a cold later). So we decided to give something back. You guessed it — the ability to do so.
-
-We added a bathroom unit to the WikiHouse. The way I see it, now all you have to do is plonk a cosy warm/cold WikiHouse bath in your space and add all the furniture — you have been eyeing all this while — around it. Dead simple, and kinda fun. Today when we are closer to deploying the process, we figured that using existing designs even scraps or re-sourced material helps keep the time invested — minimum, budget on the low, while giving a positive outlook as far as the possibility of successful execution goes. And we found all of these characteristics in what we began with.
-
-Maybe that’s why they say,
-
-“Everything you need is around you.”
-
-So, stop looking. Reflect instead.
-
-**How to resolve a conflict?**.
-
+**How to resolve a conflict?**.  
 We will discuss it out. 
-
 1. I will tell you my version of the story.  
 2. You will tell me your version of the story.  
 3. We will state the differences between these two stories.  
@@ -5106,90 +2083,44 @@ We will discuss it out.
 6. We will suggest a mid way.  
 7. Bingo! We can go back to binge watching movies together.
 
-How To Resolve A Conflict?
-
-We will discuss it.
-
-I will tell you my version of the story. 
-You will tell me your version of the story. 
-We will state the differences between these two stories. 
-We will state what was unacceptable. 
-We will state what is acceptable. 
-We will suggest a midway.
-
-Bingo! We can go back to binge-watching movies together.
-
 **How to trade futures?**
-
 Albeit complex methods exist which include the use of indicators, graphs, and mathematics, the simplest and time-tested strategy for trading futures is called the UP-DOWN strategy.
-
 Trading means that you have to predict whether the exchange rate will go UP or DOWN **within** the time you choose, after you open the trade.
-
 **Note**: I used the word '**within**' because if you see that the chart isn't going the way you chose,  
 then you can cancel your bet by clicking on 'close the trade' before the time is up and save yourself from loss.
-
 In the UP-DOWN strategy, it does not matter whether you choose UP or DOWN to start.
-
 Start by investing, the minimum amount allowed + total unrecovered loss, for the minimum time allowed.
-
 In most platforms, this will mean $1 for 1 min.
-
 1. UP: Let’s say you pick UP, $1 [$1 + $0], and 1 min.  
 Here, $0 is the total unrecovered loss.
-
 If the chart goes UP, as you predicted, then you get your initial $1 + profit i.e. 70 to 90% = $1.70 to $1.90.
-
 2. DOWN: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
 In this case, DOWN, $1 [$1 + $0], and 1 min.  
-Here, $0 is the total unrecovered loss.
-
 Now let's say the chart does not go DOWN, as you predicted, then you will lose $1 total.
-
 3. UP: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
 In this case, UP, $2 [$1 + $1], and 1 min.  
 Here, $1 is the total unrecovered loss.
-
 Now let's say the chart does not go UP, as you predicted, then you will lose $2 total.
-
 4. DOWN: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
 In this case DOWN, $3 [$1 + $2], and 1 min.  
 Here, $2 is the total unrecovered loss.
-
 Now let's say the chart does not go DOWN, as you predicted, then you will lose $3 total.
-
 5. UP: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
 In this case UP, $4 [$1 + $3], and 1 min.  
 Here, $3 is the total unrecovered loss.
-
 Now let's say the chart does not go UP, as you predicted, then you will lose $4 total.
-
 6. DOWN: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
 In this case DOWN, $5 [$1 + $4], and 1 min.  
 Here, $4 is the total unrecovered loss.
-
 Now let's say the chart does not go DOWN, as you predicted, then you will lose $5 total.
-
 7. UP: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
 In this case UP, $6 [$1 + $5], and 1 min.  
 Here, $5 is the total unrecovered loss.
-
 If the chart goes UP, as you predicted, then you get your initial $6 + profit i.e. 70 to 90% = $10.20 to $11.40.
-
 8. DOWN: Once a trade is successful, pick the opposite value of your last choice, minimum amount allowed + total total unrecovered loss, and minimum time allowed.
-
 In this case DOWN, $1 [$1 + $0], and 1 min.  
-Here, $0 is the total unrecovered loss.
-
 If the chart goes DOWN, as you predicted, then you get your initial $1 + profit i.e. 70 to 90% = $1.70 to $1.90.
-
 **Always**:
-
 - Always alternate between UP and DOWN for every trade (UP, DOWN, UP, DOWN) regardless of whether your previous prediction was successful or not.
 - Always choose the minimum time allowed for every trade.
 - Always have patience in spite of loss.
@@ -5197,116 +2128,17 @@ If the chart goes DOWN, as you predicted, then you get your initial $1 + profit 
 - Always invest the minimum amount allowed + your total unrecovered loss, if you make a loss.
 - Always stick to this process.
 
-How To Trade Futures?
+**Anthologie - Type I**.  
 
-Albeit complex methods exist which include the use of indicators, graphs, and mathematics, the simplest and time-tested strategy for trading futures is called the UP-DOWN strategy.
-
-Trading means that you have to predict whether the exchange rate will go UP or DOWN within the time you choose after you open the trade.
-
-Note: I used the word ‘within’ because if you see that the chart isn’t going the way you chose,
-then you can cancel your bet by clicking on ‘Close the trade’ before the time is up and save yourself from loss.
-
-In the UP-DOWN strategy, it does not matter whether you choose UP or DOWN to start.
-
-Start by investing, the minimum amount allowed + total unrecovered loss, for the minimum time allowed.
-
-In most platforms, this will mean $1 for 1 min.
-
-1. UP: Let’s say you pick UP, $1 [$1 + $0], and 1 min.
-Here, $0 is the total unrecovered loss.
-
-If the chart goes UP, as you predicted, then you get your initial $1 + profit i.e. 70 to 90% = $1.70 to $1.90.
-
-2. DOWN: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
-In this case, DOWN, $1 [$1 + $0], and 1 min.
-Here, $0 is the total unrecovered loss.
-
-Now let’s say the chart does not go DOWN, as you predicted, then you will lose $1 total.
-
-3. UP: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
-In this case, UP, $2 [$1 + $1], and 1 min.
-Here, $1 is the total unrecovered loss.
-
-Now let’s say the chart does not go UP, as you predicted, then you will lose $2 total.
-
-4. DOWN: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
-In this case DOWN, $3 [$1 + $2], and 1 min.
-Here, $2 is the total unrecovered loss.
-
-Now let’s say the chart does not go DOWN, as you predicted, then you will lose $3 total.
-
-5. UP: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
-In this case UP, $4 [$1 + $3], and 1 min.
-Here, $3 is the total unrecovered loss.
-
-Now let’s say the chart does not go UP, as you predicted, then you will lose $4 total.
-
-6. DOWN: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
-In this case DOWN, $5 [$1 + $4], and 1 min.
-Here, $4 is the total unrecovered loss.
-
-Now let’s say the chart does not go DOWN, as you predicted, then you will lose $5 total.
-
-7. UP: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
-In this case UP, $6 [$1 + $5], and 1 min.
-Here, $5 is the total unrecovered loss.
-
-If the chart goes UP, as you predicted, then you get your initial $6 + profit i.e. 70 to 90% = $10.20 to $11.40.
-
-8. DOWN: Once a trade is successful, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.
-
-In this case DOWN, $1 [$1 + $0], and 1 min.
-Here, $0 is the total unrecovered loss.
-
-If the chart goes DOWN, as you predicted, then you get your initial $1 + profit i.e. 70 to 90% = $1.70 to $1.90.
-
-Always:
-
-Always limit the number of trades you make every day to under 5.
-
-Always have patience in spite of the loss.
-
-Always alternate between UP and DOWN for every trade (UP, DOWN, UP, DOWN) regardless of whether your previous prediction was successful or not.
-
-Always choose the minimum time allowed for every trade.
-
-Always invest the minimum amount allowed for the first trade.
-
-Always invest the minimum amount allowed + your total unrecovered loss, if you make a loss.
-
-Always stick to this process.
-
-**Anthologie - Type I**.
-
-**Ideas**.
-
-Never found that everytime I get my Idea or everytime you come across an idea you will often think that you had thought about it sometime back in your life. But since you never picked it up or run with it, you were not the one who made it happen. Ideas come and go and they happen to find us in our life just like a dream becomes a reality. Now someone else might be the reason why we see them in our reality. It might be somebody else's effort.
-
+**Ideas**.  
+I've never found that every time I get an idea or everytime you come across an idea you will often think that you had thought about it sometime back in your life. But since you never picked it up or run with it, you were not the one who made it happen. Ideas come and go and they happen to find us in our life just like a dream becomes a reality. Now someone else might be the reason why we see them in our reality. It might be somebody else's effort.
 It might be somebody else's money. It might be your brainchild. But it is not yours alone. So next time you feel that why were you not the person to make something happen, or the next time you feel that oh! shit I had thought about this first. So remember this, next time an idea comes to you, forget everything else and try it out.
 
-Ideas.
-
-I've never found that every time I get my idea or every time I come across an idea I will often think that you had thought about it sometime back in my life. But since you never picked it up or run with it, you were not the one who made it happen. Ideas come and go and they happen to find us in our life just like a dream becomes a reality. Now someone else might be the reason why we see them in our reality. It might be somebody else’s effort.
-
-It might be somebody else’s money. It might be your brainchild. But it is not yours alone. So next time you feel that why were you not the person to make something happen, or the next time you feel that oh! shit I had thought about this first. So remember this, next time an idea comes to you, forget everything else and try it out.
-
-**If**.
-
+**If**.  
 “If you’re not good enough,
 you probably aren’t close enough.”
 
-If.
-
-“If you’re not good enough, you probably aren’t close enough.”
-
-**I met someone**.
-
+**I met someone**.  
 “You will meet her in seven days,
 her name starts with N,
 it has eight alphabets,
@@ -5314,120 +2146,70 @@ you will meet at the place you sang,
 but hang on a sec,
 don’t kiss her yet,
 or you might lose her forever again.”
-
 "Someone told me that,
 nearly 10 years ago,
 on an online crazy chat streak,
 as crazy as this weekend was until now."
-
 "So close to reality,
 so hard to believe,
 what someone saw in my past,
 was my future behold! This week."
-
 "I have never followed occult,
 for all its mystery,
 it has always been,
 a double check for me.
-
 She wants to be an conceptual artist,
 and explore her beliefs,
 in time travel, and philosophy,
 while she is a soul to die for, indeed."
-
 "When I look back on my life now,
 connecting these dots seem so obvious to me,
 everything fits so lovely,
 even every silly thing I reaped.
-
 Life could not have taught me better,
 through sadness, and ease,
 what joy was there to sit by her,
 that the moment felt like eternity."
-
 "I might sound so patronizing,
 so head over heels,
 being used to empty dinner tables,
 and empty cafes it seems."
-
 "I love to be outdoors,
 away from those haunting patterns, and fear,
 but with her this was different,
 no odd design could bother me."
-
 "I have never felt so careless,
 I have never felt so free,
 the design never did haunt me,
 honestly."
-
 "Mad over donuts,
 and sweet chariot maybe,
 have never been my options,
 for dates or dining out,
 lately."
-
 "I was shivering from the cold,
 so she sat me down on a bench,
 and shared her love for purple,
 oh baigan you see!"
-
 "I wore that jacket to walks,
 from cafes to streets,
 swaggin’ around town,
 while blind she be of me."
-
 "My friends,
 oh cry! they will, “the man ain’t my friend”,
 for traveling to meet her,
 to dine in maybe,
 deny they know me."
-
 "For such a beauty is my lady,
 beyond the strokes of my pencil,
 cannot capture her in sharp portraits,
 or anatomy."
-
 "Yet she echoes through my soul,
 like magic in her fingertips,
 like the poetry in thee,
 coz’ yes, we did not kiss."
 
-I Met Someone.
-
-“You will meet her in seven days, her name starts with N, it has eight alphabets, you will meet at the place you sang, but hang on a sec, don’t kiss her yet, or you might lose her forever again.”
-
-“Someone told me that, nearly 10 years ago, on an online crazy chat streak, as crazy as this weekend was until now.”
-
-“So close to reality, so hard to believe, what someone saw in my past, was my future behold! This week.”
-
-“I have never followed occult, for all its mystery, it has always been, a double check for me.
-
-She wants to be an conceptual artist, and explore her beliefs, in time travel, and philosophy, while she is a soul to die for, indeed.”
-
-“When I look back on my life now, connecting these dots seem so obvious to me, everything fits so lovely, even every silly thing I reaped.
-
-Life could not have taught me better, through sadness, and ease, what joy was there to sit by her, that the moment felt like eternity.”
-
-“I might sound so patronizing, so head over heels, being used to empty dinner tables, and empty cafes it seems.”
-
-“I love to be outdoors, away from those haunting patterns, and fear, but with her this was different, no odd design could bother me.”
-
-“I have never felt so careless, I have never felt so free, the design never did haunt me, honestly.”
-
-“Mad over donuts, and sweet chariot maybe, have never been my options, for dates or dining out, lately.”
-
-“I was shivering from the cold, so she sat me down on a bench, and shared her love for purple, oh baigan you see!”
-
-“I wore that jacket to walks, from cafes to streets, swaggin’ around town, while blind she be of me.”
-
-“My friends, oh cry! they will, “the man ain’t my friend”, for traveling to meet her, to dine in maybe, deny they know me.”
-
-“For such a beauty is my lady, beyond the strokes of my pencil, cannot capture her in sharp portraits, or anatomy.”
-
-“Yet she echoes through my soul, like magic in her fingertips, like the poetry in thee, coz’ yes, we did not kiss.”
-
-**India**.
-
+**India**.  
 I live in a country,  
 where if a soldier is shot,  
 my countrymen fight,  
@@ -5436,149 +2218,70 @@ about should they go to war,
 rather than fighting with those,  
 who shot that brave soldier.
 
-India.
-
-I live in a country,
-where if a soldier is shot,
-my countrymen fight,
-against each other,
-about should they go to war,
-rather than fighting with those,
-who shot that brave soldier.
-
-**Influence**.
-
+**Influence**.  
 In my past, I was fired in situations as people vied for influence. I have been shown how important, this power over someone or something can be. Our world is shaped by influence. Free Will is an illusion. Some people are true bred consumerists for the reason that the market influences their own judgement to an extent that they consider their entire lives to be a product of free will.
-
 A close friend once told me that I was influenceable. That means you can influence me with ease. At that age, I found that reality bothersome. There was a need to control actions. A need to demonstrate control over life.
-
 Now however, I realise that we are humans. Humans, by default, are influenceable. This sure is vulnerable. This, like any other vulnerability, is powerful. The power lies in knowing what influences you.
-
 Once you know what does, and how it does, you have won half the battle. The other half lies in catching yourself. The more number of things that you can find to have an influence over you, the more power you will have. The ideas of fashion, beauty, and make-up are prevalent for a sole reason that these ideas are projected as a necessary element in human life in advertising. Popular media holds a large influence on human lives.
-
 Mostly for the reason that it is popular. I find that toxic. As you grow older, popularity recedes into the shaded patch down the memory lane. The things that influence you change. Your interests, hobbies, and decisions, are based on ideas that are not your own.
-
 If you are not careful, influence can suck you into living a life that you never really wished for. Self awareness is the antidote. Wish for wishes that make you burn as an individual. Wishes that make you rise up from those ashes like a Phoenix.
 
-Influence.
-
-In the past, I was fired in situations where people vied for influence. I have been shown how important, this power over someone or something can be. Our world is shaped by influence. Free Will is an illusion. Some people are true-bred consumerists for the reason that the market influences their own judgement to the extent that they consider their entire lives to be a product of free will.
-
-A close friend once told me that I was influenceable. That means you can influence me with ease. At that age, I found that reality was bothersome. There was a need to control actions. A need to demonstrate control over life.
-
-Now, however, I realise that we are humans. Humans, by default, are influenceable. This sure is vulnerable. This, like any other vulnerability, is powerful. The power lies in knowing what influences you.
-
-Once you know what does, and how it does, you have won half the battle. The other half lies in catching yourself. The more things that you can find to have an influence over you, the more power you will have. The ideas of fashion, beauty, and make-up are prevalent for the sole reason that these ideas are projected as a necessary element in human life in advertising. Popular media holds a large influence on human lives.
-
-Mostly for the reason that it is popular. I find that toxic. As you grow older, popularity recedes into the shaded patch down memory lane. The things that influence you change. Your interests, hobbies, and decisions, are based on ideas that are not your own.
-
-If you are not careful, influence can suck you into living a life that you never really wished for. Self-awareness is the antidote. Wish for wishes that make you burn as an individual. Wishes that make you rise up from those ashes like a Phoenix.
-
-**Inner peace**.
-
+**Inner peace**.  
 To find inner peace, all it takes is to keep reminding yourself about it. To make it the epitome of the choices you make. To remember to not lose yourself in the past, in a train of thoughts. To remember to not lose yourself in the future, in another train of thoughts. There maybe only so much that keeps you from living in the present, and to pause before you take any action.
-
 To pause not to decide your next move, but to choose to stop instead. If ever there is anything that you would need to do, then it is only going to be something you would absolutely love to. There are no ifs, and buts, just the same as there is no better. You are no better than anyone in just the same way you are no less than anyone either. The only thing you have to remember is to not remember at all.
-
 The secret lies in forgetting. To rid of all habit. And to look out into space, not the skies. To see what you is happening around you. And to know that it will change.
-
 To wait, and observe instead of taking action. When you focus only on the things around you, will you understand what you are here for.
-
 Inner Peace.
-
 To find inner peace, all it takes is to keep reminding yourself about it. To make it the epitome of the choices you make. To remember to not lose yourself in the past, in a train of thoughts. Remember to not lose yourself in the future, in another train of thought. There may be only so much that keeps you from living in the present, and pausing before you take any action.
-
 To pause not to decide your next move, but to choose to stop instead. If ever there is anything that you would need to do, then it is only going to be something you would absolutely love to do. There are no ifs, and buts, just the same as there is no better. You are no better than anyone in just the same way you are no less than anyone either. The only thing you have to remember is to not remember at all.
-
 The secret lies in forgetting. To rid of all habits. And to look out into space, not the skies. To see what is happening around you. And to know that it will change.
-
 To wait, and observe instead of taking action. When you focus only on the things around you, will you understand what you are here for?
 
-**Inside**.
-
+**Inside**.  
 Because they are not straight the nosing is off but you were taught here, and you don’t know a lot but since we all have been to such a place. Hopefully we try to escape every other terrain jot down our thoughts on drawings instead. This is not my poem but people don’t wait they don’t know what was destined for every other thread. You can rant along but this is not a rant this is realising that in the end the only way that you will find answers is to look inside.
 
-Inside.
-
-Because they are not straight the nosing is off but you were taught here, and you don’t know a lot but since we all have been to such a place. Hopefully, we try to escape every other terrain and jot down our thoughts on drawings instead. This is not my poem but people don’t wait they don’t know what was destined for every other thread. You can rant along but this is not a rant this is realising that in the end, the only way that you will find answers is to look inside.
-
-**Instagram**.
-
+**Instagram**.  
 Did something happen to Instagram?
 Or is it just me?
 Everyone be decluttering
 Peer pressure maybe.
 
-Instagram.
-
-Did something happen to Instagram? 
-Or is it just me? 
-Everyone is decluttering 
-Peer pressure maybe.
-
-**Instagram strategy**.
-
+**Instagram strategy**.  
 I have always looked at Instagram as a note taking app more than a photo sharing app. Most people do not use all the features of any platform, in the same way as they do not use all the features of their smartphones. The thing - although I don't agree with the idea - seems similar to that of leveraging excess capacity like Uber, Airbnb, blah blah. Now you know I am lazy so I prepared this strategy for Instagram to be my chosen platform for content creation instead of content publishing because who will use 5 RCs for the same TV, right?
-
 Here's what I think.
-
-**Level 1 - Creating book content**.
-
+**Level 1 - Creating book content**.  
 Instagram's caption space has 2000 chars in one post = that's almost 1.25 page.
-
 I intend to use these page/s to make book/s.
-
 If you fill in complete captions for about 200 posts = then you would have written an equal of 300 pages = that's 1 book.
-
 You will find the process taxing because it is strenuous to write about the same topic 200 times in a row. Hence to make this lazier, I recommend using hashtags for example #akshaycoffee, #akshaythis, #akshaythat, #akshayxyz.
-
 The advantages here are:
 - This way people can track your content about specific topics.
 - You can write about different topics 200 times in a row.
 - You can tap on any of your hashtags and keep track of your progress.
 - You can see the Top/Recent posts in any hashtag.
-
 I view this as a tool to get your peers and society-at-large to review your content. You can use a desktop browser to copy all the captions under any hashtag to Google documents. This document can be exported to become an eBook in .epub/.pdf/.any-other-file-format-you-fancy.
-
-**Level 2 - Creating lectures content**.
-
+**Level 2 - Creating lectures content**.  
 I intend to use these book/s as content to give one-hour-long-lecture/s on any topic with/without fumbling. I can use 1 book as enough content to give a 1 one-hour-long-lecture on any topic with fumbling. I can use 2 books as enough content to give a 1 one-hour-long-lecture on any topic without fumbling. I can use 4 books as enough content to give a 2 one-hour-long-lecture on any topic without fumbling, and so on.
-
 Some friends believe they can use 1 book as enough content to give 4 one-hour-long-lectures without fumbling. This is subjective. You do you. Oh! You can also upload this to YouTube.
-
-**Level 3 - Creating Vit. M**.
-
+**Level 3 - Creating Vit. M**.  
 If you fill in complete captions for about 200 posts = then you would have written an equal of 300 pages = that's 1 book = enough content for 1 one-hour-long-lecture with fumbling.
-
 You can go to any cafe/venue and ask for a spot to do a paid one-hour-long guest lecture using this book as leverage. A venue will ask you for a profit share OR ask you to pay a lumpsum amount as rent. A venue lecture for 50 participants at INR 250/participant may raise about INR 12,500 for an hour of work.
-
 If you fill in complete captions for about 400 posts = then you would have written an equal of 600 pages = that's 2 books = enough content for 1 one-hour-long-lecture without fumbling.
-
 You can go to any college/university and ask for a spot to do a paid one-hour-long guest lecture using these books as leverage. A university will not ask you for a profit share. A university lecture for 300 participants at INR 100/participant may raise about INR 30,000 for an hour of work.
-
-**Level 4 - Creating workshop content**.
-
+**Level 4 - Creating workshop content**.  
 If you fill in complete captions for about 800 posts = then you would have written an equal of 1200 pages = that's 4 books = enough content for 2 one-hour-long-lectures without fumbling.
-
 You can go to any cafe/venue and ask for a spot to do a paid six-hour-long workshop using these books as leverage. A venue will ask you for a profit share OR ask you to pay a lumpsum amount as rent.
-
 The workshop format in reverse order:
-
 > [ 05 PM - Last Lecture - 04 PM - Exercise review - 03 PM - Exercise in progress - 02 PM - Lunch - 01 PM - Exercise briefing - 12 PM - First Lecture - 11 AM ]
-
 - 11 AM - 12 PM - First Lecture
 - 12 PM - 01 PM - Exercise briefing
 - 01 PM - 02 PM - Lunch
 - 02 PM - 03 PM - Exercise in progress
 - 03 PM - 04 PM - Exercise review
 - 04 PM - 05 PM - Last Lecture
-
 The workshop format in regular order:
-
 > [ 11 AM - First Lecture - 12 PM - Exercise briefing - 01 PM- Lunch - 02 PM - Exercise in progress - 03 PM - Exercise review - 04 PM - Last Lecture - 05 PM ]
-
 This format means you will be talking at the group from 11am-12pm and 4pm-5pm. This format means you will be talking to the group from 12pm-1pm and 3pm-4pm. This format means you will be doing nothing from 1pm-2pm and 2pm-3pm. A workshop for 10 participants at INR 10000/participant may raise about INR 100,000 for 4 hours of work. You can charge more depending upon the exercise/s that you can create for your particular topic/s.
-
 Bear in mind that:
 - Every exercise should give the participant/s an item to take home OR something to show his/her/their friends and family.
 - This item/something should be a tangible product i.e., it should not be a certificate.
@@ -5586,231 +2289,37 @@ Bear in mind that:
 - You can split this hour into as many permutation and combination/s of these exercises.
 - You get 6 mins/participant to review their work on a one-on-one basis, so ideally create one amazing exercise only.
 - You get 60 mins to complete all exercises, use it wisely.
-
-**Fin**.
-
+**Fin**.  
 I mean these books, lectures, and workshops are what Instagram captions can lead to, understood?
 
-Instagram Strategy.
-
-I have always looked at Instagram as a note-taking app more than a photo-sharing app. Most people do not use all the features of any platform, in the same way as they do not use all the features of their smartphones. The thing - although I don’t agree with the idea - seems similar to that of leveraging excess capacity like Uber, Airbnb, blah blah. Now you know I am lazy so I prepared this strategy for Instagram to be my chosen platform for content creation instead of content publishing because who will use 5 RCs for the same TV, right?
-
-Here’s what I think.
-
-Level 1 - Creating book content.
-
-Instagram’s caption space has 2000 chars in one post = that’s almost 1.25 pages.
-
-I intend to use these page/s to make book/s.
-
-If you fill in complete captions for about 200 posts = then you would have written an equal of 300 pages = that’s 1 book.
-
-You will find the process taxing because it is strenuous to write about the same topic 200 times in a row. Hence to make this lazier, I recommend using hashtags, for example, #akshaycoffee, #akshaythis, #akshaythat, and #akshayxyz.
-
-The advantages here are:
-
-This way people can track your content about specific topics.
-
-You can write about different topics 200 times in a row.
-
-You can tap on any of your hashtags and keep track of your progress.
-
-You can see the Top/Recent posts in any hashtag.
-
-I view this as a tool to get your peers and society at large to review your content. You can use a desktop browser to copy all the captions under any hashtag to Google Documents. This document can be exported to become an eBook in .epub/.pdf/.any-other-file-format-you-fancy.
-
-Level 2 - Creating lecture content.
-
-I intend to use these book/s as content to give one-hour-long-lecture/s on any topic with/without fumbling. I can use 1 book as enough content to give a 1 one-hour-long lecture on any topic while fumbling. I can use 2 books as enough content to give a 1 one-hour-long lecture on any topic without fumbling. I can use 4 books as enough content to give a 2 one-hour-long-lecture on any topic without fumbling, and so on.
-
-Some friends believe they can use 1 book as enough content to give 4 one-hour-long lectures without fumbling. This is subjective. You do you. Oh! You can also upload this to YouTube.
-
-Level 3 - Creating Vit. M.
-
-If you fill in complete captions for about 200 posts = then you would have written an equal of 300 pages = that’s 1 book = enough content for 1 one-hour-long lecture with fumbling.
-
-You can go to any cafe/venue and ask for a spot to do a paid one-hour-long guest lecture using this book as leverage. A venue will ask you for a profit share OR ask you to pay a lump sum amount as rent. A venue lecture for 50 participants at INR 250/participant may raise about INR 12,500 for an hour of work.
-
-If you fill in complete captions for about 400 posts = then you would have written an equal of 600 pages = that’s 2 books = enough content for 1 one-hour-long lecture without fumbling.
-
-You can go to any college/university and ask for a spot to do a paid one-hour-long guest lecture using these books as leverage. A university will not ask you for a profit share. A university lecture for 300 participants at INR 100/participant may raise about INR 30,000 for an hour of work.
-
-Level 4 - Creating workshop content.
-
-If you fill in complete captions for about 800 posts = then you would have written an equal of 1200 pages = that’s 4 books = enough content for 2 one-hour-long lectures without fumbling.
-
-You can go to any cafe/venue and ask for a spot to do a paid six-hour-long workshop using these books as leverage. A venue will ask you for a profit share OR ask you to pay a lump sum amount as rent.
-
-The workshop format in reverse order:
-
-[ 05 00 PM - Last Lecture - 04 00 PM - Exercise review - 03 00 PM - Exercise in progress - 02 00 PM - Lunch - 01 00 PM - Exercise briefing - 12 00 PM - First Lecture - 11 00 AM ]
-
-11 00 AM - 12 00 PM - First Lecture
-
-12 00 PM - 01 00 PM - Exercise briefing
-
-01 00 PM - 02 00 PM - Lunch
-
-02 00 PM - 03 00 PM - Exercise in progress
-
-03 00 PM - 04 00 PM - Exercise review
-
-04 00 PM - 05 00 PM - Last Lecture
-
-The workshop format in regular order:
-
-[ 11 00 AM - First Lecture - 12 00 PM - Exercise briefing - 01 00 PM- Lunch - 02 00 PM - Exercise in progress - 03 00 PM - Exercise review - 04 00 PM - Last Lecture - 05 00 PM ]
-
-This format means you will be talking in the group from 11 00 AM - 12 00 PM and 04 00 PM - 05 00 PM. This format means you will be talking to the group from 12 00 PM - 01 00 PM and 03 00 PM - 04 00 PM. This format means you will be doing nothing from 01 00 PM - 02 00 PM and 02 00 PM - 03 00 PM. A workshop for 10 participants at INR 10000/participant may raise about INR 100,000 for 4 hours of work. You can charge more depending upon the exercise/s that you can create for your particular topic/s.
-
-Bear in mind that:
-
-Every exercise should give the participant/s an item to take home OR something to show his/her/their friends and family.
-
-This item/something should be a tangible product i.e., it should not be a certificate.
-
-You can do individual exercises, team exercises, and whole-class exercises.
-
-You can split this hour into as many permutations and combination/s of these exercises.
-
-You get 6 mins/participant to review their work on a one-on-one basis, so ideally create one amazing exercise only.
-
-You get 60 mins to complete all exercises, use it wisely.
-
-Fin.
-
-I mean these books, lectures, and workshops are what Instagram captions can lead to, understood?
-
-**Intelligently**.
-
+**Intelligently**.  
 > “If we share, everyone can have enough.”
-
 We believe that every society has enough to feed itself. Everyone will cherish what they create by sharing. The common man’s contributions through the internet will override all existing means of thinking. GRÜHAM is a “build” event series that builds shelter to meet the needs of a community. We build a WikiHouse because of the community building that comes out through the process.
-
 All our data is freely shared on GitHub. You can fork it, and give back something more to our world. Doing more “build” events will meet the needs of our civilization. The sharing economy will become powerful enough to end most of what pandora’s box had led into our world. Now you can be a part of this movement too.
-
 We may not change the world, yet let's begin here.
-
 > “Contribution changes, not the life of one individual,  
 > but part of your life too, May be our planet.”
 
-Intelligently.
-
-“If we share, everyone can have enough.”
-
-We believe that every society has enough to feed itself. Everyone will cherish what they create by sharing. The common man’s contributions through the internet will override all existing means of thinking. GRÜHAM is a “build” event series that builds shelters to meet the needs of a community. We build a WikiHouse because of the community building that comes out through the process.
-
-All our data is freely shared on GitHub. You can fork it, and give back something more to our world. Doing more “build” events will meet the needs of our civilization. The sharing economy will become powerful enough to end most of what Pandora’s box had led into our world. Now you can be a part of this movement too.
-
-We may not change the world, yet let’s begin here.
-
-“Contribution changes, not the life of one individual,
-but part of your life too, and may be our planet.”
 
 **Investment plan**.
 
 The following is a method to manage your money better.
 
---
-1.0. Biz account (100% of your money)  
-This is bank account #1.  
-All incoming funds should come to this account only.
+1. Get 11 Bank Accounts.
 
-<!---
-your comment goes here
-and here
--->
-
---
-2.0. Tax account (20% of your money)  
-This is bank account #2.  
-Transfer tax amount to this account and pay tax using this account only.
-
-<!---
-your comment goes here
-and here
--->
-
---
-3.0. Biz expenses (10% of your money)  
-This is bank account #3.  
-All office expenses should be spent from this account only.  
-Marketing cost should be limited to less than 10% of expected gross revenue.  
-Expected gross revenue is 100% of your money (0.0. Biz account).
-
-<!---
-your comment goes here
-and here
--->
-
---
-4.0. Main account (40% of your money)  
-This is bank account #4.  
-All other payments listed below should be made from this account only.
-
-<!---
-your comment goes here
-and here
--->
-
-4.1. Home expenses (10%)  
-For food, rent, outings, and utilities.
-
-4.2. College fund (10%)  
-For education of progeny.
-
-4.3. Retirement fund (10%)  
-For mutual funds.
-
-4.4. Market fund (10%)  
-For share market, and stock trading.
-
---
-5.0. Cash accounts. (30% of your money)  
-This is bank account #5.  
-
-<!---
-your comment goes here
-and here
--->
-5.1. Emergencies (10%)  
-For medical emergencies.
-
-5.2. Real estate (10%)  
-This is cash for buying property and you should buy property in cash only.
-
-5.3. Parents (10%)  
-For supporting parents.
-
-If you have read this far, start calculating backwards from here with the question - "How much would I need for this?" - at every stage.
-
-Investment Plan.
-
-The following is a method to manage your money better.
-
-Bank Accounts
-
-Bank Account #1 or Main account (100% of your money) for all incoming funds. All incoming funds should come to this account only.
-
-Bank Account #2 or Tax account (20% of your money or as advised by your tax accountant) for paying tax. Transfer the tax amount to this account and pay tax using this account only.
-
-Bank Account #3 or Home Office account (20% of your money) for food, rent, outings, running expenses, and utilities. All home office expenses should be spent from this account only. Set the marketing budget to less than 10% of the expected gross revenue in your main account.
-
-Bank Account #4 or Market or Retirement account (20% of your money) for mutual funds, share market, and stock trading.
-
-Cash Accounts
-
-Bank Account #5 or Emergency Fund (20% of your money) for medical emergencies and parental care.
-
-Bank Account #6 or College or Real Estate account (20% of your money) for buying property and the education of progeny. You should buy property in cash only.
-
-Dummy Accounts
-
-Bank Account #7 or Dummy Account for miscellaneous expenses.
+2. Use Bank Accounts in the following ways
+Use Bank Account #1 as your Main account (100% of your money) for all incoming funds. All incoming funds should come to Bank Account #1 only.  
+Use Bank Account #2 as your Tax account (10% of your money or as advised by your tax accountant) for paying tax. **Transfer the tax amount to this account and pay only tax using this account only**.  
+Use Bank Account #3 as your Office account (10% of your money) for marketing, office expenses, and utilities expenses.  
+Use Bank Account #4 as your Home account (10% of your money) for food, rent, outings, and utilities.  
+Use Bank Account #5 as your Retirement account (10% of your money) for mutual fund investments, and share/stock trading.  
+Use Bank Account #6 as Cash Account for Parents (10% of your money) for parental care.  
+Use Bank Account #7 as Cash Account (10% of your money) for medical emergencies.  
+Use Bank Account #8 as Cash Account (10% of your money) for the education of any progeny.  
+Use Bank Account #9 as Cash Account (10% of your money) for buying real estate. **You should buy property in cash only**.  
+Use Bank Account #10 as Dummy Account (10% of your bank money) for bank server errors or miscellaneous expenses.
 
 If you have read this far, start calculating backwards from here with the question - “How much would I need for this?” - at every stage.
-
-Closed Accounts
 
 **Irish cream recipe**.
 
@@ -5833,28 +2342,6 @@ Add 1 tsp vanilla extract.
 Add 200/350 ML alcohol.
 
 **Blend everything, chill, knock yourself out**.
-
-Irish Cream Recipe.
-
-Ingredients:
-
-400 gm condensed milk.
-240 ml fresh cream.
-1 tsp instant coffee.
-2 tbsp chocolate sauce.
-1 tsp vanilla extract.
-200/350 ML alcohol of choice, per taste. Whisky or Rum, ideally.
-
-Method:
-
-Add 400 gm of condensed milk.
-Add 240 ml of fresh cream.
-Add 1 tsp instant coffee.
-Add 2 tbsp chocolate sauce.
-Add 1 tsp vanilla extract.
-Add 200/350 ML alcohol.
-
-Blend everything, chill, and knock yourself out.
 
 **I won't let you walk away, with a broken heart**.
 
@@ -5890,40 +2377,6 @@ Just the way we did every afternoon.
 I am gonna be yours forever,
 Even if you take me dear,
 I love you, you love me, & we love us two.
-
-I Won’t Let You Walk Away, With A Broken Heart.
-
-I won’t let you walk away, with a broken heart,
-And I wanna ride away from the past,
-I wanna kiss your tears goodbye coz’ I love you.
-
-If you need to know what I will do,
-Try asking once, and it comes true,
-You don’t need to cry, my baby, I love you.
-
-On a rainy, rainy, rainy, rainy, rainy, day you wished,
-To kiss me on my lips,
-And we know what that means, no?
-
-We will be together forever,
-For a daughter like Chanelle,
-I hope you remember that, don’t you?
-
-We want to roam these beaches,
-with the big sun of Goa shining down on us,
-I can’t take my eyes off this beautiful you.
-
-I know you're sorry for what you did,
-Hurt my heart like the devil,
-But I forgave you with love like glue.
-
-So I wish to pour it all over,
-And stick to you forever,
-Like we used to do at noon.
-
-I promise to be yours forever,
-Even if that takes years,
-Coz' I love you, you love me, & we love us two.
 
 **Anthologie - Type J**.
 
@@ -5998,36 +2451,7 @@ In the end we are all just humans;
 looking for an escape, a warm body,
 or to shine as the moon under the cloudy skies.
 
-Joan’s Hope.
-
-We see, and wonder, 
-Why does a moon shine; 
-Under cloudy skies in furious rain, 
-With celestial light crashing earthwards
-
-With doors banging away, 
-As the breeze turns into a gale; 
-You stole my heart with a glance, 
-And with a hangout place
-
-You make me feel lost, and found today, 
-Last night we had some; 
-Rookie mistakes to wisdom for a change, 
-Like there is more in adding to a piece
-
-Rather than standing out solo instead, 
-But of these things that I realised yesterday; 
-These three are the best, 
-You know when you know it’s forever
-
-Here the past doesn’t matter, 
-Coz we are all humans; looking for an escape, a warm body, or to shine like the moon under the cloudy skies.
-
 **Journeys**.
-
-I've always thought journeys to be a part of my learning experience. Like I have never seen things with different perspective unless if I were on a journey from one place to another. Once I was travelling in this train from CST to Thane and I happened to look outside the door because I was standing right at it. What I saw was series of buildings that were being constructed, half done, weirdly placed, and will work in progress for somebody. But what I realised was because I thought about the Whys. I used to always question why have they placed it that way? Why is it weird? Why is it half done? and more. So I used to look at all of these things as a set of ideas that must have come to someone. All these things around me outside of the train were only thoughts. Everything you see is a thought floating around. Everything. And once you understand this you can realise that if you can think, then you can also create whatever it is around you or create a new world of your own making all by yourself, without having to worry about the Hows. The how lies in the doing. The doing of following your thoughts relentlessly.
-
-Journeys.
 
 I’ve always thought journeys to be a part of my learning experience. Like I have never seen things from a different perspective unless I were on a journey from one place to another. Once I was travelling on this train from CST to Thane and I happened to look outside the door because I was standing right at it. What I saw was a series of buildings that were being constructed, half done, weirdly placed, and will work in progress for somebody. But what I realised was because I thought about the Whys. 
 
@@ -6081,62 +2505,12 @@ You can know more about Kapwing on
 <a href="https://www.kapwing.com/resources" rel="noopener noreferrer" target="_blank">Resources</a>  
 <a href="https://twitter.com/KapwingApp" rel="noopener noreferrer" target="_blank">Twitter</a>.
 
-Kapwing.
-
-Here’s a sweet resource for digital content creation. I hope you love Kapwing, a modern editor for videos, GIFs, and images.
-
-Image Editing Tools.
-
-Convert Image to Video
-Instagram Story Templates
-Meme Maker
-Montage Maker
-Slideshow Maker
-Stop Motion Maker
-
-Video Editing Tools.
-
-Add Music to Video
-Add Subtitles
-Add Text to Video
-Adjust Video
-Caption Video
-Convert Video
-Crop Video
-Cut Video
-Fit Video
-Frame Video
-Loop Video
-Mute Video
-Repeat Video
-Reverse Video
-Rotate Video
-Video Collage
-Video Filters
-Video Resizer
-Video Speed
-Video Trimmer
-Watermark Video
-
-You can know more about Kapwing on Blog
-Explore
-Facebook
-Resources
-Twitter.
-
 **Kar**.
 
 Tu kar na, khudke liye kuch kar
 Chahe bhige, ye ankhiyan
 Chahe rahe, bhuka tu yahan
 Tu chal na, dil ke sukoon mein chal.
-
-Kar.
-
-Tu kar na, khudke liye kuch kar.
-Chahe bhige, ye ankhiyan.
-Chahe rahe, bhuka tu yahan.
-Tu chal ab, dil ke sukoon mein chal.
 
 **Kashmiri kahwa**.
 
@@ -6145,14 +2519,6 @@ Kashmiri kahwa not actually that but something like that. So, Sarfaraz Khan who 
 It is been interesting as a life to meet people randomly from different parts of the world and to be able to live with them like I used to do when I was an Airbnb superhost. It has been one of the ways I have always thought that money is not something that you make it is a return on your investment as a person. What I mean by that is that when you invest your time and your mind and knowledge and your skills in your social environment, you are paid back with what you guys call money. I am not sure how much of these articles that you are reading which I am speaking out to you are adding value to your life or lives. A good way to give me feedback would be to hit the like button so I know that somebody out there is liking this so that I can feel motivated to create more.
 
 Now that is not a ploy to make money, it is only a feedback. so I am going to go back to my Kashmiri kahwa will my own Kashmiri kahwa, courtesy of Sarfaraz Khan and I hope that I will come back you and post some more articles.
-
-Kashmiri Kahwa.
-
-Kashmiri Kahwa not actually that but something like that. So, Sarfaraz Khan who also is a writer on Typewrighter and is my flatmate right now, had made ghee out of milk and I don’t know how it that but my friend left some of the burnt ghee in the strainer, and I used that strainer with the ghee in it for my tea. Apparently, that is how they make Kashmiri Kahwa they add some ghee to the tea. Well, I used I think it is Girnar chai and a lot of sugar and this strainer of full of ghee for my morning tea. Hopefully, I will get some weight in these coming few months. 
-
-It has been an interesting life to meet people randomly from different parts of the world and to be able to live with them like I used to do when I was an Airbnb superhost. It has been one of the ways I have always thought that money is not something that you make it is a return on your investment as a person. What I mean by that is that when you invest your time and your mind and knowledge and your skills in your social environment, you are paid back with what you guys call money. I am not sure how much of these articles you are reading that I am speaking out to you are adding value to your life or lives. A good way to give me feedback would be to hit the like button so I know that somebody out there likes this so that I can feel motivated to create more. 
-
-Now that is not a ploy to make money, it is only a feedback. So I am going to go back to my Kashmiri Kahwa with my own Kashmiri Kahwa, courtesy of Sarfaraz Khan and I hope that I will come back to you and post some more articles.
 
 **Khamoshi**.
 
@@ -6180,49 +2546,7 @@ Jaaneja jaan bhi mar mite
 Teri inn adaon pe hum
 Jaaneja jaan bhi mar mite
 
-Khamoshi.
-
-Teri meri khamoshi mein, 
-Khoje hum tumhein.
-
-Teri meri khamoshi mein, 
-Kyun khoje hum tumhein.
-
-Kyun bhala mujhko hai yakeen, 
-Pyaar ki rahon mein chale.
-
-Kyun bhala mujhko hai yakeen, 
-Pyaar ki rahon mein chale.
-
-Iss kadar sochoon main, 
-Kya dekha hai humne.
-
-Iss kadar sochoon main, 
-Kya dekha hai humne.
-
-Teri inn adaon pe hum, 
-Jaaneja jaan bhi mar mite.
-
-Teri inn adaon pe hum, 
-Jaaneja jaan bhi mar mite.
-
 **Kvarnbacken**.
-
-Kvarnbacken, the hill close to the Jakobsberg train station felt like a shadow. As he moved across the plains thinking of all that had happened to him, searching for joy. He wanted to find a map of this place. He had never felt so lost in a place where he belonged. They told him about the ancient Vikings. How fierce were they? He knew not! He knew nothing about his past. Ever since he was child, he had secretly visited the burial sites. He never wanted his child to be scared of the glorious past that his ancestry held. He wanted burial sites to be free; eventful.
-
-Yet no one heard his cry. He ran along the winding path. As each led to another, and he felt lost. He knew inside of him that all of his running would take him back to the place where he came from, as if this was all a maze. The dark and dusky evening wind chilled inside of him. A sweat broke over his face, a chill ran down his back. An ephemeral spirit beckoning him to seek. Seek all that was beyond his curiosity. Yet he could not feel it. He would refuse to see it.
-
-He wished that these high walls would disappear. Yes there was a beauty in them. From the material to the texture and all the attributes a physical and materialistic world could apply to them. But labels were not his thing. He wanted feelings. Burning hot. In a flash he felt the air rise, the heat burning through his skin. He did not know what was happening. He wanted more of this pain, this uncertainty, but all that his eyes could see was nothing. It is his mind that is seeing now.
-
-Feeling the flames beyond the closed eyelids, as if he were blind to all else but the pain as he rose to height. He knew nothing else. If he was going up the hill to where the path would loop his way like a serpent around Kvarnbacken. Time froze. He did not want to leave the kintsukuroi of these burning flames. He believed they made him beautiful. But he had to pause. All the pain that the mill had given his people, had to be brought down. He did not mean broken, for anything new was too painful for his lifetime to take. All these places were his memories, the last shred of them.He was a local of Stockholm, and he did loved the tourists seeking more and more of what was there. When will anyone ever be satisfied? Yes! This is what he started to seek. He wished to change purpose. He wanted the silence to be replaced with voices of joy. He heard guitars, and a faint hush of the crowd as those who had wandered far from home, walked past him seeking solace in the same land. His streets, where he played. A place where his children would play some day. A space for anyone who wished to seek peace. Away from their distressed home and stories.
-
-He sat down on a brazen obsidian stone. Though they were not found anymore after the polynesians left. He sat down for his body to cool down. He heard drum rolls as the people around him started rushing towards the sound. For him, he could not pinpoint it, it seemed to be coming from the heavens, but everyone around him knew. He did not. Maybe he was in an invisible ambisonic room. For he could see them, for they brushed past him. He knew not what was all of this fantasy. Just like his grandfather spoke of the trams that rolled across the european streets during the world wars. His lifetime seemed more like his grandpa’s.
-
-He felt the same uncertainty, the same dark clouds and with the difference of technology. All the young kids were instagraming, facebook-ing, and doing all these things that gave them joy. But to him, what were they? More than statues? Or maybe just statues filled with life. He wanted to break all that was everyone’s reality. He wanted the past to overpower this falsehood of his present, for he knew not what his future held! Then the obsidian turned to a soft rocking chair and he could see that he was seeing from his grandfather’s eyes, the soft rock rumble as his granny made some coffee for herself. How beautiful had life been. That he had got to move, to travel, to run, and hide, and to play with the wind and the sands, the grass and seas, how absurd were these elements. Maybe it was collective human nature that made coffee cold and public spaces out of the unseen. In an age when freedom was exploiting a reason to hide, a reason to be with ourselves, he got up from his grandpa’s chair, and was with himself now.
-
-He walked out of the door and ran. He ran to find new feelings, thinking of that girl who texted him on Instagram, and the girl who looked like the Instagram women. He ran to find new experiences, beating down the path. As the drum rolls now fastened, he found himself to witness an unbelievable fact, that the drums were coming from him, and he was the drummer; running to the beat of his own heart. Yet he felt cliche on this once lost hill called Kvarnbacken, the hill close that to the Jakobsberg train station.
-
-Kvarnbacken.
 
 Kvarnbacken, the hill close to the Jakobsberg train station felt like a shadow. As he moved across the plains thinking of all that had happened to him, searching for joy. He wanted to find a map of this place. He had never felt so lost in a place where he belonged. They told him about the ancient Vikings. 
 
@@ -6258,10 +2582,6 @@ He ran to find new experiences, beating down the path. As the drum rolls now fas
 
 **Lancymark**.
 
-Thoughtful this be unlike random bickerings I wish some more joy for you as a cure for it all with a passing train on a railroad cross. Across a bridge lies my heart tonight this I know now since you wrote these lines I hope we all be found; found in the best of moods for life.
-
-Lancymark.
-
 Thoughtful this be unlike random bickering, 
 I wish some more joy for you as a cure for it all, 
 with a passing train on a railroad cross. 
@@ -6286,32 +2606,10 @@ Date: 4th June 2020
 
 3. B. Give salary hikes to all salaried employees of these MSMEs.
 
-2. C. Watch your World Bank fund become tax free money when these employees pay their electricity bills.
+2. C. Watch your World Bank fund become tax free money when these employees pay their electricity bills.  
 Viola!
 
-Lessons In Running A Scam In 2020.
-
-Date: 4th June 2020.
-
-Label all the deaths that happen per year with a disease that is less deadly than TB, Measles, Mumps, SARS, HIV, and a few others.
-
-Declare an epidemic/ pandemic.
-
-Apply to World Bank for funds with this headcount.
-
-Enforce a shutdown of normal life and activate the work-from-home mode.
-
-Give liquidity funds to all MSMEs using the World Bank fund.
-
-Give salary hikes to all salaried employees of these MSMEs.
-
-Watch your World Bank fund become tax-free money when these employees pay their electricity bills. Viola!
-
 **Let me**.
-
-Let me lose myself in you. Behind those knocks on the door and sliding windows. There isn’t a moment I want, without your envelope, the smell of you body, the wetness of your skin, the curves that hold me, under your sheets, from winter nights to summer days, there is barely anything, that I want to not do with you, not want to feel in your company.
-
-Let Me.
 
 Let me lose myself in you. Behind those knocks on the door and sliding windows. There isn’t a moment I want, without your envelope, the smell of you body, the wetness of your skin, the curves that hold me, under your sheets, from winter nights to summer days, there is barely anything, that I want to not do with you, not want to feel in your company.
 
@@ -6346,47 +2644,11 @@ Ar. Kushal Dhananjay Samant.
 Architect | Council Of Architecture License & Registration No.: CA/2014/62537  
 Tel | +918779632310
 
-Letters To The Commissioner Of Police, Mumbai.
-
-Date: 15th May 2020
-
-Dear Mr. Param Bir Singh,
-Commissioner of Police,
-Mumbai,
-MH. India.
-
-I am Kushal Dhananjay Samant. I am a resident at the following address as per my passport records: 6/A2, Shree Hari CHS, Plot-11, Behind Neurogen Hospital, Sector 40, Seawoods (W), Navi Mumbai — 400706. MH. INDIA. I am a stranded individual at the following address at the moment: C/o Satchit Puranik, Flat No 14, Tabeer Terrace CHS, Lane Opposite Orchid Global Learning Academy, Versova, Andheri (W), Mumbai — 400061. MH. INDIA. My apologies because I was unaware of the changes in the online application process that were being carried out by Maharashtra Police when I was preparing the following documents for my Travel Pass application as a stranded individual as per the previous form that was available on the website — covid19.mhpolice.in. I have followed through meticulously on all tests, and documents required for my travel back home. I am sending these documents for your reference along with this letter.
-
-A prescription from Dr Vernon Miranda to get a COVID-19 test done, solely for travel purposes.
-
-COVID-19 test report from Suburban Diagnostics. My test report says, “SARS-CoV-2: Not detected.” i.e. COVID19 negative.
-
-Fitness Certificate from Dr Vernon Miranda based on this Test Report.
-
-DN Nagar Police Station has quoted, “They have not received any instructions regarding inter-district transit for stranded individuals”. I have been advised by one police officer to take an auto (which is unavailable) or take a private vehicle (which no one is willing to volunteer). This ball is now, apparently in your court. The Mumbai Police website — https://mumbaipolice.co.in/ApplicationforEmergencyTravelMigrant.html now deems it necessary that I should submit an RC Book and a driving license as an individual if I have to return home. Do you think that this is preposterous? Because I imagine it to be so. I would like to request you to kindly grant me either of these permissions.
-
-Permission to return home by public bus transport or,
-
-A letter that permits any auto driver to return home after dropping me home.
-
-I hope you shall support my return. You can reply to this message or contact me at +918779632310 for any queries. Thanking you very much.
-
-Yours truly,
-Ar Kushal Dhananjay Samant.
-Architect | Council Of Architecture License & Registration No.: CA/2014/62537
-Tel | +918779632310
-
 **Life**.
 
 La vida es para dar besos profundos y buscar amaneceres en ciudades nuevas.
 
 Life is to give deep kisses, and seek sunrises in new cities.
-
-Life.
-
-La vida es para dar besos profundos y buscar amaneceres en ciudades nuevas. 
-
-Life is to give deep kisses and seek sunrises in new cities.
 
 **Listening**.
 
@@ -6397,22 +2659,9 @@ The key to making better decisions is to de-cide. To cut away everything that yo
 > "If the answer is not a clear “Yes!”, then it is a clear “No.”  
 > Malcolm Gladwell.
 
-Listening.
-
-Whatever might be the reason that stops you from doing what you want, it is essential to recognize that the only way you can get things going is by trusting yourself blindly. The most common mistake that we do as humans is to ignore our inner voice, that inkling of a notion that beckons us against something or for something. That inner voice is always correct. It is always the quietest. It is more true than anything that surrounds it. 
-
-The key to making better decisions is to decide. To cut away everything that you don’t need. And the easiest way to find what you don’t need is to ask a single question. “Do I need this?” And a simpler rule: 
-
-“If the answer is not a clear “Yes!”, then it is a clear “No.”
-Malcolm Gladwell.
-
 **Listening to myself**.
 
 You know this is an additive process because I have been spending so many minutes on Instagram and other platforms on resuming content and it is pretty addicted to stay on those platforms because well that's how they are designed right. Now considering that I am speaking into the microphone and I am going to get paid for this voice over thing which is basically what you are eating at the moment there is nothing more satisfying than knowing that somebody out there will learn from you and from your mistakes and from your life experiences and will at to their own life all the good things that you have learnt in your life. So listening to me is not addictive enough for me but the knowledge of understanding that I can now make a difference by sharing ideas with the world is something that truly satisfies me as a person and I don't think I will ever stop posting using speech to text on Typewrighter.
-
-Listening To Myself.
-
-You know this is an additive process because I have been spending so many minutes on Instagram and other platforms on resuming content and it is pretty addictive to stay on those platforms because well that’s how they are designed right? Now considering that I am speaking into the microphone and I am going to get paid for this voice-over thing which is basically what you are eating at the moment there is nothing more satisfying than knowing that somebody out there will learn from you and from your mistakes and from your life experiences and will at to their own life all the good things that you have learnt in your life. So listening to me is not addictive enough for me but the knowledge of understanding that I can now make a difference by sharing ideas with the world is something that truly satisfies me as a person and I don’t think I will ever stop posting using speech to text on Typewrighter.
 
 **Local economy**.
 
@@ -6420,17 +2669,7 @@ Do you know what the idea is behind funding local economics? The the full idea w
 
 Please excuse me for all the spelling mistakes in my articles I am not typing them out I am trying to capture my thought and trying to figure out the next best thing to do for me.
 
-Local Economy.
-
-Do you know what the idea is behind funding local economics? The idea is the reason why I want to fund the local economy instead of se a brand as much life in this small top that I was having with this auto rickshaw driver while returning home before this lockdown. So the conversation that I had with him was about how taking a rickshaw back home instead of booking in Ola or Uber or maybe going via public transport was beneficial to everybody in the process. I am aware that you might know I’m talking about it is basically about taking my money and spending on things that are sold by people who have kids to feed and who badly make bye in today’s world. The idea of giving out your money and spending it in the right places is the key to banking. Because I am spending it on rickshaw rides I am pretty sure the rickshaw drivers kids would get or would be able to afford a decent education and it will make this world a better place.
-
-Please excuse me for all the spelling mistakes in my articles I am not typing them out I am trying to capture my thought and trying to figure out the next best thing to do for me.
-
 **Lone tree**.
-
-A lone tree standing at the edge of a cliff is not all lost, and lonely. It is what holds the cliff together.
-
-Lone Tree.
 
 A lone tree standing at the edge of a cliff is not all lost, and lonely. It is what holds the cliff together.
 
@@ -6987,8 +3226,8 @@ We are real, ideas are imaginary.
 
 **Po**.
 
-Unnaku enge ponam po,  
-Anna yen kitte kalyanam pannam po.
+Nee enga venalum po,  
+Ana enna kalyanam pannitu po.
 
 **Podcast**.
 
@@ -7783,7 +4022,7 @@ Start ups are businesses that are still figuring out:
 
 **St. Lucifer**.
 
-**I co-wrote a song named _"St. Lucifer"_ with Thomas Albert**.
+**I co-authored a song named _"St. Lucifer"_ with Thomas Albert**.
 
 Client: <a href="https://www.instagram.com/thomasalbertmusic" rel="noopener noreferrer" target="_blank">Thomas Albert Music</a>.
 
@@ -8162,7 +4401,6 @@ There are moments of surprises that dot our lives from eventful days to dinner d
 **The locus of all focus**.
 
 There isn’t much that we don’t know about life. There has been a lot that is written on it. Very little read. The idea is to read a book a day, try a new meal a day, do the only thing you love for a living, scrap all other plans, and write. Simplicity then, is not the key, it’s the only way to do things right.
-
 
 **The railroad To Tinkamentown**.
 
@@ -8718,15 +4956,7 @@ How beautiful are you
 like frozen gold
 as music bellows by a rising yawn.
 
-Yawn.
-
-Yawn whispered a wind in my ear breathing fire till it disappears How beautiful are you like frozen gold as music bellows by a rising yawn.
-
 **Yesterday**.
-
-Yesterday, at about 9pm, the security said he was closing the place for the day. He said, “Light bandh karke aana, hum niche rahenge darwaze pe.” So I took an hour to pack all calls up. It was pouring. At the gates I asked him, “Ap darwaze pe hi the, itni barish mein?” We were sitting out on a porch at The Hive, there was absolutely no one there. Empty like a haunted mansion, drenched in the rains, deserted by its community, stood the mansion on its edge. As music barreled at its walls, trumpets, drums, and all. As a Navratri procession passed the gates, I waited for the rains to subside before I could make a move back home. He replied, “Humein ye kam pasand hai! In logon ko dekhna pasand hai”.
-
-Yesterday.
 
 Yesterday, at about 9pm, the security said he was closing the place for the day. He said, “Light bandh karke aana, hum niche rahenge darwaze pe.” So I took an hour to pack all calls up. It was pouring. At the gates I asked him, “Ap darwaze pe hi the, itni barish mein?” We were sitting out on a porch at The Hive, there was absolutely no one there. Empty like a haunted mansion, drenched in the rains, deserted by its community, stood the mansion on its edge. As music barreled at its walls, trumpets, drums, and all. As a Navratri procession passed the gates, I waited for the rains to subside before I could make a move back home. He replied, “Humein ye kam pasand hai! In logon ko dekhna pasand hai”.
 
@@ -8840,42 +5070,6 @@ The idea of posting this review is that:
 In conclusion: 
 
 Everyone fucked up. 
-
-Yes, you can try and blame it on the weather, but alas.
-
-Zomato In Bad Weather.
-
-So I haven’t’ been to this place, Smoking Pizza, Nerul, Navi Mumbai. But my mom got her Zomato Gold. Pretty excited about it, so she ordered 1+1 Cheese Burst Pizzas through her new Zomato Gold. Although she got a 3rd Pizza because I think there is an offer ongoing here, this is going to be a pretty bad review. For the following reasons.
-
-The Zomato Delivery guy delivered the pizza that where all spilled sideways.
-
-Now I don’t know if the restaurant gave it to him that way, or if he dropped it on the roadside.
-
-The Zomato Support team fucked up.
-
-My brother spoke to the Support team at Zomato. He sent them one image showing these 3 Pizzas kept next to each other to help them access the damage. Apparently, the support team seems to be having a chilled out time this Thursday evening. Like c’mon, I have worked at Scootsy, but we had a basic human work ethic and standards there. They prolonged the chat to a point where the phone’s battery died. So now I don’t know if there is a refund initiated. No one even bothered to call us up to check on this situation.
-
-I am hungry.
-
-It is 11.00 in the night, and unusually friggin’ cold in Seawoods tonight. You know how the Navi Mumbai weather is: cold, wet, and windy. You know what? To my surprise, the Pizzas are also cold, splashed inside the box. Not a pretty sight.
-
-After all this jazz, I tried to take a bite of one slice.
-
-Or whatever you want to call this gooey mess: I swear to God I almost puked on the taste. The bread was rough, brittle, scrapped my tongue. The cheese tasted funny. The chicken was almost not well cooked.
-
-So that’s why this review is giving the restaurant 1 star.
-
-I would give them less than zero but Zomato doesn’t let the users give such low standards: Irony or maybe pretense of having standards.
-
-The idea of posting this review is that:
-
-I want this restaurant owner to kick Zomato’s team’s ass and make them buckle up their game.
-
-I want Zomato to kick his ass, so that he makes better food.
-
-In conclusion:
-
-Everyone fucked up.
 
 Yes, you can try and blame it on the weather, but alas.
 
