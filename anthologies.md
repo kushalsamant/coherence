@@ -2462,7 +2462,7 @@ Rather it gets done because we can imagine it.
 Ain’t that easy, human?  
 
 **Harness**.  
-Today is sort of my last day at <a href="https://www.theblackcanvas.in/" rel="noopener noreferrer" target="_blank">https://www.theblackcanvas.in/</a> Mummy returns at dawn, and I shall be gone.  
+Today is sort of my last day at <a href="https://www.theblackcanvas.in/" rel="noopener noreferrer" target="_blank">theblackcanvas. in</a> Mummy returns at dawn, and I shall be gone.  
 This cool pic of their camera harness reminds me a lot of my archer’s sling.  
 Miss those days of shooting arrows in a Chikmagalur range.  
 And the bow just says it well.  
@@ -2566,7 +2566,7 @@ i.e. they will bill you for a home visit for a sample collection that they take 
 5. Then wait for 48 hours for test report.  
 6. Then use that report to get a fitness certificate from the same doctor.  
 7. Then use that fitness certificate to apply for the travel pass on the website of the state you are stranded in.  
-- For example if you are stranded in Maharashtra then it is <a href="https://covid19.mhpolice.in/" rel="noopener noreferrer" target="_blank">https://covid19.mhpolice.in/</a>  
+- For example if you are stranded in Maharashtra then it is <a href="https://covid19.mhpolice.in/" rel="noopener noreferrer" target="_blank">covid19. mhpolice. in</a>  
 - Please Google search the website for your respective state.  
 
 A.  
@@ -3421,7 +3421,7 @@ MH. India.
 I am Kushal Dhananjay Samant.  
 I am a resident at the following address as per my passport records: 6/A2, Shree Hari CHS, Plot-11, Behind Neurogen Hospital, Sector 40, Seawoods (W), Navi Mumbai 400706. MH. INDIA.  
 I am a stranded individual at the following address at the moment: C/o Satchit Puranik, Flat №14, Tabeer Terrace CHS, Lane Opposite Orchid Global Learning Academy, Versova, Andheri (W), Mumbai 400061. MH. INDIA.  
-My apologies because I was unaware of the changes in the online application process that were being carried out by Maharashtra Police when I was preparing the following documents for my Travel Pass application as a stranded individual as per the previous form that was available on the website <a href="https://covid19.mhpolice.in" rel="noopener noreferrer" target="_blank">covid19.mhpolice.in</a>.  
+My apologies because I was unaware of the changes in the online application process that were being carried out by Maharashtra Police when I was preparing the following documents for my Travel Pass application as a stranded individual as per the previous form that was available on the website <a href="https://covid19.mhpolice.in" rel="noopener noreferrer" target="_blank">covid19. mhpolice. in</a>.  
 
 I have followed through meticulously on all tests, and documents required for my travel back home.  
 I am sending these documents for your reference along with this letter.  
@@ -4121,21 +4121,22 @@ Only the paranoid survive.
 I don’t think so.  
 The best thing to do is to write.  
 It helps you clear your mind out, seek some clarity, and to find yourself, lost in your own thoughts.  
-There can be nothing better than keeping your head down, and tapping away at the keyboard.  
 
+There can be nothing better than keeping your head down, and tapping away at the keyboard.  
 Funny how it used to be a typewriter a few decades ago.  
 I wonder if all of us think of technology in the same way.  
 There are a few of my friends who seek to escape all of it by banishing themselves off the internet, by finding solace in the silence of the countryside, by travelling in to the mountains.  
+
 Maybe they are all correct.  
 Maybe the only thing we should all try to not do, is “undo”.  
-
 Maybe the backspace, and the delete buttons, have led us to believe, that you can retry, and restart in real life.  
 That you can edit everything, and anything as many number of times as you like.  
+
 But is that correct? Having the ability to preformat everything, and anything takes away all that is authentic about it.  
 It takes away your wisdom, it takes away your thought, it takes away your focus, and in the middle of all that your fear will be lost, it takes away your courage.  
 Courage.  
-
 This is something I think is essential.  
+
 For anything, and everything that the world should seek.  
 Often I have had to remind myself that looking up from the keyboard, and into the screen makes my mind pause at a thought.  
 It makes me paranoid.  
@@ -4145,24 +4146,26 @@ That famous one by Andrew Grove.
 I was looking for it for the past 9 years.  
 I haven’t found the courage to read it yet.  
 Some say that the book changed the lives of the likes of Mark Zuckerberg, and Steve Jobs.  
-So for me that means it’s all about how to do business in any industry that screams technology.  
 
+So for me that means it’s all about how to do business in any industry that screams technology.  
 But that ain’t true.  
 I am hoping for a new reality.  
-The book goes by the name of “only the paranoid survive.”   When I first thought about it back in 2007, it obviously hinted that when you are scared of failure, you will work harder to keep things moving, and eventually you will surpass failure.  
-But hold on a sec.  
+The book goes by the name of “Only The Paranoid Survive.”   
 
+When I first thought about it back in 2007, it obviously hinted that when you are scared of failure, you will work harder to keep things moving, and eventually you will surpass failure.  
+But hold on a sec.  
 Nearly a decade later, now I think differently.  
 I feel that surpassing failure can also mean getting the average grade of 35/100 to have just about made it.  
+
 It also means that you haven’t learnt about 65% of what was in it.  
 It also means that being paranoid has kept you in bounds, that limit your focus, and vision to the mere fact of what is necessary.  
 It means that there is a chance, no matter how small, that you could have, and still can do the best about what you want.  
-
 It means that facebook, and apple, and others who follow their paths, and ideals can be better.  
+
 It means that the vast majority of us who dislike the ideas of overpricing a product might have not existed.  
 It means that your true potential is locked away.  
 Locked away nowhere but inside of you.  
-In the moments when you are worrying about how your writing looks, how the idea of formatting in a certain way for a world that likes a certain way, how that comma you left behind, or how screwed up your grammar is on <a href="https://hemingwayapp.com" rel="noopener noreferrer" target="_blank">hemingwayapp.com</a>.  
+In the moments when you are worrying about how your writing looks, how the idea of formatting in a certain way for a world that likes a certain way, how that comma you left behind, or how screwed up your grammar is on <a href="https://hemingwayapp.com" rel="noopener noreferrer" target="_blank">hemingwayapp. com</a>.  
 
 It is in those moments, when you look up from your keyboard.  
 Because you are scared that your disbelief in yourself, and your own way of life, is a lie.  
@@ -4306,7 +4309,7 @@ Nee enga venalum po.
 Ana enna kalyanam pannitu po.  
 
 **Podcast**.  
-I tried walking, and recording a podcast on <a href="https://anchor.  fm" rel="noopener noreferrer" target="_blank">anchor.  fm</a> today.  
+I tried walking, and recording a podcast on <a href="https://anchor.fm" rel="noopener noreferrer" target="_blank">anchor. fm</a> today.  
 I did this instead of my daily 4AM hour reading.  
 The idea seems interesting, but there are hurdles, and glitches.  
 The biggest hurdle would probably be people in vehicles asking for directions.  
@@ -4804,39 +4807,33 @@ The focus is to experience the moment, consciously.
 - *Slow things down, and everything becomes more beautiful.*
 
 **Slowly intro**.  
-Hi you!
-
+Hi you!  
 My name is Kushal Dhananjay Samant.  
-
 Welcome to my feel good about myself page.  
-:D
+:D  
 
 As for my relationship, I think going grocery shopping, and cook dinner is a fabulous date idea.  
 I really want to find someone open to travel the world in trains with me.  
 I want to have great conversations and a lot of sex.  
 I'm looking for something regular and long term with or without the commitment.  
 I want to spend time in this city, buy groceries, chill at my place with my partner, buy groceries, cook meals, eat, have 2 am conversations, rough sex, sleep, wake up to make breakfast, more conversations, movies, music, maybe art, &c.  
-
 I am an ENFJ-A.  
 I was born in the city and grew up in the places where the streets had no names.  
 I am an academic @dypca, aeromodeller, @airbnb superhost, angel investor, architect @kushalsamant_, author, chapter founder & dev @wikihouseproject, film-maker @youtube, lyricist @saavn, podcast host @anchor, top @medium writer, &c.  
 I write about the programming of human behavior using architecture.  
 By day I work on the WikiHouse project, host on Airbnb, build off the grid houses by GRÜHAM.  
 And by night I do architectural research projects through my architectural practice.  
-
 I am looking to have people I can chill with.  
 Know that I can count on them.  
 Some of them might become friends.  
 Few of them might become best friends.  
 And one of them will be okay being with me without tags.  
 Then someday, someone will want me to spend the rest of my life travelling with her.  
-
 I am sending out this random letter in the auto search option.  
 I wish I could make this unique for you, but then the app wouldn't let me.  
 Either ways, if you want to talk to me in this global pandemic, feel free to write to me.  
 I have made friends with many and met three people from Slowly so far.  
 I am looking for more such amazing experiences.  
-
 I live in Seawoods.  
 That's in Navi Mumbai.  
 This is mostly going to be long distance.  
@@ -4844,20 +4841,15 @@ I will understand if you want to walk away because of that.
 You may find better guys nearby.  
 But if we are meeting then I would like to have the option of staying over, open.  
 Because travelling back home is a task in the middle of the night.  
-
 I love big eyes, cars, cities, cold beer, cold coffee, conversations, cooking, cuddles, cycles, design, dogs, farms, films, food, grocery shopping, long walks, maps, nature, open backs, outbacks, outdoors, Oxford comma, pizzas, random ticket travelling, rough sex, running, seafaring, silence, spontaneity, swimming, teamwork, thought processes, travel, turtles, unconditional friendships, and unusual names.  
-What do you like?
-
+What do you like?  
 My grand aunt is a monarch.  
 I have stopped a country from deporting a Frenchman.  
 I have written one, and read 999+ books.  
-
 Once I left with a roommate to have chai, got on a bus to Kerala, called Malayalee friends for a week-long free stay, & pooled money for return tickets.  
-
 The hallmark of a good relationship is a honest commitment to stay in it.  
 This is never 50-50.  
 It almost always is 0-100, 20-80, 40-50, 60-40, 80-20, & 100-0 over prolonged periods of time.  
-
 The week of the 3rd of January, 2018 was a week when I lived my life at weddings, travel, meeting people, and house parties.  
 3rd of Jan is also a date when I got my tattoo, back in 2011. There is a thing about the New Year's Week - It gives me a reality check.  
 I am glad that this app led to remind me of my dreams.  
@@ -4988,71 +4980,70 @@ Have a nice day.
 Thanks for writing your name.  
 Most people here do not write their names on these letters.  
 It will help if we run into each other someday.  
-:) 
+:)  
 
 I am currently in between jobs.  
 I am still weighing my options career-wise.  
 I write a lot these days for my newsletter and website.  
-
 A bit more about Bangalore.  
-This project is about creating and publishing 5 architecture books that should sell 5,000 copies at Rs.  200 each in an year.  
+This project is about creating and publishing 5 architecture books that should sell 5,000 copies at Rs. 200 each in an year.  
 This is not an easy task.  
 If successful, I will get paid 2,500,000 by the research firm that wants to employ me.  
 
-Problems are that,
+Problems are that,  
 1. They are willing to spare 10,000 a month for my retainer.  
 2. They want to invest 6 months of time in the making of these books.  
 This might not be sufficient to get it done.  
 
-The benefits are,
+The benefits are,  
 1. I *may* get 2,500,000 after 6 to 12 months.  
 2. a.  
 I can build network of subscribers for my written content/ newsletter.  
 3. b.  
 I can build awareness that I curate portfolios and make an entire social media strategy as a service.  
 
-The alternative steps are,
+The alternative steps are,  
 1. Finishing Revit architecture certification from AutoDesk.  
 2. Getting a job at an architecture office in Mumbai for 35k to 40k a month steady income.  
 
-Damage control options are,
+Damage control options are,  
 1. Using Bangalore's retainer to get Revit architecture certification from AutoDesk by February.  
 2. a.  
-Returning to Mumbai and following alternative step 2. 3. b.  
-Using benefits 2. a to host interested folks at a farmhouse on Airbnb.  
+Returning to Mumbai and following alternative step (2. ), (3. b.)  
+Using benefits (2. a) to host interested folks at a farmhouse on Airbnb.  
 I could also do architecture competitions with the money I can make on Airbnb.  
 This will then be a full-fledged practice.  
 
-In conclusion fail safe paths are,
-1. Damage control 1. & 2.  a.  
+In conclusion fail safe paths are,  
+1. Damage control (1. ) & (2.  a.)  
 2. Alternative steps.  
 
-Enough about my dreams, and work!
+Enough about my dreams, and work!  
 
 Well enough about me.  
 You are trying something new.  
 That's interesting enough.  
-:)
+:)  
 I know this letter is too much to take in.  
-I am making a list of questions at the end here, because duh! :P :D 
-I have so many questions for you! :D
-- What is your birthdate?
-- Where all have you lived, and traveled so far?
-- What did you study?
-- What all are you learning currently?
-- What kind of work do you do?
-- Maybe you can help me learn more about the Canada bit?
-- Do you have a reading list?
-- What's your favorite book?
-- What are you currently reading?
-- Do you photograph?
-- Do you have an Instagram page or something?
-- Can you tell me more about sustainability?
-- Do you have a kitchen garden?
-- What all are you curious about in life?
-- What's on your bucket list?
+I am making a list of questions at the end here, because duh! :P :D  
+I have so many questions for you! :D  
+- What is your birthdate?  
+- Where all have you lived, and traveled so far?  
+- What did you study?  
+- What all are you learning currently?  
+- What kind of work do you do?  
+- Maybe you can help me learn more about the Canada bit?  
+- Do you have a reading list?  
+- What's your favorite book?  
+- What are you currently reading?  
+- Do you photograph?  
+- Do you have an Instagram page or something?  
+- Can you tell me more about sustainability?  
+- Do you have a kitchen garden?  
+- What all are you curious about in life?  
+- What's on your bucket list?  
 
-Happy Christmas to you too!!! 
+Happy Christmas to you too!!!  
 Yours truly,  
 
 **Slowly letters 1**.  
@@ -5387,7 +5378,7 @@ I think everyone is trying to figure out what to do in life.
 This is an architecture thing.  
 You should write your thoughts down.  
 Or tell it to someone else without looking for a response, or say it out loud to yourself.  
-I call this as sound boarding.  
+I call this as soundboarding.  
 And the person you do this with is your sounding board.  
 More like how the board of directors of a company is.  
 Ideally, make a list (ideally on paper), and ask a simple question, "Do you want to do this?" - then apply this rule - "If the answer is not a clear YES, then it's a clear No!"
@@ -5486,18 +5477,21 @@ It’s a place to build a “cult following.”
 - G+, LinkedIn is a professional landscape, geared toward connecting businesses, and professionals with each other, and opening the door to engaging with individuals outside of your usual social circles.  
 
 **Soundboarding**.  
-So what are you saying is you know what is sound boarding?
-
-Sound boarding is basically process in which a person say for example me e I will talk to you about my problems for probably about things I am doing in my problem I will tell you the story of my life or of my project and in process of telling the story of my project I will be able to figure out all the blocks that are coming to me e that I am currently trying to solve in that project.  
-now sound boarding does not necessarily involve a lot of involvement from your end.  except that you will have to probably listen to everything I am saying without interrupting or maybe with a bit of curiosity and with a restaining agent.  
-What I mean to say is that you will pull me back if I am digressing a lot so that is all your supported and if you are an expert of the topic that I am discussing then you will give me your inputs which might not be like a lecture which will be just small tweak in my flow of thought and all those inputs will add clarity to my slow of thought and it is what will generate the answers to most of my problems that I am facing currently.  
-
-I deal with questions that people have difficulty in solving by themselves.  
-
-I create a step by step path for someone to get from point A to point B.  
+Soundboarding is basically process in which a person say for example me.  
+I will talk to you about my problem/s or probably about things I am dealing with in my problem/s.  
+I will tell you the story of my life or of my project/s.  
+In process tell you the story of my project, I will figure out all the blocks that I am currently trying to solve in that project.  
+Now soundboarding does not necessarily involve a lot of involvement from your end.  
+Except that you will have to probably listen to everything that I am saying without interrupting me or maybe with a bit of curiosity and exercising some amount of restraint.  
+What I mean to say is that you will pull me back if I am digressing a lot.  
+So that is where your support ends.  
+If you are an expert of the topic that I am discussing then you will share your inputs, not necessarily a lecture, but small tweak in my flow of thought, and all of these inputs will add clarity to my flow of thought.  
+It is what will generate the answers to the problems that I am facing currently.  
+I deal with questions that people need help with.  
+I can create a step by step path for someone to get from point A to point B.  
 
 How do we do it?
-1. you talk,
+1. You talk,
 2. give me a complete idea of what you are doing,
 3. then you tell me your problems,
 4. then we will talk about what you have tried so far,
@@ -5509,10 +5503,10 @@ Time, space, place & play.
 Often we seek spaces that resonate with the depths of our darkness.  
 A reflection that is subtle like the glow of a street lamp.  
 Our most memorable moments are hidden in these alleyways.  
+
 Their influence transpiring all space, and time.  
 A space that is a replica of our mind.  
 A time that is mind play.  
-
 A place where the wind blows the fuel inside our thoughts.  
 
 Like a setting sun under a bridge, and the cold wind upon nightfall.  
@@ -5522,18 +5516,26 @@ Willingly as it may seem, without the clutches of being time bound.
 
 But I have often found that addition of an architectural piece in a village’s fabric does some keeda with the people.  
 Their sense of freedom which lies in the fields, and the countryside now feels challenged by the staunch neatness of the new neighbour.  
-
 They aspire to be that neat.  
-They aspire for that progress…materialistic progress.  
-But hasn’t human aspiration always been about discovering, and experiencing the new? The stuff that we speak of wanderlust, and living like gypsies? The desire to travel? Does all of it fade away in the pursuit of beauty in other things? Is this what is happening to this city?
+They aspire for that progress… materialistic progress.  
 
+But hasn’t human aspiration always been about discovering, and experiencing the new?  
+The stuff that we speak of wanderlust, and living like gypsies?  
+The desire to travel?  
+Does all of it fade away in the pursuit of beauty in other things?  
+
+Is this what is happening to this city?  
 Now, I am not against big bank balances.  
-But is the purpose of it fundamentally flawed? Is it questionable? Is it a clear ‘yes’? Is Mumbai losing itself in the materialistic version of the human adventure spirit?  
+But is the purpose of it fundamentally flawed?  
+Is it questionable?  
+
+Is it a clear ‘yes’?  
+Is Mumbai losing itself in the materialistic version of the human adventure spirit?  
 
 **Space is an emotion**.  
 Space is an emotion, is an attempt to illustrate certain observed notions between human emotions and the spaces we inhabit mostly through the practice of creating architectural spaces.  
 
-![_Photo by Isaac Quesada_](https://images.unsplash.com/photo-1587308550198-10dde4bf9ba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI2NzI5fQ)  
+![_Photo by Isaac Quesada_](https://images.unsplash.com/photo-1587308550198-10dde4bf9ba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI2NzI5fQ)
 
 Space is an emotion, and a rather strong one.  
 Space effects almost every aspect of a human life, not excluding what we share with each other.  
@@ -5545,7 +5547,6 @@ Sometimes beyond the human capacity to measure.
 Here, I attempt to illustrate certain observed notions between human emotions and the spaces we inhibit, mostly through my personal experience while pursuing my architectural works.  
 The understanding of human behavior has been the key to designing event spaces or rather businesses that thrived on the concepts of people paying for their time spent at these venues.  
 It was crucial to dissociate money from the experience.  
-
 A better way to put it would be to say that creating spaces that contributed so much more to wellness, so that most people would prioritize their lives around these spaces.  
 My intentions for documenting are clear.  
 To curate the intentions that I held while designing spaces in different times of my lives.  
@@ -5714,9 +5715,9 @@ With the same joy.
 Asleep.  
 
 **Startup culture**.  
-Start ups are businesses that are still figuring out:
-1. Who their customer is?
-2. What purpose they serve?
+Start ups are businesses that are still figuring out:  
+1. Who their customer is?  
+2. What purpose they serve?  
 3. How do they make money?  
 
 **St. Lucifer**.  
@@ -6542,17 +6543,18 @@ I believe that the way you do anything is the way you do everything.
 So, by that logic, the way I cook Maggi is the way I do everything.  
 It means that the speed at which I boil the broth is also the speed at which I would do most other things.  
 It goes to mean that if I rush the boiling process, then I will rush most of the other processes that I do.  
-And as a result, most of the results in my life would be similar to the results that I get with cooking Maggi.  
 
+And as a result, most of the results in my life would be similar to the results that I get with cooking Maggi.  
 So, cooking Maggi being a process that most of the common folk do, you can gain an insight on your habits.  
 Of the many prevalent methods, I have observed that I cook it in three distinct ways.  
 The common steps here is to empty all of the ingredients in the pot in the beginning because that how I do most things.  
+
 The difference lies in the heat (effort), and time.  
 1. High flame - When you boil the broth on a high flame to turn it viscous faster.  
 2. Med flame - When you keep at stirring the broth slowly, and on simmer until the water turns viscous.  
 3. Low flame - When you keep it on simmer, and to let it be.  
-If I don't stir it until its boiling, then the broth tastes better.  
 
+If I don't stir it until its boiling, then the broth tastes better.  
 What I learnt from these three experiences is that,
 1. I can either rush things, and get them done, but they don't taste good for long.  
 2. I can decidedly go slow, and get things done, but they taste superficial.  
