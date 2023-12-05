@@ -754,7 +754,7 @@ Songs of a Fire.
 Would you still talk if you knew that I couldn't hear from you? I suppose it would, and therefore it would be I.  
 Their tracks are erased, by the howling of the winds; And yet you breathe songs in the air that will never swallow me, And I will still carve your name into the stones that never tread.  
 
-**Can you?**
+**Can you?**  
 Can you catch up tonight? or my imagination, is gonna burn my memory.  
 Can we sit by the drive? or a soothing temptation, is gonna rape my melody.  
 Can I see you in a different light? or my poetic expression, is gonna lose all theory.  
@@ -2476,7 +2476,7 @@ I wish that you order at least of one these masterpieces, for the fun of making 
 There is so much more to do, with these on your apparel, gear.  
 Watch that audience rhyme with envy, as you swing, and shoot with cameras dear.  
 
-**Has Bangalore thought about this?**
+**Has Bangalore thought about this?**  
 I am from Bombay, and the two things that I have found to be missing in my rendezvous with Bangalore are, in my opinion as an architect, major reasons for the issues with traffic, and a solution to most anti-outsiders viewpoints that have been shared to me by most of the Uber drivers I have spoken to in this city.  
 Bombay does two things differently.  
 Let us take a closer look at what follows at rush hours.  
@@ -2549,8 +2549,8 @@ Until people started honking.
 And I was thinking, good but my girl be better.  
 Your eyes, and the way the light falls on your face, the way your skin glows under a haze, gives me hope, gives me hope.  
 
-**How to apply for a Covid19 travel pass?**
-Date: 12th May 2020
+**How to apply for a Covid19 travel pass?**  
+Date: 12th May 2020  
 
 If you are stranded away from home, then these are the steps to apply for a travel pass.  
 1. Find a doctor for check up.  
@@ -2566,7 +2566,7 @@ i.e. they will bill you for a home visit for a sample collection that they take 
 5. Then wait for 48 hours for test report.  
 6. Then use that report to get a fitness certificate from the same doctor.  
 7. Then use that fitness certificate to apply for the travel pass on the website of the state you are stranded in.  
-- For example if you are stranded in Maharashtra then it is <a href="https://Covid19.mhpolice.in/" rel="noopener noreferrer" target="_blank">https://Covid19.mhpolice.in/</a>  
+- For example if you are stranded in Maharashtra then it is <a href="https://covid19.mhpolice.in/" rel="noopener noreferrer" target="_blank">https://covid19.mhpolice.in/</a>  
 - Please Google search the website for your respective state.  
 
 A.  
@@ -2584,7 +2584,7 @@ For Mumbai, the website will direct to a emergency pass for medical cases page.
 - The autos are not allowed to cross intrastate borders.  
 **So you cannot go home if you are stranded within Mumbai**.  
 
-**How to develop a better you?**
+**How to develop a better you?**  
 Ok, so the thing is that I don't know exactly what I am doing.  
 But I am trying to use the LiveTranscribe application.  
 I have been working without my laptop.  
@@ -2661,7 +2661,7 @@ It's important for you to create your own rules.
 Even if you don't relate to your intensity, you're meant to prioritize your own experience and be driven by your passions.  
 > "If something doesn't excite you, then it's not for you.  "
 
-**How to keep your creative writing spree alive?**
+**How to keep your creative writing spree alive?**  
 I spent last night creating a timed protocol to create articles.  
 1. Set a pomodoro timer to 3 intervals of 5 mins each.  
 The first five minutes are for recording a basic draft using LiveTranscribe by Google.  
@@ -2717,7 +2717,7 @@ We will discuss it out.
 6. We will suggest a mid way.  
 7. Bingo! We can go back to binge watching movies together.  
 
-**How to trade futures?**
+**How to trade futures?**  
 Albeit complex methods exist which include the use of indicators, graphs, and mathematics, the simplest and time-tested strategy for trading futures is called the UP-DOWN strategy.  
 Trading means that you have to predict whether the exchange rate will go UP or DOWN **within** the time you choose, after you open the trade.  
 
@@ -2726,35 +2726,43 @@ then you can cancel your bet by clicking on 'close the trade' before the time is
 In the UP-DOWN strategy, it does not matter whether you choose UP or DOWN to start.  
 Start by investing, the minimum amount allowed + total unrecovered loss, for the minimum time allowed.  
 In most platforms, this will mean $1 for 1 min.  
+
 1. UP: Let’s say you pick UP, $1 [$1 + $0], and 1 min.  
 Here, $0 is the total unrecovered loss.  
-If the chart goes UP, as you predicted, then you get your initial $1 + profit i.e. 70 to 90% = $1.  70 to $1.  90.  
+If the chart goes UP, as you predicted, then you get your initial $1 + profit i.e. 70 to 90% = $1.70 to $1.90.  
+
 2. DOWN: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.  
 In this case, DOWN, $1 [$1 + $0], and 1 min.  
 Now let's say the chart does not go DOWN, as you predicted, then you will lose $1 total.  
+
 3. UP: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.  
 In this case, UP, $2 [$1 + $1], and 1 min.  
 Here, $1 is the total unrecovered loss.  
 Now let's say the chart does not go UP, as you predicted, then you will lose $2 total.  
+
 4. DOWN: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.  
 In this case DOWN, $3 [$1 + $2], and 1 min.  
 Here, $2 is the total unrecovered loss.  
 Now let's say the chart does not go DOWN, as you predicted, then you will lose $3 total.  
+
 5. UP: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.  
 In this case UP, $4 [$1 + $3], and 1 min.  
 Here, $3 is the total unrecovered loss.  
 Now let's say the chart does not go UP, as you predicted, then you will lose $4 total.  
+
 6. DOWN: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.  
 In this case DOWN, $5 [$1 + $4], and 1 min.  
 Here, $4 is the total unrecovered loss.  
 Now let's say the chart does not go DOWN, as you predicted, then you will lose $5 total.  
+
 7. UP: Now for your next trade, pick the opposite value of your last choice, minimum amount allowed + total unrecovered loss, and minimum time allowed.  
 In this case UP, $6 [$1 + $5], and 1 min.  
 Here, $5 is the total unrecovered loss.  
-If the chart goes UP, as you predicted, then you get your initial $6 + profit i.e. 70 to 90% = $10.  20 to $11.  40.  
+If the chart goes UP, as you predicted, then you get your initial $6 + profit i.e. 70 to 90% = $10.20 to $11.40.  
+
 8. DOWN: Once a trade is successful, pick the opposite value of your last choice, minimum amount allowed + total total unrecovered loss, and minimum time allowed.  
 In this case DOWN, $1 [$1 + $0], and 1 min.  
-If the chart goes DOWN, as you predicted, then you get your initial $1 + profit i.e. 70 to 90% = $1.  70 to $1.  90.  
+If the chart goes DOWN, as you predicted, then you get your initial $1 + profit i.e. 70 to 90% = $1.70 to $1.90.  
 
 **Always**:
 - Always alternate between UP and DOWN for every trade (UP, DOWN, UP, DOWN) regardless of whether your previous prediction was successful or not.  
@@ -3386,28 +3394,15 @@ this I know now since you wrote these lines,
 I hope we all be found; found in the best of moods for life.  
 
 **Lessons in running a scam 2020**.  
-Date: 4th June 2020
+Date: 4th June 2020  
 
-1. A.  
-Label all the deaths that happen per year with a disease that is less deadly than TB, Measles, Mumps, SARS, HIV, and a few others.  
-
-2. A.  
-Declare an epidemic/ pandemic.  
-
-1. B.  
-Apply to World Bank for funds with this headcount.  
-
-2. B.  
-Enforce a shutdown of normal life and activate work from home mode.  
-
-3. A.  
-Give liquidity funds to all MSMEs using the World Bank fund.  
-
-3. B.  
-Give salary hikes to all salaried employees of these MSMEs.  
-
-2. C.  
-Watch your World Bank fund become tax free money when these employees pay their electricity bills.  
+1. Label all the deaths that happen per year with a disease that is less deadly than TB, Measles, Mumps, SARS, HIV, and a few others.  
+2. Declare an epidemic/ pandemic.  
+3. Apply to World Bank for funds with this headcount.  
+4. Enforce a shutdown of normal life and activate work from home mode.  
+5. Give liquidity funds to all MSMEs using the World Bank fund.  
+6. Give salary hikes to all salaried employees of these MSMEs.  
+7. Watch your World Bank fund become tax free money when these employees pay their electricity bills.  
 Viola!
 
 **Let me**.  
@@ -3416,19 +3411,17 @@ Behind those knocks on the door and sliding windows.
 There isn’t a moment I want, without your envelope, the smell of you body, the wetness of your skin, the curves that hold me, under your sheets, from winter nights to summer days, there is barely anything, that I want to not do with you, not want to feel in your company.  
 
 **Letters to The Commissioner of Police, Mumbai**.  
-Date: 15th May 2020
+Date: 15th May 2020  
 
 Dear Mr.  
 Param Bir Singh.  
-Commissioner of Police.  
-Mumbai.  
-MH.  
-India.  
+Commissioner of Police. Mumbai.  
+MH. India.  
 
 I am Kushal Dhananjay Samant.  
 I am a resident at the following address as per my passport records: 6/A2, Shree Hari CHS, Plot-11, Behind Neurogen Hospital, Sector 40, Seawoods (W), Navi Mumbai 400706. MH. INDIA.  
 I am a stranded individual at the following address at the moment: C/o Satchit Puranik, Flat №14, Tabeer Terrace CHS, Lane Opposite Orchid Global Learning Academy, Versova, Andheri (W), Mumbai 400061. MH. INDIA.  
-My apologies because I was unaware of the changes in the online application process that were being carried out by Maharashtra Police when I was preparing the following documents for my Travel Pass application as a stranded individual as per the previous form that was available on the website <a href="https://Covid19.mhpolice.in" rel="noopener noreferrer" target="_blank">Covid19.mhpolice.in</a>.  
+My apologies because I was unaware of the changes in the online application process that were being carried out by Maharashtra Police when I was preparing the following documents for my Travel Pass application as a stranded individual as per the previous form that was available on the website <a href="https://covid19.mhpolice.in" rel="noopener noreferrer" target="_blank">covid19.mhpolice.in</a>.  
 
 I have followed through meticulously on all tests, and documents required for my travel back home.  
 I am sending these documents for your reference along with this letter.  
@@ -3803,18 +3796,16 @@ They say they are okay with the grocery shopping, and cooking dinner together fo
 They say that we should take care to not fuck on the first date, even if we are at home for dinner, and we cuddle later.  
 Then they will ask to fuck when we are cuddling, and that's okay.  
 But here's the catch.  
-1. A.  
+1. 
 If I fuck them they will enjoy it, and ask for more sex in the same night.  
-1. B.  
 But in the morning, they will say that they don't feel like working it out because they did not feel a connection *since the beginning*.  
 
-OR 
+OR  
 
-2. A.  
+2. 
 If I say that we agreed that we should take care to not fuck on the first date, then from that moment onwards they will literally push me away physically by placing their knee between us, and say that let's just go to sleep.  
-2. B.  
-They will break all ties in the morning, an.  they will say that they don't feel like working it out because they did not feel a connection *since the beginning*.  
-Conclusion: I am puzzled because if you did not feel anything since the beginning then why would you call me so much! 
+They will break all ties in the morning, and they will say that they don't feel like working it out because they did not feel a connection *since the beginning*.  
+Conclusion: I am puzzled because if you did not feel anything since the beginning then why would you call me so much!  
 
 Case 2: People flipping is a pattern.  
 This starts with Day 1, a woman telling me that she is as serious as 'she is looking to start a family'.  
@@ -5684,40 +5675,40 @@ This consciousness brings to them a heightened filtering of the clutter.
 The process then brings clarity to the most personal thoughts and spill out the rest.  
 
 **Spooning**.  
-How I wish to spoon, 
-And massage her back, 
+How I wish to spoon,  
+And massage her back,  
 At the same time.  
 
-How I wish to spoon, 
-And grab her ass; 
+How I wish to spoon,  
+And grab her ass;  
 At the same time.  
 
-How I wish to spoon, 
-And feel her hair;
+How I wish to spoon,  
+And feel her hair;  
 At the same time.  
 
-How I wish to spoon, 
-And kiss her neck; 
+How I wish to spoon,  
+And kiss her neck;  
 At the same time.  
 
-How I wish to spoon, 
-And find her a robe; 
+How I wish to spoon,  
+And find her a robe;  
 At the same time.  
 
-Oh! How I wish to spoon, 
-And tear her clothes; 
+Oh! How I wish to spoon,  
+And tear her clothes;  
 At the same time.  
 
-But spooning be not good, 
-Coz’ my vision will blur out; 
+But spooning be not good,  
+Coz’ my vision will blur out;  
 At the same time.  
 
-But spooning be not good, 
-Coz’ my fantasies will come out; 
+But spooning be not good,  
+Coz’ my fantasies will come out;  
 At the same time.  
 
-But spooning be not good, 
-Coz’ I will fall in her arms, 
+But spooning be not good,  
+Coz’ I will fall in her arms,  
 With the same joy.  
 
 Asleep.  
@@ -5729,90 +5720,70 @@ Start ups are businesses that are still figuring out:
 3. How do they make money?  
 
 **St. Lucifer**.  
-
-**I co-authored a song named _"St. Lucifer"_ with Thomas Albert**.  
+I co-authored a song named _"St. Lucifer"_ with Thomas Albert.  
 Client: <a href="https://www.instagram.com/thomasalbertmusic" rel="noopener noreferrer" target="_blank">Thomas Albert Music</a>.  
+<a href="https://www.saavn.com/song/st.-lucifer-pull-me-out-feat.-thomas-albert--rani-viswas/FD1caDEBb2c" rel="noopener noreferrer" target="_blank">Listen</a>' to St. Lucifer on Saavn.
 
-'<a href="https://www.saavn.com/song/st.  -lucifer-pull-me-out-feat.  -thomas-albert--rani-viswas/FD1caDEBb2c" rel="noopener noreferrer" target="_blank">Listen</a>' to St. Lucifer on Saavn.  
+**Watch the making of St. Lucifer**.  
+{% include youtube_embed.html id="ycdXPY99Eeg" %}  
 
-Watch the making of St. Lucifer.  
-{% include youtube_embed.html id="ycdXPY99Eeg" %} Watch lyrics of St. Lucifer.  
+**Watch lyrics of St. Lucifer**.  
 {% include youtube_embed.html id="1T4-8pfGwYE" %}  
 
-**The lyrics.*.  
+**The lyrics**.  
 “The moon is out.  
 I wake up to the morning star.  
 standing in the mirror.”  
-
 “Those greedy eyes.  
 are calling out my name.  
 like the crystal bells I hear.”  
-
 “Sing a song.  
 or do the thing.  
 pull me out of this spell.”  
-
 “Step right in.  
 you are home.  
 says the gates of hell.”  
-
 “Pull, pull, pull me out.  
 pull me out of this spell.”  
-
 “Pull, pull, pull me out.  
 pull me out the gates of hell.”  
-
 “I hear the wind.  
 he’s preaching now in my ears.  
 framing hell in my spine.”  
-
 “Behold the truth.  
 emerges in a different light.  
 fallen angel in disguise.”  
-
 “Call someone.  
 let me take a pill.  
 pull me out of this spell.”  
-
 “Step right in.  
 you are home.  
 says the gates of hell.”  
-
 “Pull, pull, pull me out.  
 pull me out of this spell.”  
-
 “Pull, pull, pull me out.  
 pull me out the gates of hell.”  
-
 “He told me.  
 I could follow my heart.  
 and forget all my despair.”  
-
 “Let the blood-thirst beast.  
 invite me in.  
 right into his lair.”  
-
 “Step right in.  
 you are home.  
 says the gates of hell.”  
-
 “Pull, pull, pull me out.  
 pull me out of this spell.”  
-
+“Pull, pull, pull me out.  
+pull me out the gates of hell.”  
+“Pull, pull, pull me out.  
+pull me out of this spell.”  
 “Pull, pull, pull me out.  
 pull me out the gates of hell.”  
 
-“Pull, pull, pull me out.  
-pull me out of this spell.”  
-
-“Pull, pull, pull me out.  
-pull me out the gates of hell.”  
-
-**Credits.**
-
+**Credits**.  
 Janet D’Santos, Kushal Dhananjay Samant, Rani Viswas, Shashank Jha, Thomas Albert, and Uttam Shah.  
-
-![_St.Lucifer YouTube Header_](https://66.media.tumblr.com/ae4bb51ac2082980e4e1b412fdc03cee/a4c6536c061003f6-e2/s540x810/68035b637405fe6f52933fe6ca90fae8a4e8f341.jpg)  
+![_St. Lucifer YouTube Header_](https://66.media.tumblr.com/ae4bb51ac2082980e4e1b412fdc03cee/a4c6536c061003f6-e2/s540x810/68035b637405fe6f52933fe6ca90fae8a4e8f341.jpg)  
 St. Lucifer YouTube Header.  
 
 **Taking chances**.  
@@ -6968,7 +6939,7 @@ The most interesting thing that I like about all of this is that I am still carr
 
 So now having the understanding I think it is very important for me to understand if the entire economics that you are running in U.S country is it viable for me to sustain as an architect or should I do something else like problem a YouTube content creator of robbery do something else that is not related to architecture in in anyway like the whole idea of building essay wikihouse for example was based on the promise that I would get to travel from one city to another and then I could make films and landscapes and document them as I was in the journey and when I reach our destination everyday wikihouse for somebody but then the whole promise is flawed because then I will have to find someone who is willing to build a house in this economy that is out of question the second option that I had was to architectural representation of different products are going on but since economy is already lo there is no way I can do that either because and because one there is a lot of people already doing at and to badi building a house or doing a project in this economy so that leads to the third option of copywriting out drawings on posters and put meaning to people as a business venture but that might be very silly idea but that also is pretty interesting if you get it also skilled version of something maybe roza drawings will come handy sometime in the future maybe they will not baby David inspire me look at things differently maybe they will not but the whole premises to find something to do that will lead to like a lot of very creative inputs so far example like I am talking to talking into the phone into a microphone so that is article get started down because I am trying to think right now I don't have time to hold my train of thought so I could get to typing right that's why I like to use a voice note program for speech to text program but whole process am stuck on is still that I don't know what to do next it's very hard to figure out if I should probably become a researcher and give up everything I worked on so far and coverage socho Na should I just continue doing what I am doing like type in notes into typewriter and hope that after all the photo of all the time they put into the centre exercise a month of it with delete the occasion of 15 joining out long f****** articles of different kind maybe that might payoff.  
 
-**What is thinking versus writing?**
+**What is thinking versus writing?**  
 So thinking is a process that you do with your own mind and then you forget about it maybe or maybe do something about it.  
 Whereas writing is a process that you do within your own mind but you take it down on paper.  
 When you take it down on paper your mind is already jumping at different ideas or different processes or different imagined perspectives.  
@@ -6980,7 +6951,7 @@ But I don't want to meditate.
 I don't want to sit down and put my mind at rest because when I do so I will be coming my own imaginative natural self.  
 I will also be killing my own creativity.  
 
-**What some women want on dating apps?**
+**What some women want on dating apps?**  
 First, was a girl who said she wanted commitment, intimacy, monogamy and a relationship.  
 But her version of intimacy is not cuddles, it's sex only.  
 She kissed me on the pavement after getting drunk the first night.  
@@ -6998,7 +6969,7 @@ Also in the hour we spent together, she was freakishly silent.
 She went to bed without saying goodnight.  
 I slept on the couch, and left in the morning.  
 
-**What’s up with WikiHouse?**
+**What’s up with WikiHouse?**  
 The thought is what’s the end product or service we are offering? There are many firms in the process of building a WikiHouse, and use it for commercial purposes: competition in a commercial market.  
 We can share our knowledge with the wikihouse project; or develop certain designs for commercial purposes; develop the model that can be scaled up or down depending on the user’s particular needs; share all our data on to the commons, and sell it off the commons on an online shop; make a WikiHouse on site for our clients; teach people to build a WikiHouse; sell components/complete design products; sell low energy additions for the WikiHouse; travel for on site assignments.  
 
@@ -7020,7 +6991,7 @@ I wish for another chance I wish I had a dream, and I pray that life will show m
 You can whistle, and so can steam, can you make a shower do that too? Today, I want to make everything open source, just because we waste resources on security.  
 Imagine the amount of wealth, time, and thought that can be put to rest if; if only mankind gave up living, life, in a vast bubble of insecurity.  
 
-**Who owns a creative?**
+**Who owns a creative?**  
 Well, remember this.  
 
 1. A picture doesn't belong to you because you own the camera that was used to shoot it.  
