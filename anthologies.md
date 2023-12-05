@@ -113,27 +113,27 @@ As long as your aim dictates that you can slack in your creative process.
 Oh well, I have been on dating apps since 2014. So I have an idea about that.  
 1. Dating app algorithms give you a match mostly on Wednesdays and Thursdays.  
 Not on Mondays.  
-1.  a.  
+1.  A.  
 Most people talk, get close, hookup or get intimate by Sunday.  
-1.  b.  
+1.  B.  
 Then the work week begins and you know that your partner lacks somethings.  
 Everyone does.  
 I do too.  
-1.  c.  
+1.  C.  
 You get new matches on the Wednesday/ Thursday again.  
-1.  d.  
+1.  D.  
 Here's the catch.  
 If you talk to anyone new, then you are splitting your attention between two people.  
 Your partner will notice this.  
 Your partner will do the same.  
-1.  e.  
+1.  E.  
 By the time it's Monday, your partner is already with the new person.  
-1.  f.  
+1.  F.  
 You get dumped because you are not-perfect no.  
-1.  g.  
+1.  G.  
 You sulk until Wednesday/ Thursday, and viola.  
 You have a new match!
-P.  S.  : This is a time mapped problem.  
+P.S.: This is a time mapped problem.  
 If you cut your nails at 1.  a.  , then by the time you have completed the story and reached 1.  g.  
 You will have to cut your nails again.  
 :D
@@ -175,7 +175,6 @@ So, staying happy needed our conscious attention, just like anything else in lif
 > Richard Whately.  
 
 This is a journal entry on routines, and behaviours that come from people who are successful in different walks of life.  
- 
 E.g. The 4am club.  
 I am a stern believer that the miniscule things that we do everyday amount to a lot in our life.  
 If you have read James Clerk’s thesis on the Pareto principle, you will find that to the 1% of the world who happen to be winning at life, winning doesn’t happen.  
@@ -324,68 +323,49 @@ And I think, the sooner we accept that, and not try to conform ourselves to any 
 
 **Architects, and presentations**.  
 Coming to think of it, presentations scare me.  
-
 Architecture has given me the skill set to sell ice to the Eskimos at prices even Jobs would fear to mark up.  
-
 But that’s just talk.  
-
 When it comes to doing work to present your projects, and if you are an architect who wants to develop a product for yourself.  
 
 Please put a deadline before you put the price tag.  
 I find offhand inspiration at random moments during the year, when I can get more done in a week without having to push myself, while at other times, even an year long of work does not find the same level progress.  
-
 The thing that I have caught myself doing is putting green tree marks on presentation sheets.  
-
 Now I would certainly agree with you that you know ho to make those presentations look beautiful.  
 
 Worth staring at! But have you ever found the amount of repetitive work that architects all over the world do creating the same styles of presentations.  
-
 They rather be playing with an idea, then Photoshop their lives all along.  
 Because sometimes focus gets lost.  
-
 You waver away from developing a product to making things beautiful.  
 
 If you are not careful, then you may have to start another project to back the first.  
-
 If you are yet less careful, then you may as well be stuck in a cycle starting a project to back another one that’s more like lying to save another lie.  
-
 Instead, why don’t we worry about action and getting done with things, the simplest of the idea the basis.  
 Why do most of us spend night after night plonking green trees on paper when we could be make ourselves more useful by doing.  
 
 There is actually no need to plan a day even today.  
-
 Thinking keeps us thinking.  
-
 Doing keeps us doing.  
-
 Anything begets the same thing.  
+
 The energies you give into the universe come back to you magnified.  
-
 What I am getting at here is that, our focus should be only on the things that we know will make an actual difference as we progress towards our goals.  
-
 Yes, goals, not dreams.  
-
 Deciding ‘decide’ means ‘to cut’ is really a process of choosing what not to do.  
 
 This is something I read in Essentialism by Greg McKeown.  
 I have seen noticeable difference in the amount of progress I have made with my life in the past two weeks since I began to decide.  
-
 Decide is a verb.  
-
 Beware! Architecture needs focus.  
 
 Mostly on the things that matter.  
-
 To achieve it, you may have to push your norms of acceptable behaviour that you follow in routine.  
 Every breath of it.  
-
 Question everything… The time you wake up, the colour of the wall that you see, the time you take to get to the bath to wash your face, the number of apps you use, the number of times you check these apps between opening your eyes, and the visit to the bath for a face wash.  
 
 Even the number of breaths you take, and so on… Question everything.  
-
 It will help you look inwards, declutter your life fully, and do remember to do this every beating second of your life, find meaning about what you do/have to do doing is not the end of things.  
-
 But it is the reason most of us find the reason to live.  
+
 Remember this will make all the difference.  
 
 **Arguments**.  
@@ -2571,9 +2551,10 @@ Your eyes, and the way the light falls on your face, the way your skin glows und
 
 **How to apply for a Covid19 travel pass?**
 Date: 12th May 2020
+
 If you are stranded away from home, then these are the steps to apply for a travel pass.  
 1. Find a doctor for check up.  
-2. Then get a prescription for a covid19 test.  
+2. Then get a prescription for a Covid19 test.  
 3. Then apply for a test at any local diagnostics centers such as Suburban Diagnostics, Metropolis, SRL, etc.  
 - This is a tricky process because they are not allowed to administer the test if you have no symptoms.  
 - They rejected my doctor's prescription which mentioned no symptoms.  
@@ -2585,13 +2566,15 @@ i.e. they will bill you for a home visit for a sample collection that they take 
 5. Then wait for 48 hours for test report.  
 6. Then use that report to get a fitness certificate from the same doctor.  
 7. Then use that fitness certificate to apply for the travel pass on the website of the state you are stranded in.  
-- For example if you are stranded in Maharashtra then it is <a href="https://covid19.mhpolice.in/" rel="noopener noreferrer" target="_blank">https://covid19.mhpolice.in/</a>  
+- For example if you are stranded in Maharashtra then it is <a href="https://Covid19.mhpolice.in/" rel="noopener noreferrer" target="_blank">https://Covid19.mhpolice.in/</a>  
 - Please Google search the website for your respective state.  
+
 A.  
 This is a tricky process because the police will ask for a vehicle number with corresponding RC book.  
 - This applies even if you select the public transport option on the application.  
 - So assuming that you don't own a bus, you will have to be hopeful that they accept your application without the RC book.  
-- **So you cannot go home if you don't own a vehicle**.  
+**So you cannot go home if you don't own a vehicle**.  
+
 B.  
 For Mumbai, the website will direct to a emergency pass for medical cases page.  
 - It says, if you are a stranded student, migrant, or tourist, please apply to the local police station directly.  
@@ -2599,7 +2582,7 @@ For Mumbai, the website will direct to a emergency pass for medical cases page.
 - They have received no instructions to issue travel pass for interdistrict transit.  
 - The local police advised to go home in an auto or a private vehicle.  
 - The autos are not allowed to cross intrastate borders.  
-- **So you cannot go home if you are stranded within Mumbai**.  
+**So you cannot go home if you are stranded within Mumbai**.  
 
 **How to develop a better you?**
 Ok, so the thing is that I don't know exactly what I am doing.  
@@ -3445,13 +3428,13 @@ India.
 I am Kushal Dhananjay Samant.  
 I am a resident at the following address as per my passport records: 6/A2, Shree Hari CHS, Plot-11, Behind Neurogen Hospital, Sector 40, Seawoods (W), Navi Mumbai 400706. MH. INDIA.  
 I am a stranded individual at the following address at the moment: C/o Satchit Puranik, Flat №14, Tabeer Terrace CHS, Lane Opposite Orchid Global Learning Academy, Versova, Andheri (W), Mumbai 400061. MH. INDIA.  
-My apologies because I was unaware of the changes in the online application process that were being carried out by Maharashtra Police when I was preparing the following documents for my Travel Pass application as a stranded individual as per the previous form that was available on the website <a href="https://covid19.mhpolice.in" rel="noopener noreferrer" target="_blank">covid19.mhpolice.in</a>.  
+My apologies because I was unaware of the changes in the online application process that were being carried out by Maharashtra Police when I was preparing the following documents for my Travel Pass application as a stranded individual as per the previous form that was available on the website <a href="https://Covid19.mhpolice.in" rel="noopener noreferrer" target="_blank">Covid19.mhpolice.in</a>.  
 
 I have followed through meticulously on all tests, and documents required for my travel back home.  
 I am sending these documents for your reference along with this letter.  
-1. A prescription from Dr. Vernon Miranda to get a COVID19 test done, solely for travel purposes.  
-2. COVID19 test report from Suburban Diagnostics.  
-My test report says, “SARS-CoV-2: Not detected.”   i.e. COVID19 negative.  
+1. A prescription from Dr. Vernon Miranda to get a Covid19 test done, solely for travel purposes.  
+2. Covid19 test report from Suburban Diagnostics.  
+My test report says, “SARS-CoV-2: Not detected.”   i.e. Covid19 negative.  
 3. Fitness Certificate from Dr. Vernon Miranda based on this Test Report.  
 
 DN Nagar Police Station has quoted, “They have not received any instructions regarding inter-district transit for stranded individuals”.  
@@ -3813,41 +3796,35 @@ The more I earn, the stranger it gets.
 
 **Monogamy**.  
 Case 1: Monogamy is a pattern.  
-
 I am scared of people who say monogamy since July.  
 Like they say they want monogamy, and want to make an effort to work things out.  
 Then they call every five hours and talk for three hours everyday.  
 They say they are okay with the grocery shopping, and cooking dinner together for the first date.  
 They say that we should take care to not fuck on the first date, even if we are at home for dinner, and we cuddle later.  
-
 Then they will ask to fuck when we are cuddling, and that's okay.  
 But here's the catch.  
-1-a.  
+1. A.  
 If I fuck them they will enjoy it, and ask for more sex in the same night.  
-1-b.  
+1. B.  
 But in the morning, they will say that they don't feel like working it out because they did not feel a connection *since the beginning*.  
 
 OR 
 
-2-a.  
+2. A.  
 If I say that we agreed that we should take care to not fuck on the first date, then from that moment onwards they will literally push me away physically by placing their knee between us, and say that let's just go to sleep.  
-2-b.  
+2. B.  
 They will break all ties in the morning, an.  they will say that they don't feel like working it out because they did not feel a connection *since the beginning*.  
-
 Conclusion: I am puzzled because if you did not feel anything since the beginning then why would you call me so much! 
 
 Case 2: People flipping is a pattern.  
-
 This starts with Day 1, a woman telling me that she is as serious as 'she is looking to start a family'.  
 Then she tells me on the weekend that she only want to fuck me.  
 Then she shares explicit pictures a day later.  
 Then she tells me a day later that she was only being horny from Day 1. Then she ghosts me a day later.  
-
 Then she disappears for 2 days.  
 Then she returns to tell me a day later that she doesn't like me at all and we could be friends.  
 Then she tells me a day later that she has enough friends, sure I have too, so we can only be acquaintances.  
 Then she tells me a day later that she is unsure of when we will talk next because she talks to her friends once in a week.  
-
 Conclusion: I am puzzled about why would someone go from they want to start a family to ghosting me abruptly.  
 
 **Morning**.  
@@ -4279,7 +4256,7 @@ This acceptance is how you have a better chance of winning than your peers.
 
 **People**.  
 I find it rather interesting how the Indian government has now made the train routes go from all the states to the central region that is the national capital region of Delhi.  
-For for most people it just seems that they running trains but what I see is that it's a very small ploy to inspect and measure the infection of covid19 in India.  
+For for most people it just seems that they running trains but what I see is that it's a very small ploy to inspect and measure the infection of Covid19 in India.  
 More than being logistic kal decision I think that when you get of the train at Delhi they will by routine for the thermometer to your forehead and check the temperature.  
 This one action is basically the centralisation of monitoring the spread of this infection.  
 To be honest I think it is a smart move.  
@@ -4984,7 +4961,7 @@ I watch Tamil and Malayalam movies.
 I like Tamil songs.  
 Which songs do you like? I wanted to learn French only because it is compulsory if you want to move to France.  
 
-I think USA is not a good option.  
+I think U.S is not a good option.  
 Bad place to be rather.  
 Canada is amazing, but only if someone comes along with me :P
 Maybe we can travel together then.  
@@ -5253,7 +5230,7 @@ Question for today: Do you make/ build or curate stuff?
 
 Yours truly, 
 
-P.  S.  : :P I am thinking of publishing these letters into a book format.  
+P.S.: :P I am thinking of publishing these letters into a book format.  
 
 **Slowly letters 6**.  
 I am doing great.  
@@ -5354,7 +5331,7 @@ How big is your garden? Is there anyone who doesn't love Coldplay? :D
 Happy Christmas to you too!!!
 Yours truly,
 
-P.  S.  
+P.S.
 You can see my pictures on my Instagram.  
 I am currently curating my entire photo archive from Google Photos on it.  
 
@@ -6034,7 +6011,7 @@ And it took a lot of a time to get here.
 
 **“Before.”**
 
-**Tuesday, November 8, US Presidential Election 2016**.  
+**Tuesday, November 8, U.S Presidential Election 2016**.  
 Creativity is to be played on a mind map, not a time map.  
 Deliberation is not the means to achieve most of what life offers.  
 I want to publish everything I have that helps others be better at what they do.  
@@ -6105,14 +6082,14 @@ Imagine the farmer lives you could save if you only carry your keys.
 For you, this is a conscious decision.  
 You will have to make it.  
 
-You know why? My happiness is not betting Biryani on who will be next U.  S presidential candidate with my guests.  
+You know why? My happiness is not betting Biryani on who will be next U.S presidential candidate with my guests.  
 It is not talking about on how Donald Trump or Hillary Clinton or gay rights or feminism or the next Flipkart Big Billion Sale matters.  
 My happiness is simple.  
 My happiness lies in keeping the planet alive so that your children can make better talks.  
 
 **“After.”**
 
-**Tuesday, November 8, US Presidential Election 2016**.  
+**Tuesday, November 8, U.S Presidential Election 2016**.  
 My dear Americans,
 
 While I lay here emptying my fridge because my country chose to make an economic shift, pondering for years maybe but an all in one night for us, Just like those surprise tests you guys love appalled at the way your past is still trending on Twitter.  
@@ -6247,7 +6224,7 @@ India has forced her citizens to go cashless.
 You can curse the current Government or take sides with them.  
 But the government has done what most probably is the best thing a government can do to curb climate change.  
 A simple change that make people conscious, and rethink about their habits, what they own, what they use, their behaviours, patterns, et cetera.  
-With a rise in awareness for a cashless economy, the value of the Indian Rupee will soon surpass the US Dollar, the value of the Indian Rupee will equal that of time in the financial capital of India.  
+With a rise in awareness for a cashless economy, the value of the Indian Rupee will soon surpass the U.S Dollar, the value of the Indian Rupee will equal that of time in the financial capital of India.  
 
 **The highest task**.  
 I hold this to be the highest task for a bond between two people: that each protects the solitude of the other.  
@@ -6983,13 +6960,13 @@ This is like taking out a crucial block out of my life so that I can create more
 The lord looked at the water, it blushed, and turned into wine.  
 
 **Whatever this means**.  
-I can understand my complete failure in trying to to bring some kind of order in my life but that is not what I think should be something that I should focus on it is interesting to know that everything that we been doing so far has always accounted for something else elsewhere like for example learn Spanish a couple of decades ago and then I had to make and girl what come into my life and it was useful then with her so I think it is interesting to note that whatever you learn today will be useful on some other day into the future and you can never know what actually will bring value to you so you know we have this habit as architects that we we would everything that we make right from the drawings to the sketches the models even to the tissues that we use to sketch out when we are dining at restaurants and cafes all of it it is very interesting for us to hope that actually it's not for us most of US dollars we just hope that whatever we have great it will come handy someday in the future but it never does it is always like this one small part of whatever we make that comes handy like of the entire range of models and sketches and drawings that having archive in my office right now probably one f****** swan image that have drawn on some tissue paper from some cafe in Bangalore will inspire me to colour painting differently and then try to make design for house of a building from 8 which is very e unique but it is sometimes questionable I often wonder if this is what we would want to have if this is what we would want to run with like the amount of effort that you might put in trying to to build something for restore something and id3 and amount of effort that you will put into you keeping everything right there and documented in archived extract and still after all of this you are left with nothing but a small impression of an idea that you might want to use later on your life I think that is a lot of effort that you put in return for the inspiration that it gives you.
+I can understand my complete failure in trying to to bring some kind of order in my life but that is not what I think should be something that I should focus on it is interesting to know that everything that we been doing so far has always accounted for something else elsewhere like for example learn Spanish a couple of decades ago and then I had to make and girl what come into my life and it was useful then with her so I think it is interesting to note that whatever you learn today will be useful on some other day into the future and you can never know what actually will bring value to you so you know we have this habit as architects that we we would everything that we make right from the drawings to the sketches the models even to the tissues that we use to sketch out when we are dining at restaurants and cafes all of it it is very interesting for us to hope that actually it's not for us most of U.S dollars we just hope that whatever we have great it will come handy someday in the future but it never does it is always like this one small part of whatever we make that comes handy like of the entire range of models and sketches and drawings that having archive in my office right now probably one f****** swan image that have drawn on some tissue paper from some cafe in Bangalore will inspire me to colour painting differently and then try to make design for house of a building from 8 which is very e unique but it is sometimes questionable I often wonder if this is what we would want to have if this is what we would want to run with like the amount of effort that you might put in trying to to build something for restore something and id3 and amount of effort that you will put into you keeping everything right there and documented in archived extract and still after all of this you are left with nothing but a small impression of an idea that you might want to use later on your life I think that is a lot of effort that you put in return for the inspiration that it gives you.
 
 No. I am not saying that I am a loser I am just saying that if given a choice I would like to do things you know very not orderly fashion but a very efficient way which might be very minimalistic to begin with which might also be very rustic like a refund ages or refund the sides but then everything that I've been able to understand so far from whatever has been happening in the current economy or whatever it is been happening with everything that I have achieved so far is that most of the people that I know in my life have gone ahead we had with their lives and their careers and then everything that did you like the buy houses in the cell houses and then the do something else I am not talking about architects am talking about somebody from here to take industry or someone who did any MBA or business administration course or maybe someone who learnt how to do graphics and portfolios and stuff like that so it is very hard for me to understand what I should do next in this economy because everything around me seems to be crumbling and only way forward is blank let literally blank as white sheet of linen.
 
 The most interesting thing that I like about all of this is that I am still carrying the small amount of hope that determines me from leaving the entire practice that I've been working for running Rado because it's my own practice and alternative go and take up bank job or go work under somebody or maybe just end up doing something that is completely irrational just to make up for the deficit in my entire life style that I have been able to achieve in the past decade but the underlying factors that every architect who is very renowned and very popular in all parts of the world has gotten there at the age of 68 or 70 so now I think that no matter what I do as an architect the whole process is very slow and like for example to explain this to you I think that when you look at portfolio that is been built by graphic designer for example in that designer will normally take like it has about 10 pieces of his work then that designer will take about se a maximum of 10 days to create to sing some ABC 10 months to do it ok let's please give him like good 20 months to make doston pieces of his work still it is nowhere compared to how slow architecture can be because in architecture or normal building would take me about two years or to build and if I am building highest award in there is any initial period of 5 years that goes into it limitation and permissions and other drawings and extract that I have to get from the city council and the places to get the whole project on site so we spent about five years on paper and we spend to yours onsite so that is one project and if you just doing of Bangalore and essay we spend to yours in total from exiting from the first and flying calls to the time we give him the ki so it is extremely slow so what to do and I was able to achieve in a span of se 24 months that is good for your friend projects I might be able to achieve only one single project in the time span although I can understand that most of you would argue that the scale of the project is very different because for him it is just one square feet area of paper that is trying to design in brass I might be covering set houses of square feet in the same time but at the end of it is product is graphic image or something graphical representation of a kind and my product is building your house or something that people occupy in more like a sculpture.
 
-So now having the understanding I think it is very important for me to understand if the entire economics that you are running in USA country is it viable for me to sustain as an architect or should I do something else like problem a YouTube content creator of robbery do something else that is not related to architecture in in anyway like the whole idea of building essay wikihouse for example was based on the promise that I would get to travel from one city to another and then I could make films and landscapes and document them as I was in the journey and when I reach our destination everyday wikihouse for somebody but then the whole promise is flawed because then I will have to find someone who is willing to build a house in this economy that is out of question the second option that I had was to architectural representation of different products are going on but since economy is already lo there is no way I can do that either because and because one there is a lot of people already doing at and to badi building a house or doing a project in this economy so that leads to the third option of copywriting out drawings on posters and put meaning to people as a business venture but that might be very silly idea but that also is pretty interesting if you get it also skilled version of something maybe roza drawings will come handy sometime in the future maybe they will not baby David inspire me look at things differently maybe they will not but the whole premises to find something to do that will lead to like a lot of very creative inputs so far example like I am talking to talking into the phone into a microphone so that is article get started down because I am trying to think right now I don't have time to hold my train of thought so I could get to typing right that's why I like to use a voice note program for speech to text program but whole process am stuck on is still that I don't know what to do next it's very hard to figure out if I should probably become a researcher and give up everything I worked on so far and coverage socho Na should I just continue doing what I am doing like type in notes into typewriter and hope that after all the photo of all the time they put into the centre exercise a month of it with delete the occasion of 15 joining out long f****** articles of different kind maybe that might payoff.  
+So now having the understanding I think it is very important for me to understand if the entire economics that you are running in U.S country is it viable for me to sustain as an architect or should I do something else like problem a YouTube content creator of robbery do something else that is not related to architecture in in anyway like the whole idea of building essay wikihouse for example was based on the promise that I would get to travel from one city to another and then I could make films and landscapes and document them as I was in the journey and when I reach our destination everyday wikihouse for somebody but then the whole promise is flawed because then I will have to find someone who is willing to build a house in this economy that is out of question the second option that I had was to architectural representation of different products are going on but since economy is already lo there is no way I can do that either because and because one there is a lot of people already doing at and to badi building a house or doing a project in this economy so that leads to the third option of copywriting out drawings on posters and put meaning to people as a business venture but that might be very silly idea but that also is pretty interesting if you get it also skilled version of something maybe roza drawings will come handy sometime in the future maybe they will not baby David inspire me look at things differently maybe they will not but the whole premises to find something to do that will lead to like a lot of very creative inputs so far example like I am talking to talking into the phone into a microphone so that is article get started down because I am trying to think right now I don't have time to hold my train of thought so I could get to typing right that's why I like to use a voice note program for speech to text program but whole process am stuck on is still that I don't know what to do next it's very hard to figure out if I should probably become a researcher and give up everything I worked on so far and coverage socho Na should I just continue doing what I am doing like type in notes into typewriter and hope that after all the photo of all the time they put into the centre exercise a month of it with delete the occasion of 15 joining out long f****** articles of different kind maybe that might payoff.  
 
 **What is thinking versus writing?**
 So thinking is a process that you do with your own mind and then you forget about it maybe or maybe do something about it.  
@@ -7051,11 +7028,11 @@ Well, remember this.
 3. A picture belongs to you only if you click it.  
 
 **Window**.  
-Still waiting,
-Looking at the window;
+Still waiting,  
+Looking at the window;  
 Typing.  
-I forgot about my coffee,
-But I am waiting;
+I forgot about my coffee,  
+But I am waiting;  
 Till the coffee gets cold.  
 
 **Wish**.  
@@ -7244,20 +7221,20 @@ The title is a way of saying that each chapter is intended to bring an extra dol
 These chapters can be used standalone, or paired with any other chapter/s in permutations and combinations to bring your work an extra dollar.  
 I hope that my ideas are helpful and universal in nature.  
 
-1. Form, space, and order
-2. Grid to detail
-3. Line weights
-4. Textures
-5. Perspectives
-6. Trees
-7. People & Human figures
-8. Home decor
-9. Background landscapes
-10. Foreground reflections
-11. Neuferts data
-12. Architectural spaces
-13. Miniature scale of details
-14. Shadows
-15. The unknown factor X
+1. Form, space, and order  
+2. Grid to detail  
+3. Line weights  
+4. Textures  
+5. Perspectives  
+6. Trees  
+7. People & Human figures  
+8. Home decor  
+9. Background landscapes  
+10. Foreground reflections  
+11. Neuferts data  
+12. Architectural spaces  
+13. Miniature scale of details  
+14. Shadows  
+15. The unknown factor X  
 
 **<a href="https://kushalsamant.github.io/ai.html" rel="noopener noreferrer" target="_blank">AI</a>**  
