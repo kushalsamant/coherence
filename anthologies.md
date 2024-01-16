@@ -2960,7 +2960,7 @@ Instagram's caption space has 2000 chars in one post = that's almost 1.  25 page
 I intend to use these page/s to make book/s.  
 If you fill in complete captions for about 200 posts = then you would have written an equal of 300 pages = that's 1 book.  
 You will find the process taxing because it is strenuous to write about the same topic 200 times in a row.  
-Hence to make this lazier, I recommend using hashtags for example #akshaycoffee, #akshaythis, #akshaythat, #akshayxyz.  
+Hence to make this lazier, I recommend using hashtags for example #ankurcoffee, #ankurthis, #ankurthat, #ankurxyz.  
 The advantages here are:
 - This way people can track your content about specific topics.  
 - You can write about different topics 200 times in a row.  
@@ -2980,8 +2980,7 @@ This is subjective.
 You do you.  
 Oh! You can also upload this to YouTube.  
 
-**Level 3 - Creating Vit.  
-M**.  
+**Level 3 - Creating Vit. M**.  
 If you fill in complete captions for about 200 posts = then you would have written an equal of 300 pages = that's 1 book = enough content for 1 one-hour-long-lecture with fumbling.  
 You can go to any cafe/venue and ask for a spot to do a paid one-hour-long guest lecture using this book as leverage.  
 A venue will ask you for a profit share OR ask you to pay a lumpsum amount as rent.  
@@ -7210,4 +7209,4 @@ I hope that my ideas are helpful and universal in nature.
 14. Shadows  
 15. The unknown factor X  
 
-**<a href="https://kushalsamant.github.io/ai.html" rel="noopener noreferrer" target="_blank">AI</a>**  
+**<a href="https://kushalsamant.github.io/ai.html" rel="noopener noreferrer" target="_blank">AI</a>**
