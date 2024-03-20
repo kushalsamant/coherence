@@ -26,7 +26,7 @@ This is meant to be as transparent as reasonably possible. Since I’m accountab
 
 This also means that my future relies entirely on community contributions. Here’s how you can help:
 
-If you’re already following my content and want to chip in a little extra, you can support me here&nbsp;-&nbsp;<a href="https://linktr.ee/kvshvl" rel="noopener noreferrer" target="_blank">Ver&nbsp;más</a>.
+If you’re already following my content and want to chip in a little extra, you can support me here&nbsp;-&nbsp;<a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">Ver&nbsp;más</a>.
 
 Photos and videos are edited using modern editors for videos, GIFs, and images:  
 <a href="https://www.videosoftdev.com" rel="noopener noreferrer" target="_blank">VSDC Video Editor</a>, <a href="https://play.google.com/store/apps/details?id=com.vsco.cam" rel="noopener noreferrer" target="_blank">VSCO Cam</a>, <a href="https://play.google.com/store/apps/details?id=maa.vaporwave_editor_glitch_vhs_trippy_pro" rel="noopener noreferrer" target="_blank">Vaporgram Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed" rel="noopener noreferrer" target="_blank">Snapseed</a>, <a href="https://kapwing.com" rel="noopener noreferrer" target="_blank">Kapwing</a>, <a href="https://play.google.com/store/apps/details?id=com.instagram.android" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot" rel="noopener noreferrer" target="_blank">Inshot</a>, and <a href="https://play.google.com/store/apps/details?id=kr.co.manhole.hujicam" rel="noopener noreferrer" target="_blank">Huji Cam</a>.
