@@ -45,11 +45,11 @@ Photos and videos are edited using modern editors for videos, GIFs, and images:
 <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logothreadless.png" alt="Threadless" width="30"></a>
 <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="Twitter" width="30"></a>
 <!--
-            <a href="https://my-store-3157273.creator-spring.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoteespring.png" alt="Teespring" width="30"></a>
-            <a href="https://society6.com/samant" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosociety6.png" alt="Society6" width="30"></a>
-            <a href="https://society6.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosociety6.png" alt="Society6" width="30"></a>
-            <a href="https://society6.com/kushaldsamant" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosociety6.png" alt="Society6" width="30"></a>
-            <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyoutube.png" alt="YouTube" width="30"></a>
+<a href="https://my-store-3157273.creator-spring.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoteespring.png" alt="Teespring" width="30"></a>
+<a href="https://society6.com/samant" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosociety6.png" alt="Society6" width="30"></a>
+<a href="https://society6.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosociety6.png" alt="Society6" width="30"></a>
+<a href="https://society6.com/kushaldsamant" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosociety6.png" alt="Society6" width="30"></a>
+<a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyoutube.png" alt="YouTube" width="30"></a>
 -->
 
 **Anthologies**.  
