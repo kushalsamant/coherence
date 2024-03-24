@@ -1,4 +1,4 @@
-**Anthologies**.  
+**Anthologies**.
 
 **A butterfly**.  
 A butterfly to remind you, that all is not lost.  
