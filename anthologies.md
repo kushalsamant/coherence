@@ -7208,5 +7208,3 @@ I hope that my ideas are helpful and universal in nature.
 13. Miniature scale of details  
 14. Shadows  
 15. The unknown factor X  
-
-**<a href="https://kushalsamant.github.io/ai.html" rel="noopener noreferrer" target="_blank">AI</a>**
