@@ -1,8 +1,8 @@
 **Ver más**.
 
-<a href="https://kushalsamant.github.io/ai.html" rel="noopener noreferrer" target="_blank">AI-generated&nbsp;content</a>
-<a href="https://kushalsamant.github.io/anthologies.html" rel="noopener noreferrer" target="_blank">Anthologies</a>
-<a href="https://kushalsamant.github.io/quotes.html" rel="noopener noreferrer" target="_blank">Quotes</a>
+<a href="https://kushalsamant.github.io/ai.html" rel="noopener noreferrer" target="_blank">AI-generated&nbsp;content</a>.  
+<a href="https://kushalsamant.github.io/anthologies.html" rel="noopener noreferrer" target="_blank">Anthologies</a>.  
+<a href="https://kushalsamant.github.io/quotes.html" rel="noopener noreferrer" target="_blank">Quotes</a>.  
 <a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a>
 <a href="https://discord.gg/36xan8g8" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logodiscord.png" alt="Discord" width="30"></a>
 <a href="https://fineartamerica.com/profiles/2-kushal-samant/shop" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logofineartamerica.png" alt="Fine Art America" width="30"></a>
