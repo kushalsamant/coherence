@@ -1,18 +1,9 @@
 **Projects**.
 
-Here you can see what I’ve shipped recently, what I’m building next, and how I’m doing as an architect. By sharing this information I aim to demystify the weird and wonderful process of working on mostly bootstrapped architecture.
-
-I’m working hard to build a mindful, respectful, and accountable space for my patrons. I’ve lots of ideas for how to do a better job, as well as lots of challenges.
-
-This is meant to be as transparent as reasonably possible. Since I’m accountable to my patrons instead of advertisers, my incentive is to create meaningful architecture.
-
-This also means that my future relies entirely on community contributions. Here’s how you can help:  
-If you’re already following my content and want to chip in a little extra, you can support me <a href="https://kushalsamant.github.io/vermas.html">here</a>.
-
 These are the projects/ventures I've worked on.
 
 - Core Faculty of Architecture at Dr D.Y. Patil College of Architecture, Navi Mumbai.  
-- <a href="https://yourmailproject.gumroad.com" rel="noopener noreferrer" target="_blank">Your&nbsp;Mail&nbsp;Project</a>.  
+- <a href="https://kushalsamant.github.io/yourmailproject_archive.html">Your&nbsp;Mail&nbsp;Project</a>.  
 - <a href="https://sandishridhar.tumblr.com" rel="noopener noreferrer" target="_blank">Web Design + Digital Marketing + Automation for Sandeep Shridhar Dhabale</a>.  
 - <a href="https://phifilms.in" rel="noopener noreferrer" target="_blank">Web Design + Digital Marketing + Automation for PhiFilms</a>.  
 - <a href="https://cinemamu.in" rel="noopener noreferrer" target="_blank">Web Design + Digital Marketing + Automation for Cinemamu</a>.  
