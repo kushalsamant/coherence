@@ -16,7 +16,7 @@ These are the projects/ventures I've worked on.
 - Residence, Sankeshwar. Client: Vishal Bhopale.  
 - Food Concierge at Scootsy, Mumbai.  
 - Amazon, and Flipkart Sales Manager at Ria Enterprises.  
-- <a href="https://kushalsamant.github.io/projects/shlvng.html" rel="noopener noreferrer" target="_blank">SHLVNG</a>.  
+- <a href="https://kushalsamant.github.io/projects/shlvng.html">SHLVNG</a>.  
 - Furniture Maker at OpenDesk.  
 - Web Design for Studio Diksuchi.  
 - <a href="https://studiodetail.co.in" rel="noopener noreferrer" target="_blank">Web Design for Studio Detail</a>.  
@@ -32,7 +32,7 @@ These are the projects/ventures I've worked on.
 - Office, Sion, Mumbai. Client: The Black Canvas.  
 - El Tunal Stadium (International).  
 - Fontanar Del Rio Stadium (International).  
-- <a href="https://kushalsamant.github.io/projects/housing_for_kalejdohill_kvarnbacken_jakobsberg.html" rel="noopener noreferrer" target="_blank">Housing for Kalejdohill, Kvarnbacken, Jakobsberg, Jarfalla (International)</a>.  
+- <a href="https://kushalsamant.github.io/projects/housing_for_kalejdohill_kvarnbacken_jakobsberg.html">Housing for Kalejdohill, Kvarnbacken, Jakobsberg, Jarfalla (International)</a>.  
 - Coworking Offices, Bandra, Mumbai. Client: Collab Works Pvt Ltd.  
 - The Cuckoo Club, Cafe, Bandra, Mumbai. Client: Alt Culture Entertainment Pvt Ltd.  
 - The Cuckoo Club, Theatre, Bandra, Mumbai. Client: Alt Culture Entertainment Pvt Ltd.  
@@ -42,9 +42,9 @@ These are the projects/ventures I've worked on.
 - Ambisonic Lab, Savaroli. Client: SoundCodes.  
 - Airbnb Superhost for Mumbai.  
 - Airbnb, Andheri, Mumbai. Client: Sachin Maheshwari.  
-- <a href="https://kushalsamant.github.io/projects/gruham.html" rel="noopener noreferrer" target="_blank">GRÜHAM</a>.  
+- <a href="https://kushalsamant.github.io/projects/gruham.html">GRÜHAM</a>.  
 - WAVE Innovation Space, Nehru Center, Mumbai. Client: BNP Paribas.  
-- <a href="https://kushalsamant.github.io/projects/infinity_mirror.html" rel="noopener noreferrer" target="_blank">Infinity Mirror Installation</a>, Todi Mill Social, Mumbai. Client: Adidas.  
+- <a href="https://kushalsamant.github.io/projects/infinity_mirror.html">Infinity Mirror Installation</a>, Todi Mill Social, Mumbai. Client: Adidas.  
 - WikiHouse / BOM chapter of The WikiHouse Foundation, UK.  
 - Varna Library International Architectural Competition (International).  
 - Makerspace, Andheri, Mumbai. Client: Maker’s Asylum.  
@@ -62,7 +62,7 @@ These are the projects/ventures I've worked on.
 - kNOw Smoking - A short film about the experiences of the nicotine addicts.
 - The Swedavia Bromma Stockholm Airport Challenge (International).  
 - Residence, Kudal. Client: Jayaram Londhe.  
-- <a href="https://kushalsamant.github.io/projects/bridging_emotions.html" rel="noopener noreferrer" target="_blank">Final Architectural Thesis (Bridging Emotions)</a>. Explored the utility value of space around the Sea Link Bridge, Mumbai and proposed architectural design to treat citywide clinical depression.  
+- <a href="https://kushalsamant.github.io/projects/bridging_emotions.html">Final Architectural Thesis (Bridging Emotions)</a>. Explored the utility value of space around the Sea Link Bridge, Mumbai and proposed architectural design to treat citywide clinical depression.  
 - Shortlisted for University of Westminster Design Trophy at International Rank No. 4.  
 - Shortlisted for Landscape Design Trophy for 2 consecutive years.  
 - Shortlisted for Annual NASA Design Competition for 5 consecutive years / <a href="https://kushalsamant.github.io/projects/perspicacity.html" rel="noopener noreferrer" target="_blank">Perspicacity</a>.  
@@ -72,7 +72,7 @@ These are the projects/ventures I've worked on.
 - <a href="https://kushalsamant.github.io/projects/catalytic_corridor.html" rel="noopener noreferrer" target="_blank">Catalytic Corridor</a>, LAjournal Design Competition (Landscape, India).  
 - <a href="https://kushalsamant.github.io/projects/urban_insert_design.html" rel="noopener noreferrer" target="_blank">Urban Insert Design</a>. Proposed a way to cure religious tension and ongoing riots in the Old city and the Fort, Belgaum using socio - economic principles of urban design and space making.  
 - Book Store Interior Design. Proposed redesigning an old watch tower into a bookstore inside the military cantonment/camp area of Belgaum.  
-- <a href="https://kushalsamant.github.io/projects/processism.html" rel="noopener noreferrer" target="_blank">Processism</a>.  
+- <a href="https://kushalsamant.github.io/projects/processism.html">Processism</a>.  
 - Admission Brochure 2012 of KLS GIT, Belgaum.  
 - Prospectus 2012 of KLS GIT, Belgaum.  
 - Avalanche Annual Fest Magazine 2012 of KLS GIT, Belgaum.  
@@ -81,7 +81,7 @@ These are the projects/ventures I've worked on.
 - Shortlisted for Annual NASA Journalism Trophy, Zo-NASA Journalism Trophy for 3  consecutive years.  
 - Shortlisted and Published for Cityscape Article Writing Competition at National Level.  
 - Interview, Ar. Deepak Guggari, VDGA, Pune for Annual Architectural Magazine, Oculus 4 of  KLS GIT, Belgaum.  
-- <a href="https://kushalsamant.github.io/projects/ivavelux_award_competition.html" rel="noopener noreferrer" target="_blank">IVAVELUX Award Competition (International)</a>.  
+- <a href="https://kushalsamant.github.io/projects/ivavelux_award_competition.html">IVAVELUX Award Competition (International)</a>.  
 - The Red Bag. A film showcasing the quote, “Things go to those who want to keep them,  and not use them.”  
 - Innu Onde Gadi Kathe. A stop motion film based on a Bollywood love story plot, made of toy  cars characters that speak slang lingua.  
 - Chase in Life. A short film about growth and the desire to grow that is common within all  things that are within nature and man.  
@@ -98,7 +98,7 @@ These are the projects/ventures I've worked on.
 - Residence, Kudal. Client: Prof. Uday Bhatye.  
 - Residence, Muzaffarpur. Client: Mr. Vibhu Kumar.  
 - Café, New Delhi. Client: Mr. Varun Ashok.  
-- <a href="https://kushalsamant.github.io/projects/farmhouse_savaroli.html" rel="noopener noreferrer" target="_blank">Farmhouse, Savaroli</a>. Client: Mrs. Heera Subhan and Mr. Sharad Yadav.  
+- <a href="https://kushalsamant.github.io/projects/farmhouse_savaroli.html">Farmhouse, Savaroli</a>. Client: Mrs. Heera Subhan and Mr. Sharad Yadav.  
 - Restaurant. Proposed a thin concrete slab pierced at various points by structural steel columns and oriented towards the lake while creating natural ventilation.  
 - Web Design for Archiperspecta on Joomla/ Wordpress/ Vanilla with customization, and  improved web traffic strategies.  
 - Brno City Square Design Competition (International).  
