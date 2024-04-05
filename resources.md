@@ -7209,5 +7209,5 @@ I hope that my ideas are helpful and universal in nature.
 14. Shadows  
 15. The unknown factor X  
 
-<a href="https://kushalsamant.github.io/resources/ai.html" rel="noopener noreferrer" target="_blank">AI-generated&nbsp;content</a>.  
-<a href="https://kushalsamant.github.io/resources/quotes.html" rel="noopener noreferrer" target="_blank">Quotes</a>.
+<a href="https://kushalsamant.github.io/resources/ai.html">AI-generated&nbsp;content</a>.  
+<a href="https://kushalsamant.github.io/resources/quotes.html">Quotes</a>.
