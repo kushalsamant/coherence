@@ -9,5 +9,4 @@ I’m working hard to build a mindful, respectful, and accountable space for my 
 
 This is meant to be as transparent as reasonably possible. Since I’m accountable to my patrons instead of advertisers, my incentive is to create meaningful projects.
 
-This also means that my future relies entirely on community contributions. Here’s how you can help: If you’re already following my content and want to chip in a little extra, you can support me <a href="https://kushalsamant.github.io/resources.html" rel="noopener noreferrer" target="_blank">here</a>.
-
+This also means that my future relies entirely on community contributions. Here’s how you can help: If you’re already following my content and want to chip in a little extra, you can support me <a href="https://kushalsamant.github.io/resources.html">here</a>.
