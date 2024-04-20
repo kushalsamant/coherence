@@ -1,3 +1,3 @@
 **Akansha Mhaskule**.
 
-<img src="/assets/am.jpg" alt="Akansha Mhaskule" width="150">
+<img src="/assets/akansha_mhaskule.jpg" alt="Akansha Mhaskule" width="150">
