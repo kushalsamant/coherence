@@ -70,3 +70,7 @@ This also means that my future relies entirely on community contributions. Hereâ
 <p>
 <a class="btn" href="https://kushalsamant.threadless.com/" rel="noopener noreferrer" target="_blank">Threadless&nbsp;&lt;</a><br>
 </p>
+
+<p>
+<br>
+</p>
