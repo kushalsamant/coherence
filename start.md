@@ -1,3 +1,5 @@
+**Readme**.
+
 If you think this website is unlike others, don't fret. This website is intentionally built using <a href="https://github.com/kushalsamant" rel="noopener noreferrer" target="_blank">GitHub</a> to do a bit to preserve a web that does not compromise on your time, privacy, and bandwidth.
 
 This website is an intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant, vide Architect's&nbsp;Act,&nbsp;1972 of the Constitution&nbsp;of&nbsp;The&nbsp;Republic&nbsp;of&nbsp;India. Any violation of the Architect's Act is a punishable offence.
