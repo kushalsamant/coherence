@@ -16,5 +16,11 @@ I’m working hard to build a mindful, respectful, and accountable space for my 
 
 This is meant to be as transparent as reasonably possible. Since I’m accountable to my patrons instead of advertisers, my incentive is to create meaningful projects.
 
-This also means that my future relies entirely on community contributions. Here’s how you can help: If you’re already following my <a href="https://kushalsamant.github.io/content.html">content</a> and want to chip in a little extra, you can support me <a href="https://kushalsamant.github.io/wordpress" rel="noopener noreferrer" target="_blank">here</a>.
+This also means that my future relies entirely on community contributions. Here’s how you can help: If you’re already following my <a href="https://kushalsamant.github.io/content.html">content</a> and want to chip in a little extra, you can support the following curatorial projects.
 
+<a class="btn" href="https://kushalsamant.github.io/wordpress" rel="noopener noreferrer" target="_blank">Books on Amazon&nbsp;&lt;</a>
+<a class="btn" href="https://fineartamerica.com/profiles/2-kushal-samant/shop" rel="noopener noreferrer" target="_blank">Fine Art America&nbsp;&lt;</a>
+<a class="btn" href="https://www.redbubble.com/people/kvshvl-/shop?asc=u" rel="noopener noreferrer" target="_blank">Redbubble&nbsp;&lt;</a>
+<a class="btn" href="https://society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6&nbsp;&lt;</a>
+<a class="btn" href="https://www.teepublic.com/user/kvshvl" rel="noopener noreferrer" target="_blank">Teepublic&nbsp;&lt;</a>
+<a class="btn" href="https://kushalsamant.threadless.com/" rel="noopener noreferrer" target="_blank">Threadless&nbsp;&lt;</a>
