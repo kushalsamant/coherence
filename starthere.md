@@ -16,6 +16,10 @@ This is meant to be as transparent as reasonably possible. Since I’m accountab
 This also means that my future relies entirely on community contributions. Here’s how you can help: If you’re already following my content and want to chip in a little extra, you can support the following curatorial projects.
 
 <p>
+<br>
+</p>
+
+<p>
 <a class="btn" href="https://kushalsamant.github.io/anthologies.html" rel="noopener noreferrer" target="_blank">Anthologies&nbsp;&lt;</a><br>
 </p>
 
