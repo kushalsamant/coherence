@@ -18,9 +18,17 @@ This also means that my future relies entirely on community contributions. Hereâ
 <p>
 <a class="btn" href="https://kushalsamant.github.io/anthologies.html" rel="noopener noreferrer" target="_blank">Anthologies&nbsp;&lt;</a><br>
 </p>
-      
+
+<p>
+<br>
+</p>
+
 <p>
 <a class="btn" href="https://kushalsamant.github.io/wordpress" rel="noopener noreferrer" target="_blank">Books on Amazon&nbsp;&lt;</a><br>
+</p>
+
+<p>
+<br>
 </p>
 
 <p>
@@ -28,7 +36,15 @@ This also means that my future relies entirely on community contributions. Hereâ
 </p>
 
 <p>
+<br>
+</p>
+
+<p>
 <a class="btn" href="https://www.redbubble.com/people/kvshvl-/shop?asc=u" rel="noopener noreferrer" target="_blank">Redbubble&nbsp;&lt;</a><br>
+</p>
+
+<p>
+<br>
 </p>
 
 <p>
@@ -36,7 +52,15 @@ This also means that my future relies entirely on community contributions. Hereâ
 </p>
 
 <p>
+<br>
+</p>
+
+<p>
 <a class="btn" href="https://www.teepublic.com/user/kvshvl" rel="noopener noreferrer" target="_blank">Teepublic&nbsp;&lt;</a><br>
+</p>
+
+<p>
+<br>
 </p>
 
 <p>
