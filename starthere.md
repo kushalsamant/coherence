@@ -20,11 +20,19 @@ This also means that my future relies entirely on community contributions. Hereâ
 </p>
 
 <p>
+<a class="btn" href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank">Airbnbs&nbsp;&lt;</a><br><br>
+</p>
+
+<p>
+<a class="btn" href="https://sketchfab.com/3d-models/shlvng-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank">Design&nbsp;&lt;</a><br><br>
+</p>
+
+<p>
 <a class="btn" href="https://kushalsamant.github.io/anthologies.html" rel="noopener noreferrer" target="_blank">Anthologies&nbsp;&lt;</a><br><br>
 </p>
 
 <p>
-<a class="btn" href="https://kushalsamant.github.io/wordpress" rel="noopener noreferrer" target="_blank">Books on Amazon&nbsp;&lt;</a><br><br>
+<a class="btn" href="https://kushalsamant.github.io/wordpress" rel="noopener noreferrer" target="_blank">Get A Book Everyday&nbsp;&lt;</a><br><br>
 </p>
 
 <p>
