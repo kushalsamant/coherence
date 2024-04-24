@@ -20,19 +20,19 @@ This also means that my future relies entirely on community contributions. Hereâ
 </p>
 
 <p>
-<a class="btn" href="https://in.pinterest.com/kvshvl/airbnb/" rel="noopener noreferrer" target="_blank">Airbnb&nbsp;&lt;</a><br>
+<a class="btn" href="https://in.pinterest.com/kvshvl/airbnb/" rel="noopener noreferrer" target="_blank">Airbnb&nbsp;&lt;</a><br><br>
 </p>
 
 <p>
-<a class="btn" href="https://in.pinterest.com/kvshvl/art/" rel="noopener noreferrer" target="_blank">Art&nbsp;&lt;</a><br>
+<a class="btn" href="https://in.pinterest.com/kvshvl/art/" rel="noopener noreferrer" target="_blank">Art&nbsp;&lt;</a><br><br>
 </p>
 
 <p>
-<a class="btn" href="https://in.pinterest.com/kvshvl/books/" rel="noopener noreferrer" target="_blank">Books&nbsp;&lt;</a><br>
+<a class="btn" href="https://in.pinterest.com/kvshvl/books/" rel="noopener noreferrer" target="_blank">Books&nbsp;&lt;</a><br><br>
 </p>
 
 <p>
-<a class="btn" href="https://in.pinterest.com/kvshvl/music/" rel="noopener noreferrer" target="_blank">Music&nbsp;&lt;</a><br>
+<a class="btn" href="https://in.pinterest.com/kvshvl/music/" rel="noopener noreferrer" target="_blank">Music&nbsp;&lt;</a><br><br>
 </p>
 
 <p>
