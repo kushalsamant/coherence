@@ -135,8 +135,6 @@ Vora,&nbsp;Shyam.
 Wadhwani,&nbsp;Sakshi.  
 Yalgi,&nbsp;Mohit.  
 
-***
-
 These are the names of the people who signed up to be a part of Your Mail Project. They gave me an opportunity to contribute to your lives.
 
 Agarwal,&nbsp;Parul.  
