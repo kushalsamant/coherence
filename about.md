@@ -125,8 +125,6 @@ These are the projects/ventures I've worked on.
 - Bungalow. Proposed a lake house with circular form and bridges as corridors.  
 - Articles for Annual Architectural Magazine, Oculus 2 of KLS GIT, Belgaum.
 
-***
-
 **Other Projects**.
 
 edStudio Architects.  
