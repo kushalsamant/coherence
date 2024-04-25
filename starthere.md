@@ -36,11 +36,11 @@ This also means that my future relies entirely on community contributions. Hereâ
 </p>
 
 <p>
-<a class="btn" href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a><br><br>
+<a class="btn" href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank">Airbnb&nbsp;&lt;</a><br>
 </p>
 
 <p>
-<a class="btn" href="https://sketchfab.com/3d-models/shlvng-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosketchfab.png" alt="Sketchfab" width="30"></a><br><br>
+<a class="btn" href="https://sketchfab.com/3d-models/shlvng-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank">Sketchfab&nbsp;&lt;</a><br>
 </p>
 
 <p>
@@ -48,23 +48,23 @@ This also means that my future relies entirely on community contributions. Hereâ
 </p>
 
 <p>
-<a class="btn" href="https://fineartamerica.com/profiles/2-kushal-samant/shop" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logofineartamerica.png" alt="Fine Art America" width="30"></a><br><br>
+<a class="btn" href="https://fineartamerica.com/profiles/2-kushal-samant/shop" rel="noopener noreferrer" target="_blank">Fine Art America&nbsp;&lt;</a><br>
 </p>
 
 <p>
-<a class="btn" href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoredbubble.png" alt="Redbubble" width="30"></a><br><br>
+<a class="btn" href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble&nbsp;&lt;</a><br>
 </p>
 
 <p>
-<a class="btn" href="https://society6.com/yourmailproject" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosociety6.png" alt="Society6" width="30"></a><br><br>
+<a class="btn" href="https://society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6&nbsp;&lt;</a><br>
 </p>
 
 <p>
-<a class="btn" href="https://www.teepublic.com/user/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoteepublic.png" alt="Tee Public" width="30"></a><br><br>
+<a class="btn" href="https://www.teepublic.com/user/kvshvl" rel="noopener noreferrer" target="_blank">Tee Public&nbsp;&lt;</a><br>
 </p>
 
 <p>
-<a class="btn" href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logothreadless.png" alt="Threadless" width="30"></a><br><br>
+<a class="btn" href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless"&nbsp;&lt;</a><br>
 </p>
 
 <p>
