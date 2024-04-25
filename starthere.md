@@ -16,57 +16,82 @@ This is meant to be as transparent as reasonably possible. Since I’m accountab
 This also means that my future relies entirely on community contributions. Here’s how you can help: If you’re already following my content and want to chip in a little extra, you can explore the following curatorial projects.
 
 <p>
-<br>
+</p>
+<p>
 </p>
 
 <p>
-<a class="btn" href="https://in.pinterest.com/kvshvl/art/" rel="noopener noreferrer" target="_blank">Art&nbsp;&lt;</a><br><br>
+<a class="btn" href="https://in.pinterest.com/kvshvl/art/" rel="noopener noreferrer" target="_blank">Art&nbsp;&lt;</a>
 </p>
 
 <p>
-<a class="btn" href="https://in.pinterest.com/kvshvl/books/" rel="noopener noreferrer" target="_blank">Books&nbsp;&lt;</a><br><br>
 </p>
 
 <p>
-<a class="btn" href="https://in.pinterest.com/kvshvl/music/" rel="noopener noreferrer" target="_blank">Music&nbsp;&lt;</a><br><br>
+<a class="btn" href="https://in.pinterest.com/kvshvl/books/" rel="noopener noreferrer" target="_blank">Books&nbsp;&lt;</a>
 </p>
 
 <p>
-<br>
 </p>
 
 <p>
-<a class="btn" href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank">Airbnb&nbsp;&lt;</a><br><br>
+<a class="btn" href="https://in.pinterest.com/kvshvl/music/" rel="noopener noreferrer" target="_blank">Music&nbsp;&lt;</a>
 </p>
 
 <p>
-<a class="btn" href="https://sketchfab.com/3d-models/shlvng-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank">Sketchfab&nbsp;&lt;</a><br><br>
+</p>
+<p>
 </p>
 
 <p>
-<br>
+<a class="btn" href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank">Airbnb&nbsp;&lt;</a>
 </p>
 
 <p>
-<a class="btn" href="https://fineartamerica.com/profiles/2-kushal-samant/shop" rel="noopener noreferrer" target="_blank">Fine Art America&nbsp;&lt;</a><br><br>
 </p>
 
 <p>
-<a class="btn" href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble&nbsp;&lt;</a><br><br>
+<a class="btn" href="https://sketchfab.com/3d-models/shlvng-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank">Sketchfab&nbsp;&lt;</a>
 </p>
 
 <p>
-<a class="btn" href="https://society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6&nbsp;&lt;</a><br><br>
+</p>
+<p>
 </p>
 
 <p>
-<a class="btn" href="https://www.teepublic.com/user/kvshvl" rel="noopener noreferrer" target="_blank">Tee Public&nbsp;&lt;</a><br><br>
+<a class="btn" href="https://fineartamerica.com/profiles/2-kushal-samant/shop" rel="noopener noreferrer" target="_blank">Fine Art America&nbsp;&lt;</a>
 </p>
 
 <p>
-<a class="btn" href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless"&nbsp;&lt;</a><br><br>
 </p>
 
 <p>
-<br>
+<a class="btn" href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble&nbsp;&lt;</a>
+</p>
+
+<p>
+</p>
+
+<p>
+<a class="btn" href="https://society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6&nbsp;&lt;</a>
+</p>
+
+<p>
+</p>
+
+<p>
+<a class="btn" href="https://www.teepublic.com/user/kvshvl" rel="noopener noreferrer" target="_blank">Tee Public&nbsp;&lt;</a>
+</p>
+
+<p>
+</p>
+
+<p>
+<a class="btn" href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless&nbsp;&lt;</a>
+</p>
+
+<p>
+</p>
+<p>
 </p>
