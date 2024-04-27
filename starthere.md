@@ -21,7 +21,7 @@ This also means that my future relies entirely on community contributions. Hereâ
 </p>
 
 <p>
-<a class="btn" href="https://in.pinterest.com/kvshvl/art/" rel="noopener noreferrer" target="_blank">Art&nbsp;&lt;</a>
+<a class="btn" href="https://in.pinterest.com/kvshvl/artworks/" rel="noopener noreferrer" target="_blank">Art&nbsp;&lt;</a>
 </p>
 
 <p>
