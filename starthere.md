@@ -16,6 +16,7 @@ This is meant to be as transparent as reasonably possible. Since I’m accountab
 This also means that my future relies entirely on community contributions. Here’s how you can help: If you’re already following my content and want to chip in a little extra, you can explore the following curatorial projects.
 
 - <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>.  
+- <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank">Twitter</a>.  
 - <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless</a>.  
 - <a href="https://www.teepublic.com/user/kvshvl" rel="noopener noreferrer" target="_blank">Tee Public</a>.  
 - <a href="https://society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6</a>.  
