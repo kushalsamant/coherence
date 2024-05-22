@@ -22,11 +22,13 @@ This also means that my future relies entirely on community contributions. Hereâ
 - <a href="https://society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6</a>.  
 - <a href="https://sketchfab.com/3d-models/shlvng-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank">Sketchfab</a>.  
 - <a href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble</a>.  
-- <a href="https://in.pinterest.com/kvshvl/music/" rel="noopener noreferrer" target="_blank">Music</a>.  
+- <a href="https://in.pinterest.com/kvshvl/music" rel="noopener noreferrer" target="_blank">Music</a>.  
 - <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a>.  
 - <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a>.  
 - <a href="https://github.com/kushalsamant" rel="noopener noreferrer" target="_blank">GitHub</a>.  
 - <a href="https://fineartamerica.com/profiles/2-kushal-samant/shop" rel="noopener noreferrer" target="_blank">Fine Art America</a>.  
-- <a href="https://in.pinterest.com/kvshvl/books/" rel="noopener noreferrer" target="_blank">Books</a>.  
-- <a href="https://in.pinterest.com/kvshvl/artworks/" rel="noopener noreferrer" target="_blank">Artworks</a>.  
-- <a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank">Airbnb</a>.  
+
+- <a href="https://www.eyeem.com/u/kvshvl" rel="noopener noreferrer" target="_blank">EyeEm</a>.  
+- <a href="https://in.pinterest.com/kvshvl/books" rel="noopener noreferrer" target="_blank">Books</a>.  
+- <a href="https://in.pinterest.com/kvshvl/artworks" rel="noopener noreferrer" target="_blank">Artworks</a>.  
+- <a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank">Airbnb</a>.
