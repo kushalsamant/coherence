@@ -29,4 +29,4 @@ This also means that my future relies entirely on community contributions. Hereâ
 - <a href="https://fineartamerica.com/profiles/2-kushal-samant/shop" rel="noopener noreferrer" target="_blank">Fine Art America</a>.  
 - <a href="https://www.eyeem.com/u/kvshvl" rel="noopener noreferrer" target="_blank">EyeEm</a>.  
 - <a href="https://in.pinterest.com/kvshvl/books" rel="noopener noreferrer" target="_blank">Books</a>.  
-- <a href="https://in.pinterest.com/kvshvl/artworks" rel="noopener noreferrer" target="_blank">Artworks</a>. 
+- <a href="https://in.pinterest.com/kvshvl/artworks" rel="noopener noreferrer" target="_blank">Artworks</a>.
