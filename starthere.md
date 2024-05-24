@@ -19,7 +19,6 @@ This also means that my future relies entirely on community contributions. Hereâ
 - <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless</a>.  
 - <a href="https://www.teepublic.com/user/kvshvl" rel="noopener noreferrer" target="_blank">Tee Public</a>.  
 - <a href="https://society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6</a>.  
-- <a href="https://sketchfab.com/3d-models/shlvng-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank">Sketchfab</a>.  
 - <a href="https://www.shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank">Shutterstock</a>.  
 - <a href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble</a>.  
 - <a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank">Pinterest</a>.  
