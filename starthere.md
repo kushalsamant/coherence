@@ -1,5 +1,7 @@
 **Start Here**.
 
+If you think this website is unlike others, don't fret. This website is intentionally built using <a href="https://github.com/kushalsamant" rel="noopener noreferrer" target="_blank">GitHub</a> to do a bit to preserve a web that does not compromise on your time, privacy, and bandwidth.
+
 Here you can see what I’ve shipped recently, what I’m building next, and how I’m doing as an architect. By sharing this information I aim to demystify the weird and wonderful process of working on mostly bootstrapped projects.
 
 I’m working hard to build a mindful, respectful, and accountable space for my patrons. I’ve lots of ideas for how to do a better job, as well as lots of challenges.
