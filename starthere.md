@@ -17,7 +17,7 @@ This also means that my future relies entirely on community contributions. Hereâ
 - <a href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble</a>.  
 - <a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank">Pinterest</a>.  
 - <a href="https://fineartamerica.com/profiles/2-kushal-samant/shop" rel="noopener noreferrer" target="_blank">Fine Art America</a>.  
-- <a href="https://www.eyeem.com/u/kvshvl" rel="noopener noreferrer" target="_blank">EyeEm</a>.
+- <a href="https://www.contrado.com/stores/kvshvl" rel="noopener noreferrer" target="_blank">Contrado</a>.
 
 This website is an intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant, vide Architect's&nbsp;Act,&nbsp;1972 of the Constitution&nbsp;of&nbsp;The&nbsp;Republic&nbsp;of&nbsp;India. Any violation of the Architect's Act is a punishable offence.
 
