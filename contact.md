@@ -1,6 +1,6 @@
 **Contact**.
 
-If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a> / <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a> / <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank">Twitter</a>.
+If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a> / <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a> / <a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank">Pinterest</a> / <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank">Twitter</a>.
 
 I try to respond to as many posts as possible. I know that's not as satisfying as sending a direct email but my inbox is a big fat mess and when I made it public there were too many messages to respond so they just went unread - that sucks for everyone.
 
