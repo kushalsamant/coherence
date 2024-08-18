@@ -17,7 +17,6 @@ This also means that my future relies entirely on community contributions. Hereâ
 - <a href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble</a>.  
 - <a href="https://www.shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank">Shutterstock</a>.  
 - <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless</a>.  
-- <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>.  
 
 This website is an intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant, vide Architect's&nbsp;Act,&nbsp;1972 of the Constitution&nbsp;of&nbsp;The&nbsp;Republic&nbsp;of&nbsp;India. Any violation of the Architect's Act is a punishable offence.
 
