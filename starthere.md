@@ -11,7 +11,6 @@ This is meant to be as transparent as reasonably possible. Since I’m accountab
 This also means that my future relies entirely on community contributions. Here’s how you can help: If you’re already following my <a href="https://kushalsamant.github.io/anthologies.html">content</a> and want to chip in a little extra, you can explore my surface pattern designs here.
 
 - <a href="https://stock.adobe.com/contributor/212199501/KVSHVL" rel="noopener noreferrer" target="_blank">Adobe</a>.  
-- <a href="https://www.alamy.com/portfolio/kvshvl" rel="noopener noreferrer" target="_blank">Alamy</a>.  
 - <a href="https://www.contrado.com/stores/kvshvl" rel="noopener noreferrer" target="_blank">Contrado</a>.  
 - <a href="https://fineartamerica.com/profiles/2-kushal-samant/shop" rel="noopener noreferrer" target="_blank">Fine Art America</a>.  
 - <a href="https://raspberrycreekfabrics.com/collections/studio-kvshvl" rel="noopener noreferrer" target="_blank">Raspberry Creek Fabrics</a>.  
