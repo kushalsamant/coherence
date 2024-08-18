@@ -17,7 +17,6 @@ This also means that my future relies entirely on community contributions. Hereâ
 - <a href="https://raspberrycreekfabrics.com/collections/studio-kvshvl" rel="noopener noreferrer" target="_blank">Raspberry Creek Fabrics</a>.  
 - <a href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble</a>.  
 - <a href="https://www.shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank">Shutterstock</a>.  
-- <a href="https://society6.com/yourmailproject" rel="noopener noreferrer" target="_blank">Society6</a>.  
 - <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless</a>.  
 - <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>.  
 
