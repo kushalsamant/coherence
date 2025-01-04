@@ -3051,7 +3051,8 @@ Use Bank Account #1 as your Collections account (100% of your money) for all inc
 Use Bank Account #2 as your Tax account (30% of your money or as advised by your tax accountant) for paying tax.  
 
 Use Bank Account #3 as your Main account (20% of your money) for business and living expenses.  
-Use 10% of Bank Account #3 (2% of your money) for all business marketing purposes, and should earn the expected gross revenue i.e. 100% of Bank Account #1.  
+Use 10% of Bank Account #3 (2% of your money) for all business marketing purposes.  
+This should earn the expected gross revenue i.e. 100% of Bank Account #1.  
 
 Use Bank Account #4 as your Investment account (10% of your money) for debt, gold, investments, mutual funds, and share/stock trading.  
 
@@ -3062,7 +3063,7 @@ Use Bank Account #6 as Cash Account (10% of your money) for the education of any
 
 Use Bank Account #7 as Cash Account (10% of your money) for health purposes.  
 
-Use Bank Account #8 as Cash Account for Parents (10% of your money) for parental care.  
+Use Bank Account #8 as Cash Account (10% of your money) for parents or parental care.  
 
 If you have read this far, start calculating backwards from here with the question - “How much would I need for this?” - at every stage.  
 
