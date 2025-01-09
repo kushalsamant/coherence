@@ -3046,24 +3046,29 @@ The following is a method to manage your money better.
 
 3.   Do not waver.  
 
-Use Bank Account #1 as your Collections account (100% of your money) for all incoming funds.  
+Use Bank Account #1 as 100% of your Collections account for all incoming funds.  
 
-Use Bank Account #2 as your Tax account (30% of your money or as advised by your tax accountant) for paying tax.  
+From Bank Account #1,  
+Transfer an amount equal to 50% of your collections (or as advised by your tax accountant) to Bank Account #2 i.e. your Tax account for paying tax.  
 
-Use Bank Account #3 as your Main account (20% of your money) for business and living expenses.  
-Use 10% of Bank Account #3 (2% of your money) for all business marketing purposes.  
-This should earn the expected gross revenue i.e. 100% of Bank Account #1.  
+Transfer an amount equal to 50% of your collections to Bank Account #3 i.e. your Main account for business and living expenses.  
 
-Use Bank Account #4 as your Investment account (10% of your money) for debt, gold, investments, mutual funds, and share/stock trading.  
+In Bank Account #3,  
+Reserve an amount equal to 20% of your collections for business and living expenses.  
+Reserve an amount equal to 5% of your collections for all business marketing purposes.  
+This business marketing reserve should earn the expected gross revenue i.e. 100% of your Bank Account #1.  
 
-Use Bank Account #5 as Cash Account (10% of your money) for buying real estate.  
+From Bank Account #3,  
+Transfer an amount equal to 5% of your collections to Bank Account #4 i.e. your Investment account for debt, gold, investments, mutual funds, and share/stock trading.  
+
+Transfer an amount equal to 5% of your collections to Bank Account #5 i.e. Cash Account for buying real estate.  
 You should buy real estate in cash only.  
 
-Use Bank Account #6 as Cash Account (10% of your money) for the education of any progeny.  
+Transfer an amount equal to 5% of your collections to Bank Account #6 i.e. Cash Account for the education of any progeny.  
 
-Use Bank Account #7 as Cash Account (10% of your money) for health purposes.  
+Transfer an amount equal to 5% of your collections to Bank Account #7 i.e. Cash Account for health purposes.  
 
-Use Bank Account #8 as Cash Account (10% of your money) for parents or parental care.  
+Transfer an amount equal to 5% of your collections to Bank Account #8 i.e. Cash Account for parents or parental care.  
 
 If you have read this far, start calculating backwards from here with the question - “How much would I need for this?” - at every stage.  
 
