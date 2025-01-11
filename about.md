@@ -1,4 +1,4 @@
-**<h2 id="about">About</h2>**.
+<h2 id="about">About</h2>.
 
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Samant Kushal" width="150">
 
@@ -21,8 +21,3 @@ In 2022, he taught as a core faculty at Dr.&nbsp;D.Y.&nbsp;Patil&nbsp;College&nb
 So far, he has worked in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
 **[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
-
-
-
-
-
