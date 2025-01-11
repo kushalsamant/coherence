@@ -251,9 +251,8 @@ Thakkar,&nbsp;Niyati.
 Venkataraman,&nbsp;Harini.  
 Yadav,&nbsp;Chandrakala.
 
-**[About](#about)**. **[People](#people)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
-
 <h2 id="projects">Projects</h2>
+**[About](#about)**. **[People](#people)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
 
 These are the projects/ventures I've worked on.
 
