@@ -1,4 +1,4 @@
-**Start Here**.
+<h2 id="start">Start Here</h2>.
 
 If you think this website is unlike others, don't fret. This website is intentionally built using <a href="https://github.com/kushalsamant" rel="noopener noreferrer" target="_blank">GitHub</a> to do a bit to preserve a web that does not compromise on your time, privacy, and bandwidth.
 
@@ -20,4 +20,4 @@ This website is an intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay
 Photos and videos are edited using modern editors for videos, GIFs, and images:  
 <a href="https://videosoftdev.com" rel="noopener noreferrer" target="_blank">VSDC Video Editor</a>, <a href="https://play.google.com/store/apps/details?id=com.vsco.cam" rel="noopener noreferrer" target="_blank">VSCO Cam</a>, <a href="https://play.google.com/store/apps/details?id=maa.vaporwave_editor_glitch_vhs_trippy_pro" rel="noopener noreferrer" target="_blank">Vaporgram Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed" rel="noopener noreferrer" target="_blank">Snapseed</a>, <a href="https://kapwing.com" rel="noopener noreferrer" target="_blank">Kapwing</a>, <a href="https://play.google.com/store/apps/details?id=com.instagram.android" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot" rel="noopener noreferrer" target="_blank">Inshot</a>, and <a href="https://play.google.com/store/apps/details?id=kr.co.manhole.hujicam" rel="noopener noreferrer" target="_blank">Huji Cam</a>.
 
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
+**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back to Start](#start)**
