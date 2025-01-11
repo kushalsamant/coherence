@@ -3,9 +3,8 @@
 > "Memento Mori, Amor Fati."  
 > Marcus Aurelius.
 
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
-
 <h2 id="start">Start Here</h2>
+**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
 
 If you think this website is unlike others, don't fret. This website is intentionally built using <a href="https://github.com/kushalsamant" rel="noopener noreferrer" target="_blank">GitHub</a> to do a bit to preserve a web that does not compromise on your time, privacy, and bandwidth.
 
