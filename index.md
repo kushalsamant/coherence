@@ -5,7 +5,7 @@
 
 **[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
 
-**Start Here**.
+<h2 id="start">Start Here</h2>
 
 If you think this website is unlike others, don't fret. This website is intentionally built using <a href="https://github.com/kushalsamant" rel="noopener noreferrer" target="_blank">GitHub</a> to do a bit to preserve a web that does not compromise on your time, privacy, and bandwidth.
 
@@ -27,9 +27,9 @@ This website is an intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay
 Photos and videos are edited using modern editors for videos, GIFs, and images:  
 <a href="https://videosoftdev.com" rel="noopener noreferrer" target="_blank">VSDC Video Editor</a>, <a href="https://play.google.com/store/apps/details?id=com.vsco.cam" rel="noopener noreferrer" target="_blank">VSCO Cam</a>, <a href="https://play.google.com/store/apps/details?id=maa.vaporwave_editor_glitch_vhs_trippy_pro" rel="noopener noreferrer" target="_blank">Vaporgram Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed" rel="noopener noreferrer" target="_blank">Snapseed</a>, <a href="https://kapwing.com" rel="noopener noreferrer" target="_blank">Kapwing</a>, <a href="https://play.google.com/store/apps/details?id=com.instagram.android" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot" rel="noopener noreferrer" target="_blank">Inshot</a>, and <a href="https://play.google.com/store/apps/details?id=kr.co.manhole.hujicam" rel="noopener noreferrer" target="_blank">Huji Cam</a>.
 
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
+**[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
 
-<h2 id="about">About</h2>.
+<h2 id="about">About</h2>
 
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Samant Kushal" width="150">
 
@@ -51,9 +51,9 @@ In 2022, he taught as a core faculty at Dr.&nbsp;D.Y.&nbsp;Patil&nbsp;College&nb
 
 So far, he has worked in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
+**[About](#about)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
 
-<h2 id="people">People</h2>.
+<h2 id="people">People</h2>
 
 These people taught me things that I could not have learnt otherwise.
 
@@ -254,9 +254,9 @@ Thakkar,&nbsp;Niyati.
 Venkataraman,&nbsp;Harini.  
 Yadav,&nbsp;Chandrakala.
 
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
+**[About](#about)**. **[People](#people)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
 
-<h2 id="projects">Projects</h2>.
+<h2 id="projects">Projects</h2>
 
 These are the projects/ventures I've worked on.
 
@@ -406,7 +406,7 @@ Bangalore.
 - Residence + Interiors, Bangalore. Client: Dr. Ravindran.  
 - Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
 
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
+**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Back&nbsp;to&nbsp;Start](#start)**.
 
 <h2 id="contact">Contact</h2>.
 
@@ -424,4 +424,4 @@ Family comes first, work second and whatever is left over I like to use for me w
 
 It's brilliant, I wish I'd written it. I am sorry for no, but it's not without reason.
 
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
+**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
