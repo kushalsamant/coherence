@@ -29,7 +29,7 @@ Photos and videos are edited using modern editors for videos, GIFs, and images:
 
 **[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
 
-**<h2 id="about">About</h2>**.
+<h2 id="about">About</h2>.
 
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Samant Kushal" width="150">
 
