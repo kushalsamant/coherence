@@ -1,5 +1,5 @@
 
-**<h2 id="projects">Projects</h2>**.
+<h2 id="projects">Projects</h2>
 
 These are the projects/ventures I've worked on.
 
