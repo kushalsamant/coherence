@@ -45,7 +45,7 @@ In 2022, he taught as a core faculty at Dr.&nbsp;D.Y.&nbsp;Patil&nbsp;College&nb
 So far, he has worked in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
 <h2 id="people">People</h2>
-**[About](#about)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
+**[Projects](#projects)**. **[Contact](#contact)**. **[About](#about)**. **[Back&nbsp;to&nbsp;Start](#start)**.
 
 These people taught me things that I could not have learnt otherwise.
 
@@ -247,7 +247,7 @@ Venkataraman,&nbsp;Harini.
 Yadav,&nbsp;Chandrakala.
 
 <h2 id="projects">Projects</h2>
-**[About](#about)**. **[People](#people)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
+**[Contact](#contact)**. **[About](#about)**. **[People](#people)**. **[Back&nbsp;to&nbsp;Start](#start)**.
 
 These are the projects/ventures I've worked on.
 
@@ -398,7 +398,7 @@ Bangalore.
 - Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
 
 <h2 id="contact">Contact</h2>
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Back&nbsp;to&nbsp;Start](#start)**.
+**[Back&nbsp;to&nbsp;Start](#start)**. **[About](#about)**. **[People](#people)**. **[Projects](#projects)**.
 
 If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a> / <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a> / <a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank">Pinterest</a> / <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank">Twitter</a> / <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>.
 
