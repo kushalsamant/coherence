@@ -53,7 +53,7 @@ So far, he has worked in the fields of academic research, app development, archi
 
 **[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
 
-**<h2 id="people">People</h2>**.
+<h2 id="people">People</h2>.
 
 These people taught me things that I could not have learnt otherwise.
 
