@@ -22,7 +22,7 @@ Photos and videos are edited using modern editors for videos, GIFs, and images:
 <a href="https://videosoftdev.com" rel="noopener noreferrer" target="_blank">VSDC Video Editor</a>, <a href="https://play.google.com/store/apps/details?id=com.vsco.cam" rel="noopener noreferrer" target="_blank">VSCO Cam</a>, <a href="https://play.google.com/store/apps/details?id=maa.vaporwave_editor_glitch_vhs_trippy_pro" rel="noopener noreferrer" target="_blank">Vaporgram Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed" rel="noopener noreferrer" target="_blank">Snapseed</a>, <a href="https://kapwing.com" rel="noopener noreferrer" target="_blank">Kapwing</a>, <a href="https://play.google.com/store/apps/details?id=com.instagram.android" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot" rel="noopener noreferrer" target="_blank">Inshot</a>, and <a href="https://play.google.com/store/apps/details?id=kr.co.manhole.hujicam" rel="noopener noreferrer" target="_blank">Huji Cam</a>.
 
 <h2 id="about">About</h2>
-**[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
+**[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
 
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Samant Kushal" width="150">
 
@@ -45,7 +45,7 @@ In 2022, he taught as a core faculty at Dr.&nbsp;D.Y.&nbsp;Patil&nbsp;College&nb
 So far, he has worked in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
 <h2 id="people">People</h2>
-**[Projects](#projects)**. **[Contact](#contact)**. **[About](#about)**. **[Back&nbsp;to&nbsp;Start](#start)**.
+**[Projects](#projects)**. **[Contact](#contact)**. **[About](#about)**.
 
 These people taught me things that I could not have learnt otherwise.
 
@@ -247,7 +247,7 @@ Venkataraman,&nbsp;Harini.
 Yadav,&nbsp;Chandrakala.
 
 <h2 id="projects">Projects</h2>
-**[Contact](#contact)**. **[About](#about)**. **[People](#people)**. **[Back&nbsp;to&nbsp;Start](#start)**.
+**[Contact](#contact)**. **[About](#about)**. **[People](#people)**.
 
 These are the projects/ventures I've worked on.
 
@@ -398,7 +398,7 @@ Bangalore.
 - Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
 
 <h2 id="contact">Contact</h2>
-**[Back&nbsp;to&nbsp;Start](#start)**. **[About](#about)**. **[People](#people)**. **[Projects](#projects)**.
+**[About](#about)**. **[People](#people)**. **[Projects](#projects)**.
 
 If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a> / <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a> / <a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank">Pinterest</a> / <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank">Twitter</a> / <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>.
 
@@ -414,4 +414,4 @@ Family comes first, work second and whatever is left over I like to use for me w
 
 It's brilliant, I wish I'd written it. I am sorry for no, but it's not without reason.
 
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
+**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**.
