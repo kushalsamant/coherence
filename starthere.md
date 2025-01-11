@@ -8,9 +8,14 @@ I’m working hard to build a mindful, respectful, and accountable space for my 
 
 This is meant to be as transparent as reasonably possible. Since I’m accountable to my patrons instead of advertisers, my incentive is to create meaningful projects.
 
+- <a href="https://www.wikihouse.cc" rel="noopener noreferrer" target="_blank">The&nbsp;WikiHouse&nbsp;Project</a>.  
+- <a href="https://www.airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank">Airbnb</a>.  
+- <a href="https://www.sketchfab.com/3d-models/shelving-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank">SHLVNG</a>.  
+- <a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html">Your&nbsp;Mail&nbsp;Project</a>.  
+- <a href="https://geometry.printify.me" rel="noopener noreferrer" target="_blank">Geometry</a>.
+
 This also means that my future relies entirely on community contributions. Here’s how you can help: If you’re already following my <a href="https://kushalsamant.github.io/anthologies.html">content</a> and want to chip in a little extra, you can explore my surface pattern designs here.
 
-- <a href="https://geometry.printify.me/products" rel="noopener noreferrer" target="_blank">Geometry</a>.  
 - <a href="https://raspberrycreekfabrics.com/collections/studio-kvshvl" rel="noopener noreferrer" target="_blank">Raspberry Creek Fabrics</a>.  
 - <a href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble</a>.  
 - <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless</a>.  
