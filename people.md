@@ -1,4 +1,4 @@
-<h2 id="people">People</h2>.
+<h2 id="people">People</h2>
 
 These people taught me things that I could not have learnt otherwise.
 
