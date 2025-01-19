@@ -1,4 +1,4 @@
-**Contact**.
+<h2 id="contact">Contact</h2>
 
 If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a> / <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a> / <a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank">Pinterest</a> / <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank">Twitter</a> / <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>.
 
@@ -13,3 +13,5 @@ Family comes first, work second and whatever is left over I like to use for me w
 <a href="https://twitter.com/paulg" rel="noopener noreferrer" target="_blank">Paul Graham</a> really nails why saying yes for a quick coffee can be so destructive to the creative process - give '<a href="http://paulgraham.com/makersschedule.html" rel="noopener noreferrer" target="_blank">this</a>' a read to understand the maker's schedule. <a href="https://twitter.com/RyanHoliday" rel="noopener noreferrer" target="_blank">Ryan Holiday</a> penned '<a href="https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time" rel="noopener noreferrer" target="_blank">this</a>' pointed essay to everyone who asks for just a little of your time.
 
 It's brilliant, I wish I'd written it. I am sorry for no, but it's not without reason.
+
+**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.

@@ -3037,26 +3037,38 @@ We may not change the world, yet let's begin here.
 > but part of your life too, May be our planet.”  
 
 **Investment plan**.  
+
 The following is a method to manage your money better.  
 
-1. Get 9 Bank Accounts.  
+1.   Get 8 Bank Accounts.  
 
-2. Use these Bank Accounts in the following ways.  
-- Use Bank Account #1 as your Main account (100% of your money) for all incoming funds.  
-All incoming funds should come to Bank Account #1 only.  
-- Use Bank Account #2 as your Tax account (30% of your money or as advised by your tax accountant) for paying tax.  
-Transfer the tax amount to Bank Account #2 and pay only tax using Bank Account #2 only.  
-- Use Bank Account #3 as your Office account (10% of your money) for marketing, office expenses, and utilities expenses.  
-All office expenses should be spent from Bank Account #3 only.  
-Upto 10% of Bank Account #3 (1% of your money) should be used for all business marketing purposes, and should earn the expected gross revenue i.e. 100% of Bank Account #1. 
-- Use Bank Account #4 as your Home account (10% of your money) for food, rent, outings, and utilities.  
-All home expenses should be spent from Bank Account #4 only.  
-- Use Bank Account #5 as your Retirement account (10% of your money) for debt, gold, investments, mutual funds, and share/stock trading.  
-- Use Bank Account #6 as Cash Account (10% of your money) for buying real estate.  
+2.   Use these Bank Accounts in the following ways strictly.  
+
+3.   Do not waver.  
+
+Use Bank Account #1 as 100% of your Collections account for all incoming funds.  
+
+From Bank Account #1,  
+Transfer an amount equal to 50% of your collections (or as advised by your tax accountant) to Bank Account #2 i.e. your Tax account for paying tax.  
+
+Transfer an amount equal to 50% of your collections to Bank Account #3 i.e. your Main account for business and living expenses.  
+
+In Bank Account #3,  
+Reserve an amount equal to 20% of your collections for business and living expenses.  
+Reserve an amount equal to 5% of your collections for all business marketing purposes.  
+This business marketing reserve should earn the expected gross revenue i.e. 100% of your Bank Account #1.  
+
+From Bank Account #3,  
+Transfer an amount equal to 5% of your collections to Bank Account #4 i.e. your Investment account for debt, gold, investments, mutual funds, and share/stock trading.  
+
+Transfer an amount equal to 5% of your collections to Bank Account #5 i.e. Cash Account for buying real estate.  
 You should buy real estate in cash only.  
-- Use Bank Account #7 as Cash Account (10% of your money) for the education of any progeny.  
-- Use Bank Account #8 as Cash Account (10% of your money) for health purposes.  
-- Use Bank Account #9 as Cash Account for Parents (10% of your money) for parental care.  
+
+Transfer an amount equal to 5% of your collections to Bank Account #6 i.e. Cash Account for the education of any progeny.  
+
+Transfer an amount equal to 5% of your collections to Bank Account #7 i.e. Cash Account for health purposes.  
+
+Transfer an amount equal to 5% of your collections to Bank Account #8 i.e. Cash Account for parents or parental care.  
 
 If you have read this far, start calculating backwards from here with the question - “How much would I need for this?” - at every stage.  
 

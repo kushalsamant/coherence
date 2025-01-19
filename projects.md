@@ -1,8 +1,9 @@
 
-**Projects**.
+<h2 id="projects">Projects</h2>
 
 These are the projects/ventures I've worked on.
 
+- <a href="https://geometry.printify.me" rel="noopener noreferrer" target="_blank">Geometry</a>.  
 - Core Faculty of Architecture at Dr D.Y. Patil College of Architecture, Navi Mumbai.  
 - <a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html">Your&nbsp;Mail&nbsp;Project</a>.  
 - <a href="https://sandishridhar.tumblr.com" rel="noopener noreferrer" target="_blank">Web Design + Digital Marketing + Automation for Sandeep Shridhar Dhabale</a>.  
@@ -147,3 +148,5 @@ Bangalore.
 - Residence, Chamarajpet, Bangalore. Client: Mr. Sitaram and Mrs. Shruti.  
 - Residence + Interiors, Bangalore. Client: Dr. Ravindran.  
 - Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
+
+**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
