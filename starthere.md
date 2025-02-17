@@ -414,3 +414,5 @@ Family comes first, work second and whatever is left over I like to use for me w
 <a href="https://twitter.com/paulg" rel="noopener noreferrer" target="_blank">Paul Graham</a> really nails why saying yes for a quick coffee can be so destructive to the creative process - give '<a href="http://paulgraham.com/makersschedule.html" rel="noopener noreferrer" target="_blank">this</a>' a read to understand the maker's schedule. <a href="https://twitter.com/RyanHoliday" rel="noopener noreferrer" target="_blank">Ryan Holiday</a> penned '<a href="https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time" rel="noopener noreferrer" target="_blank">this</a>' pointed essay to everyone who asks for just a little of your time.
 
 It's brilliant, I wish I'd written it. I am sorry for no, but it's not without reason.
+
+**[Start Here](#start)**
