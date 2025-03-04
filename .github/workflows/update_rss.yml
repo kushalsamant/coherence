@@ -1,0 +1,39 @@
+name: Update RSS Feed  # Name of the workflow
+
+on:
+  workflow_dispatch:  # Allows manual execution from GitHub Actions
+  schedule:
+    - cron: '30 5 * * *'  # Runs daily at 05:30 AM UTC
+  push:
+    branches:
+      - main  # Runs whenever changes are pushed to the main branch
+
+jobs:
+  update_rss:
+    runs-on: ubuntu-latest  # Specifies the environment to run the job
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3  # Fetches the latest code from your repository
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'  # Ensures Python 3 is installed
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt  # Installs necessary dependencies
+
+      - name: Run Sitemap Generator
+        run: python run_sitemap.py  # Runs the script that generates sitemap.xml
+
+      - name: Run Sitemap to RSS Generator
+        run: python run_rss.py  # Runs the script that converts sitemap.xml to rss.xml
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add rss.xml
+          git commit -m "Auto-update RSS feed [skip ci]" || echo "No changes to commit"
+          git push
