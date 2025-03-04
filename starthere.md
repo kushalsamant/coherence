@@ -253,7 +253,7 @@ Yadav,&nbsp;Chandrakala.
 These are the projects/ventures I've worked on.
 
 - <a href="https://geometry.printify.me" rel="noopener noreferrer" target="_blank">Geometry</a>.  
-- Core Faculty of Architecture at Dr D.Y. Patil College of Architecture, Navi Mumbai.  
+- Core Faculty of Architecture at Dr D.Y. Patil School of Architecture, Navi Mumbai.  
 - <a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html">Your&nbsp;Mail&nbsp;Project</a>.  
 - <a href="https://sandishridhar.tumblr.com" rel="noopener noreferrer" target="_blank">Web Design + Digital Marketing + Automation for Sandeep Shridhar Dhabale</a>.  
 - <a href="https://phifilms.in" rel="noopener noreferrer" target="_blank">Web Design + Digital Marketing + Automation for PhiFilms</a>.  
