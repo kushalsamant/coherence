@@ -2,8 +2,8 @@ import os  # Library for interacting with the file system
 import requests  # Library for sending HTTP requests
 from bs4 import BeautifulSoup  # Library for parsing HTML content
 from urllib.parse import urljoin  # Helper function to resolve relative URLs
-import time  # For pausing execution and generating timestamps
 import xml.etree.ElementTree as ET  # For creating and manipulating XML files
+import xml.dom.minidom  # For prettifying the XML output
 import json  # For reading and writing JSON data (used for checkpointing)
 
 
@@ -50,28 +50,33 @@ class ResumableXMLSitemapGenerator:
 
     def save_segmented_sitemap(self):
         """
-        Saves collected URLs to an XML sitemap file in the specified output directory and starts a new segment.
+        Saves collected URLs to a **pretty formatted** XML sitemap file in the specified output directory and starts a new segment.
         """
-        # Generate the full path for the current segment
         filename = os.path.join(self.output_dir, f"{self.output_prefix}{self.file_index}.xml")
         
         # Create the XML structure for the sitemap
-        urlset = ET.Element("urlset", xmlns="http://www.sitemap.org/schemas/sitemap/0.9")
+        urlset = ET.Element("urlset", xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
         for url in sorted(self.visited_urls):  # Sort URLs for consistent ordering
             url_element = ET.SubElement(urlset, "url")  # Add a <url> element for each URL
             loc = ET.SubElement(url_element, "loc")
             loc.text = url  # Set the <loc> element to the URL
             lastmod = ET.SubElement(url_element, "lastmod")
-            lastmod.text = time.strftime("%Y-%m-%d")  # Set the last modification date
+            lastmod.text = "2025-03-05"  # Static date (can be modified dynamically)
             changefreq = ET.SubElement(url_element, "changefreq")
             changefreq.text = "daily"  # Set the change frequency to daily
             priority = ET.SubElement(url_element, "priority")
             priority.text = "0.8"  # Set a default priority value
         
-        # Write the XML to the file
-        tree = ET.ElementTree(urlset)
-        tree.write(filename, encoding="utf-8", xml_declaration=True)
-        print(f"Saved {len(self.visited_urls)} URLs to {filename}")
+        # Convert ElementTree XML to a pretty formatted string using minidom
+        rough_string = ET.tostring(urlset, encoding="utf-8")  # Convert XML tree to a raw string
+        parsed_xml = xml.dom.minidom.parseString(rough_string)  # Parse the raw XML string
+        pretty_xml = parsed_xml.toprettyxml(indent="  ")  # Format XML with indentation
+
+        # Write the formatted XML to the file
+        with open(filename, "w", encoding="utf-8") as file:
+            file.write(pretty_xml)
+
+        print(f"Saved {len(self.visited_urls)} URLs to {filename} (Pretty XML)")
 
         # Reset the URL list for the next segment
         self.visited_urls.clear()
@@ -126,15 +131,15 @@ class ResumableXMLSitemapGenerator:
             if len(self.visited_urls) >= self.segment_size:
                 self.save_segmented_sitemap()
 
-            # Pause after every 300 API calls to avoid overloading the server
-            if self.api_call_count % 300 == 0:
-                print("Pausing for 60 seconds after 300 API calls...")
-                time.sleep(60)
-
-    def start_crawl(self):
-        """Starts the crawling process, resuming from the last saved checkpoint."""
+    def start_crawl(self, max_pages=1000):
+        """
+        Starts the crawling process, resuming from the last saved checkpoint.
+        :param max_pages: Maximum number of pages to crawl before stopping.
+        """
         try:
-            while True:
+            pages_crawled = 0  # Track how many pages have been crawled
+
+            while pages_crawled < max_pages:
                 self.crawl_page(self.current_id)  # Crawl the current page by ID
 
                 # Save any remaining URLs in the current segment
@@ -144,17 +149,17 @@ class ResumableXMLSitemapGenerator:
                 # Save progress and increment the page ID
                 self.save_checkpoint()
                 self.current_id += 1
+                pages_crawled += 1  # Increment the counter
+
+            print(f"Reached crawl limit of {max_pages} pages. Stopping.")
         except KeyboardInterrupt:  # Handle interruption gracefully
             print("Crawling interrupted. Saving progress...")
             self.save_checkpoint()
 
 
 if __name__ == "__main__":
-    # Base URL with a placeholder for the product ID
     base_url = "https://geometry.printify.me/products/{}"
-
-    # Create and start the sitemap generator
     crawler = ResumableXMLSitemapGenerator(
         base_url, output_prefix="sitemap", output_dir="sitemap", checkpoint_file="checkpoint.json", segment_size=10000
     )
-    crawler.start_crawl()  # Begin crawling
+    crawler.start_crawl(max_pages=1000)  # Crawl only 1000 pages
