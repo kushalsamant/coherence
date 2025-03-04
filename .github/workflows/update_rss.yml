@@ -1,4 +1,4 @@
-name: Update RSS Feed  # Name of the workflow
+name: Update RSS Feed  # Workflow name
 
 on:
   workflow_dispatch:  # Allows manual execution from GitHub Actions
@@ -6,34 +6,52 @@ on:
     - cron: '30 5 * * *'  # Runs daily at 05:30 AM UTC
   push:
     branches:
-      - main  # Runs whenever changes are pushed to the main branch
+      - main  # Runs when code is pushed to the main branch
 
 jobs:
   update_rss:
-    runs-on: ubuntu-latest  # Specifies the environment to run the job
+    runs-on: ubuntu-latest  # Uses the latest Ubuntu virtual machine
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3  # Fetches the latest code from your repository
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4  # Fetches the latest repo content
 
-      - name: Set up Python
+      - name: 🐍 Set Up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # Ensures Python 3 is installed
+          python-version: '3.x'  # Installs Python 3.x
 
-      - name: Install Dependencies
-        run: pip install -r requirements.txt  # Installs necessary dependencies
+      - name: 📦 Install Dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            echo "⚠️ requirements.txt not found!"
+            exit 1
+          fi
 
-      - name: Run Sitemap Generator
-        run: python run_sitemap.py  # Runs the script that generates sitemap.xml
+      - name: 🌐 Run Sitemap Generator
+        run: |
+          python run_sitemap.py || { echo "❌ run_sitemap.py failed!"; exit 1; }
 
-      - name: Run Sitemap to RSS Generator
-        run: python run_rss.py  # Runs the script that converts sitemap.xml to rss.xml
+      - name: 🔄 Convert Sitemap to RSS
+        run: |
+          python run_rss.py || { echo "❌ run_rss.py failed!"; exit 1; }
 
-      - name: Commit and Push Changes
+      - name: ✅ Check for Changes
+        run: |
+          git status
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit. Skipping push."
+            exit 0
+          fi
+
+      - name: 🚀 Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add rss.xml
-          git commit -m "Auto-update RSS feed [skip ci]" || echo "No changes to commit"
+          git commit -m "🔄 Auto-update RSS feed [skip ci]"
           git push
