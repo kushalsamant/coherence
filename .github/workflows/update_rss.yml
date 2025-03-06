@@ -1,4 +1,4 @@
-name: Update RSS Feed
+name: update_rss.yml
 
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
           cd marketing  # Navigate to the correct folder
           pip install -r requirements.txt  # Install dependencies
 
-      - name: Run RSS script
+      - name: run_rss.py
         run: |
           cd marketing  # Ensure script runs inside the correct folder
           python run_rss.py  # Run the Python script
