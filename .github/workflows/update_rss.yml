@@ -1,12 +1,15 @@
-name: Run run_rss.py Daily
+name: Update RSS Feed
 
 on:
   schedule:
     - cron: "30 5 * * *"  # Runs daily at 05 30 AM UTC
+  push:
+    branches:
+      - main  # Runs when pushing to the main branch
   workflow_dispatch:  # Allows manual execution
 
 jobs:
-  run-script:
+  update-rss:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,9 +21,22 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install dependencies (if required)
+      - name: Install dependencies
         run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          cd marketing  # Navigate to the correct folder
+          pip install -r requirements.txt  # Install dependencies
 
-      - name: Run run_rss.py script
-        run: run_rss.py  # Replace with your script name
+      - name: Run RSS script
+        run: |
+          cd marketing  # Ensure script runs inside the correct folder
+          python run_rss.py  # Run the Python script
+
+      - name: Commit and Push updated RSS feed
+        run: |
+          cd marketing  # Ensure we're in the correct directory
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add rss.xml  # Add the updated RSS feed
+          git commit -m "Updated RSS feed" || echo "No changes to commit"
+          git push
+        continue-on-error: true  # Prevent failure if no changes occur
