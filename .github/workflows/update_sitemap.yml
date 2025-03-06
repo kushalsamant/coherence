@@ -1,12 +1,12 @@
-name: Update Sitemap
+name: update_sitemap.yml
 
 on:
   schedule:
-    - cron: "30 5 * * *"  # Runs daily at midnight UTC
+    - cron: "30 5 * * *"  # Runs daily at 05 30 AM UTC
   push:
     branches:
       - main  # Runs when pushing to the main branch
-  workflow_dispatch:  # Allows manual execution from GitHub Actions UI
+  workflow_dispatch:  # Allows manual execution
 
 jobs:
   update-sitemap:
@@ -19,20 +19,24 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"  # Use the latest Python 3 version
+          python-version: "3.x"
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt  # Install dependencies (if any)
+          cd marketing  # Navigate to the correct folder
+          pip install -r requirements.txt  # Install dependencies
 
-      - name: Run sitemap script
-        run: python run_sitemap.py  # Execute the script
-
-      - name: Commit and Push updated sitemap
+      - name: run_sitemap.py
         run: |
+          cd marketing  # Ensure script runs inside the correct folder
+          python run_sitemap.py  # Run the Python script
+
+      - name: Commit and Push updated Sitemap files
+        run: |
+          cd marketing  # Ensure we're in the correct directory
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add sitemap.xml  # Add the generated sitemap file
-          git commit -m "Updated sitemap"
+          git add sitemap/*.xml checkpoint.json  # Add new sitemap files and checkpoint
+          git commit -m "Updated Sitemap" || echo "No changes to commit"
           git push
-        continue-on-error: true  # Avoid breaking if no changes are detected
+        continue-on-error: true  # Prevent failure if no changes occur
