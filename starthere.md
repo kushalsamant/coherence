@@ -13,8 +13,10 @@ This is meant to be as transparent as reasonably possible. Since I’m accountab
 - <a href="https://kvshvl.in/projects/gruham.html" rel="noopener noreferrer" target="_blank">GRÜHAM</a>.  
 - <a href="https://www.sketchfab.com/3d-models/shelving-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank">SHLVNG</a>.  
 - <a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html">Your&nbsp;Mail&nbsp;Project</a>.  
+- <a href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble</a>.  
+- <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless</a>.  
+- <a href="https://kvshvl.substack.com" rel="noopener noreferrer" target="_blank">My Study Notes</a>.  
 - <a href="https://geometry.printify.me" rel="noopener noreferrer" target="_blank">Geometry</a>.  
-- <a href="https://kvshvl.substack.com" rel="noopener noreferrer" target="_blank">My Study Notes</a>.
 
 This website is an intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant, vide Architect's&nbsp;Act,&nbsp;1972 of the Constitution&nbsp;of&nbsp;The&nbsp;Republic&nbsp;of&nbsp;India. Any violation of the Architect's Act is a punishable offence.
 
