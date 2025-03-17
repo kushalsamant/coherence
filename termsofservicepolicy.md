@@ -97,13 +97,18 @@ We reserve the right to modify these Terms of Service at any time. Changes will 
 
 For questions regarding these Terms of Service, please contact us at:
 
+**Registered Company Address:**  
 H.No. 2337, "Visava", Swami Samarth Nagar,  
 Near Dattanagar, Kavilgaon, Nerur,  
-Kudal - 416520  
-Taluka: Kudal  
-District: Sindhudurg  
-MH, India
+Kudal - 416520.  
+Taluka: Kudal.  
+District: Sindhudurg.  
+MH, India.
 
-Phone: +91 87796 32310
+**Customer Support Domestic Telephone No.:**  
++91 87796 32310 - Customer Support Hours: Monday to Saturday, 9:00 AM to 5:00 PM IST.
 
-Last Updated: March 18, 2025
+**Customer Support Email Address:**  
+kushaldsamant@gmail.com
+
+**Last Updated: March 18, 2025**
