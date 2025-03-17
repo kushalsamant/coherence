@@ -1,4 +1,4 @@
-<h2 id="about">About</h2>
+**About**.
 
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Samant Kushal" width="150">
 
@@ -19,5 +19,3 @@ In 2020, one of his repositories was selected for the <a href="https://youtu.be/
 Since 2022, he teaches as a core faculty at Dr.&nbsp;D.&nbsp;Y.&nbsp;Patil&nbsp; School&nbsp;of&nbsp;Architecture,&nbsp;Navi&nbsp;Mumbai. Currently, he is building a merchandising venture: <a href="https://geometry.printify.me" rel="noopener noreferrer" target="_blank">Geometry</a>.
 
 So far, he has worked in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
-
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
