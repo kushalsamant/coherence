@@ -134,15 +134,18 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
+**Registered Company Address:**  
 H.No. 2337, "Visava", Swami Samarth Nagar,  
 Near Dattanagar, Kavilgaon, Nerur,  
-Kudal - 416520  
-Taluka: Kudal  
-District: Sindhudurg  
-MH, India
+Kudal - 416520.  
+Taluka: Kudal.  
+District: Sindhudurg.  
+MH, India.
 
-Phone: +91 87796 32310
+**Customer Support Domestic Telephone No.:**  
++91 87796 32310 - Customer Support Hours: Monday to Saturday, 9:00 AM to 5:00 PM IST.
 
-Email: [kushaldsamant@gmail.com](kushaldsamant@gmail.com)
+**Customer Support Email Address:**  
+kushaldsamant@gmail.com
 
 **Last Updated: March 18, 2025**
