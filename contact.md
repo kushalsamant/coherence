@@ -1,4 +1,4 @@
-**Contact**.  
+**Contact**.
 
 If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a> / <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a> / <a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank">Pinterest</a> / <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank">Twitter</a> / <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>.
 
