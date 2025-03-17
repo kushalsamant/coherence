@@ -1,4 +1,4 @@
-<h2 id="contact">Contact</h2>
+**Contact**.
 
 If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a> / <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a> / <a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank">Pinterest</a> / <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank">Twitter</a> / <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>.
 
@@ -14,4 +14,20 @@ Family comes first, work second and whatever is left over I like to use for me w
 
 It's brilliant, I wish I'd written it. I am sorry for no, but it's not without reason.
 
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
+If you have any questions about this Policy, please contact us at:
+
+**Registered Company Address:**  
+H.No. 2337, "Visava", Swami Samarth Nagar,  
+Near Dattanagar, Kavilgaon, Nerur,  
+Kudal - 416520.  
+Taluka: Kudal.  
+District: Sindhudurg.  
+MH, India.
+
+**Customer Support Domestic Telephone No.:**  
++91 87796 32310 - Customer Support Hours: Monday to Saturday, 9:00 AM to 5:00 PM IST.
+
+**Customer Support Email Address:**  
+kushaldsamant@gmail.com
+
+**Last Updated: March 18, 2025**

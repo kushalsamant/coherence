@@ -1,5 +1,4 @@
-
-<h2 id="projects">Projects</h2>
+**Projects**.
 
 These are the projects/ventures I've worked on.
 
@@ -148,5 +147,3 @@ Bangalore.
 - Residence, Chamarajpet, Bangalore. Client: Mr. Sitaram and Mrs. Shruti.  
 - Residence + Interiors, Bangalore. Client: Dr. Ravindran.  
 - Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
-
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.

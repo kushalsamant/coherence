@@ -1,4 +1,4 @@
-<h2 id="people">People</h2>
+**People**.
 
 These people taught me things that I could not have learnt otherwise.
 
@@ -198,5 +198,3 @@ Tandon,&nbsp;Shivani.
 Thakkar,&nbsp;Niyati.  
 Venkataraman,&nbsp;Harini.  
 Yadav,&nbsp;Chandrakala.
-
-**[About](#about)**. **[People](#people)**. **[Projects](#projects)**. **[Contact](#contact)**. **[Back&nbsp;to&nbsp;Start](#start)**.
