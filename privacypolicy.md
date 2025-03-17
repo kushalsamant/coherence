@@ -1,7 +1,5 @@
 # Privacy Policy
 
-**Last Updated: March 18, 2025**
-
 ## 1. Introduction
 
 This Privacy Policy describes how we collect, use, process, and disclose your information, including personal information, in conjunction with your access to and use of our ecommerce website. We are committed to protecting your personal information and your right to privacy.
@@ -145,4 +143,6 @@ MH, India
 
 Phone: +91 87796 32310
 
-Email: [Your Email Address]
+Email: [kushaldsamant@gmail.com](kushaldsamant@gmail.com)
+
+**Last Updated: March 18, 2025**
