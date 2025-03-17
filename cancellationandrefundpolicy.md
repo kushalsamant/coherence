@@ -1,5 +1,4 @@
 # Cancellation & Refund Policy
-**Last Updated: March 18, 2025**
 
 This Cancellation & Refund Policy outlines the guidelines and procedures for cancellations, returns, and refunds for purchases made on our website. This policy is in compliance with the Consumer Protection Act, 2019, and the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 of India.
 
@@ -113,3 +112,5 @@ MH, India
 Phone: +91 87796 32310  
 Email: [kushaldsamant@gmail.com](kushaldsamant@gmail.com)  
 Customer Support Hours: Monday to Saturday, 9:00 AM to 6:00 PM IST
+
+**Last Updated: March 18, 2025**
