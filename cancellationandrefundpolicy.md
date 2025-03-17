@@ -102,15 +102,18 @@ In case of any dispute regarding refunds or cancellations:
 
 For all cancellation, return, or refund requests, please contact us at:
 
+**Registered Company Address:**  
 H.No. 2337, "Visava", Swami Samarth Nagar,  
 Near Dattanagar, Kavilgaon, Nerur,  
-Kudal - 416520  
-Taluka: Kudal  
-District: Sindhudurg  
-MH, India
+Kudal - 416520.  
+Taluka: Kudal.  
+District: Sindhudurg.  
+MH, India.
 
-Phone: +91 87796 32310  
-Email: [kushaldsamant@gmail.com](kushaldsamant@gmail.com)  
-Customer Support Hours: Monday to Saturday, 9:00 AM to 6:00 PM IST
+**Customer Support Domestic Telephone No.:**  
++91 87796 32310 - Customer Support Hours: Monday to Saturday, 9:00 AM to 5:00 PM IST.
+
+**Customer Support Email Address:**  
+kushaldsamant@gmail.com
 
 **Last Updated: March 18, 2025**
