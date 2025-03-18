@@ -115,5 +115,3 @@ MH, India.
 
 **Customer Support Email Address:**  
 kushaldsamant@gmail.com
-
-**Last Updated: March 18, 2025**
