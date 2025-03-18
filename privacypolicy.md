@@ -143,7 +143,10 @@ District: Sindhudurg.
 MH, India.
 
 **Customer Support Domestic Telephone No.:**  
-+91 87796 32310 - Customer Support Hours: Monday to Saturday, 9:00 AM to 5:00 PM IST.
++91 87796 32310
+
+**Customer Support Hours:**  
+Monday to Saturday, 9:00 AM to 5:00 PM IST.
 
 **Customer Support Email Address:**  
 kushaldsamant@gmail.com
