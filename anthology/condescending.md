@@ -1,0 +1,6 @@
+**Condescending**.  
+All they want.  
+Is to be heard.  
+Give them a voice.  
+And they will make you a God.  
+
