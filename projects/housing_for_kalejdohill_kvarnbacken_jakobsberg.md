@@ -36,7 +36,7 @@ He felt the same uncertainty, the same dark clouds and with the difference of te
 
 He walked out of the door and ran. He ran to find new feelings, thinking of that girl who texted him on Instagram, and the girl who looked like the Instagram women. He ran to find new experiences, beating down the path. As the drum rolls now fastened, he found himself to witness an unbelievable fact, that the drums were coming from him, and he was the drummer; running to the beat of his own heart. Yet he felt cliche on this once lost hill called Kvarnbacken, the hill close that to the Jakobsberg train station.
 
-![_Superbench by Philippe Malouin_](https://66.media.tumblr.com/8844be938c7c2a256e7380bccdcb2e7e/9a0fb41c47a06956-12/s540x810/30168b014ee8321f215c0f85aa33fad8bd9be435.jpg)
+![_Superbench by Philippe Malouin_](https://66.media.tumblr.com/8844be938c7c2a256e7380bccdcb2e7e/9a0fb41c47a06956-12/s540x810/30168b014ee8321f215c0f85aa33fad8bd9be435.jpg)  
 Superbench by Philippe Malouin.
 
 - <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
