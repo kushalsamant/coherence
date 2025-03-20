@@ -224,3 +224,5 @@ You can always come back for more later.
 **Damages**.
 
 We attend to no damages. We advise you to handle these products with care.
+
+- <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
