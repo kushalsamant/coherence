@@ -8,11 +8,6 @@ I’m working hard to build a mindful, respectful, and accountable space for my 
 
 This is meant to be as transparent as reasonably possible. Since I’m accountable to my patrons instead of advertisers, my incentive is to create meaningful projects.
 
-- <a href="https://www.wikihouse.cc" rel="noopener noreferrer" target="_blank">The&nbsp;WikiHouse&nbsp;Project</a>.  
-- <a href="https://www.airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank">Airbnb</a>.  
-- <a href="https://kvshvl.in/projects/gruham.html" rel="noopener noreferrer" target="_blank">GRÜHAM</a>.  
-- <a href="https://www.sketchfab.com/3d-models/shelving-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank">SHLVNG</a>.  
-- <a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html">Your&nbsp;Mail&nbsp;Project</a>.  
 - <a href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble</a>.  
 - <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless</a>.  
 - <a href="https://kvshvl.substack.com" rel="noopener noreferrer" target="_blank">My Study Notes</a>.  
