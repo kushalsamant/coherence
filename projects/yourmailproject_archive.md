@@ -257,3 +257,5 @@ We hope you love what we do.
   <a href="https://www.instagram.com/yourmailproject" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" width="30"></a>
   <a href="https://yourmailproject.typeform.com/to/krhWpQJZ" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotypeform.png" alt="Typeform" width="30"></a>
 </p>
+
+- <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
