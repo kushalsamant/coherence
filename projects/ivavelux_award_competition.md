@@ -27,3 +27,5 @@ These plants make use of sunlight, water and air in the process of photosynthesi
 The basic courtyard functions as a semiprivate space to which more private living spaces can open up, hence merging two spaces and giving a sense of spaciousness as a whole. This gives a open feeling to the living spaces and also increases the connections between the living spaces and the courtyards. Adapting spillover functions close to the courtyards increases the human interaction levels between the homes or office blocks.
 
 Hence these spaces affect the gloomy psychology and non-existing sense of neighbourhood in the apartments or office buildings and creates a more cheerful environment and a happier lot of experiences for the people inside. These courtyard spaces together throw joy into the lives of the people experiencing them.
+
+- <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
