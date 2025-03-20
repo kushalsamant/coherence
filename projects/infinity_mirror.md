@@ -11,3 +11,5 @@ In collaboration with Homegrown magazine, and Maker’s Asylum, I built an <a hr
 
 ![_Infinity Mirrored Room By Yayoi Kusama_](https://cdn-images-1.medium.com/max/800/0*EBzCijo_PVKJf6PF.gif)  
 Infinity Mirrored Room By Yayoi Kusama.
+
+- <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
