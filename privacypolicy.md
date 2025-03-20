@@ -150,3 +150,5 @@ Monday to Saturday, 9:00 AM to 5:00 PM IST.
 
 **Customer Support Email Address:**  
 kushaldsamant@gmail.com
+
+- <a href="https://kushalsamant.github.io/contact.html">Back to Contact</a>.  
