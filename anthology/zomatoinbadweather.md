@@ -40,3 +40,4 @@ In conclusion:
 Everyone fucked up.  
 Yes, you can try and blame it on the weather, but alas.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
