@@ -9,3 +9,4 @@ Even though I am stranded in Versova Andheri and it is very difficult to get out
 you know I used to visualise certain things and most of the time the come true in about 7 years but that is because I don't focus on them I have a thought analytics float into the universe and it just floats around until it comes to its own reality by itself which is kind of creepy or that is turned off satisfying for relieving because you know that something out there is actually conspiring to act out in your own favour.  
 and that gives me the confidence to keep publishing and to keep doing my own things without having to get a job or look for stability that most people from my parents generation would love me to have.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

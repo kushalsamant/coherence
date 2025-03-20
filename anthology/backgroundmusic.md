@@ -20,3 +20,5 @@ Like one of my architects used to say, the slower you go, the longer things will
 Her rule applies even in everything.  
 From dating to products.  
 Everywhere.  
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

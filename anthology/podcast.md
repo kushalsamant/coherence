@@ -25,3 +25,4 @@ This bit might need strategies to create a better, and clearer episode.
 
 One of which I think would be to record pointers in the comfort of your own room.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

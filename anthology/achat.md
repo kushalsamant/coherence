@@ -23,3 +23,5 @@ I have written a few line of love, disguised by lust in this midnight journey, I
 I want to write, a poem a day, it might be shit, but that’s okay.  
 Let’s write our texts as poems, and publish them on medium, maybe it will work as the bond, to keep us together, and from falling apart.  
 What say of this whispering, that my mind has begun to speak, shall we find each other, and love through the means of poetry.  
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

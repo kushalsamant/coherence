@@ -35,3 +35,4 @@ For Mumbai, the website will direct to a emergency pass for medical cases page.
 
 **So you cannot go home if you are stranded within Mumbai**.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

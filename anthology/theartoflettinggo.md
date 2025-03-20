@@ -17,3 +17,5 @@ As the sun set on the horizon, Maya felt a sense of gratitude wash over her.
 She was grateful for the lessons she had learned, for the people in her life, and for the opportunity to start anew.  
 She knew that letting go was a process, but she was ready to embrace it with open arms.  
 Maya took a deep breath and whispered to herself, "Let go and trust the journey."
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

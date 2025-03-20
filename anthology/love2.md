@@ -22,3 +22,4 @@ It is not to assign meaning to your life based on what you see in the life of ot
 But to see where you stand, and appreciate whatever it is that you hold.  
 Self love.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

@@ -11,3 +11,4 @@ And then triple down your effort on that one single thing.
 Your efforts will keep generating returns that keep compounding if you are consistent.  
 This consistent effort that generates a non-zero return is the answer to solve your own personal economic crisis.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

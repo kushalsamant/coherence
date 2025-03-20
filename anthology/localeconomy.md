@@ -7,3 +7,4 @@ Because I am spending it on rickshaw ride I am pretty sure the rickshaw drivers 
 
 Please excuse me for all the spelling mistakes in my articles I am not typing them out I am trying to capture my thought and trying to figure out the next best thing to do for me.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

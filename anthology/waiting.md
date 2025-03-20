@@ -21,3 +21,4 @@ Maybe the laws of physics are like people, or cultures from different parts of t
 
 They exist, but we fail to see them for what they are, only because we did not see them through a lens: that they are all part of the same thing.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

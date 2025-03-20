@@ -5,3 +5,4 @@ We can share our knowledge with the wikihouse project; or develop certain design
 A goal here is to ease appropriation of design.  
 An ideal way to move forward would be a book that documents all the work we have done on the project so far.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

@@ -10,3 +10,4 @@ I believe that what needs to be done is something we all can imagine.
 Rather it gets done because we can imagine it.  
 Ain’t that easy, human?  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

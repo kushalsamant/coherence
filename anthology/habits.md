@@ -21,3 +21,4 @@ Which means that he was building habit to create art and she was also at the sam
 This way if she ever had to stop in between the series of creativity and go at end to something that was far more important in life he would be able to who achieved the minimum for the day and at the same time not stress about losing on time and be able to focus on the other thing at the same time.  
 This means that compounding is the hedge against failing at consistency.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

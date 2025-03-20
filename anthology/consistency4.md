@@ -20,3 +20,4 @@ Good or bad doesn't matter.
 After all everything is like a sine wave.  
 The general law of nature is that whatever goes up has to come down, and whatever goes down will come up.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

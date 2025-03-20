@@ -34,3 +34,4 @@ A particular result.
 They are fears of the past.  
 The cure for it, as for most things in life is gratitude.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

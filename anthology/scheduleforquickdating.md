@@ -12,3 +12,5 @@ It was a great learning experience for me.
 04 00 PM - Site meeting with carpente.  
 06 00 PM - Evening walk date.  
 08 00 PM - Dinner date at marine drive
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

@@ -4,3 +4,4 @@ And I usually frustrate them by answering with questions: What are you passionat
 
 What do you want to be remembered for? What do you want your legacy to be? Think about these questions the answer to these questions are all about who you are, and may help you discover what you want to be, and what your next step should look like.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

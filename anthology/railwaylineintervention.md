@@ -20,3 +20,4 @@ The thoughts of being more careful about not having a fever when they are going 
 This simple requirement will need them to have thoughts of being more careful about their health.  
 These are further spilled over with them having the thoughts of being more careful about their hygiene.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

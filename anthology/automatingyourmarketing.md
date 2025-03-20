@@ -11,3 +11,5 @@ Automating your marketing by making Instagram Central.
 - If you make a new image post on Instagram then share the post to Facebook Pages.  
 6. Repeat steps under section 5. for YouTube and Medium.  
 Set this up first so that you don’t interrupt your creative flow later.  
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

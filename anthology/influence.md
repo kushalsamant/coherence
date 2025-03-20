@@ -29,3 +29,4 @@ Self awareness is the antidote.
 Wish for wishes that make you burn as an individual.  
 Wishes that make you rise up from those ashes like a Phoenix.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

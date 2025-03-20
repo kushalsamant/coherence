@@ -9,3 +9,4 @@ This is the most apt process to learning for life.
 That's what Jughead did and as far as I know that's what everyone should do.  
 So whatever your dream is, whatever you plan to do next, start whereever you can and stick to it.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

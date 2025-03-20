@@ -19,3 +19,5 @@ I am against not compounding my time with efforts that reap in perpetuity.
 That’s an abyss.  
 Getting through this abyss means going hungry for a decade, and reaping your rewards in perpetual eternity.  
 - *Duur ke fayde ke liye, nazdiki nuksaan nahi dekhna chahiye.*
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

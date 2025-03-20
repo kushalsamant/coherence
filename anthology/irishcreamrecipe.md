@@ -18,3 +18,5 @@ Add 1 tsp vanilla extract.
 Add 200/350 ML alcohol.  
 
 Blend everything, chill, knock yourself out.  
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

@@ -52,3 +52,5 @@ If the chart goes DOWN, as you predicted, then you get your initial $1 + profit 
 - Always invest the minimum amount allowed for the first trade.  
 - Always invest the minimum amount allowed + your total unrecovered loss, if you make a loss.  
 - Always stick to this process.  
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

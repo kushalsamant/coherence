@@ -65,3 +65,4 @@ Was it the setting? Was it the topic? Was it the weather? Was it my determinatio
 Maybe not.  
 Maybe it’s all about the people.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

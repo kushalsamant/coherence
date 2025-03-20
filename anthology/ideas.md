@@ -10,3 +10,4 @@ But it is not yours alone.
 So next time you feel that why were you not the person to make something happen, or the next time you feel that oh! shit I had thought about this first.  
 So remember this, next time an idea comes to you, forget everything else and try it out.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

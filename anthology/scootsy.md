@@ -45,3 +45,4 @@ A habit of getting things done, and that of being proactive.
 These make laziness, and procrastination, non-existent in my vocabulary.  
 Outside of Scootsy, they help me get things moving at other enterprises.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

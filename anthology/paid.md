@@ -6,3 +6,4 @@ So trust your heart blindly, and teach your brain to do so.
 Because the brain is a database you see, that’s trained to get you the correct answer on its first thought, which again always comes from the heart.  
 All the best, and have faith.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

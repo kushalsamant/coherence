@@ -11,3 +11,4 @@ Although I get saturated with my thoughts it is still better than having to type
 
 This is like taking out a crucial block out of my life so that I can create more creatives.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

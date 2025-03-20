@@ -10,3 +10,4 @@ But I don't want to meditate.
 I don't want to sit down and put my mind at rest because when I do so I will be coming my own imaginative natural self.  
 I will also be killing my own creativity.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

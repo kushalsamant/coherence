@@ -23,3 +23,4 @@ Now if you can imagine, I think the trick lies in the transition: from being the
 The ability to stay complicated or simple, but to accept that there is a sense in either.  
 This acceptance is how you have a better chance of winning than your peers.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

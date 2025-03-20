@@ -17,3 +17,4 @@ And once you understand this you can realise that if you can think, then you can
 The answer to how lies in the doing.  
 The doing of following your thoughts relentlessly.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

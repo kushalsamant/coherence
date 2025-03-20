@@ -10,3 +10,4 @@ Date: 4th June 2020
 7. Watch your World Bank fund become tax free money when these employees pay their electricity bills.  
 Viola!
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

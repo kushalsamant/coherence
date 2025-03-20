@@ -20,3 +20,4 @@ How do we do it?
 5. then we play tetris with all variables,
 6. then we will know what works best in the current scenario
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

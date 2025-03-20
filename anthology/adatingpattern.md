@@ -26,3 +26,5 @@ P.S.: This is a time mapped problem.
 If you cut your nails at 1.  a.  , then by the time you have completed the story and reached 1.  g.  
 You will have to cut your nails again.  
 :D
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

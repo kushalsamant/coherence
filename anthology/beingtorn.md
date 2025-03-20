@@ -11,3 +11,4 @@ I am lost at making a decision dear,
 Between selling my craft, and saving my soul,
 Between things that might last, and a risky endeavour.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

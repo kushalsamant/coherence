@@ -12,3 +12,4 @@ If you then pick the best of your thoughts between A[...  ], B[...  ], C[...  ],
 to compile books A[...  ], B[...  ], C[...  ], and so on...  
 you will have enough for the credibility you are looking for.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

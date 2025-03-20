@@ -11,3 +11,4 @@ Life is now breeze because I don't have to do a 9 to 5 job.
 Instead I can do a lot more monetarily by picking up these projects.  
 Projects that are basically me trying to help other people solve their problems.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

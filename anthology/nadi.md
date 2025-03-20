@@ -8,3 +8,4 @@ Chunauti se ye kehte hai chalo gaaye tarannum mein.
 Badi mushkil se nadiyon mein nadi milti hai jo manzil ko paati hai.  .  
 > ©Swanand Kirkire.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

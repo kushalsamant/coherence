@@ -30,3 +30,4 @@ He could not control how much of the nutrients that particular pod would absorb 
 But in his observation, James showcased with photographic proof that the parts that give him most of his produce would grow at a sharply fast speed when they were closer to the height of all the plants around them.  
 I am continuing this in the next chapter.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

@@ -19,3 +19,4 @@ Your laughter is the reason my sadness disappears, there is more to our time tha
 Because every moment seems just right in the beginning, and the best that I can hope for is a constant like thee.  
 There is a lot I have to say, say to you, and share it with glee, but I guess the night is young, I miss you, I miss your sunshine, and eternity.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

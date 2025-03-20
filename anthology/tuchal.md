@@ -49,3 +49,4 @@ Samay ko bhi talaash ha.
 
 ©Tanveer Ghazi
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

@@ -23,3 +23,4 @@ Jaaneja jaan bhi mar mite
 Teri inn adaon pe hum
 Jaaneja jaan bhi mar mite
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

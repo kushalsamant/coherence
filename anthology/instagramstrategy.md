@@ -69,3 +69,5 @@ Bear in mind that:
 
 **Fin**.  
 I mean these books, lectures, and workshops are what Instagram captions can lead to, understood?  
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

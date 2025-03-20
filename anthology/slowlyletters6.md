@@ -80,3 +80,4 @@ Shy is not a great thing to be :D You don't know what you are missing out on in 
 
 Yours truly,  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

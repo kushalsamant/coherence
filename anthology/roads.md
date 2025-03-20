@@ -33,3 +33,4 @@ I remember once a friend quoting, “The roads they gave us a lot, but they also
 
 Just a gist of it, that my mind plays with, is what I have seen, and learnt from all these travel craving people around me.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

@@ -17,3 +17,4 @@ My point being, my city needs a lesson on commitment.
 So far, as an architect, I am wholeheartedly disappointed in mankind, and angry at everything around me.  
 I think this world needs to be committed like the protagonists of 3:10 to Yuma.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

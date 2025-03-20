@@ -87,3 +87,5 @@ You might never know what you will create.
 But if you take the pen, and start scribbling, you will get past the first few lines of utter lack of clarity combined with wholesome words that have no direction to the conversations.  
 But if you just begin, everything that’s messed up will start to fall into place.  
 In ways that will make the mess seem like a petty folly.  
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

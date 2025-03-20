@@ -34,3 +34,4 @@ The number of times we have bled may differ.
 But the human potential inside of us is equal.  
 Human potential that you have is infinite.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

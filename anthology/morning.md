@@ -9,3 +9,4 @@ So believe in carpe diem,
 Carpe diem,
 Carpe diem.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

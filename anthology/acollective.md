@@ -42,3 +42,5 @@ As far as decluttering goes I have to deal with only one thing the page.
 Since I have made a collective out of my everything, every kind of separation has ceased to exist.  
 Life is simpler maybe something the Americans can learn from.  
 This is hard to understand for some of us, but soon you will start to get interesting something like Twitter.  
+
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

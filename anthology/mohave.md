@@ -24,3 +24,4 @@ time will solve it all,
 as you pass through Mohave,
 through heat, and cold.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

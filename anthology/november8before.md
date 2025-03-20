@@ -76,3 +76,4 @@ It is not talking about on how Donald Trump or Hillary Clinton or gay rights or 
 My happiness is simple.  
 My happiness lies in keeping the planet alive so that your children can make better talks.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

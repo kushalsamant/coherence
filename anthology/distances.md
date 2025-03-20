@@ -10,3 +10,4 @@ Life seems larger than what worries you everyday.
 Routine seems to blind us to the vast world that lies beyond it.  
 It is funny how millions of us would choose to scurry into routines that seem dull to those who put themselves in situations that are reckless, dangerous, but alive.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

@@ -6,3 +6,4 @@ You should what you believe is right.
 It maybe the tougher decision, it maybe the tougher option.  
 But if deep inside you know that it’s the right decision for the right reasons not for the wrong reasons then you should go ahead and take it, and I would hope that you look at being ethical and holding the value systems which you want this country to have…”
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

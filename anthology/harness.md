@@ -13,3 +13,4 @@ I wish that you order at least of one these masterpieces, for the fun of making 
 There is so much more to do, with these on your apparel, gear.  
 Watch that audience rhyme with envy, as you swing, and shoot with cameras dear.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

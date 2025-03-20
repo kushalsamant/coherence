@@ -13,3 +13,4 @@ But more often than not, it helps to bring reminders of obvious things to the ta
 The trick of the game is to pick one thing, and stick to it.  
 Period.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

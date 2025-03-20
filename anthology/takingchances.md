@@ -9,3 +9,4 @@ Considering that everyday is about 1440 e minutes I can then achieve my goal in 
 I understand it is a bit far fetched as a goal.  
 But if I put in the work then I will not have to work so hard for money in my life again and again as a freelancer.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

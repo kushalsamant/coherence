@@ -21,3 +21,4 @@ Joy is deeper than happiness.
 It is what you feel when the music flows from your pores, not from your larynx at bathroom singing.  
 Where you actually see time freeze, while you make circles around your universe or anything that you can imagine.  
 
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
