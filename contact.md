@@ -33,6 +33,6 @@ Monday to Saturday, 9:00 AM to 5:00 PM IST.
 **Customer Support Email Address:**  
 kushaldsamant@gmail.com
 
-<a href="https://kushalsamant.github.io/termsofservicepolicy.html">Terms&nbsp;of&nbsp;Service&nbsp;Policy</a><br>
-<a href="https://kushalsamant.github.io/privacypolicy.html">Privacy&nbsp;Policy</a><br>
-<a href="https://kushalsamant.github.io/cancellationandrefundpolicy.html">Cancallation&nbsp;&&nbsp;Refund&nbsp;Policy</a><br>
+- <a href="https://kushalsamant.github.io/termsofservicepolicy.html">Terms&nbsp;of&nbsp;Service&nbsp;Policy</a>.  
+- <a href="https://kushalsamant.github.io/privacypolicy.html">Privacy&nbsp;Policy</a>.  
+- <a href="https://kushalsamant.github.io/cancellationandrefundpolicy.html">Cancallation&nbsp;&&nbsp;Refund&nbsp;Policy</a>.  
