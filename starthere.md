@@ -11,7 +11,6 @@ This is meant to be as transparent as reasonably possible. Since I’m accountab
 - <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless</a>.  
 - <a href="https://www.spoonflower.com/profiles/geometry?sub_action=shop" rel="noopener noreferrer" target="_blank">Spoonflower</a>.  
 - <a href="https://redbubble.com/people/kvshvl-/shop?asc=u&ref=account-nav-dropdown" rel="noopener noreferrer" target="_blank">Redbubble</a>.  
-- <a href="https://kvshvl.substack.com" rel="noopener noreferrer" target="_blank">My Study Notes</a>.  
 - <a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank">Geometry</a>.  
 
 This website is an intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant, vide Architect's&nbsp;Act,&nbsp;1972 of the Constitution&nbsp;of&nbsp;The&nbsp;Republic&nbsp;of&nbsp;India. Any violation of the Architect's Act is a punishable offence.
