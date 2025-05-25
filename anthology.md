@@ -1,5 +1,7 @@
 **Anthology**.
 
+This collection of writings touches upon various aspects of the human experience, from the profound to the mundane. Several entries reflect on personal struggles and emotions, discussing topics like finding love, dealing with loneliness, overcoming anxiety, and accepting imperfection. Other pieces explore societal observations and personal philosophies, such as the perceived hierarchy in modern life, the influence of technology, the importance of conscious choices for happiness, and the power of consistency in achieving goals. Practical advice on topics like decluttering life, managing online presence, and developing productive habits is also shared, alongside more abstract musings on the nature of creativity, understanding others, and the influence of our surroundings.
+
 - <a href="https://kushalsamant.github.io/anthology/10kwalks.html">10k walks</a>.  
 - <a href="https://kushalsamant.github.io/anthology/15designguide.html">15 design guide</a>.  
 - <a href="https://kushalsamant.github.io/anthology/16years.html">16 years</a>.  
