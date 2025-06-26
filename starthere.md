@@ -21,6 +21,7 @@ Photos and videos are edited using modern editors for videos, GIFs, and images:
 <a href="https://discord.gg/36xan8g8" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logodiscord.png" alt="Discord" width="30"></a>
 <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="Gumroad" width="30"></a>
 <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" width="30"></a>
+<a href="https://ko-fi.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logokofi.png" alt="KoFi" width="30"></a>
 <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logolinkedin.png" alt="LinkedIn" width="30"></a>
 <a href="https://in.pinterest.com/kvshvl/_saved/" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopinterest.png" alt="Pinterest" width="30"></a>
 <a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="Shopify" width="30"></a>
