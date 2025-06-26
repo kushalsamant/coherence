@@ -8,10 +8,6 @@ I’m working hard to build a mindful, respectful, and accountable space for my 
 
 This is meant to be as transparent as reasonably possible. Since I’m accountable to my patrons instead of advertisers, my incentive is to create meaningful projects.
 
-- <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank">Threadless</a>.  
-- <a href="https://www.spoonflower.com/profiles/geometry?sub_action=shop" rel="noopener noreferrer" target="_blank">Spoonflower</a>.  
-- <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank">Geometry</a>.  
-
 This website is an intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant, vide Architect's&nbsp;Act,&nbsp;1972 of the Constitution&nbsp;of&nbsp;The&nbsp;Republic&nbsp;of&nbsp;India. Any violation of the Architect's Act is a punishable offence.
 
 Photos and videos are edited using modern editors for videos, GIFs, and images:  
