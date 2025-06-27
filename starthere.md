@@ -21,7 +21,6 @@ Photos and videos are edited using modern editors for videos, GIFs, and images:
 <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logolinkedin.png" alt="LinkedIn" width="30"></a>
 <a href="https://in.pinterest.com/kvshvl/_saved/" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopinterest.png" alt="Pinterest" width="30"></a>
 <a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="Shopify" width="30"></a>
-<a href="https://shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshutterstock.png" alt="Shutterstock" width="30"></a>
 <a href="https://sketchfab.com/3d-models/shlvng-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosketchfab.png" alt="Sketchfab" width="30"></a>
 <a href="https://www.spoonflower.com/profiles/geometry?sub_action=shop" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logospoonflower.png" alt="Spoonflower" width="30"></a>
 <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logothreadless.png" alt="Threadless" width="30"></a>
