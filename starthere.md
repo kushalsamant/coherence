@@ -17,6 +17,5 @@ Photos and videos are edited using modern editors for videos, GIFs, and images:
 <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" width="30"></a>
 <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logolinkedin.png" alt="LinkedIn" width="30"></a>
 <a href="https://in.pinterest.com/kvshvl/_saved/" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopinterest.png" alt="Pinterest" width="30"></a>
-<a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logothreadless.png" alt="Threadless" width="30"></a>
 <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="Twitter" width="30"></a>
 <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyoutube.png" alt="YouTube" width="30"></a>
