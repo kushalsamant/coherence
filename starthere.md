@@ -15,7 +15,6 @@ Photos and videos are edited using modern editors for videos, GIFs, and images:
 
 <a href="https://stock.adobe.com/contributor/212199501/KVSHVL" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoadobe.png" alt="Adobe" width="30"></a>
 <a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a>
-<a href="https://alamy.com/portfolio/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoalamy.png" alt="Alamy" width="30"></a>
 <a href="https://behance.net/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logobehance.png" alt="Behance" width="30"></a>
 <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="Gumroad" width="30"></a>
 <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" width="30"></a>
