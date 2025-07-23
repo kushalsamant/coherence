@@ -17,7 +17,7 @@ This is your Main account for everything else.
 
 In Bank Account #3,  
 Reserve an amount equal to 10% of your collections for living expenses.  
-Reserve an amount equal to 10% of your collections for gold, and mutual funds.  
+Reserve an amount equal to 10% of your collections for gold emergency fund, and mutual funds.  
 Reserve an amount equal to 10% of your collections for business expenses.  
 Reserve an amount equal to 10% of your collections for business marketing purposes.  
 This business marketing reserve should earn the expected gross revenue i.e. 100% of your Bank Account #1.  
