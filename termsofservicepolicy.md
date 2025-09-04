@@ -1,117 +1,81 @@
-**Terms of Service**.
+# Terms of Service – 1:1 Consultations
 
-1. Introduction
+Welcome! By booking or attending a **1:1 consultation** with us, you agree to these Terms of Service. Please read carefully. If you do not agree, do not use our services.
 
-Welcome to our website. By accessing and using this website, you accept and agree to be bound by the terms and provisions of this agreement. If you do not agree to abide by these terms, please do not use this website.
+---
 
-2. Use License
+## 1. Booking & Account
 
-Permission is granted to temporarily download one copy of the materials on our website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
-- Modify or copy the materials
-- Use the materials for any commercial purpose or for any public display
-- Attempt to reverse engineer any software contained on our website
-- Remove any copyright or other proprietary notations from the materials
-- Transfer the materials to another person or "mirror" the materials on any other server
+- **Booking:** All consultations are confirmed after full payment. You will receive email confirmation with the scheduled date and time.  
+- **Account Information:** If you create an account, you agree to provide accurate information and keep it updated. You are responsible for safeguarding your account and password.  
 
-3. Account Registration
+---
 
-To access certain features of our website, you may be required to register for an account. You agree to provide accurate and complete information during the registration process and to update such information to keep it accurate and current. You are responsible for safeguarding your account password and for all activities that occur under your account.
+## 2. Payment & Refunds
 
-4. Products or Services
+- **Payment:** Full payment is required at booking via accepted payment methods.  
+- **Refund Eligibility:** Refunds apply only for:  
+  - Cancellations made according to the **Cancellation Policy**  
+  - Sessions cancelled by us due to unforeseen circumstances  
+  - Missed sessions, late arrivals, or dissatisfaction **do not qualify for refunds**  
+- **Refund Processing:** Refunds are processed via the original payment method within **7–10 business days**.  
 
-All products and services displayed on our website are subject to availability. We reserve the right to discontinue any product or service at any time. Prices for our products are subject to change without notice. We reserve the right to refuse service to anyone for any reason at any time.
+---
 
-5. Payment Terms
+## 3. Cancellation & Rescheduling
 
-All prices are in the currency displayed on our website. Payment must be made at the time of purchase. We accept various payment methods as indicated on our website.
+- **Client Cancellation:** Cancel **48 hours before** the session for a **full refund**.  
+- **Rescheduling:** Reschedule up to **24 hours before** the session. Late reschedules may incur a **25% fee**.  
+- **Cancellation by Us:** If we cancel, you receive a **full refund** or a rescheduled session.  
 
-6. Refund Policy
+---
 
-6.1 Eligibility for Refunds
-Refunds are available for products that are:
-- Defective or damaged upon receipt
-- Significantly different from the product description
-- Delivered in error (wrong item shipped)
+## 4. Use of Services
 
-6.2 Refund Process
-To request a refund:
-1. Contact our customer service within 14 days of receiving your order
-2. Provide your order number and reason for requesting a refund
-3. Include photos of damaged or defective items when applicable
+- Consultations are for **personal use only** and are non-transferable.  
+- All content shared is confidential; you may not share or distribute without written permission.  
+- You are responsible for your own decisions and actions based on advice or guidance received.  
 
-6.3 Refund Timeframe
-- Refunds will be processed within 7-10 business days after we receive and inspect the returned item
-- The refund will be credited to the original payment method used for the purchase
-- Shipping costs are non-refundable unless the return is due to our error
+---
 
-7. Cancellation Policy
+## 5. Intellectual Property
 
-7.1 Order Cancellation
-- Orders can be cancelled within 24 hours of placement without penalty
-- To cancel an order, contact our customer service immediately with your order number
-- Orders that have already been shipped cannot be cancelled but may be eligible for return under our refund policy
+- All materials, content, and guidance provided during consultations are our intellectual property.  
+- Copying, redistribution, or public use is prohibited without explicit written consent.  
 
-7.2 Subscription Cancellation
-For subscription-based services:
-- You may cancel your subscription at any time through your account settings
-- Cancellations made before your next billing cycle will prevent future charges
-- No partial refunds will be issued for the current billing period
+---
 
-8. Shipping Policy
+## 6. Limitation of Liability
 
-We ship to the addresses provided by the customer at the time of purchase. Delivery timeframes are estimates only and may vary based on location and other factors. Risk of loss and title for items purchased pass to you upon delivery of the items to the carrier.
+- We are not liable for any indirect, incidental, or consequential damages arising from consultations.  
+- Our maximum liability is limited to the **consultation fee paid**.  
 
-9. Accuracy of Information
+---
 
-We strive to ensure that all information on our website is accurate. However, we do not warrant that product descriptions or other content is accurate, complete, reliable, current, or error-free.
+## 7. Dispute Resolution
 
-10. Intellectual Property
+- Contact our **Customer Support Team** first for resolution.  
+- Unresolved disputes may be taken to the **National Consumer Helpline (NCH)** or **Consumer Protection Authority**.  
+- All disputes are governed by **Indian law**, and courts in **Sindhudurg, Maharashtra** have jurisdiction.  
 
-The content, organization, graphics, design, and other matters related to our website are protected under applicable copyrights, trademarks, and other proprietary rights. Copying, redistribution, use, or publication by you of any such content or any part of our website is prohibited without express written permission.
+---
 
-11. Limitation of Liability
+## 8. Changes to Terms
 
-In no event shall we be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on our website, even if we or an authorized representative has been notified orally or in writing of the possibility of such damage.
+- We may update these Terms at any time. Changes take effect immediately upon posting.  
+- Continued use of our services constitutes acceptance of updated Terms.  
 
-12. Indemnification
+---
 
-You agree to indemnify, defend, and hold harmless our company, its officers, directors, employees, agents, and third parties, from and against all losses, expenses, damages, and costs, including reasonable attorneys' fees, resulting from any violation by you of these Terms of Service.
-
-13. Third-Party Links
-
-Our website may contain links to third-party websites. These links are provided solely as a convenience and do not imply endorsement of or association with the linked sites. We are not responsible for the content of any linked site.
-
-14. Privacy Policy
-
-Your use of our website is also governed by our Privacy Policy, which is incorporated into these Terms of Service by reference.
-
-15. Governing Law
-
-These Terms of Service shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without giving effect to any principles of conflicts of law.
-
-16. Changes to Terms
-
-We reserve the right to modify these Terms of Service at any time. Changes will be effective immediately upon posting on our website. Your continued use of our website following the posting of changes constitutes your acceptance of such changes.
-
-17. Contact Information
-
-For questions regarding these Terms of Service, please contact us at:
+## 9. Contact Us
 
 **Registered Company Address:**  
 H.No. 2337, "Visava", Swami Samarth Nagar,  
 Near Dattanagar, Kavilgaon, Nerur,  
-Kudal - 416520.  
-Taluka: Kudal.  
-District: Sindhudurg.  
-MH, India.
+Kudal - 416520, Sindhudurg, MH, India  
 
-**Customer Support Domestic Telephone No.:**  
-+91 87796 32310
+**Phone:** +91 87796 32310  
+**Email:** kushaldsamant@gmail.com  
+**Support Hours:** Monday–Saturday, 10:00 AM – 8:00 PM IST  
 
-**Customer Support Hours:**  
-Monday to Saturday, 9:00 AM to 5:00 PM IST.
-
-**Customer Support Email Address:**  
-kushaldsamant@gmail.com
-
-- <a href="https://kushalsamant.github.io/contact.html">Back to Contact</a>.  
+[Back to Contact](https://kushalsamant.github.io/contact.html)
