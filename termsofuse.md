@@ -15,30 +15,30 @@ Welcome! By booking a **1:1&nbsp;consultation** with us, you agree to the follow
 - **Client&nbsp;Cancellation:** Cancel up to **48&nbsp;hours&nbsp;before** for a **full&nbsp;refund** via your original payment method.  
 - **Late&nbsp;Cancellation&nbsp;(<48&nbsp;hrs):** Non-refundable, unless rescheduled.  
 - **Rescheduling:** Up to **24&nbsp;hrs&nbsp;before**; late reschedules may incur **25%&nbsp;fee**.  
-- **Cancellation&nbsp;by&nbsp;Us:** Full refund or rescheduled session at your convenience.  
+- **Cancellation&nbsp;by&nbsp;Us:** Full refund or rescheduled session at your convenience.
 
 **Refunds**.
 
 - Eligible only for cancellations made as above or if we cancel.  
 - **Processing:** Refunds via original payment method within **7–10&nbsp;business&nbsp;days**.  
 - **Partial&nbsp;Refunds:** Applicable for multi-session packages proportionally.  
-- **No-Shows&nbsp;/&nbsp;Late&nbsp;Arrivals:** Non-refundable; session duration is not extended.  
+- **No-Shows&nbsp;/&nbsp;Late&nbsp;Arrivals:** Non-refundable; session duration is not extended.
 
 **Use&nbsp;of&nbsp;Service**.
 
 - For **personal&nbsp;use&nbsp;only**, non-transferable.  
 - Content shared is **confidential**; no redistribution without consent.  
-- You are responsible for your actions and decisions based on the consultation.  
+- You are responsible for your actions and decisions based on the consultation.
 
 **Intellectual&nbsp;Property**.
 
 - All content, materials, and guidance are our **intellectual&nbsp;property**.  
-- Copying, sharing, or public use without permission is prohibited.  
+- Copying, sharing, or public use without permission is prohibited.
 
 **Liability**.
 
 - Maximum liability is limited to the **consultation&nbsp;fee&nbsp;paid**.  
-- No liability for indirect, incidental, or consequential losses.  
+- No liability for indirect, incidental, or consequential losses.
 
 **Privacy**.
 
@@ -46,17 +46,17 @@ Welcome! By booking a **1:1&nbsp;consultation** with us, you agree to the follow
 - Device info, usage data, cookies, and analytics may be collected.  
 - Info is shared only with service providers, legal authorities, or with your consent.  
 - Data is retained only as required by law or service necessity.  
-- You may access, correct, delete, or restrict your data & withdraw consent anytime.  
+- You may access, correct, delete, or restrict your data & withdraw consent anytime.
 
 **Dispute&nbsp;Resolution**.
 
 - Contact **Customer&nbsp;Support** first.  
 - Unresolved disputes may be taken to **National&nbsp;Consumer&nbsp;Helpline (NCH)** or **Consumer&nbsp;Protection&nbsp;Authority**.  
-- Governed by **Indian&nbsp;law**; courts in **Sindhudurg,&nbsp;Maharashtra** have jurisdiction.  
+- Governed by **Indian&nbsp;law**; courts in **Sindhudurg,&nbsp;Maharashtra** have jurisdiction.
 
 **Updates**.
 
-- Policies may change; continued use indicates acceptance of updates.  
+- Policies may change; continued use indicates acceptance of updates.
 
 **Contact&nbsp;Us**.
 
@@ -68,7 +68,7 @@ Near&nbsp;Dattanagar,&nbsp;Kavilgaon,&nbsp;Nerur,
 Kudal&nbsp;-&nbsp;416520.  
 Taluka:&nbsp;Kudal.  
 District:&nbsp;Sindhudurg.  
-MH,&nbsp;India.  
+MH,&nbsp;India.
 
 **Phone:** +91&nbsp;87796&nbsp;32310  
 **Email:** kushaldsamant@gmail.com  
