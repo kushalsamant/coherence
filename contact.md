@@ -16,20 +16,20 @@ It's brilliant, I wish I'd written it. I am sorry for no, but it's not without r
 
 <a class="btn" href="https://ask.setmore.com/kvshvl">Book Now&nbsp;&#60;</a>
 
-**1:1 Consultation – Policies & Terms**.
+**1:1&nbsp;Consultation&nbsp;–&nbsp;Policies&nbsp;&&nbsp;Terms**.
 
-Welcome! By booking a **1:1 consultation** with us, you agree to the following. These policies are compliant with **Indian law** (Consumer Protection Act, 2019).
+Welcome! By booking a **1:1&nbsp;consultation** with us, you agree to the following. These policies are compliant with **Indian&nbsp;law** (Consumer Protection Act, 2019).
 
-**Booking & Payment**.
+**Booking&nbsp;&&nbsp;Payment**.
 
-- Consultations are confirmed only after **full payment**.  
+- Consultations are confirmed only after **full&nbsp;payment**.  
 - You will receive an email with your date and time.  
 - Account holders must provide accurate information and safeguard their password.  
 
-**Cancellation & Rescheduling**.
+**Cancellation&nbsp;&&nbsp;Rescheduling**.
 
-- **Client Cancellation:** Cancel up to **48&nbsp;hours before** for a **full refund** via your original payment method.  
-- **Late Cancellation (<48&nbsp;hrs):** Non-refundable, unless rescheduled.  
+- **Client&nbsp;Cancellation:** Cancel up to **48&nbsp;hours&nbsp;before** for a **full&nbsp;refund** via your original payment method.  
+- **Late&nbsp;Cancellation (<48&nbsp;hrs):** Non-refundable, unless rescheduled.  
 - **Rescheduling:** Up to **24&nbsp;hrs before**; late reschedules may incur **25% fee**.  
 - **Cancellation by Us:** Full refund or rescheduled session at your convenience.  
 
@@ -84,8 +84,6 @@ Kudal&nbsp;-&nbsp;416520,&nbsp;Sindhudurg,&nbsp;MH,&nbsp;India
 **Phone:** +91&nbsp;87796&nbsp;32310  
 **Email:** kushaldsamant@gmail.com  
 **Support Hours:** Monday–Saturday,&nbsp;10:00&nbsp;AM&nbsp;–&nbsp;8:00&nbsp;PM&nbsp;IST  
-
-[Back&nbsp;to&nbsp;Contact](https://kushalsamant.github.io/contact.html)  
 
 **Legal Notice**:  
 This website and its content are the intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant under the Architect's&nbsp;Act,&nbsp;1972&nbsp;of&nbsp;India. Unauthorized use is an offense.
