@@ -29,31 +29,31 @@ Welcome! By booking a **1:1&nbsp;consultation** with us, you agree to the follow
 **Cancellation&nbsp;&&nbsp;Rescheduling**.
 
 - **Client&nbsp;Cancellation:** Cancel up to **48&nbsp;hours&nbsp;before** for a **full&nbsp;refund** via your original payment method.  
-- **Late&nbsp;Cancellation (<48&nbsp;hrs):** Non-refundable, unless rescheduled.  
-- **Rescheduling:** Up to **24&nbsp;hrs before**; late reschedules may incur **25% fee**.  
-- **Cancellation by Us:** Full refund or rescheduled session at your convenience.  
+- **Late&nbsp;Cancellation&nbsp;(<48&nbsp;hrs):** Non-refundable, unless rescheduled.  
+- **Rescheduling:** Up to **24&nbsp;hrs&nbsp;before**; late reschedules may incur **25%&nbsp;fee**.  
+- **Cancellation&nbsp;by&nbsp;Us:** Full refund or rescheduled session at your convenience.  
 
 **Refunds**.
 
 - Eligible only for cancellations made as above or if we cancel.  
-- **Processing:** Refunds via original payment method within **7–10 business days**.  
-- **Partial Refunds:** Applicable for multi-session packages proportionally.  
-- **No-Shows / Late Arrivals:** Non-refundable; session duration is not extended.  
+- **Processing:** Refunds via original payment method within **7–10&nbsp;business&nbsp;days**.  
+- **Partial&nbsp;Refunds:** Applicable for multi-session packages proportionally.  
+- **No-Shows&nbsp;/&nbsp;Late&nbsp;Arrivals:** Non-refundable; session duration is not extended.  
 
-**Use of Service**.
+**Use&nbsp;of&nbsp;Service**.
 
-- For **personal use only**, non-transferable.  
+- For **personal&nbsp;use&nbsp;only**, non-transferable.  
 - Content shared is **confidential**; no redistribution without consent.  
 - You are responsible for your actions and decisions based on the consultation.  
 
-**Intellectual Property**.
+**Intellectual&nbsp;Property**.
 
-- All content, materials, and guidance are our **intellectual property**.  
+- All content, materials, and guidance are our **intellectual&nbsp;property**.  
 - Copying, sharing, or public use without permission is prohibited.  
 
 **Liability**.
 
-- Maximum liability is limited to the **consultation fee paid**.  
+- Maximum liability is limited to the **consultation&nbsp;fee&nbsp;paid**.  
 - No liability for indirect, incidental, or consequential losses.  
 
 **Privacy**.
@@ -64,33 +64,35 @@ Welcome! By booking a **1:1&nbsp;consultation** with us, you agree to the follow
 - Data is retained only as required by law or service necessity.  
 - You may access, correct, delete, or restrict your data & withdraw consent anytime.  
 
-**Dispute Resolution**.
+**Dispute&nbsp;Resolution**.
 
-- Contact **Customer Support** first.  
-- Unresolved disputes may be taken to **National Consumer Helpline (NCH)** or **Consumer Protection Authority**.  
-- Governed by **Indian law**; courts in **Sindhudurg, Maharashtra** have jurisdiction.  
+- Contact **Customer&nbsp;Support** first.  
+- Unresolved disputes may be taken to **National&nbsp;Consumer&nbsp;Helpline (NCH)** or **Consumer&nbsp;Protection&nbsp;Authority**.  
+- Governed by **Indian&nbsp;law**; courts in **Sindhudurg,&nbsp;Maharashtra** have jurisdiction.  
 
 **Updates**.
 
 - Policies may change; continued use indicates acceptance of updates.  
 
-**Contact Us**.
+**Contact&nbsp;Us**.
 
-**Address**:  
-H.No.&nbsp;2337,&nbsp;"Visava",&nbsp;Swami Samarth Nagar,  
+**Registered Company Address**:  
+H.No.&nbsp;2337,&nbsp;"Visava",&nbsp;Swami&nbsp;Samarth&nbsp;Nagar,  
 Near&nbsp;Dattanagar,&nbsp;Kavilgaon,&nbsp;Nerur,  
-Kudal&nbsp;-&nbsp;416520,&nbsp;Sindhudurg,&nbsp;MH,&nbsp;India  
+Kudal&nbsp;-&nbsp;416520.  
+Taluka:&nbsp;Kudal.  
+District:&nbsp;Sindhudurg.  
+MH,&nbsp;India.  
 
 **Phone:** +91&nbsp;87796&nbsp;32310  
 **Email:** kushaldsamant@gmail.com  
-**Support Hours:** Monday–Saturday,&nbsp;10:00&nbsp;AM&nbsp;–&nbsp;8:00&nbsp;PM&nbsp;IST  
+**Support&nbsp;Hours:** Monday–Saturday,&nbsp;10:00&nbsp;AM&nbsp;–&nbsp;08:00&nbsp;PM&nbsp;IST  
 
 **Legal Notice**:  
 This website and its content are the intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant under the Architect's&nbsp;Act,&nbsp;1972&nbsp;of&nbsp;India. Unauthorized use is an offense.
 
 If you have any questions about this Policy, please contact us at:
 
-**Registered Company Address**:  
 H.No. 2337, "Visava", Swami Samarth Nagar,  
 Near Dattanagar, Kavilgaon, Nerur,  
 Kudal - 416520.  
