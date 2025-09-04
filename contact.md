@@ -76,6 +76,8 @@ Welcome! By booking a **1:1&nbsp;consultation** with us, you agree to the follow
 
 **Contact&nbsp;Us**.
 
+If you have any questions about this Policy, please contact us at:
+
 **Registered Company Address**:  
 H.No.&nbsp;2337,&nbsp;"Visava",&nbsp;Swami&nbsp;Samarth&nbsp;Nagar,  
 Near&nbsp;Dattanagar,&nbsp;Kavilgaon,&nbsp;Nerur,  
@@ -90,21 +92,3 @@ MH,&nbsp;India.
 
 **Legal Notice**:  
 This website and its content are the intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant under the Architect's&nbsp;Act,&nbsp;1972&nbsp;of&nbsp;India. Unauthorized use is an offense.
-
-If you have any questions about this Policy, please contact us at:
-
-H.No. 2337, "Visava", Swami Samarth Nagar,  
-Near Dattanagar, Kavilgaon, Nerur,  
-Kudal - 416520.  
-Taluka: Kudal.  
-District: Sindhudurg.  
-MH, India.
-
-**Customer Support Domestic Telephone No.**:  
-+91 87796 32310
-
-**Customer Support Hours**:  
-Monday to Saturday, 10:00 AM to 8:00 PM IST.
-
-**Customer Support Email Address**:  
-kushaldsamant@gmail.com
