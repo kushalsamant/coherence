@@ -20,4 +20,4 @@ Since 2022, he is enlisted as a core faculty at Dr.&nbsp;D.&nbsp;Y.&nbsp;Patil&n
 
 Currently, he is working in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
-<a class="btn" href="https://ask.setmore.com">Book Now&nbsp;&#60;</a>
+<a class="btn" href="https://ask.setmore.com">Know&nbsp;More&nbsp;&#60;</a>

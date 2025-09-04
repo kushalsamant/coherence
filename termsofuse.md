@@ -74,4 +74,4 @@ MH,&nbsp;India.
 **Email:** kushaldsamant@gmail.com  
 **Support&nbsp;Hours:** Monday–Saturday,&nbsp;10:00&nbsp;AM&nbsp;–&nbsp;08:00&nbsp;PM&nbsp;IST
 
-<a class="btn" href="https://ask.setmore.com/kvshvl">Book Now&nbsp;&#60;</a>
+<a class="btn" href="https://ask.setmore.com">Know&nbsp;More&nbsp;&#60;</a>

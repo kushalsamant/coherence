@@ -134,5 +134,3 @@ Varadkar,&nbsp;Santosh.
 Vora,&nbsp;Shyam.  
 Wadhwani,&nbsp;Sakshi.  
 Yalgi,&nbsp;Mohit.
-
-<a class="btn" href="https://ask.setmore.com">Book Now&nbsp;&#60;</a>
