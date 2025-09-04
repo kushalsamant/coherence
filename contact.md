@@ -14,7 +14,6 @@ Family comes first, work second and whatever is left over I like to use for me w
 
 It's brilliant, I wish I'd written it. I am sorry for no, but it's not without reason.
 
-
 If you have any questions about this Policy, please contact us at:
 
 **Registered Company Address:**  
