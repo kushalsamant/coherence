@@ -8,7 +8,7 @@ I’m focused on creating a mindful, respectful, and accountable space for those
 
 **Work With Me**.
 
-If you’d like to discuss your project or collaborate, you can book a session through my <a href="https://ask.setmore.com/kvshvl" rel="noopener noreferrer" target="_blank" >booking page</a>. All consultations are scheduled via Setmore services, so you can see availability and pick a slot that works for you.
+If you’d like to discuss your project or collaborate, you can book a session through my <a href="https://ask.setmore.com" rel="noopener noreferrer" target="_blank" >booking page</a>. All consultations are scheduled via Setmore services, so you can see availability and pick a slot that works for you.
 
 **Photos and videos are edited using**:
 
