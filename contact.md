@@ -13,26 +13,3 @@ Family comes first, work second and whatever is left over I like to use for me w
 <a href="https://twitter.com/paulg" rel="noopener noreferrer" target="_blank">Paul Graham</a> really nails why saying yes for a quick coffee can be so destructive to the creative process - give '<a href="http://paulgraham.com/makersschedule.html" rel="noopener noreferrer" target="_blank">this</a>' a read to understand the maker's schedule. <a href="https://twitter.com/RyanHoliday" rel="noopener noreferrer" target="_blank">Ryan Holiday</a> penned '<a href="https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time" rel="noopener noreferrer" target="_blank">this</a>' pointed essay to everyone who asks for just a little of your time.
 
 It's brilliant, I wish I'd written it. I am sorry for no, but it's not without reason.
-
-If you have any questions about this Policy, please contact us at:
-
-**Registered Company Address:**  
-H.No. 2337, "Visava", Swami Samarth Nagar,  
-Near Dattanagar, Kavilgaon, Nerur,  
-Kudal - 416520.  
-Taluka: Kudal.  
-District: Sindhudurg.  
-MH, India.
-
-**Customer Support Domestic Telephone No.:**  
-+91 87796 32310
-
-**Customer Support Hours:**  
-Monday to Saturday, 9:00 AM to 5:00 PM IST.
-
-**Customer Support Email Address:**  
-kushaldsamant@gmail.com
-
-- <a href="https://kushalsamant.github.io/termsofservicepolicy.html">Terms&nbsp;of&nbsp;Service&nbsp;Policy</a>.  
-- <a href="https://kushalsamant.github.io/privacypolicy.html">Privacy&nbsp;Policy</a>.  
-- <a href="https://kushalsamant.github.io/cancellationandrefundpolicy.html">Cancallation&nbsp;&&nbsp;Refund&nbsp;Policy</a>.
