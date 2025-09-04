@@ -4,7 +4,7 @@ If this website feels different, that’s intentional. It’s built using <a hre
 
 Here, you can see what I’ve shipped recently, what I’m building next, and how I’m progressing as an architect. By sharing this, I aim to demystify the unusual process of working on mostly bootstrapped projects.
 
-I’m focused on creating a mindful, respectful, and accountable space for those I work with. I have many ideas to improve, as well as challenges to overcome. This space is as transparent as reasonably possible: <a href="https://kushalsamant.github.io/termsandconditions.html">Terms&nbsp;of&nbsp;Use</a>.
+I’m focused on creating a mindful, respectful, and accountable space for those I work with. I have many ideas to improve, as well as challenges to overcome. This space is as transparent as reasonably possible.
 
 If you’d like to discuss your project or collaborate, you can book a session through my <a href="https://ask.setmore.com" rel="noopener noreferrer" target="_blank" >booking page</a>. All consultations are scheduled via Setmore services, so you can see availability and pick a slot that works for you.
 
