@@ -9,8 +9,6 @@ Here, you can see what I’ve shipped recently, what I’m building next, and ho
 
 I’m focused on creating a mindful, respectful, and accountable space for those I work with. I have many ideas to improve, as well as challenges to overcome. This space is as transparent as reasonably possible.
 
-I’m focused on creating a mindful, respectful, and accountable space for those I work with. I have many ideas to improve, as well as challenges to overcome. This space is as transparent as reasonably possible.
-
 This space is as transparent as reasonably possible. Since I’m accountable to patrons rather than advertisers, my goal is to create meaningful projects.
 
 **Work With Me**.
