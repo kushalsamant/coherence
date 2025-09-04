@@ -20,8 +20,4 @@ Since 2022, he is enlisted as a core faculty at Dr.&nbsp;D.&nbsp;Y.&nbsp;Patil&n
 
 Currently, he is working in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
-<div class="roadmap-spacer-1"></div>
-	<p>
-		<a class="btn" href="https://kushalsamant.github.io/starthere.html">Start Here&nbsp;&#60;</a><br>
-	</p>
-<div class="roadmap-spacer-2"></div>
+<a class="btn" href="https://ask.setmore.com/kvshvl">Book Now&nbsp;&#60;</a>
