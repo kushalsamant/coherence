@@ -90,5 +90,5 @@ MH,&nbsp;India.
 **Email:** kushaldsamant@gmail.com  
 **Support&nbsp;Hours:** Monday–Saturday,&nbsp;10:00&nbsp;AM&nbsp;–&nbsp;08:00&nbsp;PM&nbsp;IST  
 
-**Legal Notice**:  
+**Legal&nbsp;Notice**:  
 This website and its content are the intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant under the Architect's&nbsp;Act,&nbsp;1972&nbsp;of&nbsp;India. Unauthorized use is an offense.
