@@ -2,7 +2,7 @@
 
 These are the projects/ventures I've worked on.
 
-- <a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">ASK: Daily Research</a>.  
+- <a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">_ASK_: Daily Research</a>.  
 - <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank">Geometry Surface Pattern Designs and Products</a>.  
 - Assistant Professor of Architecture at Dr D.Y. Patil School of Architecture, Navi Mumbai.  
 - <a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html">Your&nbsp;Mail&nbsp;Project</a>.  
