@@ -1,7 +1,5 @@
 **1:1&nbsp;Consultation&nbsp;–&nbsp;Terms&nbsp;of&nbsp;Use**.
 
-**Notice**: This website and its content are the intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant under the Architect's&nbsp;Act,&nbsp;1972&nbsp;of&nbsp;India. Unauthorized use is an offense.
-
 Welcome! By booking a **1:1&nbsp;consultation** with us, you agree to the following. These policies are compliant with **Indian&nbsp;law** (Consumer Protection Act, 2019).
 
 **Booking&nbsp;&&nbsp;Payment**.

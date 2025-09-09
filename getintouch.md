@@ -1,18 +1,12 @@
 **Get in touch**.
 
-If you're trying to reach out to say hello or say something nice, have a question or complaint or suggestion about something, or if there's something you don't see here that you'd like to know, then you should @me on <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a>.
+If you’d like to reach out - whether it’s to say hello, share feedback, ask a question, or talk through an idea - I’d love to hear from you. The easiest way to connect with me casually is on [LinkedIn](https://linkedin.com/in/kvshvl), where I try to respond to as many posts and messages as I can.
 
-I try to respond to as many posts as possible. I know that's not as satisfying as sending a direct email but my inbox is a big fat mess and when I made it public there were too many messages to respond so they just went unread - that sucks for everyone.
+For deeper conversations - business ideas, project collaborations, sharing something you’ve made, or anything that requires focused time and energy - the best way to connect is through a **1:1 consultation**. This ensures I can give you my undivided attention without the chaos of an overloaded inbox or the interruptions of a scattered schedule.
 
-If you are nearby and want to connect personally or want a couple of minutes of my time on the phone, or in person, have a business or startup idea you want to talk to me about, or want to share something you made with me, or want to get me involved in what you're doing or want me to collaborate on some of your other projects, or anything that involves a commitment of time, any amount of time, I very very gently have to say no. Saying no is hard.
+I protect my time carefully because family comes first, work second, and whatever’s left I use to recharge (usually through travel). By keeping a structured consultation process, I can show up fully present and give you the best of my creative and professional energy.
 
-So many extraordinary circumstances that should warrant me saying yes, but I can't. It's a hard, inflexible no.
-
-Family comes first, work second and whatever is left over I like to use for me which is usually travel. There is no time left for yes, even if that means missing opportunities.
-
-<a href="https://twitter.com/paulg" rel="noopener noreferrer" target="_blank">Paul Graham</a> really nails why saying yes for a quick coffee can be so destructive to the creative process - give '<a href="http://paulgraham.com/makersschedule.html" rel="noopener noreferrer" target="_blank">this</a>' a read to understand the maker's schedule. <a href="https://twitter.com/RyanHoliday" rel="noopener noreferrer" target="_blank">Ryan Holiday</a> penned '<a href="https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time" rel="noopener noreferrer" target="_blank">this</a>' pointed essay to everyone who asks for just a little of your time.
-
-It's brilliant, I wish I'd written it. I am sorry for no, but it's not without reason.
+Both [Paul Graham’s](http://paulgraham.com/makersschedule.html) essay on the maker’s schedule and [Ryan Holiday’s](https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time) piece on time requests really capture why this matters - they’re worth a read if you’re curious.
 
 <div class="roadmap-spacer-1"></div>
 <p>

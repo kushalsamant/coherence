@@ -1,5 +1,7 @@
 **About**.
 
+**Notice**: This website and its content are the intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant under the Architect's&nbsp;Act,&nbsp;1972&nbsp;of&nbsp;India. Unauthorized use is an offense.
+
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Kushal Dhananjay Samant" width="150">
 
 Kushal&nbsp;Dhananjay&nbsp;Samant is an Architect, based in India.
