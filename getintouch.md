@@ -10,6 +10,6 @@ Both [Paul Graham’s](http://paulgraham.com/makersschedule.html) essay on the m
 
 <div class="roadmap-spacer-1"></div>
 <p>
-<a class="btn" href="https://ask.setmore.com">Book&nbsp;1:1&nbsp;Consultation&nbsp;Here&nbsp;&#60;</a><br>
+<a class="btn" href="https://kushalsamant.github.io/1on1consultation.html">1:1&nbsp;Consultation</a><br>
 </p>
 <div class="roadmap-spacer-2"></div>

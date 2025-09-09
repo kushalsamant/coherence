@@ -24,7 +24,7 @@ Currently, he is creating the open-source <a href="https://github.com/kushalsama
 
 <div class="roadmap-spacer-1"></div>
 <p>
-<a class="btn" href="https://ask.setmore.com">Book&nbsp;1:1&nbsp;Consultation&nbsp;Here&nbsp;&#60;</a><br>
+<a class="btn" href="https://kushalsamant.github.io/getintouch.html">Get&nbsp;In&nbsp;Touch&#60;</a><br>
 </p>
 <div class="roadmap-spacer-2"></div>
 
@@ -167,7 +167,7 @@ Yalgi,&nbsp;Mohit.
 
 <div class="roadmap-spacer-1"></div>
 <p>
-<a class="btn" href="https://ask.setmore.com">Book&nbsp;1:1&nbsp;Consultation&nbsp;Here&nbsp;&#60;</a><br>
+<a class="btn" href="https://kushalsamant.github.io/getintouch.html">Get&nbsp;In&nbsp;Touch&#60;</a><br>
 </p>
 <div class="roadmap-spacer-2"></div>
 
@@ -324,6 +324,6 @@ Bangalore.
 
 <div class="roadmap-spacer-1"></div>
 <p>
-<a class="btn" href="https://ask.setmore.com">Book&nbsp;1:1&nbsp;Consultation&nbsp;Here&nbsp;&#60;</a><br>
+<a class="btn" href="https://kushalsamant.github.io/getintouch.html">Get&nbsp;In&nbsp;Touch&#60;</a><br>
 </p>
 <div class="roadmap-spacer-2"></div>
