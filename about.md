@@ -16,7 +16,7 @@ In 2018, he made <a href="https://www.sketchfab.com/3d-models/shelving-complete-
 
 In 2020, one of his repositories was selected for the <a href="https://youtu.be/fzI9FNjXQ0o" rel="noopener noreferrer" target="_blank">Arctic&nbsp;Code&nbsp;Vault</a> of the <a href="https://archiveprogram.github.com" rel="noopener noreferrer" target="_blank">GitHub&nbsp;Archive&nbsp;Program</a>. In 2021, he started <a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html" rel="noopener noreferrer" target="_blank">Your&nbsp;Mail&nbsp;Project</a>.
 
-Since 2022, he is enlisted as a core faculty at Dr.&nbsp;D.&nbsp;Y.&nbsp;Patil&nbsp; School&nbsp;of&nbsp;Architecture,&nbsp;Navi&nbsp;Mumbai. In 2023, he built a merchandising venture: <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank">Geometry</a>.
+Since 2022, he is listed as a core faculty at Dr.&nbsp;D.&nbsp;Y.&nbsp;Patil&nbsp; School&nbsp;of&nbsp;Architecture,&nbsp;Navi&nbsp;Mumbai. In 2023, he built a merchandising venture: <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank">Geometry</a>.
 
 Currently, he is working in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
