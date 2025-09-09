@@ -6,7 +6,7 @@ For deeper conversations - business ideas, project collaborations, sharing somet
 
 I protect my time carefully because family comes first, work second, and whatever’s left I use to recharge (usually through travel). By keeping a structured consultation process, I can show up fully present and give you the best of my creative and professional energy.
 
-Both [Paul Graham’s](http://paulgraham.com/makersschedule.html) essay on the maker’s schedule and [Ryan Holiday’s](https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time) piece on time requests really capture why this matters - they’re worth a read if you’re curious. If you’d like to discuss your project or collaborate, you can book a session. You can read the Terms&nbsp;of&nbsp;Use for 1:1&nbsp;Consultation below. All consultations are scheduled via Setmore services, so you can see availability and pick a slot that works for you.
+Both [Paul Graham’s](http://paulgraham.com/makersschedule.html) essay on the maker’s schedule and [Ryan Holiday’s](https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time) piece on time requests really capture why this matters - they’re worth a read if you’re curious. If you’d like to discuss your project or collaborate, you can read the Terms&nbsp;of&nbsp;Use for 1:1&nbsp;Consultation below.
 
 <div class="roadmap-spacer-1"></div>
 <p>
