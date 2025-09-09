@@ -9,11 +9,11 @@ Here, you can see what I’ve shipped recently, what I’m building next, and ho
 
 I’m focused on creating a mindful, respectful, and accountable space for those I work with. I have many ideas to improve, as well as challenges to overcome. This space is as transparent as reasonably possible.
 
-If you’d like to understand more about my work, my process, and the principles I build around, head over to the **Anthology** section below.
+If you’d like to know more about myself, conversations that taught me things that I could not have learnt otherwise, or my work, head over to the **About** section.
 
 <div class="roadmap-spacer-1"></div>
 <p>
-<a class="btn" href="https://kushalsamant.github.io/anthology.html">Anthology&#60;</a><br>
+<a class="btn" href="https://kushalsamant.github.io/about.html">About&#60;</a><br>
 </p>
 <div class="roadmap-spacer-2"></div>
 
