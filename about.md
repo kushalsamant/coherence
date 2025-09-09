@@ -20,7 +20,7 @@ Since 2022, he is listed as an Assistant Professor of Architecture at Dr.&nbsp;D
 
 Currently, he is creating the open-source <a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">_ASK_: Daily Research</a> tool - an offline-first AI platform for generating photorealistic Q&A content on research themes including architecture, sustainability, and urban planning. He has working in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
-If you’d like to understand more about my work, my process, and the principles I build around, head over to the **Anthology**.
+If you’d like to understand more about my work, my process, and the principles I build around, then head over to the **Anthology** section.
 
 <div class="roadmap-spacer-1"></div>
 <p>
@@ -165,7 +165,7 @@ Vora,&nbsp;Shyam.
 Wadhwani,&nbsp;Sakshi.  
 Yalgi,&nbsp;Mohit.
 
-If you’d like to understand more about my work, my process, and the principles I build around, head over to the **Anthology**.
+If you’d like to understand more about my work, my process, and the principles I build around, then head over to the **Anthology** section.
 
 <div class="roadmap-spacer-1"></div>
 <p>
@@ -324,7 +324,7 @@ Bangalore.
 - Residence + Interiors, Bangalore. Client: Dr. Ravindran.  
 - Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
 
-If you’d like to understand more about my work, my process, and the principles I build around, head over to the **Anthology**.
+If you’d like to understand more about my work, my process, and the principles I build around, then head over to the **Anthology** section.
 
 <div class="roadmap-spacer-1"></div>
 <p>
