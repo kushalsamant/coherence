@@ -11,6 +11,12 @@ I’m focused on creating a mindful, respectful, and accountable space for those
 
 If you’d like to discuss your project or collaborate, you can book a session through my booking page below. All consultations are scheduled via Setmore services, so you can see availability and pick a slot that works for you.
 
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://ask.setmore.com">Book&nbsp;1:1&nbsp;Consultation&nbsp;Here&nbsp;&#60;</a><br>
+</p>
+<div class="roadmap-spacer-2"></div>
+
 <a class="btn" href="https://ask.setmore.com">Book&nbsp;1:1&nbsp;Consultation&nbsp;Here&nbsp;&#60;</a>
 
 **Photos and videos are edited using**: <a href="https://videosoftdev.com" rel="noopener noreferrer" target="_blank">VSDC Video Editor</a>, <a href="https://play.google.com/store/apps/details?id=com.vsco.cam" rel="noopener noreferrer" target="_blank">VSCO Cam</a>, <a href="https://play.google.com/store/apps/details?id=maa.vaporwave_editor_glitch_vhs_trippy_pro" rel="noopener noreferrer" target="_blank">Vaporgram Pro</a>, <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed" rel="noopener noreferrer" target="_blank">Snapseed</a>, <a href="https://kapwing.com" rel="noopener noreferrer" target="_blank">Kapwing</a>, <a href="https://play.google.com/store/apps/details?id=com.instagram.android" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot" rel="noopener noreferrer" target="_blank">Inshot</a>, <a href="https://play.google.com/store/apps/details?id=kr.co.manhole.hujicam" rel="noopener noreferrer" target="_blank">Huji Cam</a>.
