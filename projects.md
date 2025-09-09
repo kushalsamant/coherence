@@ -149,4 +149,8 @@ Bangalore.
 - Residence + Interiors, Bangalore. Client: Dr. Ravindran.  
 - Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
 
-<a class="btn" href="https://ask.setmore.com">Book&nbsp;1:1&nbsp;Consultation&nbsp;Here&nbsp;&#60;</a>
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://ask.setmore.com">Book&nbsp;1:1&nbsp;Consultation&nbsp;Here&nbsp;&#60;</a><br>
+</p>
+<div class="roadmap-spacer-2"></div>

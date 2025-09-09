@@ -20,4 +20,8 @@ Since 2022, he is listed as an Assistant Professor of Architecture at Dr.&nbsp;D
 
 Currently, he is creating the open-source <a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">_ASK_: Daily Research</a> tool - an offline-first AI platform for generating photorealistic Q&A content on research themes including architecture, sustainability, and urban planning. He has working in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
-<a class="btn" href="https://ask.setmore.com">Book&nbsp;1:1&nbsp;Consultation&nbsp;Here&nbsp;&#60;</a>
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://ask.setmore.com">Book&nbsp;1:1&nbsp;Consultation&nbsp;Here&nbsp;&#60;</a><br>
+</p>
+<div class="roadmap-spacer-2"></div>
