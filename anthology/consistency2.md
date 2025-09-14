@@ -1,4 +1,4 @@
-**Consistency II.**
+**Consistency II**
 Continuing from the previous chapter, what James inferred was that in the human perspective this is how things would play.  
 Now imagine an Olympic race or rather an Olympic swimming contest.  
 This is what James called "The Winner Takes It All" syndrome.  
