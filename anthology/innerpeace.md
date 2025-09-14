@@ -1,4 +1,4 @@
-**Inner peace**.  
+**Inner peace**  
 To find inner peace, all it takes is to keep reminding yourself about it.  
 To make it the epitome of the choices you make.  
 To remember to not lose yourself in the past, in a train of thoughts.  

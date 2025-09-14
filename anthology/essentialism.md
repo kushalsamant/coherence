@@ -1,4 +1,4 @@
-**Essentialism**.  
+**Essentialism**  
 The idea is to lose yourself in nature, and find the time to nurture your creative pursuits.  
 Emptying the hard-drive.  
 Publishing all the work we have done for a decade on the website.  

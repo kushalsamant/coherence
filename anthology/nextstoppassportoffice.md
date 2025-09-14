@@ -1,4 +1,4 @@
-**Next stop passport office**.  
+**Next stop passport office**  
 I got a new passbook where the new printing machine printed the transaction page on the first page.  
 So, I got another new passbook on which the lady on the window updated the first page from her computer.  
 

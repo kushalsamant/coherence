@@ -1,4 +1,4 @@
-**Influence**.  
+**Influence**  
 In my past, I was fired in situations as people vied for influence.  
 I have been shown how important, this power over someone or something can be.  
 Our world is shaped by influence.  

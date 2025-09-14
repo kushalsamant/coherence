@@ -1,4 +1,4 @@
-**Being you**.  
+**Being you**  
 Life gives you exactly what you want.  
 Have you ever noticed that ‘The Secret’ says: “Focus on what you want to happen.  
 That’s all.”   This means that if I were to focus on the kicker over, and over again, I would get exactly what I don’t want.  

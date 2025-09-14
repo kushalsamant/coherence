@@ -1,4 +1,4 @@
-**Space is an emotion**.  
+**Space is an emotion**  
 Space is an emotion, is an attempt to illustrate certain observed notions between human emotions and the spaces we inhabit mostly through the practice of creating architectural spaces.  
 
 ![_Photo by Isaac Quesada_](https://images.unsplash.com/photo-1587308550198-10dde4bf9ba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI2NzI5fQ)

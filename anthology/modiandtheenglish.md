@@ -1,4 +1,4 @@
-**Modi & the English**.  
+**Modi & the English**  
 I always thought that the English were smart people.  
 But after last night's show of The King, I just realized that England is a tiny kingdom who lost a lot of kings and queens in battles trying to expand their kingdom across France.  
 Most of these monarchs never ruled beyond 9 years.  

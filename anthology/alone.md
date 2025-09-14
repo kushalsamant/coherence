@@ -1,4 +1,4 @@
-**Alone**.  
+**Alone**  
 Thank you for the inspiration.  
 It is things like these that make me keep on going even when all the odds are against me, and the future of all my dreams seem bleak.  
 On days when every motion you made seemed to have hit a dead block.  

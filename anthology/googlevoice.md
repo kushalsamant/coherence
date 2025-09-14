@@ -1,4 +1,4 @@
-**Google voice**.  
+**Google voice**  
 The funny part is that when I first started using Google voice input it would not give me the correct inputs like I would speak something or say something and then this app or the keyboard would interpret it differently.  
 now that I think about it everything has slowly started to learn from me it is assive Google has its own AI running on this thing which launch my pronunciation and launch my voice and makes it easier for me to speak out long sentences without having to stop to edit a mistake.  
 well I do agree that there are some words that it still does not pick up.  but overall output is better now and it keeps getting better as I keep using this app on the keyboard for my writing it is very easy for me to share my thoughts and since I think a lot and have a lot of thoughts it is very easy for me now to be able to record all document them whenever I am even if I am waiting or if I am taking a dump or if I am designing something.  

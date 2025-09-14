@@ -1,4 +1,4 @@
-**Not everyone of us**.  
+**Not everyone of us**  
 There are a lot of people who walk in, and out of our lives.  
 The best thing that you can learn from these semi-strange weird reasoning based experiences is to believe.  
 Not in anything else but yourself.  

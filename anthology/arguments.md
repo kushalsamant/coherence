@@ -1,4 +1,4 @@
-**Arguments**.  
+**Arguments**  
 Let's talk about arguments.  
 The whole concept of peace revolves around the presence mutual respect.  
 I fear contempt more than the lack of mutual respect.  

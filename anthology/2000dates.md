@@ -1,4 +1,4 @@
-**2000 dates**.  
+**2000 dates**  
 So, I have been on 2000 first dates over the last 5 years.  
 The experience has let me see the alarmingly range of people who are swept away their choices under a lull of popular beliefs.  
 The things that people do, including the way they treat others under a belief of self preservation or self interest mostly has led to believe that nothing is true, it’s all a sham, and no one loves you or anything for anything at all.  

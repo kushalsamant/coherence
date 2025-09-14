@@ -1,4 +1,4 @@
-**Of pegboards, and walkways**.  
+**Of pegboards, and walkways**  
 She is the most amazing piece of nature that I have ever seen.  
 From the foothills of Kerala to Milky Way galaxy.  
 The way she lets me be.  

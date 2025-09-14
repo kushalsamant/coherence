@@ -1,4 +1,4 @@
-**Railway line intervention**.  
+**Railway line intervention**  
 Have you seen this city - the city of Bombay? It is a straight line from South to North.  
 A line connected by one railway line or to be more precise three railway lines.  
 Every day millions flock to work and back home on the three straight lines.  

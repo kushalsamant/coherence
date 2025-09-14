@@ -1,4 +1,4 @@
-**Hard to imagine**.  
+**Hard to imagine**  
 I was looking at youtube videos on Steve Jobs.  
 Most of them displayed how self appreciation was a key to better marketing.  
 I wonder if anyone else feels that way about Steve.  

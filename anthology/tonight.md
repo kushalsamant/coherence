@@ -1,4 +1,4 @@
-**Tonight**.  
+**Tonight**  
 After being struck in a lockdown for like the past 60 days I think that no matter how much you ask for outside help or to the government or to the police or to anybody else that you know is in power or has the capacity to help you out of this position of being stranded that you are left in, I just think I realised that I have no friends.  
 
 Most people have stopped talking to me, most people have given up on the idea of seeing again.  

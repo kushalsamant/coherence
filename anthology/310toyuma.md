@@ -1,4 +1,4 @@
-**3:10 to Yuma**.  
+**3:10 to Yuma**  
 I am now going to jot a film because most of my tinder dates have succeeded in disappointing me by showing an uncanny ability at flipping.  
 
 Have you seen 3:10 to Yuma? 

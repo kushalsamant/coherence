@@ -1,4 +1,4 @@
-**This is us**.  
+**This is us**  
 This afternoon we were watching "This is us".  
 We were talking about the show after keeping it on pause.  
 She probably disagreed something in the discussion.  

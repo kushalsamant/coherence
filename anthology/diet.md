@@ -1,4 +1,4 @@
-**Diet**.  
+**Diet**  
 
 **Note**: This article is not an advice from a General Practitioner (GP).  
 - Jeera water is considered to be one of the most beneficial home remedies for gas pain.  
@@ -13,7 +13,7 @@ Fennel has diuretic properties, whereas cardamom and jeera both help in relievin
 This drink also helps to reduce water retention in the body and makes one feel lighter," adds Dr. Ashutosh.  
 - Have peppermint and chamomile tea once or twice in a week.  
 
-**Side effects of jeera water**.  
+**Side effects of jeera water**  
 Jeera water is amazing for our health.  
 But excess consumption of the same can be harmful and may lead to the following side effects.  
 - Heartburn.  
@@ -21,20 +21,20 @@ But excess consumption of the same can be harmful and may lead to the following 
 - Harmful for the growing foetus during pregnancy.  
 - Interfere or slow down clotting of blood and lead to bleeding.  
 
-**Here's how you can make an ayurvedic drink for bloating**.   
+**Here's how you can make an ayurvedic drink for bloating**   
 
-**Ingredients**.  
+**Ingredients**  
 - 1 tablespoon green cardamom.  
 - 1 tablespoon jeera.  
 - 1 tablespoon fennel seeds.  
 
-**Method**.  
+**Method**  
 - To begin with, take a bowl and add water in it.  
 - Bring it on high flame.  
 - Next, add in all the three ingredients and allow them to boil.  
 - After a while, strain the concoction and drink this warm.  
 
-**Lifestyle habits**.  
+**Lifestyle habits**  
 - Exercise can help release trapped gas and gas pain.  
 Try walking after meals as a way to avoid gas.  
 If you have gas pain, jumping rope, running, or walking may help you expel it.  
@@ -43,11 +43,11 @@ If you have gas pain, jumping rope, running, or walking may help you expel it.
 - Avoid smoking.  
 - Find ways to work exercise into your routine, such as taking a walk after a meal.  
 
-**Use this format understand the following part**.  
+**Use this format understand the following part**  
 
-**Avoid (foods to avoid)**.  
+**Avoid (foods to avoid)**  
 
-**Replacement (and its replacement)**.  
+**Replacement (and its replacement)**  
 - Apples, and watermelons have also been known to cause bloating and other digestive issues for some people.  
 The culprits are fructose (which is a fodmap) and the high fiber content.  
 Fructose and fiber can both be fermented in the large intestine, and may cause gas and bloating.  

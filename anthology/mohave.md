@@ -1,4 +1,4 @@
-**Mohave**.  
+**Mohave**  
 Out in the desert,
 as a wind blows,
 she saw in herself,

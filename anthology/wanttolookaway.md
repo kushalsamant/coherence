@@ -1,4 +1,4 @@
-**Want to look away**.  
+**Want to look away**  
 If you have any complaints then it is that in this process I cannot look away.  
 Well actually I just called it I close my eyes when speaking out the sentence the previous sentence.  
 I think the glare from my phone will not bother my eyes because I am talking by keeping the phone very close to me but I do wish that it would have been better if I could look away and my voice was loud enough to speak out things.  

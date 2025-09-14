@@ -1,4 +1,4 @@
-**Erotica 11**.  
+**Erotica 11**  
 :* You’re gonna be working and you’re gonna be getting frustrated.  
 I’m gonna come to you, sit down write behind you on my knees and and run my hands through your hair and my chest against the back of your head.  
 I’m gonna rub my hands on your shoulder and kiss you slowly and longingly on the side of your face and down your neck teasing your ear with my tongue.  

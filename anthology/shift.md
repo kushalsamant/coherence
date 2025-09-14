@@ -1,4 +1,4 @@
-**Shift**.  
+**Shift**  
 Why is there an apparent hurry in the shift for the Rupee?
 
 With over a population of 1.  2 Billion people, the news seems to be reaching people after working hours of the banks.  

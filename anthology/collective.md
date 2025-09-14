@@ -1,4 +1,4 @@
-**Collective**.  
+**Collective**  
 Some things in life need a lot more rhythm to it than you can beat.  
 And that’s okay.  
 So today I went to a movie screening.  

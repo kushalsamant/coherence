@@ -1,4 +1,4 @@
-**Yesterday**.  
+**Yesterday**  
 Yesterday, at about 9pm, the security said he was closing the place for the day.  
 He said, “Light bandh karke aana, hum niche rahenge darwaze pe.”   So I took an hour to pack all calls up.  
 It was pouring.  

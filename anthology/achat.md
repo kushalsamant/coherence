@@ -1,4 +1,4 @@
-**A chat**.  
+**A chat**  
 It is just hard for me to find someone who has the same troubles as I do.  
 And then ignore them for the longest while till they fade away into the shadows.  
 I wonder if they can still see me, but I wish they returned.  

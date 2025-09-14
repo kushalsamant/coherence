@@ -1,4 +1,4 @@
-**Consistency IV**.  
+**Consistency IV**  
 Remember "the Diderot effect"? Continuing from the previous chapter.  
 This is what the takeaway from it is.  
 Why does the Diderot effect work?

@@ -1,4 +1,4 @@
-**Competition 10000**.  
+**Competition 10000**  
 I want to taken hear you but I think the emails to write about a 10000 articles on typewriter and that's all.  
 Mishal Thomas 2018 new achieve something as naturopathy feel it from you very very standpoint you thank you know that the whole.  
 Of it American want to build something take out of nothing comes by twins why do they say goodbye.  

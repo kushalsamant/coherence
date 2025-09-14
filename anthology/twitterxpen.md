@@ -1,4 +1,4 @@
-**Twitter X pen**.  
+**Twitter X pen**  
 My issue with Twitter is that once you drop a message it becomes as impossible to find it again as to find a drop of water in the vast mighty ocean.  
 I have often thought of not enclosing or meddling with the whole social media bubble.  
 

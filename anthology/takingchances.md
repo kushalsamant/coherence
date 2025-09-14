@@ -1,4 +1,4 @@
-**Taking chances**.  
+**Taking chances**  
 So trying to record this right now and it is very easy to do this.  
 The aim is to talk for a minute about anything and keep repeating this process and keep posting to typewrighter that's all.  
 Surprisingly the Google input keyboard works better on typewrighter than any other place that I have seen so far.  

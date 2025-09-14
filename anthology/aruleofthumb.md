@@ -1,4 +1,4 @@
-**A rule of thumb**.  
+**A rule of thumb**  
 Not the exact nature of woodworking but the idea of how things can be built.  
 Bit by bit, block by block, or layer by layer.  
 This layering is what everything around us is made of.  

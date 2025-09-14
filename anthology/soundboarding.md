@@ -1,4 +1,4 @@
-**Soundboarding**.  
+**Soundboarding**  
 Soundboarding is basically process in which a person say for example me.  
 I will talk to you about my problem/s or probably about things I am dealing with in my problem/s.  
 I will tell you the story of my life or of my project/s.  

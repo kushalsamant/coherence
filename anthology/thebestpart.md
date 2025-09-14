@@ -1,4 +1,4 @@
-**The best part**.  
+**The best part**  
 Trying to see if you can create something from scratch or if you want to make something of your own company or something or maybe you might want to go take a job, the best thing to do is to you get an internship.  
 it might not be easy to get a full time job but if you get an internship then you will be able to apply at the same office for a full-time position or like more stories go they will hire you because they trained you and when somebody trains you they will ensure that their efforts continue serving their best interest.  
 So pick anything and stick to it.  

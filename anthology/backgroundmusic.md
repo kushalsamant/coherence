@@ -1,4 +1,4 @@
-**Background music**.  
+**Background music**  
 There is this constant background music that comes to us in life.  
 Most of it is the form of other people talking at us or other things around us that create sound or noise depending on the way you look at it.  
 It is hard to pretend that these things do not bother us at work but the better way of doing things might be to say no.  

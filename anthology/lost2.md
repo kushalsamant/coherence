@@ -1,4 +1,4 @@
-**Lost 2**.  
+**Lost 2**  
 So lost she be,
 so lost she be,
 in some forest,

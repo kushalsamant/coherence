@@ -1,4 +1,4 @@
-**A riding song**.  
+**A riding song**  
 I was just riding alone;
 On the way to my home.  
 I thought to take you along;

@@ -1,4 +1,4 @@
-**Time**.  
+**Time**  
 Now I don’t know what you were doing when you picked this up.  
 But you should stop and ponder.  
 There are many reasons why it is essential to cut down the things that we do.  

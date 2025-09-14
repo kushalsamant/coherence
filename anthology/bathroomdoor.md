@@ -1,4 +1,4 @@
-**Bathroom door**.  
+**Bathroom door**  
 I opened the bathroom door, wondering what will my friends think about me if they discovered that one of the sober guys was doing it too.  
 I mean getting more, and more involved in the whole prospect of the smoke.  
 The other thought on my mind was, why do I always do things, say stuff, and act with the only question in my mind being: “what will they think of me?”

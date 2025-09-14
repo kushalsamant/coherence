@@ -1,4 +1,4 @@
-**Schedule for quick dating**.  
+**Schedule for quick dating**  
 Here's a schedule for quick dating that I religiously followed from 2014 to 2016 to be able to blink about people.  
 It helped me meet a variety of people from various walks of life using applications like Airbnb, Aisle, Bumble, Hinge, Facebook, Haikujam, Instagram, Tinder, and Twitter.  
 It was a great learning experience for me.  

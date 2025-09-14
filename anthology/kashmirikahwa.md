@@ -1,4 +1,4 @@
-**Kashmiri kahwa**.  
+**Kashmiri kahwa**  
 Kashmiri kahwa not actually that but something like that.  
 So, Sarfaraz Khan who also is writer on Typewrighter and is my flatmate right now, he had made ghee out of milk and I don't know how it that but yaar left some of the burnt ghee in the strainer, and I used that strainer with the ghee in it for my tea.  
 Apparently that is how they make Kashmiri kahwa they add some ghee to the tea.  

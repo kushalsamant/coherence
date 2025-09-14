@@ -1,4 +1,4 @@
-**Ashore**.  
+**Ashore**  
 Lines from a forgotten past
 Time bound memories
 Of sand on the grounds

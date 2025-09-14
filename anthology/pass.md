@@ -1,4 +1,4 @@
-**Pass**.  
+**Pass**  
 Like the tree in the snow,
 I wonder if we know,
 Of what pain lies,

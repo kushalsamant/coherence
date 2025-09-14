@@ -1,4 +1,4 @@
-**Kvarnbacken**.  
+**Kvarnbacken**  
 Kvarnbacken, the hill close to the Jakobsberg train station felt like a shadow.  
 As he moved across the plains thinking of all that had happened to him, searching for joy.  
 He wanted to find a map of this place.  

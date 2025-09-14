@@ -1,4 +1,4 @@
-**Slowly letters 3**.  
+**Slowly letters 3**  
 Can I know your first name? It helps add context :P Maybe if we run into each other someday.  
 :) Yes I got bored of writing a bio, so I have my website bio here :P Well it clearly works to get people to reply to me :D
 

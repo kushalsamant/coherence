@@ -1,4 +1,4 @@
-**Abyss**.  
+**Abyss**  
 This picture reminds me of hierarchy.  
 A man looks down on another, while being idle himself.  
 The way this society prides upon its idle-being than those industrious-beings.  

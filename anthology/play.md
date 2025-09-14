@@ -1,4 +1,4 @@
-**Play**.  
+**Play**  
 Play "Will this work for you?"
 
 It's a game where we,

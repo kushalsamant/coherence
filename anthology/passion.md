@@ -1,4 +1,4 @@
-**Passion**.  
+**Passion**  
 It feels almost like I have lost the passion to do something for others.  
 As if everytime I think of solving a problem for creating a product or just sharing information and knowledge that might help someone achieve something in ways unforeseen, I get lazy, hopeless, and lost.  
 I don't know why I have been feeling this way lately but it maybe because I have tried too hard in the past to make the world a better place.  

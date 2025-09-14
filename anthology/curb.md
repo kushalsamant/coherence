@@ -1,4 +1,4 @@
-**Curb**.  
+**Curb**  
 Wishful thinking
 Red lights blinking
 Inching slowly for the curb

@@ -1,4 +1,4 @@
-**Circles**.  
+**Circles**  
 I think this is one of the rare posts agar aap not asked question before beginning to talk about it.  
 I mean within this lockdown.  
 Soyabean trying to not pick a topic and write a lot about it.  

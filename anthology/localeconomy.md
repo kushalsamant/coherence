@@ -1,4 +1,4 @@
-**Local economy**.  
+**Local economy**  
 Do you know what the idea is behind funding local economics? The the full idea why I want to give funding to local economy instead of se a brand as much life in this small top that I was having with this auto rickshaw driver while going back home before this lockdown.  
 So the conversation that I had with him was about how taking a rickshaw back home instead of booking in ola or Uber or maybe going from the public transport was beneficial to everybody in the process.  
 I am aware that you might know I'm talking about it is basically about taking my money and spending on things that are sold by people who have kids to feed and who badly make bye in today's world.  

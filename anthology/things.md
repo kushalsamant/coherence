@@ -1,4 +1,4 @@
-**Things**.  
+**Things**  
 The things that are common to you, like windy mornings, starry skies, and old trees; beetles, strawberries, and doorbells; coffee, blue jeans, and summertime… are not common to us.  
 
 These are things I design: books, city blocks, city plazas, commercial spaces, event venues, homes, houses, interiors, landscapes, urban design, &c.  

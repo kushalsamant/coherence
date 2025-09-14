@@ -1,4 +1,4 @@
-**Mind**.  
+**Mind**  
 It is funny how our mind works.  
 It is funny how we can tell a lot about people in the first instance.  
 Our brains are databases, designed to give us a match from it’s storage for all our queries.  

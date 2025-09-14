@@ -1,4 +1,4 @@
-**Brida 2**.  
+**Brida 2**  
 I told you I am a filler but I have never told anyone what I think about myself, and to me it just means that I am stressed.  
 And these thoughts are leaking in fragments, and I am telling them to you because I have never taken any one to theatre or a dining out too.  
 Hell! I have had many dates many more than men can count but to you I can pour my heart out.  

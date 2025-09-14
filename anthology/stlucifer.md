@@ -1,15 +1,15 @@
-**St. Lucifer**.  
+**St. Lucifer**  
 I co-authored a song named _"St. Lucifer"_ with Thomas Albert.  
 Client: <a href="https://www.instagram.com/thomasalbertmusic" rel="noopener noreferrer" target="_blank">Thomas Albert Music</a>.  
 <a href="https://www.saavn.com/song/st.-lucifer-pull-me-out-feat.-thomas-albert--rani-viswas/FD1caDEBb2c" rel="noopener noreferrer" target="_blank">Listen</a>' to St. Lucifer on Saavn.
 
-**Watch the making of St. Lucifer**.  
+**Watch the making of St. Lucifer**  
 {% include youtube_embed.html id="ycdXPY99Eeg" %}  
 
-**Watch lyrics of St. Lucifer**.  
+**Watch lyrics of St. Lucifer**  
 {% include youtube_embed.html id="1T4-8pfGwYE" %}  
 
-**The lyrics**.  
+**The lyrics**  
 “The moon is out.  
 I wake up to the morning star.  
 standing in the mirror.”  
@@ -60,7 +60,7 @@ pull me out of this spell.”
 “Pull, pull, pull me out.  
 pull me out the gates of hell.”  
 
-**Credits**.  
+**Credits**  
 Janet D’Santos, Kushal Dhananjay Samant, Rani Viswas, Shashank Jha, Thomas Albert, and Uttam Shah.  
 ![_St. Lucifer YouTube Header_](https://66.media.tumblr.com/ae4bb51ac2082980e4e1b412fdc03cee/a4c6536c061003f6-e2/s540x810/68035b637405fe6f52933fe6ca90fae8a4e8f341.jpg)  
 St. Lucifer YouTube Header.  

@@ -1,4 +1,4 @@
-**Slow**.  
+**Slow**  
 So there is this entire idea of slow.  
 Oftentimes we comes across a point in life while making a broth that it turns out to be better if we just let it simmer, and boil up with time.  
 Without a rush, or a haphazard frenzy to make something out of it.  

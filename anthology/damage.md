@@ -1,4 +1,4 @@
-**Damage**.  
+**Damage**  
 We limit our view of others by the reality we can imagine for ourselves.  
 In my lifetime, I have been boycotted, spat on, stoned, ambushed, assaulted, raped, and abandoned.  
 Not been stabbed or shot yet.  

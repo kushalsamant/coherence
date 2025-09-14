@@ -1,4 +1,4 @@
-**Meetings**.  
+**Meetings**  
 Why am I so lost? What drives meetings? To be honest, last week I was not fair enough to myself, my colleagues, and my work.  
 I slept for 12 hours a day from my otherwise 2 hour routine.  
 That was a lot of laid back time.  

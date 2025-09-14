@@ -1,4 +1,4 @@
-**When I lost my father**.  
+**When I lost my father**  
 When I lost my father I thought I saw it coming for there was thunder in the skies, and we had about a few hundred miles to ride.  
 For any country boy, it seemed an arduous task but when I lost my father I thought I lost a part.  
 I often think of the things we promised from travelling to being free, from doing no man wrong to standing by one’s misdeeds.  

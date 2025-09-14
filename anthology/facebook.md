@@ -1,4 +1,4 @@
-**Facebook**.  
+**Facebook**  
 > “Everything around me is evaporating.  
 My whole life, my memories, my imagination, and its contents, my personality?-?it’s all evaporating.  
 I continuously feel that I was someone else, that I felt something else, that I thought something else.  

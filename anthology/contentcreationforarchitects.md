@@ -1,4 +1,4 @@
-**Content creation for architects**.  
+**Content creation for architects**  
 I think you are thinking old school where the only way information would flow would be through peer recommendation.  
 This is the internet age.  
 You are only as good as your content is.  

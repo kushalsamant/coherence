@@ -1,4 +1,4 @@
-**Khamoshi**.  
+**Khamoshi**  
 Teri meri khamoshi mein
 Khoje hum tumhe
 

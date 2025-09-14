@@ -1,4 +1,4 @@
-**Letters to The Commissioner of Police, Mumbai**.  
+**Letters to The Commissioner of Police, Mumbai**  
 Date: 15th May 2020  
 
 Dear Mr.  

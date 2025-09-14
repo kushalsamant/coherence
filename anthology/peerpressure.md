@@ -1,4 +1,4 @@
-**Peer pressure**.  
+**Peer pressure**  
 I don't know if you have noticed but you know we can do a lot more if we complicate things.  
 I lost this thought but I am trying to remember it from a glimpse.  
 I was looking at this web development course n Coursera, thinking of all the things you can do if you learn web development.  

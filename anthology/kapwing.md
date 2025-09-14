@@ -1,8 +1,8 @@
-**Kapwing**.  
+**Kapwing**  
 Here's a sweet resource for digital content creation.  
 I hope you love <a href="https://www.kapwing.com" rel="noopener noreferrer" target="_blank">Kapwing</a>, a modern editor for videos, GIFs, and images.  
 
-**Image Editing Tools**.  
+**Image Editing Tools**  
 <a href="https://www.kapwing.com/image-to-video" rel="noopener noreferrer" target="_blank">Convert Image to Video</a>.  
 <a href="https://www.kapwing.com/instagram-story-templates" rel="noopener noreferrer" target="_blank">Instagram Story Templates</a>.  
 <a href="https://www.kapwing.com/meme-maker" rel="noopener noreferrer" target="_blank">Meme Maker</a>.  
@@ -10,7 +10,7 @@ I hope you love <a href="https://www.kapwing.com" rel="noopener noreferrer" targ
 <a href="https://www.kapwing.com/slideshow" rel="noopener noreferrer" target="_blank">Slideshow Maker</a>.  
 <a href="https://www.kapwing.com/stop-motion" rel="noopener noreferrer" target="_blank">Stop Motion Maker</a>
 
-**Video Editing Tools**.  
+**Video Editing Tools**  
 <a href="https://www.kapwing.com/add-music-to-video" rel="noopener noreferrer" target="_blank">Add Music to Video</a>.  
 <a href="https://www.kapwing.com/subtitles" rel="noopener noreferrer" target="_blank">Add Subtitles</a>.  
 <a href="https://www.kapwing.com/add-text-to-video" rel="noopener noreferrer" target="_blank">Add Text to Video</a>.  

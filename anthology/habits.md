@@ -1,4 +1,4 @@
-**Habits**.  
+**Habits**  
 What is the best habit that you can build for yourself?
 Here are a series of habits that will contribute greatly to your growth and success.  
 Now the first habit that I would like to build is compounding.  

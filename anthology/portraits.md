@@ -1,4 +1,4 @@
-**Portraits**.  
+**Portraits**  
 So I have always been thinking about making a blog for the way my hair grows back.  
 Self shot portraits, day after day, documenting how my look changes to an extent that I get stopped at ID checks because the photo doesn’t look anything like me.  
 I have had my doubts on how the world would take it.  

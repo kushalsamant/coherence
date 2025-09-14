@@ -1,4 +1,4 @@
-**Hemingway app**.  
+**Hemingway app**  
 The reason I stopped using hemingway app is not because I think they do a bad job.  
 Well that is certainly not the case.  
 They do an amazing job.  

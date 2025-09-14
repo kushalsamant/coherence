@@ -1,4 +1,4 @@
-**Being torn**.  
+**Being torn**  
 Between a job or your own shop,
 Between money or that desire to hop,
 Even if it means that you might pretty much flop,

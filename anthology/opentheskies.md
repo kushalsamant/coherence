@@ -1,4 +1,4 @@
-**Open the skies**.  
+**Open the skies**  
 Open the skies.  
 and see.  
 how we can never be.  

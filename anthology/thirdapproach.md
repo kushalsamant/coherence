@@ -1,4 +1,4 @@
-**Third approach**.  
+**Third approach**  
 I believe that the way you do anything is the way you do everything.  
 So, by that logic, the way I cook Maggi is the way I do everything.  
 It means that the speed at which I boil the broth is also the speed at which I would do most other things.  

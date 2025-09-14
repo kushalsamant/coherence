@@ -1,4 +1,4 @@
-**Consistency I**.  
+**Consistency I**  
 Do you know how powerful consistency is?
 Like I said in the previously, compounding is a hedge against failing at consistency.  
 This is because aa...  

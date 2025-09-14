@@ -1,4 +1,4 @@
-**Love 2**.  
+**Love 2**  
 Love is like photo editing.  
 Where you reach a point that you know there is more to be done by your standards, but the picture looks so good already that your standards fail to add to it eventually.  
 Where the details cannot be better, where the thought of your first idea to be the best idea falters.  

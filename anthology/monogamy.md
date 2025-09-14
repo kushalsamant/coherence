@@ -1,4 +1,4 @@
-**Monogamy**.  
+**Monogamy**  
 Case 1: Monogamy is a pattern.  
 I am scared of people who say monogamy since July.  
 Like they say they want monogamy, and want to make an effort to work things out.  

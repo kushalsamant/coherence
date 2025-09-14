@@ -1,4 +1,4 @@
-**A collective**.  
+**A collective**  
 I have spent my last three months trying to declutter.  
 I have changed the way I live at least two dozen times.  
 Right from the houses I live at, to my work profiles to my collection of books, my games, my documents even my bank accounts, and stock collection.  

@@ -1,4 +1,4 @@
-**The Dark Knight fantasy**.  
+**The Dark Knight fantasy**  
 This week I got asked a couple of times by the folks at UN, and a few other friends.  
 A pretty simple question.  
 And note that the mere appearance of the question does not make it simple.  

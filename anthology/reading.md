@@ -1,4 +1,4 @@
-**Reading**.  
+**Reading**  
 Reading for the sake of reading is no good.  
 Reading for the sake of understanding is no good.  
 Reading only helps as a means of collecting perspectives from different authors.  

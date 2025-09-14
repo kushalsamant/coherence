@@ -1,4 +1,4 @@
-**Woman**.  
+**Woman**  
 you know how to make me drool  
 worry about everything like a fool  
 looking out at dead stars  

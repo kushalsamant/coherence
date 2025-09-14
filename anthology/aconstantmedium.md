@@ -1,4 +1,4 @@
-**A constant medium**.  
+**A constant medium**  
 If you are used to change the medium of publishing in your creative process then you should stop that.  
 Like the mistake I make is to flip from using speech-to-text vs.  
 typing on other projects.  

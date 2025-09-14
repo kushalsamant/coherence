@@ -1,4 +1,4 @@
-**Think of a white shirt**.  
+**Think of a white shirt**  
 Think of a white shirt,
 Fluttering in the wind;
 As the fabric jitters,

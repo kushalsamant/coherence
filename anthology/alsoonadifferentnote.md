@@ -1,4 +1,4 @@
-**Also, on a different note**.  
+**Also, on a different note**  
 Also, on a different note, I was crossing the Vashi bridge yesterday.  
 It was raining, and these harbour line trains usually sway in the strong winds on that bridge.  
 You could see how everyone around the big doors is anxious.  

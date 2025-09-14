@@ -1,4 +1,4 @@
-**Scootsy**.  
+**Scootsy**  
 Today, let me share a short insight with you.  
 After an influx of people in my life from architecture.  
 dating apps, event spaces, or super-hosting on Airbnb, I have learnt these things.  

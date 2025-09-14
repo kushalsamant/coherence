@@ -1,6 +1,6 @@
 **“Before.”**
 
-**Tuesday, November 8, U.S Presidential Election 2016**.  
+**Tuesday, November 8, U.S Presidential Election 2016**  
 Creativity is to be played on a mind map, not a time map.  
 Deliberation is not the means to achieve most of what life offers.  
 I want to publish everything I have that helps others be better at what they do.  

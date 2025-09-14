@@ -1,4 +1,4 @@
-**Tata**.  
+**Tata**  
 Sometimes I feel Sir Ratan Tata was right when he said,
 
 “…as you grow in your organization you will find that you get lonelier, and lonelier, and your decision is eventually a lonely decision.  

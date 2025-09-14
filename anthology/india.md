@@ -1,4 +1,4 @@
-**India**.  
+**India**  
 I live in a country.  
 where if a soldier is shot.  
 my countrymen fight.  

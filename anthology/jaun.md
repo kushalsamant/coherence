@@ -1,4 +1,4 @@
-**Jaun**.  
+**Jaun**  
 Main kahi, teri yaadon mein
 Teri yaadon mein
 Ro jaun.  

@@ -1,4 +1,4 @@
-**Multiple sources**.  
+**Multiple sources**  
 Do you know what the key to wealth is?
 
 So the sooner you learn this the better it is.  

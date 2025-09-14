@@ -1,4 +1,4 @@
-**Window**.  
+**Window**  
 Still waiting,  
 Looking at the window;  
 Typing.  

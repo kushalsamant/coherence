@@ -1,4 +1,4 @@
-**Erotica 4**.  
+**Erotica 4**  
 I want to whisper in your ears, and tell you things that I will do to you to make you squirt.  
 I want to kiss you, bite you, eat you, and make you moan like you have never been fucked before.  
 I want to tease you, dominate you, order you around, tell you what to do, show you what you deserve.  

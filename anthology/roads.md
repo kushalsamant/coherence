@@ -1,4 +1,4 @@
-**Roads**.  
+**Roads**  
 So what happens when people are friendly, almost to the extend that they feel like a soulmate.  
 But when they return from their travels things appear different.  
 They have this exterior grim face that appears unwarranted for.  

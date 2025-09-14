@@ -1,4 +1,4 @@
-**Mumbai suburban railway**.  
+**Mumbai suburban railway**  
 I don’t know about you, but often I need more enthusiasm to jot down few words here.  
 Maybe, it’s the accessibility of the platform.  
 Although, Medium has an app, it’s not their fault.  

@@ -1,4 +1,4 @@
-**Lost 1**.  
+**Lost 1**  
 This is a journal entry, not conscious of public discretion, in the now, or the future.  
 I am afraid of the immense activity that I will have to put up with if I continue my not architectural job.  
 I am afraid that I will have to face an existing piece of failure if I quit it.  

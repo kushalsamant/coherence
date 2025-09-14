@@ -1,4 +1,4 @@
-**Condescending**.  
+**Condescending**  
 All they want.  
 Is to be heard.  
 Give them a voice.  

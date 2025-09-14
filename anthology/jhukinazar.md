@@ -1,4 +1,4 @@
-**Jhuki nazar**.  
+**Jhuki nazar**  
 Mere janeja tu mujhse pyaar kar 
 Kabhi maane na tu intezaar
 

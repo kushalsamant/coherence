@@ -1,4 +1,4 @@
-**A dating pattern**.  
+**A dating pattern**  
 Oh well, I have been on dating apps since 2014. So I have an idea about that.  
 1. Dating app algorithms give you a match mostly on Wednesdays and Thursdays.  
 Not on Mondays.  

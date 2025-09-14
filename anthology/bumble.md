@@ -1,4 +1,4 @@
-**Bumble**.  
+**Bumble**  
 Well I matched with a girl on @bumble.  
 She asked me out for the marine drive date.  
 It was her idea entirely.  

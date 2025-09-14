@@ -1,4 +1,4 @@
-**There**.  
+**There**  
 I had always been a kid, popular as fuck.  
 But then I have never had a birthday celebrated by my friends.  
 I have had times when people know it’s my birthday but they don’t wish me instead.  

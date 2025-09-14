@@ -1,4 +1,4 @@
-**Bullets**.  
+**Bullets**  
 He shouted, “No Bro, Wait!” As he could see his silhouette disappear into the dim space.  
 Just a street lamp to decorate the street.  
 Make it look like an alley.  

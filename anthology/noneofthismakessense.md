@@ -1,4 +1,4 @@
-**None of this makes sense**.  
+**None of this makes sense**  
 I don't know if you have read the Archie's comic strip series, but there is a story in which Jughead tops the French class.  
 Now believe me Jughead is supposed to be not so good at French.  
 But he does it because instead of studying for the test, she goes to work at a French restaurant.  

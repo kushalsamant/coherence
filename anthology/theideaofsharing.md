@@ -1,4 +1,4 @@
-**The idea of sharing**.  
+**The idea of sharing**  
 Today I was talking to a very influential community host.  
 I have always wondered about the ability a non profit might have in functioning without any hindrance.  
 Hindrance from things like funding, and laws.  

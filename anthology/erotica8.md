@@ -1,4 +1,4 @@
-**Erotica 8**.  
+**Erotica 8**  
 She: Idiot.  
 Don't get slow while being smitten
 He: What do you mean?

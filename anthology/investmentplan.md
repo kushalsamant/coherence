@@ -1,4 +1,4 @@
-**Investment plan**.  
+**Investment plan**  
 
 The following is a method to manage your money better.  
 

@@ -1,4 +1,4 @@
-**Erotica 14**.  
+**Erotica 14**  
 I want you to suck me dry, see your body flow, into voluptuous curves, in dim light, of a lamp shade.  
 As you walk back into the room, from the shower, wrapped in a towel, still wet everywhere, leaking like a running tap.  
 As you stand in front of me, seduce me true, watch my cock soar, in sheer lust, just for you.  

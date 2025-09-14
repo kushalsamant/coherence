@@ -1,4 +1,4 @@
-**Slowly letters 2**.  
+**Slowly letters 2**  
 Corinthiana, that's such an architect-y name na.  
 :P Where did you do your architecture from - as in which college?
 

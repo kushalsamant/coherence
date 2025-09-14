@@ -1,4 +1,4 @@
-**Happy X sad**.  
+**Happy X Sad**  
 There was a thought in my mind about randomness.  
 Have you ever noticed that there is nothing that has an order.  
 Even chaos theory needs you to look for the pattern before you can see anything.  

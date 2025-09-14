@@ -1,4 +1,4 @@
-**The best way**.  
+**The best way**  
 The best way to miss a person.  
 The best way, to capture a person.  
 Is in a book; to capture their soul, and all memories.  

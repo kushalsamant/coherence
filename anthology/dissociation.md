@@ -1,4 +1,4 @@
-**Dissociation**.  
+**Dissociation**  
 Thanks for writing in.  
 
 I practice something similar to disassociation.  

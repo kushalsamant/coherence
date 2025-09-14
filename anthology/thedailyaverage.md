@@ -1,4 +1,4 @@
-**The daily average**.  
+**The daily average**  
 The daily average is at Rs. 25 now.  
 I want to push it further up.  
 Also now, since the team at Typewrighter has improved the interface, making it easy to type, and use all the functions given here - these articles are my personal journal entries.  

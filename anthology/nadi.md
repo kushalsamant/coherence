@@ -1,4 +1,4 @@
-**Nadi**.  
+**Nadi**  
 > "Badi mushkil se nadiyon mein nadi milti hai jo manzil ko paati hai.  
 Nahi toh har lehar bas gun guna kar kho si jati hai.  
 Khula aakash rasto ka sabhi rasto pe chal te hai.  

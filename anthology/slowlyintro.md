@@ -1,4 +1,4 @@
-**Slowly intro**.  
+**Slowly intro**  
 Hi you!  
 My name is Kushal Dhananjay Samant.  
 Welcome to my feel good about myself page.  

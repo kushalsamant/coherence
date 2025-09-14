@@ -1,4 +1,4 @@
-**Erotica 5**.  
+**Erotica 5**  
 I want to meet you at a wedding, find you in the crowd, from the other family’s side.  
 Look at you, and catch your gaze.  
 I ask you, “Do you know where the rooms are?”  

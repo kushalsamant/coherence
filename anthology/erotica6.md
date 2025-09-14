@@ -1,4 +1,4 @@
-**Erotica 6**.  
+**Erotica 6**  
 I love eating you out, and hearing you moan, like a toy in my hands.  
 I love sucking your tits, running my nails on your back.  
 I want to tear away your tops.  

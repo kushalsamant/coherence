@@ -1,4 +1,4 @@
-**Regret**.  
+**Regret**  
 I regret not having started Instagramming from the New Year’s Eve.  
 This would have been so perfect.  
 The Concord was the first racing push bike that I rode.  

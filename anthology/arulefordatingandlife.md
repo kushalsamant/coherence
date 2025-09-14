@@ -1,4 +1,4 @@
-**A rule for dating and life**.  
+**A rule for dating and life**  
 She is the extreme good and the extreme bad.  
 ek aur proof aaya mereko isse.  
 proof for "the way you do anything is the way you do everything".  

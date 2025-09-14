@@ -1,4 +1,4 @@
-**Running**.  
+**Running**  
 Running across different plains, as we see the green pass by, with every turn in turn it stays, a high that drives our innate joys.  
 I wonder if there is an end to all the things that seem to cry, there are not many things around, from an early sunrise to moonlight, that will bring a smile to my empty face, that will make me feel better inside.  
 For today I feel so low, for every person, and every thing, that I have tried or given to, has crushed my inherent belief about myself.  

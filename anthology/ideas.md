@@ -1,4 +1,4 @@
-**Ideas**.  
+**Ideas**  
 I've never found that every time I get an idea or everytime you come across an idea you will often think that you had thought about it sometime back in your life.  
 But since you never picked it up or run with it, you were not the one who made it happen.  
 Ideas come and go and they happen to find us in our life just like a dream becomes a reality.  

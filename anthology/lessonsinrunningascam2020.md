@@ -1,4 +1,4 @@
-**Lessons in running a scam 2020**.  
+**Lessons in running a scam 2020**  
 Date: 4th June 2020  
 
 1. Label all the deaths that happen per year with a disease that is less deadly than TB, Measles, Mumps, SARS, HIV, and a few others.  

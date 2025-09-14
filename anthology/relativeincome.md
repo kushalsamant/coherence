@@ -1,4 +1,4 @@
-**Relative income**.  
+**Relative income**  
 What are we posting here?
 
 Here's what posting written content here means.  

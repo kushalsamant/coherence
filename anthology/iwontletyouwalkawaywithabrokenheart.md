@@ -1,4 +1,4 @@
-**I won't let you walk away, with a broken heart**.  
+**I won't let you walk away, with a broken heart**  
 I won’t let you walk away, with a broken heart,
 And I wanna ride away from the past,
 I wanna kiss your tears good bye coz’ I love you.  

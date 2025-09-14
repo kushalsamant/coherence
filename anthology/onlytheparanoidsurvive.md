@@ -1,4 +1,4 @@
-**Only the paranoid survive**.  
+**Only the paranoid survive**  
 Only the paranoid survive.  
 I don’t think so.  
 The best thing to do is to write.  

@@ -1,4 +1,4 @@
-**Components of a trading plan**.  
+**Components of a trading plan**  
 Components of a trading plan includes:
 - Setting a time of day to trade
 - Risk management - % per trade

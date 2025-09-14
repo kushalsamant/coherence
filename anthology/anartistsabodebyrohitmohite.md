@@ -1,4 +1,4 @@
-**An artist's abode by Rohit Mohite**.  
+**An artist's abode by Rohit Mohite**  
 It is rare to find a project where the clients have supreme clarity about what they want.  
 This sort of clarity often rises from knowing what you don't want.  
 The client is an artist.  

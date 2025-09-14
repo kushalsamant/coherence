@@ -1,4 +1,4 @@
-**C’mon**.  
+**C’mon**  
 Step up to the unknown, it’s beautiful inside
 With beach sand flowing, into the high tide,
 These moments disappear, with a frightful force,

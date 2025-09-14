@@ -1,4 +1,4 @@
-**Consistency III**.  
+**Consistency III**  
 Continuing from the previous chapter.  
 Remember "slightly"? That is the key to understand how the Pareto principle works.  
 Now in my understanding the thing that you will learn in this chapter is one of the best takeaways from James Clear's work.  

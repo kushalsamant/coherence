@@ -1,4 +1,4 @@
-**Sharing my thoughts**.  
+**Sharing my thoughts**  
 I am only sharing my thoughts.  
 Well my mind is pretty active on most days and more during the night.  
 Now since I have found this process of creating more written content I think I will find my happiness within this.  

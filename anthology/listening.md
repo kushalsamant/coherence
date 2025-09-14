@@ -1,4 +1,4 @@
-**Listening**.  
+**Listening**  
 Whatever might be the reason that stops you from doing what you want, it is essential to recognize that the only way you can get things going is by trusting yourself blindly.  
 The most common mistake that we do as humans is to ignore our inner voice, that inkling of a notion that beckons us against something or for something.  
 That inner voice is always correct.  

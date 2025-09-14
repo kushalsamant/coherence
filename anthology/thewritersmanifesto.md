@@ -1,4 +1,4 @@
-**The writer’s manifesto**.  
+**The writer’s manifesto**  
 I think I should write.  
 Write on Medium
 Share Medium on Twitter

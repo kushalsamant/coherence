@@ -1,6 +1,6 @@
 **“After.”**
 
-**Tuesday, November 8, U.S Presidential Election 2016**.  
+**Tuesday, November 8, U.S Presidential Election 2016**  
 My dear Americans,
 
 While I lay here emptying my fridge because my country chose to make an economic shift, pondering for years maybe but an all in one night for us, Just like those surprise tests you guys love appalled at the way your past is still trending on Twitter.  
@@ -52,10 +52,10 @@ I pray you will soon see clarity like these lines, not cluttered paragraph at th
 If you still feel bothered then imagine that you are the only person on our planet.  
 And yes the way you imagine the planet will give you all your answers.  
 
-**Social Shifts In India**.  
+**Social Shifts In India**  
 I am aware of the fact that with the measures taken by the Government to end black money, the commons are suffering by the lot.  
 
-**Effects**.  
+**Effects**  
 - Sourcing money.  
 
 This could be anybody’s everyday story, waiting on their time in a queue.  
@@ -95,7 +95,7 @@ Being vegetarian is a way to riches.
 I am unsure if this is intentional or circumstantial, but chances are that people might switch to vegetarianism for reasons of money, if not climate change.  
 This may nullify our collective pollution.  
 
-**The Sunshine**.  
+**The Sunshine**  
 “Indian services need to go online to push the currency deficit to a paperless economy.  
 There are many benefits of doing the shift, and a need for innovation.  
 

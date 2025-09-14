@@ -1,4 +1,4 @@
-**Erotica 1**.  
+**Erotica 1**  
 I dreamt of us.  
 You met me at a cafe, you winked at me, and bite your lips, held my hand, and we ran into a closet.  
 In your office, behind the pantry, on conference tables, you sit.  

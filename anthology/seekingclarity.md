@@ -1,4 +1,4 @@
-**Seeking clarity**.  
+**Seeking clarity**  
 This might sound like whining.  
 It is just a train of thoughts.  
 Sharing it anyways.  

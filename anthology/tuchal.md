@@ -1,4 +1,4 @@
-**Tu chal**.  
+**Tu chal**  
 Tu khud ki khoj mein nika.  
 Tu kis liye hataash ha.  
 Tu chal, tere wajood k.  

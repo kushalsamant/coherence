@@ -1,4 +1,4 @@
-**The joy of not wearing a seatbelt**.  
+**The joy of not wearing a seatbelt**  
 Today, I travelled in a local train.  
 My mind went out with glee.  
 Today, I travelled in a local train.  

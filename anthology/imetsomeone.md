@@ -1,4 +1,4 @@
-**I met someone**.  
+**I met someone**  
 “You will meet her in seven days,
 her name starts with N,
 it has eight alphabets,

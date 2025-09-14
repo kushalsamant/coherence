@@ -1,4 +1,4 @@
-**The last supper**.  
+**The last supper**  
 There are moments of surprises that dot our lives from eventful days to dinner dates.  
 There are a few things that make an impression leaving an insight behind some that span a night or last a lifetime.  
 Most of where we go depends on where we want to be.  

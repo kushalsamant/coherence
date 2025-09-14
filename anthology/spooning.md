@@ -1,4 +1,4 @@
-**Spooning**.  
+**Spooning**  
 How I wish to spoon,  
 And massage her back,  
 At the same time.  

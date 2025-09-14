@@ -1,4 +1,4 @@
-**Automating your marketing**.  
+**Automating your marketing**  
 Automating your marketing by making Instagram Central.  
 1. Make an account for your project/products/office/firm on YouTube, Twitter, Tumblr, Pinterest, Medium, Instagram, and Facebook Pages.  
 2. Be mindful of having the same username on all platforms.  

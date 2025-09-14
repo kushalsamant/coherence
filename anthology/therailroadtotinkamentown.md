@@ -1,4 +1,4 @@
-**The railroad To Tinkamentown**.  
+**The railroad To Tinkamentown**  
 The railroad to Tinkamentown was selected in Cityscape Article Writing Competition 2012, and published by The National Association of Students of Architecture.  
 
 Why are gutters grey, and waters blue.  

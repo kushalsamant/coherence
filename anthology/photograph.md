@@ -1,4 +1,4 @@
-**Photograph**.  
+**Photograph**  
 A photograph is like a memory.  
 a part of the picture with a whole story unseen behind the frame.  
 a story, of emotions, of people, of feelings.  

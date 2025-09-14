@@ -1,4 +1,4 @@
-**Slowly letters 7**.  
+**Slowly letters 7**  
 Yes.  
 My parent's marriage is one of a kind.  
 Maharashtrian guy, Malayalee girl.  

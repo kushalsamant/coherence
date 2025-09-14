@@ -1,4 +1,4 @@
-**Makerspace quotes**.  
+**Makerspace quotes**  
 Experience,
 Sprung from pain,
 to change or gain,

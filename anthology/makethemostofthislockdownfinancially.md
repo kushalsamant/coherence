@@ -1,4 +1,4 @@
-**Make the most of this lockdown financially**.  
+**Make the most of this lockdown financially**  
 So the whole ideas is to make a post on typewrighter using Google Voice input.  
 Although this might sound like .  futile exercise, what I am trying to do is to write for 1 minute and this text becomes an article.  
 Posting one article on typewriter gets me about 10 rupees a day.  

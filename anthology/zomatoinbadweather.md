@@ -1,4 +1,4 @@
-**Zomato in bad weather**.  
+**Zomato in bad weather**  
 So I haven't' been to this place, Smoking Pizza, Nerul, Navi Mumbai.  
 But my mom got her Zomato Gold.  
 Pretty excited about it, so she ordered 1+1 Cheese Burst Pizzas through her new Zomato Gold.  

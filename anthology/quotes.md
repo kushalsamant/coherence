@@ -1,4 +1,4 @@
-**Quotes**.
+**Quotes**
 
 > "...And last but not least, good design is as little design as possible."  
 > Dieter Rams.

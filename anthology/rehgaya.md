@@ -1,4 +1,4 @@
-**Reh gaya**.  
+**Reh gaya**  
 Reh gaya teri yaadon mein,
 Ho main,
 Reh gaya teri yaadon mein.  

@@ -1,4 +1,4 @@
-**Variables**.  
+**Variables**  
 The constant changes in variables that can be inclusive or exclusive of other factors are only as infinite as the human’s belief of infinity.  
 We set our own limits.  
 We set our paradigms.  

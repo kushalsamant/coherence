@@ -1,4 +1,4 @@
-**Waiting**.  
+**Waiting**  
 The joy of waiting on stations is that you realise that no matter how anxious you get waiting, Time will fix everything.  
 You may have 120 minutes to go, but there comes a time when you have only 12 minutes left.  
 And it does not end there.  

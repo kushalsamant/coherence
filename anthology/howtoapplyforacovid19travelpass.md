@@ -23,7 +23,7 @@ This is a tricky process because the police will ask for a vehicle number with c
 - This applies even if you select the public transport option on the application.  
 - So assuming that you don't own a bus, you will have to be hopeful that they accept your application without the RC book.  
 
-**So you cannot go home if you don't own a vehicle**.  
+**So you cannot go home if you don't own a vehicle**  
 
 B.  
 For Mumbai, the website will direct to a emergency pass for medical cases page.  
@@ -33,6 +33,6 @@ For Mumbai, the website will direct to a emergency pass for medical cases page.
 - The local police advised to go home in an auto or a private vehicle.  
 - The autos are not allowed to cross intrastate borders.  
 
-**So you cannot go home if you are stranded within Mumbai**.  
+**So you cannot go home if you are stranded within Mumbai**  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

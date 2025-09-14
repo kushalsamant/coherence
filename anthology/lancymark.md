@@ -1,4 +1,4 @@
-**Lancymark**.  
+**Lancymark**  
 Thoughtful this be unlike random bickering, 
 I wish some more joy for you as a cure for it all, 
 with a passing train on a railroad cross.  

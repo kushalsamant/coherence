@@ -1,4 +1,4 @@
-**Delusions**.  
+**Delusions**  
 I saw Joker.  
 He is a delusional character.  
 He imagined his neighbour to be in love with him.  

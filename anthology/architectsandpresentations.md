@@ -1,4 +1,4 @@
-**Architects, and presentations**.  
+**Architects, and presentations**  
 Coming to think of it, presentations scare me.  
 Architecture has given me the skill set to sell ice to the Eskimos at prices even Jobs would fear to mark up.  
 But that’s just talk.  

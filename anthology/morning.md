@@ -1,4 +1,4 @@
-**Morning**.  
+**Morning**  
 It ain’t snow,
 It’s raining;
 I hope you,

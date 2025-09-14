@@ -1,4 +1,4 @@
-**TBC Travellers Journal**.  
+**TBC Travellers Journal**  
 So now this bad boy is called The TBC Travellers Journal.  
 But I made some changes in their original package.  
 Now, with one notebook instead of two, and two pouches instead of one, this handcrafted beauty holds a blank notebook with two permanent bookmarks inside, all my cards, cash, IDs, and passports.  

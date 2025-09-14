@@ -1,4 +1,4 @@
-**Covid19 pandemic**.  
+**Covid19 pandemic**  
 "I think NatGeo cooked SARS-Cov-2 is a myth.  
 I've had doctors who are friends/ chiefs of government Covid19 centres who said they put people on faulty ventilators provided by the government under government orders while being fully aware that those people will die if given this treatment because the government ordered these doctors to do so.  
 Think mass genocide.  

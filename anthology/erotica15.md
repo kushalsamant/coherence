@@ -1,4 +1,4 @@
-**Erotica 15**.  
+**Erotica 15**  
 Hearing the phone buzz, I hear you move and stir around.  
 I call you back to bed and you slide back into bed, so hard and so upright that I feel you right up against me.  
 You instantly pull me closer and thrust yourself deep into me without warning waking me up to a moan so loud you have to cover my mouth.  

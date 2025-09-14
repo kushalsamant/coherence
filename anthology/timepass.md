@@ -1,4 +1,4 @@
-**Timepass**.  
+**Timepass**  
 Interestingly the only thing that I assume eats into my time is doing timepass.  
 Timepass not because I don't know where I am supposed to go or what I am supposed to do but because I like to be lazy at times and then I procrastinate and then it keeps building into this bubble of a snowball.  
 And I end up losing a lot of time because I keep thinking.  

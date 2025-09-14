@@ -1,4 +1,4 @@
-**Fill**.  
+**Fill**  
 And fill the air with rustic pride
 Till we find another sunrise
 For the silences in the night

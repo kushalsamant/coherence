@@ -1,4 +1,4 @@
-**Shower**.  
+**Shower**  
 I dare you, to notice detail.  
 Right from when the first drop of water that hits your face when you wake up in the morning.  
 The feeling that it evokes on your skin, and if you can try, all the way into your tissue.  

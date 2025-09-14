@@ -1,4 +1,4 @@
-**Distances**.  
+**Distances**  
 So I have been traveling back and forth cities now.  
 The one thing that I have realised in process is that our perspective about distances change when we travel.  
 For example, a distance between Bombay and Pune of about 122kms in 2.  5 hours used to feel like a lot.  

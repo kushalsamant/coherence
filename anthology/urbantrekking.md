@@ -1,4 +1,4 @@
-**Urban trekking**.  
+**Urban trekking**  
 I commute a decent 2 to 3 hours one way on my urban trekking rounds for site visits around the city.  
 There is this thing about travel.  
 It is probably the only thing that dissolves time.  

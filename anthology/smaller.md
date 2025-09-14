@@ -1,4 +1,4 @@
-**Smaller**.  
+**Smaller**  
 If you have read Stupid White Men by Michael Moore, then you would know that Men demand bigger things.  
 Not the women of our society, but the men.  
 As far as I am concerned, smaller things work for me.  

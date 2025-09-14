@@ -1,4 +1,4 @@
-**The Art of Letting Go**.
+**The Art of Letting Go**
 It was a warm summer evening when Maya sat on her balcony, staring at the sunset.  
 She had been feeling lost lately, overwhelmed by the chaos of life.  
 As she sipped her tea, she realized that she needed to let go of all the things that were holding her back.  

@@ -1,4 +1,4 @@
-**The locus of all focus**.  
+**The locus of all focus**  
 There isn’t much that we don’t know about life.  
 There has been a lot that is written on it.  
 Very little read.  

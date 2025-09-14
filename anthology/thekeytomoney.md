@@ -1,4 +1,4 @@
-**The key to money**.  
+**The key to money**  
 Do you know what the key to wealth is?  
 Like I mentioned in the previous article the key to banking is spending your money in the right places.  
 I am sorry I could not make a build up for this article or the answer.  

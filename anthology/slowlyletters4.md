@@ -1,4 +1,4 @@
-**Slowly letters 4**.  
+**Slowly letters 4**  
 Thanks for writing your name.  
 Most people here do not write their names on these letters.  
 It will help if we run into each other someday.  

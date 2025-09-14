@@ -1,4 +1,4 @@
-**Podcast**.  
+**Podcast**  
 I tried walking, and recording a podcast on <a href="https://anchor.fm" rel="noopener noreferrer" target="_blank">anchor. fm</a> today.  
 I did this instead of my daily 4AM hour reading.  
 The idea seems interesting, but there are hurdles, and glitches.  

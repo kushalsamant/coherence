@@ -1,4 +1,4 @@
-**Continuity**.  
+**Continuity**  
 To help us go down memory lane, to crave a feeling of nostalgia.  
 Even if as we speak of many memories that buildings evoke.  
 There is nothing more than reflection to be found in those moments.  

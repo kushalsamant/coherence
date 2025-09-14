@@ -1,4 +1,4 @@
-**Slowly letters 5**.  
+**Slowly letters 5**  
 My mom's family is from Telishery, Kannur.  
 Dad's a Maharashtrian.  
 

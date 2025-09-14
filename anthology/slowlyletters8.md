@@ -1,4 +1,4 @@
-**Slowly letters 8**.  
+**Slowly letters 8**  
 Is this your real name?
 
 Well, I love writing long letters.  

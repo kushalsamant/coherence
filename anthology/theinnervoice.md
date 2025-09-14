@@ -1,4 +1,4 @@
-**The Inner Voice**.
+**The Inner Voice**
 As Kushal sat in his temporary residence in Mumbai, he couldn't help but feel frustrated with the bureaucratic process of getting permission to travel back home.  
 He had followed all the necessary steps, had all the required documents, and yet he was still stuck in limbo.  
 He decided to take a walk to clear his mind.  

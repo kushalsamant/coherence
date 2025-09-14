@@ -1,4 +1,4 @@
-**Erotica 12**.  
+**Erotica 12**  
 She: It is a quaint Sunday afternoon, 
 A long while since I have sat and reflected.  
 

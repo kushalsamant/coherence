@@ -1,4 +1,4 @@
-**Paid**.  
+**Paid**  
 This year I got paid for; Airbnb, Architecture, Art, Bookmaking, Clothing, Data curation, Film making, Furniture, Manufacturing, Photography, Songwriting, Startups, Vocals, and WikiHouses.  
 So, dabble in things, that might make sense to your innate being.  
 Don’t bother about what the world thinks, because everytime I told them say, that I was doing this new thing, they had their own version of criticism or marketing.  

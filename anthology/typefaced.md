@@ -1,4 +1,4 @@
-**Type-faced**.  
+**Type-faced**  
 We need to get curious.  
 About everything around us.  
 There might be more things that we are wasting resources on than we know.  

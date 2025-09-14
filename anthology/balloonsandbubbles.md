@@ -1,4 +1,4 @@
-**Balloons & bubbles**.  
+**Balloons & bubbles**  
 How do you change the name of a city? — You start with the local bus pass.  
 Let’s be clear about this notion that what you see, and what you get are often not the best of what we will see happening in life.  
 Most things revolve around to land nowhere.  

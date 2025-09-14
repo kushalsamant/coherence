@@ -1,4 +1,4 @@
-**Tipping point**.  
+**Tipping point**  
 So I think around 2018 December, I managed to drive a traffic of more than 18 million monthly unique visitors to my Pinterest account.  
 Now this might be seem like a paid effort but it was an entirely organic deal.  
 I am a freelancer, so i definitely don't like to invest money on things i am experimenting with.  

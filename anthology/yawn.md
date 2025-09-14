@@ -1,4 +1,4 @@
-**Yawn**.  
+**Yawn**  
 Yawn
 whispered a wind
 in my ear

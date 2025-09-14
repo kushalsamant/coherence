@@ -1,4 +1,4 @@
-**Hope**.  
+**Hope**  
 Today I saw this beautiful woman at some shop in Sher-e-Punjab.  
 Like cat eyes, fair, and she had a cold, Stuck in traffic.  
 The share passenger, the cab driver, and me were being all Manjunath at her.  

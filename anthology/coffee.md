@@ -1,4 +1,4 @@
-**Coffee**.  
+**Coffee**  
 Is it time for some coffee already?
 It might be sort of very annoying for a lot of us to figure out how do we tackle this ongoing economic crisis that the entire planet probably is facing.  
 Now I don't have an answer for that but I can share something from my past experience which might make some sense to solving your own personal economic crisis.  

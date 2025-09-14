@@ -1,4 +1,4 @@
-**Erotica 9**.  
+**Erotica 9**  
 I want to trash talk to you like telling you what kind of a bitch you are, that I think that you are cheating on me, for which you need to be punished with spanking your ass, choking you, turning you around, rubbing my 7" boner on your fat fucking ass, kissing you hard while I am at it, then throwing you on the bed, and fucking you doggystyle.  
 So do you want me to come over, and tear away your tee? I want to see your cleavage where I can park my boner.  
 Just in case, you decide to go gentle on me.  

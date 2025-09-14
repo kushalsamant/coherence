@@ -1,4 +1,4 @@
-**Erotica 10**.  
+**Erotica 10**  
 She: You ain't gonna jerk off.  
 You gonna be hard and upright, and throbbing and you won't be allowed to touch yourself at all.  
 All hands away.  

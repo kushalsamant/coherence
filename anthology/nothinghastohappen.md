@@ -1,4 +1,4 @@
-**Nothing has to happen**.  
+**Nothing has to happen**  
 Look at this photograph, how abnormal it is.  
 A mixture of concrete mass, next to the sands, and the seas, or below the mountains maybe.  
 This is what you get, when you place two extremes besides, you can feel the angst, even without a clue about the space.  

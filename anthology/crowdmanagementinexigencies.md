@@ -1,4 +1,4 @@
-**Crowd management in exigencies**.  
+**Crowd management in exigencies**  
 They have been extending the lockdown by 2 weeks whenever the scheduled end is around the corner.  
 India started a lockdown on the 22nd of March.  
 So far, the lockdown has been scheduled to end on 14th April, 30th April, 4th May, (and 17th May for some states).  

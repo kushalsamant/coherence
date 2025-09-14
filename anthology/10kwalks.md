@@ -1,4 +1,4 @@
-**10k walks.**
+**10k walks**
 
 Some miles are worth counting,
 With endless silences around,

@@ -1,4 +1,4 @@
-**Erotica 13**.  
+**Erotica 13**  
 She: So what's ur move? To get started in bed? Because with the way you speak, I know you have not one but a few moves that you start with.  
 He: I will start with your neck.  
 Please don't turn me on right now.  

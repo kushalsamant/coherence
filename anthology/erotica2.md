@@ -1,4 +1,4 @@
-**Erotica 2**.  
+**Erotica 2**  
 How about I surprise you, 
 Sneak up to you, 
 When you are just out of your bath

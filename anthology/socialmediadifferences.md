@@ -1,4 +1,4 @@
-**Social media differences**.  
+**Social media differences**  
 - Facebook, Instagram is an avenue for joking with your customers, and running competitions or giveaway.  
 It’s a place to build a “cult following.”  
 - Twitter, Medium is prime real estate for getting personal, and talking directly to your customers.  

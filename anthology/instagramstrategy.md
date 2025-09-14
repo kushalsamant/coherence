@@ -1,11 +1,11 @@
-**Instagram strategy**.  
+**Instagram strategy**  
 I have always looked at Instagram as a note taking app more than a photo sharing app.  
 Most people do not use all the features of any platform, in the same way as they do not use all the features of their smartphones.  
 The thing - although I don't agree with the idea - seems similar to that of leveraging excess capacity like Uber, Airbnb, blah blah.  
 Now you know I am lazy so I prepared this strategy for Instagram to be my chosen platform for content creation instead of content publishing because who will use 5 RCs for the same TV, right?
 Here's what I think.  
 
-**Level 1 - Creating book content**.  
+**Level 1 - Creating book content**  
 Instagram's caption space has 2000 chars in one post = that's almost 1.  25 page.  
 I intend to use these page/s to make book/s.  
 If you fill in complete captions for about 200 posts = then you would have written an equal of 300 pages = that's 1 book.  
@@ -20,7 +20,7 @@ I view this as a tool to get your peers and society-at-large to review your cont
 You can use a desktop browser to copy all the captions under any hashtag to Google documents.  
 This document can be exported to become an eBook in .  epub/.  pdf/.  any-other-file-format-you-fancy.  
 
-**Level 2 - Creating lectures content**.  
+**Level 2 - Creating lectures content**  
 I intend to use these book/s as content to give one-hour-long-lecture/s on any topic with/without fumbling.  
 I can use 1 book as enough content to give a 1 one-hour-long-lecture on any topic with fumbling.  
 I can use 2 books as enough content to give a 1 one-hour-long-lecture on any topic without fumbling.  
@@ -30,7 +30,7 @@ This is subjective.
 You do you.  
 Oh! You can also upload this to YouTube.  
 
-**Level 3 - Creating Vit. M**.  
+**Level 3 - Creating Vit. M**  
 If you fill in complete captions for about 200 posts = then you would have written an equal of 300 pages = that's 1 book = enough content for 1 one-hour-long-lecture with fumbling.  
 You can go to any cafe/venue and ask for a spot to do a paid one-hour-long guest lecture using this book as leverage.  
 A venue will ask you for a profit share OR ask you to pay a lumpsum amount as rent.  
@@ -40,7 +40,7 @@ You can go to any college/university and ask for a spot to do a paid one-hour-lo
 A university will not ask you for a profit share.  
 A university lecture for 300 participants at INR 100/participant may raise about INR 30,000 for an hour of work.  
 
-**Level 4 - Creating workshop content**.  
+**Level 4 - Creating workshop content**  
 If you fill in complete captions for about 800 posts = then you would have written an equal of 1200 pages = that's 4 books = enough content for 2 one-hour-long-lectures without fumbling.  
 You can go to any cafe/venue and ask for a spot to do a paid six-hour-long workshop using these books as leverage.  
 A venue will ask you for a profit share OR ask you to pay a lumpsum amount as rent.  
@@ -67,7 +67,7 @@ Bear in mind that:
 - You get 6 mins/participant to review their work on a one-on-one basis, so ideally create one amazing exercise only.  
 - You get 60 mins to complete all exercises, use it wisely.  
 
-**Fin**.  
+**Fin**  
 I mean these books, lectures, and workshops are what Instagram captions can lead to, understood?  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  

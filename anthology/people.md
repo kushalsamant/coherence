@@ -1,4 +1,4 @@
-**People**.  
+**People**  
 I find it rather interesting how the Indian government has now made the train routes go from all the states to the central region that is the national capital region of Delhi.  
 For for most people it just seems that they running trains but what I see is that it's a very small ploy to inspect and measure the infection of Covid19 in India.  
 More than being logistic kal decision I think that when you get of the train at Delhi they will by routine for the thermometer to your forehead and check the temperature.  

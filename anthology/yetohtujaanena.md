@@ -1,4 +1,4 @@
-**Ye toh tu jaane na**.  
+**Ye toh tu jaane na**  
 Ye toh tu jaane na
 tu ye pehchane na
 

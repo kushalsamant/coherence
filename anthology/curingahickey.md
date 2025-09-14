@@ -1,4 +1,4 @@
-**Curing a hickey**.  
+**Curing a hickey**  
 1. Water in a steel glass.  
 2. Frozen for 12 hours.  
 3. Pressed this steel glass on the hickey for 30 mins, with gentle massaging at intervals.  

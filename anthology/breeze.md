@@ -1,4 +1,4 @@
-**Breeze**.  
+**Breeze**  
 The most fun things to do, is to get up in the morning, and keep running.  
 I have never found myself to be so lazy in my entire life until this quarantine.  
 So far it has been quite an experience.  

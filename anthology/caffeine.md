@@ -1,4 +1,4 @@
-**Caffeine**.  
+**Caffeine**  
 When you have balls
 That seem to erode nicotine
 Pass through the smoke

@@ -1,4 +1,4 @@
-**Joan’s hope**.  
+**Joan’s hope**  
 We see, and wonder,
 Why does a moon shine;
 Under cloudy skies in furious rain,

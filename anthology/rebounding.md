@@ -1,4 +1,4 @@
-**Rebounding**.  
+**Rebounding**  
 I think that all of humanity is now hit by an epidemic.  
 An epidemic of insomnia.  
 From the constant access to technology, and the endless need for attention has brought us all to our knees, as we search for constant validation.  

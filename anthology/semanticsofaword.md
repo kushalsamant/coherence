@@ -1,4 +1,4 @@
-**Semantics of a word**.  
+**Semantics of a word**  
 If Tomato is Tamatar,  
 
 > T(o)mat(o).  

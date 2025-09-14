@@ -1,4 +1,4 @@
-**Erotica 7**.  
+**Erotica 7**  
 So here's how I really want you.  
 Steamy, fresh after a bath with that first few buttons open, just enough for me to see the top of your cleavage.  
 I want you to come to me when I get in the house, right on the main door.  

@@ -1,4 +1,4 @@
-**Journeys**.  
+**Journeys**  
 I’ve always thought journeys to be a part of my learning experience.  
 Like I have never seen things from a different perspective unless I were on a journey from one place to another.  
 Once I was travelling on this train from CST to Thane and I happened to look outside the door because I was standing right at it.  

@@ -1,4 +1,4 @@
-**Once more, my love**.  
+**Once more, my love**  
 
 **Note**: This poem was created using AI in 2011. This night I shall dream of your bedazzling golden hair.  
 and tigress-eyes.  

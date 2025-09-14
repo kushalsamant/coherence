@@ -1,4 +1,4 @@
-**Crowds**.  
+**Crowds**  
 Why do the crowds cheer aloud?
 If you have ever been to Times Square or Marine Drive, you will find people staring into space, groups minding their own business.  
 No one ever bothers you with, “Hey man! What are you doing?” People seem to understand.  

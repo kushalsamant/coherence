@@ -1,4 +1,4 @@
-**Intelligently**.  
+**Intelligently**  
 > “If we share, everyone can have enough.”  
 We believe that every society has enough to feed itself.  
 Everyone will cherish what they create by sharing.  

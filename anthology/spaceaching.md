@@ -1,4 +1,4 @@
-**Space aching**.  
+**Space aching**  
 Time, space, place & play.  
 Often we seek spaces that resonate with the depths of our darkness.  
 A reflection that is subtle like the glow of a street lamp.  

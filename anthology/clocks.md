@@ -1,4 +1,4 @@
-**Clocks**.  
+**Clocks**  
 When you are working from 8 PM to 4 AM every night, it is hard to realize how much of the news you are missing.  
 I did not realize what the UK, and EU were upto until one of my colleagues popped the tripling of google searches on the topic, 17 hours after the vote was cast.  
 Sometimes I feel that was a stupid thing to do.  

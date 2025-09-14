@@ -1,4 +1,4 @@
-**$15 Design Guide**.  
+**$15 Design Guide**  
 This guide is made of 15 chapters.  
 The title is a way of saying that each chapter is intended to bring an extra dollar to your artwork.  
 These chapters can be used standalone, or paired with any other chapter/s in permutations and combinations to bring your work an extra dollar.  

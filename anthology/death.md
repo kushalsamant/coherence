@@ -1,4 +1,4 @@
-**Death**.  
+**Death**  
 So here’s what happens when you die
 You close your eyes,
 and you see it coming

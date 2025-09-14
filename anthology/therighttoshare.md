@@ -1,4 +1,4 @@
-**The right to share**.  
+**The right to share**  
 The right to share.  
 I believe this should be a fundamental right.  
 Just like the others listed in our constitution.  

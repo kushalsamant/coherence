@@ -1,4 +1,4 @@
-**Countryside**.  
+**Countryside**  
 I should have been at 5,000 post but I am still at about 170, and I am not blaming anything for it it is just that I am lazy.  
 Interestingly I have been able to improve my speech lot, have a couple of phone fights here and there, and arguments on the phone, but that's it.  
 I often keep thinking that I should go back to the small place where I did my schooling and start accepting residentships for my Airbnb guests.  

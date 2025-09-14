@@ -1,4 +1,4 @@
-**The secret to everything**.  
+**The secret to everything**  
 Ok, cool! It looks like even if you have a plan: 'you actually don't need a plan, you only need to make one choice at a time', and that's good then because this is a simpler way to deal with stuff.  
 
 I sleep on some nights.  

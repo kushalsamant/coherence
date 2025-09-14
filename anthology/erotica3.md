@@ -1,4 +1,4 @@
-**Erotica 3**.  
+**Erotica 3**  
 So it's an early morning.  
 You wake up on bed and turned to hug me but find yourself alone on bed wearing just your underwear and bare body.  
 You rush out of the bedroom to find me.  

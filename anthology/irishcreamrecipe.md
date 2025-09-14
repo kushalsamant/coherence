@@ -1,4 +1,4 @@
-**Irish cream recipe**.  
+**Irish cream recipe**  
 
 **Ingredients**:
 400 gm condensed milk.  

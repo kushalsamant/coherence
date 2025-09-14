@@ -1,4 +1,4 @@
-**Slowly letters 6**.  
+**Slowly letters 6**  
 I am doing great.  
 
 You are most welcome.  
