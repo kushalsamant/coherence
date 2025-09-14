@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logolinkedin.png" alt="LinkedIn" width="30"></a>
 <a href="https://kvshvl.medium.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logomedium.png" alt="Medium" width="30"></a>
 <a href="https://in.pinterest.com/kvshvl/_saved/" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopinterest.png" alt="Pinterest" width="30"></a>
-<a href="https://ask.setmore.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosetmore.png" alt="Setmore" width="30"></a>
+<a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosetmore.png" alt="Setmore" width="30"></a>
 <a href="https://www.sketchfab.com/3d-models/shelving-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosketchfab.png" alt="Sketchfab" width="30"></a>
 <a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="Shopify" width="30"></a>
 <a href="https://shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshutterstock.png" alt="Shutterstock" width="30"></a>
