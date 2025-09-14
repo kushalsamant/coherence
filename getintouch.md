@@ -30,14 +30,14 @@ If that works for you, we’ll get along fine.
 </p>
 <div class="roadmap-spacer-2"></div>
 
-<a href="https://kushalsamant.github.io/termsofuse.html">Read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
+<a href="https://kushalsamant.github.io/termsofuse.html" rel="noopener noreferrer" target="_blank">Read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
 
 **Services**.
 
 <a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a>
-<a href="https://kushalsamant.github.io/anthology.html"><img src="/assets/img/logokvshvl.png" alt="Anthology" width="30"></a>
+<a href="https://kushalsamant.github.io/anthology.html" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logokvshvl.png" alt="Anthology" width="30"></a>
 <a href="https://behance.net/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logobehance.png" alt="Behance" width="30"></a>
-<a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogithub.png" alt="_ASK_: Daily Research" width="30"></a>
+<a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logokvshvl.png" alt="_ASK_: Daily Research" width="30"></a>
 <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="Gumroad" width="30"></a>
 <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" width="30"></a>
 <a href="https://ko-fi.com/kvshvl/shop" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logokofi.png" alt="KoFi" width="30"></a>
