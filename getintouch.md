@@ -26,7 +26,7 @@ If that works for you, we’ll get along fine.
 
 <div class="roadmap-spacer-1"></div>
 <p>
-<a class="btn" href="https://kvshvl.setmore.com">Book&nbsp;1:1&nbsp;Consultation</a>
+<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;1:1&nbsp;Consultation</a>
 </p>
 <div class="roadmap-spacer-2"></div>
 
@@ -79,6 +79,6 @@ District Sindhudurg, Maharashtra, India.
 
 <div class="roadmap-spacer-1"></div>
 <p>
-<a class="btn" href="https://kvshvl.setmore.com">Book&nbsp;a&nbsp;Consultation</a>
+<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;Consultation</a>
 </p>
 <div class="roadmap-spacer-2"></div>
