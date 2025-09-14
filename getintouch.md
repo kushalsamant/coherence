@@ -22,13 +22,15 @@ Here’s the quick version of how my consultations work:
 - ⚖️ I’m only liable up to the fee you paid.  
 - 📜 Governed by Indian law (Sindhudurg jurisdiction).
 
+If that works for you, we’ll get along fine.
+
 <div class="roadmap-spacer-1"></div>
 <p>
 <a class="btn" href="https://kvshvl.setmore.com">Book&nbsp;a&nbsp;Consultation</a>
 </p>
 <div class="roadmap-spacer-2"></div>
 
-If that works for you, we’ll get along fine. <a href="https://kushalsamant.github.io/termsofuse.html">Read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
+<a href="https://kushalsamant.github.io/termsofuse.html">Read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
 
 **Services**.
 
