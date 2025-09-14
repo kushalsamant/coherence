@@ -1,4 +1,4 @@
-**Who owns a creative?**  
+**Who owns a creative**?  
 Well, remember this.  
 
 1. A picture doesn't belong to you because you own the camera that was used to shoot it.  

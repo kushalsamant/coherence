@@ -1,4 +1,4 @@
-**How to not re-invent the wheel?**  
+**How to not re-invent the wheel**?  
 I wish structures was an everyday thing, back in school.  
 It gets erratically wavering between technical-informal from here on.  
 Last night, when we were designing a house for a particular client, we were stuck on a very simple design we had just finished detailing to the T.  

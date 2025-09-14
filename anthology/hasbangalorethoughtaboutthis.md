@@ -1,4 +1,4 @@
-**Has Bangalore thought about this?**  
+**Has Bangalore thought about this**?  
 I am from Bombay, and the two things that I have found to be missing in my rendezvous with Bangalore are, in my opinion as an architect, major reasons for the issues with traffic, and a solution to most anti-outsiders viewpoints that have been shared to me by most of the Uber drivers I have spoken to in this city.  
 Bombay does two things differently.  
 Let us take a closer look at what follows at rush hours.  

@@ -1,4 +1,4 @@
-**How to resolve a conflict?**  
+**How to resolve a conflict**?  
 We will discuss it out.  
 
 1. I will tell you my version of the story.  

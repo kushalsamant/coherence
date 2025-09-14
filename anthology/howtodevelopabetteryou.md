@@ -1,4 +1,4 @@
-**How to develop a better you?**  
+**How to develop a better you**?  
 Ok, so the thing is that I don't know exactly what I am doing.  
 But I am trying to use the LiveTranscribe application.  
 I have been working without my laptop.  

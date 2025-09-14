@@ -1,4 +1,4 @@
-**What is thinking versus writing?**  
+**What is thinking versus writing**?  
 So thinking is a process that you do with your own mind and then you forget about it maybe or maybe do something about it.  
 Whereas writing is a process that you do within your own mind but you take it down on paper.  
 When you take it down on paper your mind is already jumping at different ideas or different processes or different imagined perspectives.  

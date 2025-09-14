@@ -1,4 +1,4 @@
-**What some women want on dating apps?**  
+**What some women want on dating apps**?  
 First, was a girl who said she wanted commitment, intimacy, monogamy and a relationship.  
 But her version of intimacy is not cuddles, it's sex only.  
 She kissed me on the pavement after getting drunk the first night.  

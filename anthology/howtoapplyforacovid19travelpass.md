@@ -1,4 +1,4 @@
-**How to apply for a Covid19 travel pass?**  
+**How to apply for a Covid19 travel pass**?  
 Date: 12th May 2020  
 
 If you are stranded away from home, then these are the steps to apply for a travel pass.  

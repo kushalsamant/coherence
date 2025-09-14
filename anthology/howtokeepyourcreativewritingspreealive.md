@@ -1,4 +1,4 @@
-**How to keep your creative writing spree alive?**  
+**How to keep your creative writing spree alive**?  
 I spent last night creating a timed protocol to create articles.  
 1. Set a pomodoro timer to 3 intervals of 5 mins each.  
 The first five minutes are for recording a basic draft using LiveTranscribe by Google.  
