@@ -22,11 +22,11 @@ Here’s the quick version of how my consultations work:
 - ⚖️ I’m only liable up to the fee you paid.  
 - 📜 Governed by Indian law (Sindhudurg jurisdiction).
 
-If that works for you, we’ll get along fine. If you'd like, you can <a href="https://kushalsamant.github.io/termsofuse.html" rel="noopener noreferrer" target="_blank">Read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
+If that works for you, we’ll get along fine. If you'd like, you can <a href="https://kushalsamant.github.io/termsofuse.html" rel="noopener noreferrer" target="_blank">read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
 
 <div class="roadmap-spacer-1"></div>
 <p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;1:1&nbsp;Consultation</a>
+<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
 </p>
 <div class="roadmap-spacer-2"></div>
 
@@ -80,6 +80,6 @@ District Sindhudurg, Maharashtra, India.
 
 <div class="roadmap-spacer-1"></div>
 <p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;1:1&nbsp;Consultation</a>
+<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
 </p>
 <div class="roadmap-spacer-2"></div>
