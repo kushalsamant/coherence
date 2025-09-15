@@ -32,7 +32,6 @@ If that works for you, we’ll get along fine. If you'd like, you can <a href="h
 
 **Platforms / Marketplaces**
 
-<a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a>
 <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="Gumroad" width="30"></a>
 <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logothreadless.png" alt="Threadless" width="30"></a>
 
@@ -56,6 +55,7 @@ If that works for you, we’ll get along fine. If you'd like, you can <a href="h
 <!-- Hidden extras -->
 <!--
 <a href="https://stock.adobe.com/contributor/212199501/KVSHVL" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoadobe.png" alt="Adobe" width="30"></a>
+<a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a>
 <a href="https://alamy.com/portfolio/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoalamy.png" alt="Alamy" width="30"></a>
 <a href="https://contrado.com/stores/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logocontrado.png" alt="Contrado" width="30"></a>
 <a href="https://discord.gg/36xan8g8" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logodiscord.png" alt="Discord" width="30"></a>
