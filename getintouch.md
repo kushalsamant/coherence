@@ -2,7 +2,7 @@
 
 If you’d like to reach out - whether it’s to say hello, share feedback, ask a question, or talk through an idea - I’d love to hear from you. The easiest way to connect with me casually is on <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a>, where I try to respond to as many posts and messages as I can.
 
-For deeper conversations - business ideas, project collaborations, sharing something you’ve made, or anything that requires focused time and energy - the best way to connect is through a **1:1 consultation** This ensures I can give you my undivided attention without the chaos of an overloaded inbox or the interruptions of a scattered schedule.
+For deeper conversations - business ideas, project collaborations, sharing something you’ve made, or anything that requires focused time and energy - the best way to connect is through a **1:1 consultation**. This ensures I can give you my undivided attention without the chaos of an overloaded inbox or the interruptions of a scattered schedule.
 
 I protect my time carefully because family comes first, work second, and whatever’s left I use to recharge (usually through travel). By keeping a structured consultation process, I can show up fully present and give you the best of my creative and professional energy.
 
@@ -37,7 +37,6 @@ If that works for you, we’ll get along fine.
 <a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a>
 <a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="Shopify" width="30"></a>
 <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="Gumroad" width="30"></a>
-<a href="https://ko-fi.com/kvshvl/shop" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logokofi.png" alt="KoFi" width="30"></a>
 <a href="https://www.spoonflower.com/profiles/geometry?sub_action=shop" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logospoonflower.png" alt="Spoonflower" width="30"></a>
 <a href="https://my-store-3157273.creator-spring.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoteespring.png" alt="Teespring" width="30"></a>
 <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logothreadless.png" alt="Threadless" width="30"></a>
