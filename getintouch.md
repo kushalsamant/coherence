@@ -57,7 +57,6 @@ If that works for you, we’ll get along fine. If you'd like, you can <a href="h
 <a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a>
 <a href="https://alamy.com/portfolio/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoalamy.png" alt="Alamy" width="30"></a>
 <a href="https://contrado.com/stores/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logocontrado.png" alt="Contrado" width="30"></a>
-<a href="https://discord.gg/36xan8g8" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logodiscord.png" alt="Discord" width="30"></a>
 <a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosetmore.png" alt="Setmore" width="30"></a>
 <a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="Shopify" width="30"></a>
 <a href="https://www.spoonflower.com/profiles/geometry?sub_action=shop" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logospoonflower.png" alt="Spoonflower" width="30"></a>
