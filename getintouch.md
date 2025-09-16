@@ -42,7 +42,7 @@ If that works for you, we’ll get along fine. You can also <a href="https://kus
 H.No. 2337, "Visava", Swami Samarth Nagar,  
 Near Dattanagar, Kavilgaon, Nerur,  
 Kudal – 416520, Taluka Kudal,  
-District Sindhudurg, Maharashtra, India.  
+District Sindhudurg, Maharashtra, India.
 
 <!-- Hidden extras -->
 <!--
