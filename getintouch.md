@@ -8,28 +8,6 @@ I protect my time carefully because family comes first, work second, and whateve
 
 Both <a href="http://paulgraham.com/makersschedule.html" rel="noopener noreferrer" target="_blank">Paul Graham’s</a> essay on the maker’s schedule and <a href="https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time" rel="noopener noreferrer" target="_blank">Ryan Holiday’s</a> piece on time requests really capture why this matters - they’re worth a read if you’re curious.
 
-If you’d like to discuss your project or collaborate, please review the **Terms of Use** below before booking.
-
-**1:1 Consultation - TL;DR**
-
-Here’s the quick version of how my consultations work:
-
-- ✅ Pay upfront → your slot is confirmed.  
-- ✅ Cancel **48 hrs in advance** → full refund.  
-- ✅ Reschedule **24 hrs in advance** → no extra cost.  
-- ❌ No-shows or late arrivals → no refund.  
-- 🛡️ Everything we discuss stays confidential.  
-- ⚖️ I’m only liable up to the fee you paid.  
-- 📜 Governed by Indian law (Sindhudurg jurisdiction).
-
-If that works for you, we’ll get along fine. If you'd like, you can <a href="https://kushalsamant.github.io/termsofuse.html" rel="noopener noreferrer" target="_blank">read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
-
-<div class="roadmap-spacer-1"></div>
-<p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
-</p>
-<div class="roadmap-spacer-2"></div>
-
 **Creative / Research**
 
 <a href="https://kushalsamant.github.io/anthology.html" rel="noopener noreferrer" target="_blank">Anthology</a> . 
@@ -71,6 +49,28 @@ If that works for you, we’ll get along fine. If you'd like, you can <a href="h
 <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="Twitter" width="30"></a>
 <a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyourmailproject.png" alt="Your Mail Project" width="30"></a>
 -->
+
+If you’d like to discuss your project or collaborate, please review the **Terms of Use** below before booking.
+
+**1:1 Consultation - TL;DR**
+
+Here’s the quick version of how my consultations work:
+
+- ✅ Pay upfront → your slot is confirmed.  
+- ✅ Cancel **48 hrs in advance** → full refund.  
+- ✅ Reschedule **24 hrs in advance** → no extra cost.  
+- ❌ No-shows or late arrivals → no refund.  
+- 🛡️ Everything we discuss stays confidential.  
+- ⚖️ I’m only liable up to the fee you paid.  
+- 📜 Governed by Indian law (Sindhudurg jurisdiction).
+
+If that works for you, we’ll get along fine. If you'd like, you can <a href="https://kushalsamant.github.io/termsofuse.html" rel="noopener noreferrer" target="_blank">read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
+
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
+</p>
+<div class="roadmap-spacer-2"></div>
 
 **Contact Us**
 
