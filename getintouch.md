@@ -23,33 +23,6 @@ Both <a href="http://paulgraham.com/makersschedule.html" rel="noopener noreferre
 
 **Work With Me**
 
-<div class="roadmap-spacer-1"></div>
-<p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
-</p>
-<div class="roadmap-spacer-2"></div>
-
-<!-- Hidden extras -->
-<!--
-<a href="https://stock.adobe.com/contributor/212199501/KVSHVL" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoadobe.png" alt="Adobe" width="30"></a>
-<a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a>
-<a href="https://alamy.com/portfolio/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoalamy.png" alt="Alamy" width="30"></a>
-<a href="https://behance.net/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logobehance.png" alt="Behance" width="30"></a>
-<a href="https://contrado.com/stores/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logocontrado.png" alt="Contrado" width="30"></a>
-<a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="Gumroad" width="30"></a>
-<a href="https://patreon.com/c/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopatreon.png" alt="Patreon" width="30"></a>
-<a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosetmore.png" alt="Setmore" width="30"></a>
-<a href="https://sketchfab.com/3d-models/shelving-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosketchfab.png" alt="Sketchfab" width="30"></a>
-<a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="Shopify" width="30"></a>
-<a href="https://spoonflower.com/profiles/geometry?sub_action=shop" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logospoonflower.png" alt="Spoonflower" width="30"></a>
-<a href="https://shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshutterstock.png" alt="Shutterstock" width="30"></a>
-<a href="https://soundcloud.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosoundcloud.png" alt="Soundcloud" width="30"></a>
-<a href="https://my-store-3157273.creator-spring.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoteespring.png" alt="Teespring" width="30"></a>
-<a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logothreadless.png" alt="Threadless" width="30"></a>
-<a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="Twitter" width="30"></a>
-<a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyourmailproject.png" alt="Your Mail Project" width="30"></a>
--->
-
 If you’d like to discuss your project or collaborate, please review the **Terms of Use** below before booking.
 
 **1:1 Consultation - TL;DR**
@@ -83,3 +56,25 @@ District Sindhudurg, Maharashtra, India.
 **Phone**: +91 87796 32310  
 **Email**: kushaldsamant@gmail.com  
 **Support Hours**: Mon–Sat, 10:00 AM – 08:00 PM IST
+
+
+<!-- Hidden extras -->
+<!--
+<a href="https://stock.adobe.com/contributor/212199501/KVSHVL" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoadobe.png" alt="Adobe" width="30"></a>
+<a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a>
+<a href="https://alamy.com/portfolio/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoalamy.png" alt="Alamy" width="30"></a>
+<a href="https://behance.net/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logobehance.png" alt="Behance" width="30"></a>
+<a href="https://contrado.com/stores/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logocontrado.png" alt="Contrado" width="30"></a>
+<a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="Gumroad" width="30"></a>
+<a href="https://patreon.com/c/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopatreon.png" alt="Patreon" width="30"></a>
+<a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosetmore.png" alt="Setmore" width="30"></a>
+<a href="https://sketchfab.com/3d-models/shelving-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosketchfab.png" alt="Sketchfab" width="30"></a>
+<a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="Shopify" width="30"></a>
+<a href="https://spoonflower.com/profiles/geometry?sub_action=shop" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logospoonflower.png" alt="Spoonflower" width="30"></a>
+<a href="https://shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshutterstock.png" alt="Shutterstock" width="30"></a>
+<a href="https://soundcloud.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosoundcloud.png" alt="Soundcloud" width="30"></a>
+<a href="https://my-store-3157273.creator-spring.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoteespring.png" alt="Teespring" width="30"></a>
+<a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logothreadless.png" alt="Threadless" width="30"></a>
+<a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="Twitter" width="30"></a>
+<a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyourmailproject.png" alt="Your Mail Project" width="30"></a>
+-->
