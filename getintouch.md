@@ -34,15 +34,15 @@ If that works for you, we’ll get along fine. You can also <a href="https://kus
 
 **Contact Us**
 
+**Phone**: +91 87796 32310  
+**Email**: <a href="mailto:kushaldsamant@gmail.com" rel="noopener noreferrer" target="_blank">kushaldsamant@gmail.com</a>  
+**Support Hours**: Mon–Sat, 10:00 AM – 08:00 PM IST
+
 **Registered Company Address**:  
 H.No. 2337, "Visava", Swami Samarth Nagar,  
 Near Dattanagar, Kavilgaon, Nerur,  
 Kudal – 416520, Taluka Kudal,  
 District Sindhudurg, Maharashtra, India.  
-
-**Phone**: +91 87796 32310  
-**Email**: <a href="mailto:kushaldsamant@gmail.com" rel="noopener noreferrer" target="_blank">kushaldsamant@gmail.com</a>  
-**Support Hours**: Mon–Sat, 10:00 AM – 08:00 PM IST
 
 <!-- Hidden extras -->
 <!--
