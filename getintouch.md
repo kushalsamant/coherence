@@ -8,9 +8,7 @@ I protect my time carefully because family comes first, work second, and whateve
 
 Both <a href="http://paulgraham.com/makersschedule.html" rel="noopener noreferrer" target="_blank">Paul Graham’s essay on the maker’s schedule</a> and <a href="https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time" rel="noopener noreferrer" target="_blank">Ryan Holiday’s piece on time requests</a> capture why this matters: they’re worth a read if you’re curious.
 
-If you’d like to explore how my brain works, you can browse my <a href="https://kushalsamant.github.io/anthology.html" rel="noopener noreferrer" target="_blank">Anthology</a>, or dive into essays I’ve published on <a href="https://kvshvl.medium.com" rel="noopener noreferrer" target="_blank">Medium</a>.
-
-I also share inspiration on <a href="https://in.pinterest.com/kvshvl/_saved/" rel="noopener noreferrer" target="_blank">Pinterest</a>, snapshots of life and work on <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a>, videos on <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>, and professional updates on <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a>.
+If you’d like to explore how my brain works, you can browse my <a href="https://kushalsamant.github.io/anthology.html" rel="noopener noreferrer" target="_blank">Anthology</a>, or dive into essays I’ve published on <a href="https://kvshvl.medium.com" rel="noopener noreferrer" target="_blank">Medium</a>. I also share inspiration on <a href="https://in.pinterest.com/kvshvl/_saved/" rel="noopener noreferrer" target="_blank">Pinterest</a>, snapshots of life and work on <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a>, videos on <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>, and professional updates on <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a>.
 
 **Work With Me**
 
