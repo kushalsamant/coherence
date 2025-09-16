@@ -30,18 +30,26 @@ If that works for you, we’ll get along fine. If you'd like, you can <a href="h
 </p>
 <div class="roadmap-spacer-2"></div>
 
-**Creative / Portfolios**
+**Creative / Research**
 
-<a href="https://kushalsamant.github.io/anthology.html" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logokvshvl.png" alt="Anthology" width="30"></a>
-<a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogithub.png" alt="_ASK_: Daily Research" width="30"></a>
+<a href="https://kushalsamant.github.io/anthology.html" rel="noopener noreferrer" target="_blank">Anthology</a> . 
+<a href="https://kvshvl.medium.com" rel="noopener noreferrer" target="_blank">Medium</a> . 
+<a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">GitHub</a>
 
 **Socials / Content**
 
-<a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram" width="30"></a>
-<a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logolinkedin.png" alt="LinkedIn" width="30"></a>
-<a href="https://kvshvl.medium.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logomedium.png" alt="Medium" width="30"></a>
-<a href="https://in.pinterest.com/kvshvl/_saved/" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopinterest.png" alt="Pinterest" width="30"></a>
-<a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyoutube.png" alt="YouTube" width="30"></a>
+<a href="https://in.pinterest.com/kvshvl/_saved/" rel="noopener noreferrer" target="_blank">Pinterest</a> . 
+<a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a> . 
+<a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a> . 
+<a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+
+**Work With Me**
+
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
+</p>
+<div class="roadmap-spacer-2"></div>
 
 <!-- Hidden extras -->
 <!--
@@ -75,9 +83,3 @@ District Sindhudurg, Maharashtra, India.
 **Phone**: +91 87796 32310  
 **Email**: kushaldsamant@gmail.com  
 **Support Hours**: Mon–Sat, 10:00 AM – 08:00 PM IST
-
-<div class="roadmap-spacer-1"></div>
-<p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
-</p>
-<div class="roadmap-spacer-2"></div>
