@@ -61,5 +61,6 @@ District Sindhudurg, Maharashtra, India.
 <a href="https://soundcloud.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosoundcloud.png" alt="Soundcloud" width="30"></a>
 <a href="https://my-store-3157273.creator-spring.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoteespring.png" alt="Teespring" width="30"></a>
 <a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logothreadless.png" alt="Threadless" width="30"></a>
+<a href="https://twitch.tv/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitch.png" alt="Twitch" width="30"></a>
 <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="Twitter" width="30"></a>
 -->
