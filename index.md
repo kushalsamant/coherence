@@ -1,4 +1,4 @@
-**SVMVNT**.
+**<a id="Top">SVMVNT</a>**
 
 > "Memento Mori, Amor Fati."  
 > Marcus Aurelius.
@@ -13,7 +13,13 @@ Photos and videos are edited using: <a href="https://videosoftdev.com" rel="noop
 
 This website and its content are the intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant under the Architect's&nbsp;Act,&nbsp;1972&nbsp;of&nbsp;India. Unauthorized use is an offense.
 
-**<a id="About">About</a>** | [People](#People) | [Projects](#Projects)
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://kushalsamant.github.io/getintouch.html">Get&nbsp;In&nbsp;Touch</a><br>
+</p>
+<div class="roadmap-spacer-2"></div>
+
+**<a id="About">About</a>** | [People](#People) | [Projects](#Projects) | [Back to Top](#SVMVNT)
 
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Kushal Dhananjay Samant" width="150">
 
@@ -37,7 +43,13 @@ In 2024, he built a merchandising venture - <a href="https://geometry.printify.c
 
 He has been working in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
-[About](#About) | **<a id="People">People</a>** | [Projects](#Projects)
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://kushalsamant.github.io/getintouch.html">Get&nbsp;In&nbsp;Touch</a><br>
+</p>
+<div class="roadmap-spacer-2"></div>
+
+[About](#About) | **<a id="People">People</a>** | [Projects](#Projects) | [Back to Top](#SVMVNT)
 
 These people taught me things that I could not have learnt otherwise.
 
@@ -174,7 +186,13 @@ Varadkar,&nbsp;Santosh.
 Wadhwani,&nbsp;Sakshi. 
 [Yalgi,&nbsp;Mohit](https://kushalsamant.github.io/people.html). 
 
-[About](#About) | [People](#People) | **<a id="Projects">Projects</a>**
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://kushalsamant.github.io/getintouch.html">Get&nbsp;In&nbsp;Touch</a><br>
+</p>
+<div class="roadmap-spacer-2"></div>
+
+[About](#About) | [People](#People) | **<a id="Projects">Projects</a>** | [Back to Top](#SVMVNT)
 
 These are the projects/ventures I've worked on.
 
@@ -284,6 +302,12 @@ Brno City Square Design Competition (International).
 [Bungalow. Proposed a lake house with circular form and bridges as corridors](https://kushalsamant.github.io/projects.html). 
 Articles for Annual Architectural Magazine, Oculus 2 of KLS GIT, Belgaum.
 
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://kushalsamant.github.io/getintouch.html">Get&nbsp;In&nbsp;Touch</a><br>
+</p>
+<div class="roadmap-spacer-2"></div>
+
 **Other Projects**
 
 edStudio Architects. Bangalore. | [Residence, Bangalore. Client: Mr. Mujeeb Rehman](https://kushalsamant.github.io/projects.html). 
@@ -316,3 +340,11 @@ Hotel Peridot, Mysore. Client: Peridot Group.
 Residence, Chamarajpet, Bangalore. Client: Mr. Sitaram and Mrs. Shruti. 
 [Residence + Interiors, Bangalore. Client: Dr. Ravindran](https://kushalsamant.github.io/projects.html). 
 Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
+
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://kushalsamant.github.io/getintouch.html">Get&nbsp;In&nbsp;Touch</a><br>
+</p>
+<div class="roadmap-spacer-2"></div>
+
+[About](#About) | [People](#People) | [Projects](#Projects) | [Back to Top](#SVMVNT)
