@@ -119,57 +119,62 @@
 /* section styles
 -----------------------------------------------------------------------------*/
 
-section p {
-  color: #333333;
-  font-size: 15px;
-  line-height: 1.5;
-  margin: 15px;
-  padding: 15px;
-  text-align: left;
-}
+  section p {
+    color: #333333;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 15px;
+    padding: 15px;
+    text-align: left;
+  }
 
-section.grid-item {
-  background-color: #DDDDDD;
-  border-style: none;
-  font-size: 15px;
-  grid-column: 2 / 3;
-  grid-row: 1 / 2;
-  margin: 15px;
-  padding: 150px;
-  text-align: left;
-}
+  section.grid-item {
+    background-color: #DDDDDD;
+    border-style: none;
+    font-size: 15px;
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    margin: 15px;
+    padding: 150px;
+    text-align: left;
+  }
 
-.roadmap-spacer-2 {
-  margin-top: 15px;
-  padding-top: 15px;
-}
+  .roadmap-spacer-2 {
+    margin-top: 15px;
+    padding-top: 15px;
+  }
 
-.roadmap-spacer-1 {
-  margin-bottom: 15px;
-  padding-bottom: 15px;
-}
+  .roadmap-spacer-1 {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+  }
 
-.btn:hover {
-  background-color: #DDDDDD;
-  border: 1px solid #CC7722;
-  border-radius: 45px;
-  margin: 15px;
-  color: #CC7722;
-  padding: 15px;
-  text-align: center;
-  text-decoration: none;
-}
+  .btn:hover {
+    background-color: #DDDDDD;
+    border: 1px solid #CC7722;
+    border-radius: 45px;
+    margin: 15px;
+    color: #CC7722;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+  }
 
-.btn {
-  background-color: #CC7722;
-  border: 1px solid #DDDDDD;
-  border-radius: 45px;
-  margin: 15px;
-  color: #DDDDDD;
-  padding: 15px;
-  text-align: center;
-  text-decoration: none;
-}
+  .btn {
+    background-color: #CC7722;
+    border: 1px solid #DDDDDD;
+    border-radius: 45px;
+    margin: 15px;
+    color: #DDDDDD;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .bak {
+    color: #CC7722;
+    text-decoration: none;
+  }
 
 /* footer styles
 -----------------------------------------------------------------------------*/
@@ -363,6 +368,11 @@ section.grid-item {
     text-decoration: none;
   }
 
+  .bak {
+    color: #CC7722;
+    text-decoration: none;
+  }
+  
 /* footer styles
 -----------------------------------------------------------------------------*/
 
