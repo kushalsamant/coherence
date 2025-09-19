@@ -13,9 +13,7 @@ Photos and videos are edited using: <a href="https://videosoftdev.com" rel="noop
 
 This website and its content are the intellectual property of Architect&nbsp;Kushal&nbsp;Dhananjay&nbsp;Samant under the Architect's&nbsp;Act,&nbsp;1972&nbsp;of&nbsp;India. Unauthorized use is an offense.
 
-[About](#about) [People](#people) [Projects](#projects)
-
-## About
+**<a id="About">About</a>** | [People](#People) | [Projects](#Projects)
 
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Kushal Dhananjay Samant" width="150">
 
@@ -39,7 +37,7 @@ In 2024, he built a merchandising venture - <a href="https://geometry.printify.c
 
 He has been working in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
-## People
+[About](#About) | **<a id="People">People</a>** | [Projects](#Projects)
 
 These people taught me things that I could not have learnt otherwise.
 
@@ -176,7 +174,7 @@ Varadkar,&nbsp;Santosh.
 Wadhwani,&nbsp;Sakshi. 
 [Yalgi,&nbsp;Mohit](https://kushalsamant.github.io/people.html). 
 
-## Projects
+[About](#About) | [People](#People) | **<a id="Projects">Projects</a>**
 
 These are the projects/ventures I've worked on.
 
