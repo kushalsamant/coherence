@@ -19,7 +19,7 @@ This website and its content are the intellectual property of Architect&nbsp;Kus
 </p>
 <div class="roadmap-spacer-2"></div>
 
-**<a id="About">About</a>** | [People](#People) | [Projects](#Projects) | [Back to Top](#Top)
+**<a id="About">About</a>** || [People](#People) || [Projects](#Projects) || [Back to Top](#Top)
 
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Kushal Dhananjay Samant" width="150">
 
@@ -49,7 +49,7 @@ He has been working in the fields of academic research, app development, archite
 </p>
 <div class="roadmap-spacer-2"></div>
 
-[About](#About) | **<a id="People">People</a>** | [Projects](#Projects) | [Back to Top](#Top)
+[About](#About) || **<a id="People">People</a>** || [Projects](#Projects) || [Back to Top](#Top)
 
 These people taught me things that I could not have learnt otherwise.
 
@@ -192,7 +192,7 @@ Wadhwani,&nbsp;Sakshi.
 </p>
 <div class="roadmap-spacer-2"></div>
 
-[About](#About) | [People](#People) | **<a id="Projects">Projects</a>** | [Back to Top](#Top)
+[About](#About) || [People](#People) || **<a id="Projects">Projects</a>** || [Back to Top](#Top)
 
 These are the projects/ventures I've worked on.
 
@@ -310,7 +310,7 @@ Articles for Annual Architectural Magazine, Oculus 2 of KLS GIT, Belgaum.
 
 **Other Projects**
 
-edStudio Architects. Bangalore. | [Residence, Bangalore. Client: Mr. Mujeeb Rehman](https://kushalsamant.github.io/projects.html). 
+edStudio Architects. Bangalore. || [Residence, Bangalore. Client: Mr. Mujeeb Rehman](https://kushalsamant.github.io/projects.html). 
 Apartment and Interiors, Bangalore. Client: Dr. Shabbir. 
 [Industrial Campus, Bangalore. Client: SR Seatings](https://kushalsamant.github.io/projects.html). 
 Corporate Office and Interiors, Bangalore. Client: SR Seatings.
@@ -323,12 +323,12 @@ Apartment, Hoodi. Client: Mr. Mujeeb Rehman.
 [Penthouse + Interiors, Bangalore. Client: Mr. Ansari](https://kushalsamant.github.io/projects.html). 
 Residence, Bangalore. Client: Mr. Haleem.
 
-de.Sign Studio LLC. New York . Mumbai. | [93 Starr Street, Brooklyn. Client: Rahul Marathe](https://kushalsamant.github.io/projects.html). 
+de.Sign Studio LLC. New York . Mumbai. || [93 Starr Street, Brooklyn. Client: Rahul Marathe](https://kushalsamant.github.io/projects.html). 
 Manhattan Loft, Manhattan. Client. Ar. Viren Brahmbhatt. 
 [SNS Platina, Surat. Client: SNS Developers Pvt. Ltd](https://kushalsamant.github.io/projects.html). 
 Mega Food Park, Gujarat. Client: State Government of Gujarat.
 
-funktion design. Bangalore. | [Arbors By The Lake, Gated Community & Villas Project, Jigani, Bangalore. Client: CK  Narotham](https://kushalsamant.github.io/projects.html). 
+funktion design. Bangalore. || [Arbors By The Lake, Gated Community & Villas Project, Jigani, Bangalore. Client: CK  Narotham](https://kushalsamant.github.io/projects.html). 
 Residence, Sarjapur Road, Bangalore. Client: Mr. Harish Bhatia. 
 [funktion design Office Building, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar](https://kushalsamant.github.io/projects.html). 
 Commercial Complex, Jayanagar, Bangalore. Client: Mrs. Lakshmi and Mr. Jagadish. 
@@ -347,4 +347,4 @@ Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
 </p>
 <div class="roadmap-spacer-2"></div>
 
-[About](#About) | [People](#People) | [Projects](#Projects) | [Back to Top](#Top)
+[About](#About) || [People](#People) || [Projects](#Projects) || [Back to Top](#Top)
