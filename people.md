@@ -3,7 +3,7 @@
 These people taught me things that I could not have learnt otherwise.
 
 A&nbsp;V,&nbsp;Suchendra. 
-(Adams,&nbsp;Vesely**)[https://kushalsamant.github.io/people.html]. 
+(Adams,&nbsp;Vesely)[https://kushalsamant.github.io/people.html]. 
 Agarwal,&nbsp;Bharat. 
 **Aknoji,&nbsp;Anand**. 
 Albert,&nbsp;Thomas. 
