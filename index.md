@@ -347,7 +347,7 @@ Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
 </p>
 <div class="roadmap-spacer-2"></div>
 
-[About](#About) || [People](#People) || **<a id="Projects">Projects</a>** || **<a id="GetinTouch">Get in Touch</a>**
+[About](#About) || [People](#People) || [Projects](#Projects) || **<a id="GetinTouch">Get in Touch</a>**
 
 If you’d like to reach out: whether it’s to say hello, share feedback, ask a question, or talk through an idea: I’d love to hear from you. The easiest way to connect with me casually is on <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a>, where I try to respond to as many posts and messages as I can.
 
