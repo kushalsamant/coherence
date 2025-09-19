@@ -46,7 +46,7 @@ Ambisonic Lab, Savaroli. Client: SoundCodes.
 Airbnb, Andheri, Mumbai. Client: Sachin Maheshwari. 
 <a href="https://kushalsamant.github.io/projects/gruham.html">GRÜHAM</a>. 
 WAVE Innovation Space, Nehru Center, Mumbai. Client: BNP Paribas. 
-<a href="https://kushalsamant.github.io/projects/infinity_mirror.html">Infinity Mirror Installation</a>, Todi Mill Social, Mumbai. Client: Adidas. 
+<a href="https://kushalsamant.github.io/projects/infinity_mirror.html">Infinity Mirror Installation, Todi Mill Social, Mumbai. Client: Adidas</a>. 
 WikiHouse / BOM chapter of The WikiHouse Foundation, UK. 
 [Varna Library International Architectural Competition (International)](https://kushalsamant.github.io/projects.html). 
 Makerspace, Andheri, Mumbai. Client: Maker’s Asylum. 
@@ -64,15 +64,16 @@ The Hive Black Box Theatre, Khar, Mumbai. Client: Alt Culture Entertainment Pvt 
 kNOw Smoking A short film about the experiences of the nicotine addicts.
 [The Swedavia Bromma Stockholm Airport Challenge (International)](https://kushalsamant.github.io/projects.html). 
 Residence, Kudal. Client: Jayaram Londhe. 
-<a href="https://kushalsamant.github.io/projects/bridging_emotions.html">Final Architectural Thesis (Bridging Emotions)</a> - Explored the utility value of space around the Sea Link Bridge, Mumbai and proposed architectural design to treat citywide clinical depression. 
+<a href="https://kushalsamant.github.io/projects/bridging_emotions.html">Final Architectural Thesis (Bridging Emotions) - Explored the utility value of space around the Sea Link Bridge, Mumbai and proposed architectural design to treat citywide clinical depression</a>. 
 Shortlisted for University of Westminster Design Trophy at International Rank No. 4. 
 [Shortlisted for Landscape Design Trophy for 2 consecutive years](https://kushalsamant.github.io/projects.html). 
-Shortlisted for Annual NASA Design Competition for 5 consecutive years / <a href="https://kushalsamant.github.io/projects/perspicacity.html" rel="noopener noreferrer" target="_blank">Perspicacity</a>. 
+Shortlisted for Annual NASA Design Competition for 5 consecutive years. 
+<a href="https://kushalsamant.github.io/projects/perspicacity.html" rel="noopener noreferrer" target="_blank">Perspicacity</a>. 
 Android Application for Archiperspecta with Pawan Hegde. 
 [Ouch - An animated film about incidents in the lives of Mumbaikars](https://kushalsamant.github.io/projects.html). 
 Editorial Team for Annual Architectural Magazine, Oculus 5 of KLS GIT, Belgaum. 
-<a href="https://kushalsamant.github.io/projects/catalytic_corridor.html" rel="noopener noreferrer" target="_blank">Catalytic Corridor</a> - LAjournal Design Competition (Landscape, India). 
-<a href="https://kushalsamant.github.io/projects/urban_insert_design.html" rel="noopener noreferrer" target="_blank">Urban Insert Design</a> - Proposed a way to cure religious tension and ongoing riots in the Old city and the Fort, Belgaum using socio economic principles of urban design and space making. 
+<a href="https://kushalsamant.github.io/projects/catalytic_corridor.html" rel="noopener noreferrer" target="_blank">Catalytic Corridor - LAjournal Design Competition (Landscape, India)</a>. 
+<a href="https://kushalsamant.github.io/projects/urban_insert_design.html" rel="noopener noreferrer" target="_blank">Urban Insert Design - Proposed a way to cure religious tension and ongoing riots in the Old city and the Fort, Belgaum using socio economic principles of urban design and space making</a>. 
 Book Store Interior Design - Proposed redesigning an old watch tower into a bookstore inside the military cantonment/camp area of Belgaum. 
 <a href="https://kushalsamant.github.io/projects/processism.html">Processism</a>. 
 Admission Brochure 2012 of KLS GIT, Belgaum. 
@@ -100,7 +101,7 @@ Meditation Center - Designed a path around light and glass water tanks to create
 [Residence, Kudal. Client: Prof. Uday Bhatye](https://kushalsamant.github.io/projects.html). 
 Residence, Muzaffarpur. Client: Mr. Vibhu Kumar. 
 [Café, New Delhi. Client: Mr. Varun Ashok](https://kushalsamant.github.io/projects.html). 
-<a href="https://kushalsamant.github.io/projects/farmhouse_savaroli.html">Farmhouse, Savaroli</a>. Client: Mrs. Heera Subhan and Mr. Sharad Yadav. 
+<a href="https://kushalsamant.github.io/projects/farmhouse_savaroli.html">Farmhouse, Savaroli - Client: Mrs. Heera Subhan and Mr. Sharad Yadav</a>. 
 Restaurant - Proposed a thin concrete slab pierced at various points by structural steel columns and oriented towards the lake while creating natural ventilation. 
 [Web Design for Archiperspecta on Joomla/ Wordpress/ Vanilla with customization, and  improved web traffic strategies](https://kushalsamant.github.io/projects.html). 
 Brno City Square Design Competition (International). 
