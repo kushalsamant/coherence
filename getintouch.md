@@ -43,24 +43,3 @@ H.No. 2337, "Visava", Swami Samarth Nagar,
 Near Dattanagar, Kavilgaon, Nerur,  
 Kudal – 416520, Taluka Kudal,  
 District Sindhudurg, Maharashtra, India.
-
-<!-- Hidden extras -->
-<!--
-<a href="https://stock.adobe.com/contributor/212199501/KVSHVL" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoadobe.png" alt="Adobe" width="30"></a>
-<a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb" width="30"></a>
-<a href="https://alamy.com/portfolio/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoalamy.png" alt="Alamy" width="30"></a>
-<a href="https://behance.net/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logobehance.png" alt="Behance" width="30"></a>
-<a href="https://contrado.com/stores/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logocontrado.png" alt="Contrado" width="30"></a>
-<a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="Gumroad" width="30"></a>
-<a href="https://patreon.com/c/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopatreon.png" alt="Patreon" width="30"></a>
-<a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosetmore.png" alt="Setmore" width="30"></a>
-<a href="https://sketchfab.com/3d-models/shelving-complete-cutting-files-guide-135b548e7c5e4b28a0aae1777c99840e" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosketchfab.png" alt="Sketchfab" width="30"></a>
-<a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="Shopify" width="30"></a>
-<a href="https://spoonflower.com/profiles/geometry?sub_action=shop" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logospoonflower.png" alt="Spoonflower" width="30"></a>
-<a href="https://shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshutterstock.png" alt="Shutterstock" width="30"></a>
-<a href="https://soundcloud.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosoundcloud.png" alt="Soundcloud" width="30"></a>
-<a href="https://my-store-3157273.creator-spring.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoteespring.png" alt="Teespring" width="30"></a>
-<a href="https://kvshvl.threadless.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logothreadless.png" alt="Threadless" width="30"></a>
-<a href="https://twitch.tv/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitch.png" alt="Twitch" width="30"></a>
-<a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="Twitter" width="30"></a>
--->
