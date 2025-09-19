@@ -1,4 +1,4 @@
-**Projects**
+## Projects
 
 These are the projects/ventures I've worked on.
 

@@ -1,4 +1,4 @@
-**About**
+## About
 
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Kushal Dhananjay Samant" width="150">
 

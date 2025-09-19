@@ -1,4 +1,4 @@
-**People**.
+## People
 
 These people taught me things that I could not have learnt otherwise.
 
