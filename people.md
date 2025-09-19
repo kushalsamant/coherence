@@ -1,6 +1,7 @@
 **People**.
 
 These people taught me things that I could not have learnt otherwise.
+
 A&nbsp;V,&nbsp;Suchendra. 
 **Adams,&nbsp;Vesely**. 
 Agarwal,&nbsp;Bharat. 
