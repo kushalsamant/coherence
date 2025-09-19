@@ -37,7 +37,6 @@ El Tunal Stadium (International).
 <a href="https://kushalsamant.github.io/projects/housing_for_kalejdohill_kvarnbacken_jakobsberg.html">Housing for Kalejdohill, Kvarnbacken, Jakobsberg, Jarfalla (International)</a>. 
 Coworking Offices, Bandra, Mumbai. Client: Collab Works Pvt Ltd. 
 [The Cuckoo Club, Cafe, Bandra, Mumbai. Client: Alt Culture Entertainment Pvt Ltd](https://kushalsamant.github.io/projects.html). 
-
 The Cuckoo Club, Theatre, Bandra, Mumbai. Client: Alt Culture Entertainment Pvt Ltd. 
 [Hotel Royal Residency, Kurla, Mumbai. Client: Pavan Shetty](https://kushalsamant.github.io/projects.html). 
 Manufacturing Plant, Lower Parel, Mumbai Client: NRB Bearings. 
@@ -76,9 +75,7 @@ Editorial Team for Annual Architectural Magazine, Oculus 5 of KLS GIT, Belgaum.
 <a href="https://kushalsamant.github.io/projects/urban_insert_design.html" rel="noopener noreferrer" target="_blank">Urban Insert Design</a> - Proposed a way to cure religious tension and ongoing riots in the Old city and the Fort, Belgaum using socio economic principles of urban design and space making. 
 Book Store Interior Design - Proposed redesigning an old watch tower into a bookstore inside the military cantonment/camp area of Belgaum. 
 <a href="https://kushalsamant.github.io/projects/processism.html">Processism</a>. 
-
 Admission Brochure 2012 of KLS GIT, Belgaum. 
-
 [Prospectus 2012 of KLS GIT, Belgaum](https://kushalsamant.github.io/projects.html). 
 Avalanche Annual Fest Magazine 2012 of KLS GIT, Belgaum. 
 [Citation for GSen Redesign Trophy for 4 consecutive years](https://kushalsamant.github.io/projects.html). 
@@ -112,8 +109,7 @@ Articles for Annual Architectural Magazine, Oculus 2 of KLS GIT, Belgaum.
 
 **Other Projects**
 
-edStudio Architects. 
-Bangalore.
+edStudio Architects. Bangalore.
 
 [Residence, Bangalore. Client: Mr. Mujeeb Rehman](https://kushalsamant.github.io/projects.html). 
 Apartment and Interiors, Bangalore. Client: Dr. Shabbir. 
@@ -128,16 +124,14 @@ Apartment, Hoodi. Client: Mr. Mujeeb Rehman.
 [Penthouse + Interiors, Bangalore. Client: Mr. Ansari](https://kushalsamant.github.io/projects.html). 
 Residence, Bangalore. Client: Mr. Haleem.
 
-de.Sign Studio LLC. 
-New York . Mumbai.
+de.Sign Studio LLC. New York . Mumbai.
 
 [93 Starr Street, Brooklyn. Client: Rahul Marathe](https://kushalsamant.github.io/projects.html). 
 Manhattan Loft, Manhattan. Client. Ar. Viren Brahmbhatt. 
 [SNS Platina, Surat. Client: SNS Developers Pvt. Ltd](https://kushalsamant.github.io/projects.html). 
 Mega Food Park, Gujarat. Client: State Government of Gujarat.
 
-funktion design. 
-Bangalore.
+funktion design. Bangalore.
 
 [Arbors By The Lake, Gated Community & Villas Project, Jigani, Bangalore. Client: CK  Narotham](https://kushalsamant.github.io/projects.html). 
 Residence, Sarjapur Road, Bangalore. Client: Mr. Harish Bhatia. 
