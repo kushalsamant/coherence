@@ -19,7 +19,7 @@ This website and its content are the intellectual property of Architect&nbsp;Kus
 </p>
 <div class="roadmap-spacer-2"></div>
 
-**<a id="About">About</a>** | [People](#People) | [Projects](#Projects) | [Back to Top](#SVMVNT)
+**<a id="About">About</a>** | [People](#People) | [Projects](#Projects) | [Back to Top](#Top)
 
 <img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Kushal Dhananjay Samant" width="150">
 
@@ -49,7 +49,7 @@ He has been working in the fields of academic research, app development, archite
 </p>
 <div class="roadmap-spacer-2"></div>
 
-[About](#About) | **<a id="People">People</a>** | [Projects](#Projects) | [Back to Top](#SVMVNT)
+[About](#About) | **<a id="People">People</a>** | [Projects](#Projects) | [Back to Top](#Top)
 
 These people taught me things that I could not have learnt otherwise.
 
@@ -192,7 +192,7 @@ Wadhwani,&nbsp;Sakshi.
 </p>
 <div class="roadmap-spacer-2"></div>
 
-[About](#About) | [People](#People) | **<a id="Projects">Projects</a>** | [Back to Top](#SVMVNT)
+[About](#About) | [People](#People) | **<a id="Projects">Projects</a>** | [Back to Top](#Top)
 
 These are the projects/ventures I've worked on.
 
@@ -347,4 +347,4 @@ Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
 </p>
 <div class="roadmap-spacer-2"></div>
 
-[About](#About) | [People](#People) | [Projects](#Projects) | [Back to Top](#SVMVNT)
+[About](#About) | [People](#People) | [Projects](#Projects) | [Back to Top](#Top)
