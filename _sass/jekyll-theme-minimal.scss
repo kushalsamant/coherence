@@ -18,7 +18,7 @@
 
   html {
     scroll-behavior: smooth;
-    scroll-padding-top: 60px;
+    scroll-padding-top: 75px;
   }
 
   h1 {
@@ -143,7 +143,7 @@
     grid-column: 2 / 3;
     grid-row: 1 / 2;
     margin: 15px;
-    padding: 150px;
+    padding: 30px;
     text-align: left;
   }
 
@@ -198,7 +198,7 @@
     grid-column: 1 / 2;
     grid-row: 2 / 3;
     margin: 15px;
-    padding: 150px;
+    padding: 15px;
   }
 
 }
@@ -220,7 +220,7 @@
 
   html {
     scroll-behavior: smooth;
-    scroll-padding-top: 20px;
+    scroll-padding-top: 75px;
   }
 
   h1 {
@@ -253,8 +253,8 @@
     color: #FFFFFF;
     font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
-    margin: 5px;
-    padding: 5px;
+    margin: 0px;
+    padding: 0px;
     word-wrap: break-word;
     width: auto;
   }
@@ -305,7 +305,7 @@
   }
 
   header.grid-item {
-    background-color: #DDDDDD;
+    background-color: #11111177;
     border-style: none;
     font-size: 15px;
     grid-column: 1 / -1;
