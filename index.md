@@ -1,4 +1,4 @@
-**<a id="Top" href="https://kushalsamant.github.io">KVSHVL SVMVNT</a>**
+**<a id="Top" href="https://kushalsamant.github.io">SVMVNT</a>**
 
 > "Memento Mori, Amor Fati."  
 > Marcus Aurelius.
