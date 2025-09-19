@@ -119,62 +119,57 @@
 /* section styles
 -----------------------------------------------------------------------------*/
 
-section p {
-  color: #FFFFFF;
-  font-size: 15px;
-  line-height: 1.5;
-  margin: 15px;
-  padding: 15px;
-  text-align: left;
-}
+  section p {
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 15px;
+    padding: 15px;
+    text-align: left;
+  }
 
-section.grid-item {
-  background-color: #11111177;
-  border-style: none;
-  font-size: 15px;
-  grid-column: 2 / 3;
-  grid-row: 1 / 2;
-  margin: 15px;
-  padding: 150px;
-  text-align: left;
-}
+  section.grid-item {
+    background-color: #11111177;
+    border-style: none;
+    font-size: 15px;
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    margin: 15px;
+    padding: 150px;
+    text-align: left;
+  }
 
-.roadmap-spacer-2 {
-  margin-top: 15px;
-  padding-top: 15px;
-}
+  .roadmap-spacer-2 {
+    margin-top: 15px;
+    padding-top: 15px;
+  }
 
-.roadmap-spacer-1 {
-  margin-bottom: 15px;
-  padding-bottom: 15px;
-}
+  .roadmap-spacer-1 {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+  }
 
-.btn:hover {
-  background-color: #11111177;
-  border: 1px solid #F11111;
-  border-radius: 45px;
-  margin: 15px;
-  color: #F11111;
-  padding: 15px;
-  text-align: center;
-  text-decoration: none;
-}
+  .btn:hover {
+    background-color: #11111177;
+    border: 1px solid #F11111;
+    border-radius: 45px;
+    margin: 15px;
+    color: #F11111;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+  }
 
-.btn {
-  background-color: #F1111177;
-  border: 1px solid #111111;
-  border-radius: 45px;
-  margin: 15px;
-  color: #111111;
-  padding: 15px;
-  text-align: center;
-  text-decoration: none;
-}
-
-.bak {
-  color: #F11111;
-  text-decoration: none;
-}
+  .btn {
+    background-color: #F1111177;
+    border: 1px solid #111111;
+    border-radius: 45px;
+    margin: 15px;
+    color: #111111;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+  }
 
 /* footer styles
 -----------------------------------------------------------------------------*/
@@ -365,11 +360,6 @@ section.grid-item {
     color: #F11111;
     padding: 15px;
     text-align: center;
-    text-decoration: none;
-  }
-
-  .bak {
-    color: #F11111;
     text-decoration: none;
   }
 
