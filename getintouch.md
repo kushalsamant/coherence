@@ -43,3 +43,5 @@ H.No. 2337, "Visava", Swami Samarth Nagar,
 Near Dattanagar, Kavilgaon, Nerur,  
 Kudal – 416520, Taluka Kudal,  
 District Sindhudurg, Maharashtra, India.
+
+[Back](https://kushalsamant.github.io)
