@@ -4,7 +4,7 @@
 /* global styles
 -----------------------------------------------------------------------------*/
 @media screen and (min-width: 721px) {
-
+  
   p {
     margin: 15px;
     padding: 15px;
@@ -14,6 +14,10 @@
     margin: 15px;
     max-width: 300px;
     padding: 15px;
+  }
+
+  html {
+    scroll-behavior: smooth;
   }
 
   h1 {
@@ -210,6 +214,10 @@
     padding: 5px;
   }
 
+  html {
+    scroll-behavior: smooth;
+  }
+
   h1 {
     color: #FFFFFF;
     font-size: 15px;
@@ -363,7 +371,7 @@
     text-decoration: none;
   }
 
-  /* footer styles
+/* footer styles
 -----------------------------------------------------------------------------*/
 
   footer p {

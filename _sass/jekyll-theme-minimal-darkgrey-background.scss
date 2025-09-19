@@ -16,6 +16,10 @@
     padding: 15px;
   }
 
+  html {
+    scroll-behavior: smooth;
+  }
+
   h1 {
     color: #DDDDDD;
     font-size: 15px;
@@ -208,6 +212,10 @@
     margin: 5px;
     max-width: 300px;
     padding: 5px;
+  }
+
+  html {
+    scroll-behavior: smooth;
   }
 
   h1 {
