@@ -18,7 +18,7 @@
 
   html {
     scroll-behavior: smooth;
-    scroll-padding-top: 75px;
+    scroll-padding-top: 90px;
   }
 
   h1 {
@@ -110,10 +110,7 @@
     grid-row: auto;
     margin: 0px;
     padding: 15px;
-    position: sticky;
     text-align: left;
-    top: 0;
-    z-index: 1000;
   }
 
   header blockquote {
@@ -220,7 +217,7 @@
 
   html {
     scroll-behavior: smooth;
-    scroll-padding-top: 75px;
+    scroll-padding-top: 60px;
   }
 
   h1 {
@@ -312,10 +309,7 @@
     grid-row: auto;
     margin: 5px;
     padding: 5px;
-    position: sticky;
     text-align: left;
-    top: 0;
-    z-index: 1000;
   }
 
   header blockquote {
@@ -410,6 +404,7 @@ header {
   position: sticky;
   top: 0;
   z-index: 1000;
+  background-color: #11111177;
 }
 
 /* print styles
