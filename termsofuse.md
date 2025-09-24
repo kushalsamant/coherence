@@ -55,9 +55,3 @@ Welcome! By booking a **1:1 consultation**, you agree to the following. These po
 **Updates**
 
 - Policies may change; continued use indicates acceptance of updates.
-
-<div class="roadmap-spacer-1"></div>
-<p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;1:1&nbsp;Consultation</a>
-</p>
-<div class="roadmap-spacer-2"></div>

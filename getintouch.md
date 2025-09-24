@@ -26,12 +26,6 @@ Here’s the quick version:
 
 If that works for you, we’ll get along fine. You can also <a href="https://kushalsamant.github.io/termsofuse.html" rel="noopener noreferrer" target="_blank">read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
 
-<div class="roadmap-spacer-1"></div>
-<p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
-</p>
-<div class="roadmap-spacer-2"></div>
-
 **Contact Us**
 
 **Phone**: +91 87796 32310  

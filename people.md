@@ -133,10 +133,4 @@ Varadkar,&nbsp;Neha.
 Varadkar,&nbsp;Santosh. 
 [Vora,&nbsp;Shyam](https://kushalsamant.github.io/people.html). 
 Wadhwani,&nbsp;Sakshi. 
-[Yalgi,&nbsp;Mohit](https://kushalsamant.github.io/people.html). 
-
-<div class="roadmap-spacer-1"></div>
-<p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
-</p>
-<div class="roadmap-spacer-2"></div>
+[Yalgi,&nbsp;Mohit](https://kushalsamant.github.io/people.html).

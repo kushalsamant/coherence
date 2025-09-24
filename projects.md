@@ -108,12 +108,6 @@ Brno City Square Design Competition (International).
 [Bungalow. Proposed a lake house with circular form and bridges as corridors](https://kushalsamant.github.io/projects.html). 
 Articles for Annual Architectural Magazine, Oculus 2 of KLS GIT, Belgaum.
 
-<div class="roadmap-spacer-1"></div>
-<p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
-</p>
-<div class="roadmap-spacer-2"></div>
-
 **Other Projects**
 
 edStudio Architects. Bangalore. || [Residence, Bangalore. Client: Mr. Mujeeb Rehman](https://kushalsamant.github.io/projects.html). 
@@ -146,9 +140,3 @@ Hotel Peridot, Mysore. Client: Peridot Group.
 Residence, Chamarajpet, Bangalore. Client: Mr. Sitaram and Mrs. Shruti. 
 [Residence + Interiors, Bangalore. Client: Dr. Ravindran](https://kushalsamant.github.io/projects.html). 
 Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
-
-<div class="roadmap-spacer-1"></div>
-<p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
-</p>
-<div class="roadmap-spacer-2"></div>

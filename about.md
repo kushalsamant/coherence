@@ -21,9 +21,3 @@ Since 2022, he is listed as an Assistant Professor of Architecture at Dr.&nbsp;D
 In 2024, he built a merchandising venture - <a href="https://geometry.printify.com" rel="noopener noreferrer" target="_blank">Geometry</a>. Currently, he is creating the open-source <a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">_ASK_:&nbsp;Daily&nbsp;Research</a> tool - an offline-first AI platform for generating photorealistic Q&A content on research themes including architecture, sustainability, and urban planning.
 
 He has been working in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
-
-<div class="roadmap-spacer-1"></div>
-<p>
-<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
-</p>
-<div class="roadmap-spacer-2"></div>
