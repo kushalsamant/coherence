@@ -24,7 +24,7 @@ Here’s the quick version:
 - ⚖️ I’m only liable up to the fee you paid.  
 - 📜 Governed by Indian law (Sindhudurg jurisdiction).
 
-If that works for you, we’ll get along fine. You can also <a href="https://kushalsamant.github.io/termsofuse.html" rel="noopener noreferrer" target="_blank">read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
+If that works for you, we’ll get along fine. You can also <a href="https://kushalsamant.github.io/termsofuse.html">read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
 
 **Contact Us**
 
