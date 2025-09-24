@@ -108,9 +108,15 @@ Brno City Square Design Competition (International).
 [Bungalow. Proposed a lake house with circular form and bridges as corridors](https://kushalsamant.github.io/projects.html). 
 Articles for Annual Architectural Magazine, Oculus 2 of KLS GIT, Belgaum.
 
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
+</p>
+<div class="roadmap-spacer-2"></div>
+
 **Other Projects**
 
-edStudio Architects. Bangalore. | [Residence, Bangalore. Client: Mr. Mujeeb Rehman](https://kushalsamant.github.io/projects.html). 
+edStudio Architects. Bangalore. || [Residence, Bangalore. Client: Mr. Mujeeb Rehman](https://kushalsamant.github.io/projects.html). 
 Apartment and Interiors, Bangalore. Client: Dr. Shabbir. 
 [Industrial Campus, Bangalore. Client: SR Seatings](https://kushalsamant.github.io/projects.html). 
 Corporate Office and Interiors, Bangalore. Client: SR Seatings.
@@ -123,12 +129,12 @@ Apartment, Hoodi. Client: Mr. Mujeeb Rehman.
 [Penthouse + Interiors, Bangalore. Client: Mr. Ansari](https://kushalsamant.github.io/projects.html). 
 Residence, Bangalore. Client: Mr. Haleem.
 
-de.Sign Studio LLC. New York . Mumbai. | [93 Starr Street, Brooklyn. Client: Rahul Marathe](https://kushalsamant.github.io/projects.html). 
+de.Sign Studio LLC. New York . Mumbai. || [93 Starr Street, Brooklyn. Client: Rahul Marathe](https://kushalsamant.github.io/projects.html). 
 Manhattan Loft, Manhattan. Client. Ar. Viren Brahmbhatt. 
 [SNS Platina, Surat. Client: SNS Developers Pvt. Ltd](https://kushalsamant.github.io/projects.html). 
 Mega Food Park, Gujarat. Client: State Government of Gujarat.
 
-funktion design. Bangalore. | [Arbors By The Lake, Gated Community & Villas Project, Jigani, Bangalore. Client: CK  Narotham](https://kushalsamant.github.io/projects.html). 
+funktion design. Bangalore. || [Arbors By The Lake, Gated Community & Villas Project, Jigani, Bangalore. Client: CK  Narotham](https://kushalsamant.github.io/projects.html). 
 Residence, Sarjapur Road, Bangalore. Client: Mr. Harish Bhatia. 
 [funktion design Office Building, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar](https://kushalsamant.github.io/projects.html). 
 Commercial Complex, Jayanagar, Bangalore. Client: Mrs. Lakshmi and Mr. Jagadish. 
@@ -140,3 +146,9 @@ Hotel Peridot, Mysore. Client: Peridot Group.
 Residence, Chamarajpet, Bangalore. Client: Mr. Sitaram and Mrs. Shruti. 
 [Residence + Interiors, Bangalore. Client: Dr. Ravindran](https://kushalsamant.github.io/projects.html). 
 Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar.
+
+<div class="roadmap-spacer-1"></div>
+<p>
+<a class="btn" href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book&nbsp;a&nbsp;1:1&nbsp;Consultation</a>
+</p>
+<div class="roadmap-spacer-2"></div>
