@@ -6,14 +6,14 @@
 @media screen and (min-width: 721px) {
   
   p {
-    margin: 115px;
-    padding: 115px;
+    margin: 15px;
+    padding: 15px;
   }
 
   img {
-    margin: 115px;
+    margin: 15px;
     max-width: 300px;
-    padding: 115px;
+    padding: 15px;
   }
 
   html {
@@ -23,206 +23,7 @@
 
   h1 {
     color: #FFFFFF;
-    font-size: 115px;
-    line-height: 1.5;
-    margin: 115px;
-    padding: 115px;
-  }
-
-  .grid-container {
-    background-color: #11111177;
-    border-style: none;
-    column-gap: 115px;
-    display: grid;
-    grid-template-columns: auto;
-    grid-template-rows: auto auto auto;
-    margin: 115px;
-    padding: 115px;
-    row-gap: 115px;
-  }
-
-  body {
-    background-attachment: fixed;
-    background-color: #11111177;
-    background-image: url('/assets/img/wallpaper.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: #FFFFFF;
-    font: 115px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 400;
-    margin: 0px;
-    padding: 0px;
-    word-wrap: break-word;
-    width: auto;
-  }
-
-  blockquote {
-    border-left: 1px solid #F11111;
-    font-style: italic;
-    margin: 115px;
-    padding: 115px;
-  }
-
-  a:hover {
-    background-color: #F1111177;
-    color: #111111;
-    margin: 1px;
-    padding: 1px;
-    text-decoration: none;
-  }
-
-  a:focus {
-    border: 1px solid #F11111;
-  }
-
-  a {
-    color: #F11111;
-    text-decoration: none;
-  }
-
-/* header styles
------------------------------------------------------------------------------*/
-
-  header p {
-    color: #FFFFFF;
-    font-size: 115px;
-    line-height: 1.3;
-    margin: 15px 115px;
-    padding: 0px;
-    text-align: left;
-  }
-
-  header h1 {
-    color: #FFFFFF;
-    font-size: 115px;
-    line-height: 1.3;
-    margin: 15px 115px;
-    padding: 0px;
-    text-align: left;
-  }
-
-  header.grid-item {
-    background-color: #11111177;
-    border-style: none;
-    font-size: 115px;
-    grid-column: 1 / -1;
-    grid-row: auto;
-    margin: 0px;
-    padding: 8px 115px;
-    text-align: left;
-  }
-
-  header blockquote {
-    border-left: 1px solid #F11111;
-    font-style: italic;
-    margin: 115px;
-    padding: 115px;
-    text-align: left;
-  }
-
-/* section styles
------------------------------------------------------------------------------*/
-
-  section p {
-    color: #FFFFFF;
-    font-size: 115px;
-    line-height: 1.5;
-    margin: 115px;
-    padding: 115px;
-    text-align: left;
-  }
-
-  section.grid-item {
-    background-color: #11111177;
-    border-style: none;
-    font-size: 115px;
-    grid-column: 1 / -1;
-    grid-row: auto;
-    margin: 115px;
-    padding: 30px;
-    text-align: left;
-  }
-
-  .roadmap-spacer-2 {
-    margin-top: 115px;
-    padding-top: 115px;
-  }
-
-  .roadmap-spacer-1 {
-    margin-bottom: 115px;
-    padding-bottom: 115px;
-  }
-
-  .btn:hover {
-    background-color: #11111177;
-    border: 1px solid #F11111;
-    border-radius: 415px;
-    margin: 115px;
-    color: #F11111;
-    padding: 115px;
-    text-align: center;
-    text-decoration: none;
-  }
-
-  .btn {
-    background-color: #F1111177;
-    border: 1px solid #111111;
-    border-radius: 415px;
-    margin: 115px;
-    color: #111111;
-    padding: 115px;
-    text-align: center;
-    text-decoration: none;
-  }
-
-/* footer styles
------------------------------------------------------------------------------*/
-
-  footer p {
-    color: #FFFFFF;
-    font-size: 115px;
-    line-height: 1.5;
-    margin: 115px;
-    padding: 115px;
-    text-align: left;
-  }
-
-  footer.grid-item {
-    background-color: #11111177;
-    border-style: none;
-    font-size: 115px;
-    grid-column: 1 / -1;
-    grid-row: auto;
-    margin: 115px;
-    padding: 115px;
-  }
-
-}
-
-/* responsive designs
------------------------------------------------------------------------------*/
-@media screen and (max-width:720px) {
-
-  p {
-    margin: 15px;
-    padding: 15px;
-  }
-
-  img {
-    margin: 15px;
-    max-width: 300px;
-    padding: 15px;
-  }
-
-  html {
-    scroll-behavior: smooth;
-    scroll-padding-top: 415px;
-  }
-
-  h1 {
-    color: #FFFFFF;
-    font-size: 115px;
+    font-size: 15px;
     line-height: 1.5;
     margin: 15px;
     padding: 15px;
@@ -248,16 +49,16 @@
     background-repeat: no-repeat;
     background-size: cover;
     color: #FFFFFF;
-    font: 115px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
-    margin: 0px;
-    padding: 0px;
+    margin: 15px;
+    padding: 15px;
     word-wrap: break-word;
     width: auto;
   }
 
   blockquote {
-    border-left: 1px solid #F11111;
+    border-left: 15px solid #F11111;
     font-style: italic;
     margin: 15px;
     padding: 15px;
@@ -266,13 +67,13 @@
   a:hover {
     background-color: #F1111177;
     color: #111111;
-    margin: 1px;
-    padding: 1px;
+    margin: 15px;
+    padding: 15px;
     text-decoration: none;
   }
 
   a:focus {
-    border: 1px solid #F11111;
+    border: 15px solid #F11111;
   }
 
   a {
@@ -285,35 +86,35 @@
 
   header p {
     color: #FFFFFF;
-    font-size: 115px;
+    font-size: 15px;
     line-height: 1.3;
-    margin: 3px 15px;
-    padding: 0px;
+    margin: 15px 15px;
+    padding: 15px;
     text-align: left;
   }
 
   header h1 {
     color: #FFFFFF;
-    font-size: 115px;
+    font-size: 15px;
     line-height: 1.3;
-    margin: 3px 15px;
-    padding: 0px;
+    margin: 15px 15px;
+    padding: 15px;
     text-align: left;
   }
 
   header.grid-item {
     background-color: #11111177;
     border-style: none;
-    font-size: 115px;
+    font-size: 15px;
     grid-column: 1 / -1;
     grid-row: auto;
     margin: 15px;
-    padding: 15px 10px;
+    padding: 15px 15px;
     text-align: left;
   }
 
   header blockquote {
-    border-left: 1px solid #F11111;
+    border-left: 15px solid #F11111;
     font-style: italic;
     margin: 15px;
     padding: 15px;
@@ -325,7 +126,206 @@
 
   section p {
     color: #FFFFFF;
-    font-size: 115px;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 15px;
+    padding: 15px;
+    text-align: left;
+  }
+
+  section.grid-item {
+    background-color: #11111177;
+    border-style: none;
+    font-size: 15px;
+    grid-column: 1 / -1;
+    grid-row: auto;
+    margin: 15px;
+    padding: 15px;
+    text-align: left;
+  }
+
+  .roadmap-spacer-2 {
+    margin-top: 15px;
+    padding-top: 15px;
+  }
+
+  .roadmap-spacer-1 {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+  }
+
+  .btn:hover {
+    background-color: #11111177;
+    border: 15px solid #F11111;
+    border-radius: 15px;
+    margin: 15px;
+    color: #F11111;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .btn {
+    background-color: #F1111177;
+    border: 15px solid #111111;
+    border-radius: 15px;
+    margin: 15px;
+    color: #111111;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+/* footer styles
+-----------------------------------------------------------------------------*/
+
+  footer p {
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 15px;
+    padding: 15px;
+    text-align: left;
+  }
+
+  footer.grid-item {
+    background-color: #11111177;
+    border-style: none;
+    font-size: 15px;
+    grid-column: 1 / -1;
+    grid-row: auto;
+    margin: 15px;
+    padding: 15px;
+  }
+
+}
+
+/* responsive designs
+-----------------------------------------------------------------------------*/
+@media screen and (max-width:720px) {
+
+  p {
+    margin: 15px;
+    padding: 15px;
+  }
+
+  img {
+    margin: 15px;
+    max-width: 300px;
+    padding: 15px;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 15px;
+  }
+
+  h1 {
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 15px;
+    padding: 15px;
+  }
+
+  .grid-container {
+    background-color: #11111177;
+    border-style: none;
+    column-gap: 15px;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto auto;
+    margin: 15px;
+    padding: 15px;
+    row-gap: 15px;
+  }
+
+  body {
+    background-attachment: fixed;
+    background-color: #11111177;
+    background-image: url('/assets/img/wallpaper.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin: 15px;
+    padding: 15px;
+    word-wrap: break-word;
+    width: auto;
+  }
+
+  blockquote {
+    border-left: 15px solid #F11111;
+    font-style: italic;
+    margin: 15px;
+    padding: 15px;
+  }
+
+  a:hover {
+    background-color: #F1111177;
+    color: #111111;
+    margin: 15px;
+    padding: 15px;
+    text-decoration: none;
+  }
+
+  a:focus {
+    border: 15px solid #F11111;
+  }
+
+  a {
+    color: #F11111;
+    text-decoration: none;
+  }
+
+/* header styles
+-----------------------------------------------------------------------------*/
+
+  header p {
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 1.3;
+    margin: 3px 15px;
+    padding: 15px;
+    text-align: left;
+  }
+
+  header h1 {
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 1.3;
+    margin: 3px 15px;
+    padding: 15px;
+    text-align: left;
+  }
+
+  header.grid-item {
+    background-color: #11111177;
+    border-style: none;
+    font-size: 15px;
+    grid-column: 1 / -1;
+    grid-row: auto;
+    margin: 15px;
+    padding: 15px 10px;
+    text-align: left;
+  }
+
+  header blockquote {
+    border-left: 15px solid #F11111;
+    font-style: italic;
+    margin: 15px;
+    padding: 15px;
+    text-align: left;
+  }
+
+/* section styles
+-----------------------------------------------------------------------------*/
+
+  section p {
+    color: #FFFFFF;
+    font-size: 15px;
     line-height: 1.5;
     margin: 15px;
     padding: 15px;
@@ -339,37 +339,37 @@
     grid-row: auto;
     margin: 15px;
     padding: 15px;
-    font-size: 115px;
+    font-size: 15px;
   }
 
   .roadmap-spacer-2 {
-    margin-top: 115px;
-    padding-top: 115px;
+    margin-top: 15px;
+    padding-top: 15px;
   }
 
   .roadmap-spacer-1 {
-    margin-bottom: 115px;
-    padding-bottom: 115px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
   }
 
   .btn {
     background-color: #F1111177;
-    border: 1px solid #111111;
-    border-radius: 415px;
-    margin: 115px;
+    border: 15px solid #111111;
+    border-radius: 15px;
+    margin: 15px;
     color: #111111;
-    padding: 115px;
+    padding: 15px;
     text-align: center;
     text-decoration: none;
   }
 
   .btn:hover {
     background-color: #11111177;
-    border: 1px solid #F11111;
-    border-radius: 415px;
-    margin: 115px;
+    border: 15px solid #F11111;
+    border-radius: 15px;
+    margin: 15px;
     color: #F11111;
-    padding: 115px;
+    padding: 15px;
     text-align: center;
     text-decoration: none;
   }
@@ -379,7 +379,7 @@
 
   footer p {
     color: #FFFFFF;
-    font-size: 115px;
+    font-size: 15px;
     line-height: 1.5;
     margin: 15px;
     padding: 15px;
@@ -389,7 +389,7 @@
   footer.grid-item {
     background-color: #11111177;
     border-style: none;
-    font-size: 115px;
+    font-size: 15px;
     grid-column: 1 / -1;
     grid-row: auto;
     margin: 15px;
@@ -414,7 +414,7 @@ header {
   body {
     background: none;
     color: #FFFFFF;
-    font-size: 115px;
+    font-size: 15px;
     padding: 1.0in;
     word-wrap: break-word;
   }
