@@ -56,8 +56,10 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:100%;
+  max-width:860px;
   margin:0 auto;
+  padding:0 15px;
 }
 
 blockquote {
@@ -101,7 +103,8 @@ th {
 }
 
 img {
-  max-width:500px;
+  max-width:100%;
+  height:auto;
 }
 
 header {
@@ -113,12 +116,13 @@ header {
 
 ul.downloads {
   list-style:none;
-  height:40px;
-  padding:100px;
+  height:auto;
+  padding:10px;
   background: #222222;
   border-radius:1px;
   border:1px solid #c4302b;
-  width:350px;
+  width:100%;
+  box-sizing:border-box;
 }
 
 .downloads li {
@@ -137,13 +141,13 @@ ul.downloads {
 }
 
 .downloads a {
-  line-height:1;
+  line-height:1.2;
   font-size:14px;
   color:#222222;
   display:block;
   text-align:left;
-  padding-top:100px;
-  height:34px;
+  padding:10px 0;
+  height:auto;
 }
 
 .downloads a:hover, .downloads a:focus {

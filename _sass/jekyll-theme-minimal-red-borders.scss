@@ -1603,5 +1603,55 @@ html {
   }
 }
 
+/* Responsive Embeds & Media
+-----------------------------------------------------------------------------*/
+
+/* Simple responsive media that fills the container width */
+.responsive-embed {
+  width: 100%;
+  background: var(--color-surface);
+  border: var(--border-width) solid var(--color-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+
+.responsive-embed iframe,
+.responsive-embed video,
+.responsive-embed embed,
+.responsive-embed object {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 0;
+}
+
+/* Aspect ratio utilities for media blocks */
+.ratio-1x1 { aspect-ratio: 1 / 1; }
+.ratio-4x3 { aspect-ratio: 4 / 3; }
+.ratio-16x9 { aspect-ratio: 16 / 9; }
+.ratio-21x9 { aspect-ratio: 21 / 9; }
+
+/* Tables that overflow nicely on small screens */
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border: var(--border-width) solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface);
+}
+
+.table-responsive table {
+  min-width: 640px;
+  margin: 0;
+  border-collapse: collapse;
+}
+
+.table-responsive table th,
+.table-responsive table td {
+  white-space: nowrap;
+}
+
 /* End of Modern SCSS
 -----------------------------------------------------------------------------*/
