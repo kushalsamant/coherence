@@ -1,5 +1,11 @@
 ---
 ---
 
-$link-color: #5c5c5c;
-@import "jekyll-theme-minimal-red-borders";
+// Modern Architecture Portfolio Theme
+// Designed for Architect Kushal Samant's Portfolio
+
+// Import the modern architecture theme
+@import "jekyll-theme-minimal-modern-architecture";
+
+// Override specific variables if needed
+$link-color: #2c3e50; // Architectural blue instead of gray
