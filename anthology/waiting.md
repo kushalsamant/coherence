@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Waiting**  
 The joy of waiting on stations is that you realise that no matter how anxious you get waiting, Time will fix everything.  
 You may have 120 minutes to go, but there comes a time when you have only 12 minutes left.  
@@ -22,3 +25,5 @@ Maybe the laws of physics are like people, or cultures from different parts of t
 They exist, but we fail to see them for what they are, only because we did not see them through a lens: that they are all part of the same thing.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

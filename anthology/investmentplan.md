@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Investment plan**  
 
 The following is a method to manage your money better.  
@@ -33,3 +36,6 @@ Transfer an amount equal to 5% of your collections from Bank Account #8 i.e. you
 If you have read this far, start calculating backwards from here with the question - “How much would I need for this?” - at every stage.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+
+    </div>
+</section>

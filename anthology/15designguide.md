@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **$15 Design Guide**  
 This guide is made of 15 chapters.  
 The title is a way of saying that each chapter is intended to bring an extra dollar to your artwork.  
@@ -21,3 +24,5 @@ I hope that my ideas are helpful and universal in nature.
 15. The unknown factor X  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

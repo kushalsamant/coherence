@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 5**  
 I want to meet you at a wedding, find you in the crowd, from the other family’s side.  
 Look at you, and catch your gaze.  
@@ -51,3 +54,5 @@ Pretending to never have known you, but now a flashback to go to time and again.
 Phew!
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

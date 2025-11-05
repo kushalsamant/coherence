@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Regret**  
 I regret not having started Instagramming from the New Year’s Eve.  
 This would have been so perfect.  
@@ -35,3 +38,5 @@ They are fears of the past.
 The cure for it, as for most things in life is gratitude.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Next stop passport office**  
 I got a new passbook where the new printing machine printed the transaction page on the first page.  
 So, I got another new passbook on which the lady on the window updated the first page from her computer.  
@@ -51,3 +54,5 @@ This lady activated it.
 Then she said I will get the cards 7 days mein.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

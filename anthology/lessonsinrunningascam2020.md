@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Lessons in running a scam 2020**  
 Date: 4th June 2020  
 
@@ -11,3 +14,5 @@ Date: 4th June 2020
 Viola!
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

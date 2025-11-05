@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Lost 1**  
 This is a journal entry, not conscious of public discretion, in the now, or the future.  
 I am afraid of the immense activity that I will have to put up with if I continue my not architectural job.  
@@ -49,3 +52,5 @@ Executing your first thought or the instinctive idea that comes to you when you 
 > Steve Jobs.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

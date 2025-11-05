@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 15**  
 Hearing the phone buzz, I hear you move and stir around.  
 I call you back to bed and you slide back into bed, so hard and so upright that I feel you right up against me.  
@@ -18,3 +21,5 @@ And you feel me shudder around you and then feel me biting your shoulder and pul
 You pull out, and get on top of me...  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

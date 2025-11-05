@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Of pegboards, and walkways**  
 She is the most amazing piece of nature that I have ever seen.  
 From the foothills of Kerala to Milky Way galaxy.  
@@ -15,3 +18,5 @@ There has been none like her before, who dared to level up a friendship, it migh
 For honestly my humble mind, cannot find peace outside of her reality.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

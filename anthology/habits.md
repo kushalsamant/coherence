@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Habits**  
 What is the best habit that you can build for yourself?
 Here are a series of habits that will contribute greatly to your growth and success.  
@@ -22,3 +25,5 @@ This way if she ever had to stop in between the series of creativity and go at e
 This means that compounding is the hedge against failing at consistency.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

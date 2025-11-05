@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Coffee**  
 Is it time for some coffee already?
 It might be sort of very annoying for a lot of us to figure out how do we tackle this ongoing economic crisis that the entire planet probably is facing.  
@@ -12,3 +15,5 @@ Your efforts will keep generating returns that keep compounding if you are consi
 This consistent effort that generates a non-zero return is the answer to solve your own personal economic crisis.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

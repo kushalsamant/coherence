@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Delusions**  
 I saw Joker.  
 He is a delusional character.  
@@ -38,3 +41,5 @@ Maybe this is not the real meaning of life.
 But, a key to make you start thinking consciously and deep about every move you make.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

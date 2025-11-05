@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Woman**  
 you know how to make me drool  
 worry about everything like a fool  
@@ -36,3 +39,5 @@ perhaps, not five feet close
 but not even a thousand light years apart!  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

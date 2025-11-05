@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The changing point**  
 After following through the process, most of us might find that the dreams we were following or dreaming about are based on a pseudo wannabe idea of acceptance.  
 
@@ -8,3 +11,5 @@ By the way, three things:
 But not for creativity.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

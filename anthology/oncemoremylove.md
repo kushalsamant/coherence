@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Once more, my love**  
 
 **Note**: This poem was created using AI in 2011. This night I shall dream of your bedazzling golden hair.  
@@ -28,3 +31,5 @@ You will always be my little cakes face.
 the wild cat of my own kissing style of love.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Consistency I**  
 Do you know how powerful consistency is?
 Like I said in the previously, compounding is a hedge against failing at consistency.  
@@ -31,3 +34,5 @@ But in his observation, James showcased with photographic proof that the parts t
 I am continuing this in the next chapter.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

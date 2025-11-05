@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Background music**  
 There is this constant background music that comes to us in life.  
 Most of it is the form of other people talking at us or other things around us that create sound or noise depending on the way you look at it.  
@@ -22,3 +25,5 @@ From dating to products.
 Everywhere.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Processism**.
 
 Processism studies ways of imagining processes that storytell steps to any design solution. Mostly through understanding the way things work, the way things can work, and alternative ways to make things work. It is a useful tool for solving problems. The exercise is used as a method for building problem solving aptitude.
@@ -103,3 +106,5 @@ Casa Tolo Presentation.
 Casa Tolo Back Page.
 
 - <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
+    </div>
+</section>

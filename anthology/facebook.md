@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Facebook**  
 > “Everything around me is evaporating.  
 My whole life, my memories, my imagination, and its contents, my personality?-?it’s all evaporating.  
@@ -41,3 +44,5 @@ The joy of life comes from our encounters with new experiences, and hence there 
 > Christopher McCandless in Into The Wild (2007).  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

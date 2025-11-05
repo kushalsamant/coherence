@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Messy affair**  
 Such a funny tale,
 Epic fail,
@@ -15,3 +18,5 @@ Leaving me.
 With a hope, restless.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

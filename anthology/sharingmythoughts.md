@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Sharing my thoughts**  
 I am only sharing my thoughts.  
 Well my mind is pretty active on most days and more during the night.  
@@ -10,3 +13,5 @@ you know I used to visualise certain things and most of the time the come true i
 and that gives me the confidence to keep publishing and to keep doing my own things without having to get a job or look for stability that most people from my parents generation would love me to have.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

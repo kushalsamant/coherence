@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 1**  
 I dreamt of us.  
 You met me at a cafe, you winked at me, and bite your lips, held my hand, and we ran into a closet.  
@@ -24,3 +27,5 @@ I howl in pain.
 To moan together in pleasure, we can't wait for you to dominate me, and then I will throw you on a bed and have you alone.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

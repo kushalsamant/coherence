@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 12**  
 She: It is a quaint Sunday afternoon, 
 A long while since I have sat and reflected.  
@@ -185,3 +188,5 @@ You will crumble like breadsticks
 Dipped in mayonnaise and cream
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

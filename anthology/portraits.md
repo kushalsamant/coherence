@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Portraits**  
 So I have always been thinking about making a blog for the way my hair grows back.  
 Self shot portraits, day after day, documenting how my look changes to an extent that I get stopped at ID checks because the photo doesn’t look anything like me.  
@@ -18,3 +21,5 @@ The self awareness that this brings is more important as an asset to have than a
 This blog is @madewithadobe.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

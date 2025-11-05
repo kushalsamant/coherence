@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Shift**  
 Why is there an apparent hurry in the shift for the Rupee?
 
@@ -10,3 +13,5 @@ Why wouldn’t the government print notes in advance to ease the shift? Why woul
 For a land of villages, the shift should have been careful, and considerate of all the citizens for the world’s largest democracy.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

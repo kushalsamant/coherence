@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **10k walks**
 
 Some miles are worth counting,
@@ -7,3 +10,5 @@ When you find a beauty,
 To ravage, and rage the crown.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

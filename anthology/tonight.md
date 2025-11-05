@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Tonight**  
 After being struck in a lockdown for like the past 60 days I think that no matter how much you ask for outside help or to the government or to the police or to anybody else that you know is in power or has the capacity to help you out of this position of being stranded that you are left in, I just think I realised that I have no friends.  
 
@@ -12,3 +15,5 @@ So to tonight; my first night in my own city where I feel like a complete strang
 This feels very similar to how Kangana Ranaut's character might have felt in the movie "Queen" when her friends leave for their journeys at the club.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

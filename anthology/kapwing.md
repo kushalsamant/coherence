@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Kapwing**  
 Here's a sweet resource for digital content creation.  
 I hope you love <a href="https://www.kapwing.com" rel="noopener noreferrer" target="_blank">Kapwing</a>, a modern editor for videos, GIFs, and images.  
@@ -41,3 +44,5 @@ You can know more about Kapwing on
 <a href="https://twitter.com/KapwingApp" rel="noopener noreferrer" target="_blank">Twitter</a>.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

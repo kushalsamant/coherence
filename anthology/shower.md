@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Shower**  
 I dare you, to notice detail.  
 Right from when the first drop of water that hits your face when you wake up in the morning.  
@@ -22,3 +25,5 @@ It is what you feel when the music flows from your pores, not from your larynx a
 Where you actually see time freeze, while you make circles around your universe or anything that you can imagine.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

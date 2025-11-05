@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Social media differences**  
 - Facebook, Instagram is an avenue for joking with your customers, and running competitions or giveaway.  
 It’s a place to build a “cult following.”  
@@ -5,3 +8,5 @@ It’s a place to build a “cult following.”
 - G+, LinkedIn is a professional landscape, geared toward connecting businesses, and professionals with each other, and opening the door to engaging with individuals outside of your usual social circles.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

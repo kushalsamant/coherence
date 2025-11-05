@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 13**  
 She: So what's ur move? To get started in bed? Because with the way you speak, I know you have not one but a few moves that you start with.  
 He: I will start with your neck.  
@@ -45,3 +48,5 @@ She: Okay now you are turning me on which is not a good sign.
 He: Well, I am going to make sure that you get addicted to me.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

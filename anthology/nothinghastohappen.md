@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Nothing has to happen**  
 Look at this photograph, how abnormal it is.  
 A mixture of concrete mass, next to the sands, and the seas, or below the mountains maybe.  
@@ -16,3 +19,5 @@ So please stop believing, in happenings, and leisure, Will Smith was right when 
 Because the only things that might happen, are the ones you put on your Google Keep.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

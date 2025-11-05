@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Reading**  
 Reading for the sake of reading is no good.  
 Reading for the sake of understanding is no good.  
@@ -23,3 +26,5 @@ I could have scrolled up to add the previous sentence.
 Avoid such edits on paper.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

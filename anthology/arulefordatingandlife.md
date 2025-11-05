@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **A rule for dating and life**  
 She is the extreme good and the extreme bad.  
 ek aur proof aaya mereko isse.  
@@ -12,3 +15,5 @@ yay! iska matlab if you want to be the chairman of your bank, you can choose to 
 such classic physics!
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

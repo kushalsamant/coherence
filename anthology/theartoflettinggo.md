@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The Art of Letting Go**
 It was a warm summer evening when Maya sat on her balcony, staring at the sunset.  
 She had been feeling lost lately, overwhelmed by the chaos of life.  
@@ -19,3 +22,5 @@ She knew that letting go was a process, but she was ready to embrace it with ope
 Maya took a deep breath and whispered to herself, "Let go and trust the journey."
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Brida 2**  
 I told you I am a filler but I have never told anyone what I think about myself, and to me it just means that I am stressed.  
 And these thoughts are leaking in fragments, and I am telling them to you because I have never taken any one to theatre or a dining out too.  
@@ -24,3 +27,5 @@ It’s been so good of her to trust me with her shop, and her store but I don’
 I am just so lost in an endless mystery but when it comes to the future I cannot see, anymore.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

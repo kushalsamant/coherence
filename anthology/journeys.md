@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Journeys**  
 I’ve always thought journeys to be a part of my learning experience.  
 Like I have never seen things from a different perspective unless I were on a journey from one place to another.  
@@ -18,3 +21,5 @@ The answer to how lies in the doing.
 The doing of following your thoughts relentlessly.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

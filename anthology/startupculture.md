@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Startup culture**  
 Start ups are businesses that are still figuring out:  
 1. Who their customer is?  
@@ -5,3 +8,5 @@ Start ups are businesses that are still figuring out:
 3. How do they make money?  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

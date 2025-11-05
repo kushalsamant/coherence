@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The right to share**  
 The right to share.  
 I believe this should be a fundamental right.  
@@ -9,3 +12,5 @@ Ask those amongst us who have spent their university years, living in hostels or
 The core belief is that sharing encourages access whereas exchange discourages access.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

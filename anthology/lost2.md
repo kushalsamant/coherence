@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Lost 2**  
 So lost she be,
 so lost she be,
@@ -9,3 +12,5 @@ while WiFi does her,
 no good.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

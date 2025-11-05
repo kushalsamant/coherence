@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Inner peace**  
 To find inner peace, all it takes is to keep reminding yourself about it.  
 To make it the epitome of the choices you make.  
@@ -36,3 +39,5 @@ To wait, and observe instead of taking action.
 When you focus only on the things around you, will you understand what you are here for?  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

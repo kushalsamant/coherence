@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Kashmiri kahwa**  
 Kashmiri kahwa not actually that but something like that.  
 So, Sarfaraz Khan who also is writer on Typewrighter and is my flatmate right now, he had made ghee out of milk and I don't know how it that but yaar left some of the burnt ghee in the strainer, and I used that strainer with the ghee in it for my tea.  
@@ -15,3 +18,5 @@ Now that is not a ploy to make money, it is only a feedback.
 so I am going to go back to my Kashmiri kahwa will my own Kashmiri kahwa, courtesy of Sarfaraz Khan and I hope that I will come back you and post some more articles.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

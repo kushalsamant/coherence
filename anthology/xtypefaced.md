@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Type-faced**  
 We need to get curious.  
 About everything around us.  
@@ -44,3 +47,5 @@ If we take a step back, and pause.
 We will see where we are heading.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

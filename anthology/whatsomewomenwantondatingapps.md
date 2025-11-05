@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **What some women want on dating apps**?  
 First, was a girl who said she wanted commitment, intimacy, monogamy and a relationship.  
 But her version of intimacy is not cuddles, it's sex only.  
@@ -17,3 +20,5 @@ She went to bed without saying goodnight.
 I slept on the couch, and left in the morning.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Yesterday**  
 Yesterday, at about 9pm, the security said he was closing the place for the day.  
 He said, “Light bandh karke aana, hum niche rahenge darwaze pe.”   So I took an hour to pack all calls up.  
@@ -9,3 +12,5 @@ As a Navratri procession passed the gates, I waited for the rains to subside bef
 He replied, “Humein ye kam pasand hai! In logon ko dekhna pasand hai”.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

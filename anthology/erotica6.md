@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 6**  
 I love eating you out, and hearing you moan, like a toy in my hands.  
 I love sucking your tits, running my nails on your back.  
@@ -56,3 +59,5 @@ I want to fuck you on your main door.
 I want to push your face in the door, and spank your ass hard for being such an ass, and not fucking me soon everyday.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

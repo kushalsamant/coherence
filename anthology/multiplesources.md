@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Multiple sources**  
 Do you know what the key to wealth is?
 
@@ -17,3 +20,5 @@ so again the trick to having lasting wealth is to spend it in the right places.
 Not saving, spending.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **How to resolve a conflict**?  
 We will discuss it out.  
 
@@ -10,3 +13,5 @@ We will discuss it out.
 7. Bingo! We can go back to binge watching movies together.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

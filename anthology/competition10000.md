@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Competition 10000**  
 I want to taken hear you but I think the emails to write about a 10000 articles on typewriter and that's all.  
 Mishal Thomas 2018 new achieve something as naturopathy feel it from you very very standpoint you thank you know that the whole.  
@@ -6,3 +9,5 @@ For that's great things come when small great things happen with small things co
 Limit on the textbox I think you is it now this no limit so you get me 5 articles get you 10 rupees then get 10,000 10,000 rupees you need to write how many articles to write 10,000 by 5 is equal to mm 10000 by 10,000 into 500 5,000 articles then you get about 10000 rupees a day bad number to have as passive income ideas with that number is not reach 2018 the charcoal 5000 if you understand what I am doing I so I am using Google voice input right now that's why everything is good but if you understand then find you I am trying to increase the space of national 28 articles in stock broking and furious by using voice to text instead of typing my let me letters out this is me be faster than you and that see who gets there was no matter who gets the first just being a part of this process is going to be this platform and where all can get paid and get money to make sure country's economy its fact no thank you so much for opportunity of people in this app wish something happens of this all the best wishes to all of you.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

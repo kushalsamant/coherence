@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Scootsy**  
 Today, let me share a short insight with you.  
 After an influx of people in my life from architecture.  
@@ -46,3 +49,5 @@ These make laziness, and procrastination, non-existent in my vocabulary.
 Outside of Scootsy, they help me get things moving at other enterprises.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

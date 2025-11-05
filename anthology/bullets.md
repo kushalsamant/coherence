@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Bullets**  
 He shouted, “No Bro, Wait!” As he could see his silhouette disappear into the dim space.  
 Just a street lamp to decorate the street.  
@@ -11,3 +14,5 @@ He was there for everyone meeting people, and finding friends again after 15 lon
 But there he was all alone lonely when they put bullets into his heart.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

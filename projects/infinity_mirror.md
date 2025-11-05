@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 Can we use mirrors to create parallel worlds?
 
 **Infinity mirror**.
@@ -13,3 +16,5 @@ In collaboration with Homegrown magazine, and Maker’s Asylum, I built an <a hr
 Infinity Mirrored Room By Yayoi Kusama.
 
 - <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
+    </div>
+</section>

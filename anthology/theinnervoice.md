@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The Inner Voice**
 As Kushal sat in his temporary residence in Mumbai, he couldn't help but feel frustrated with the bureaucratic process of getting permission to travel back home.  
 He had followed all the necessary steps, had all the required documents, and yet he was still stuck in limbo.  
@@ -22,3 +25,5 @@ And as he closed his eyes and leaned back against the bus seat, he felt a sense 
 The chaos around him had faded away, and all he could hear was the gentle whisper of his inner voice.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

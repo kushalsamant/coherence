@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Instagram strategy**  
 I have always looked at Instagram as a note taking app more than a photo sharing app.  
 Most people do not use all the features of any platform, in the same way as they do not use all the features of their smartphones.  
@@ -71,3 +74,5 @@ Bear in mind that:
 I mean these books, lectures, and workshops are what Instagram captions can lead to, understood?  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

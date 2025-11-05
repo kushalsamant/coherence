@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The last supper**  
 There are moments of surprises that dot our lives from eventful days to dinner dates.  
 There are a few things that make an impression leaving an insight behind some that span a night or last a lifetime.  
@@ -9,3 +12,5 @@ Then everything around you grows in the life just got lucky way.
 This is how you give life meaning.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 3**  
 So it's an early morning.  
 You wake up on bed and turned to hug me but find yourself alone on bed wearing just your underwear and bare body.  
@@ -42,3 +45,5 @@ So I move back, and slide down a finger, that tugs at your wet panties, and pull
 I spread your legs slightly apart, and then go I down.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

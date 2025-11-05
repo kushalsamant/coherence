@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Being torn**  
 Between a job or your own shop,
 Between money or that desire to hop,
@@ -12,3 +15,5 @@ Between selling my craft, and saving my soul,
 Between things that might last, and a risky endeavour.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

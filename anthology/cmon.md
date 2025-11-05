@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **C’mon**  
 Step up to the unknown, it’s beautiful inside
 With beach sand flowing, into the high tide,
@@ -10,3 +13,5 @@ Cries of seagulls, and a big shoal.
 C’mon, C’mon, C’mon.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

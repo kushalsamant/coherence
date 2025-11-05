@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **This is us**  
 This afternoon we were watching "This is us".  
 We were talking about the show after keeping it on pause.  
@@ -44,3 +47,5 @@ She said I am walking out.
 I left.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

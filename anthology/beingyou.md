@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Being you**  
 Life gives you exactly what you want.  
 Have you ever noticed that ‘The Secret’ says: “Focus on what you want to happen.  
@@ -27,3 +30,5 @@ Be it writing, life or truth.
 “From a Mumbaikar’s perspective, American influence on his life just went from having a sense of Bandra to the menace of Harbour Line.”  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

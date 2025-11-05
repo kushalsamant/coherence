@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Mohave**  
 Out in the desert,
 as a wind blows,
@@ -25,3 +28,5 @@ as you pass through Mohave,
 through heat, and cold.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

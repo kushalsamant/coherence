@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Mind**  
 It is funny how our mind works.  
 It is funny how we can tell a lot about people in the first instance.  
@@ -32,3 +35,5 @@ The thoughts that run through my mind in these subtle moments, seems to manifest
 Deja Vu, anyone?  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

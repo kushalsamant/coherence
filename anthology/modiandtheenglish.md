@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Modi & the English**  
 I always thought that the English were smart people.  
 But after last night's show of The King, I just realized that England is a tiny kingdom who lost a lot of kings and queens in battles trying to expand their kingdom across France.  
@@ -11,3 +14,5 @@ Learning from the English history, the roots of this tyranny could lie as far ag
 Maybe, more.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

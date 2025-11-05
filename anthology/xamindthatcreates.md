@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **A mind that creates**  
 > "Lose an hour in the morning, and you will spend all day looking for it.  "
 > Richard Whately.  
@@ -136,3 +139,5 @@ Space can affect our minds, emotions, thoughts, and hence hold an influence over
 After seeing people huddled together in a tiny space under the pretext of an event or a gathering, in spaces designed to accommodate such affairs, I have gathered an interest in better understanding people, and the effects that spaces /emotions play in their behaviors.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

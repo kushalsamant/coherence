@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Automating your marketing**  
 Automating your marketing by making Instagram Central.  
 1. Make an account for your project/products/office/firm on YouTube, Twitter, Tumblr, Pinterest, Medium, Instagram, and Facebook Pages.  
@@ -13,3 +16,5 @@ Automating your marketing by making Instagram Central.
 Set this up first so that you don’t interrupt your creative flow later.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

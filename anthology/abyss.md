@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Abyss**  
 This picture reminds me of hierarchy.  
 A man looks down on another, while being idle himself.  
@@ -21,3 +24,5 @@ Getting through this abyss means going hungry for a decade, and reaping your rew
 - *Duur ke fayde ke liye, nazdiki nuksaan nahi dekhna chahiye.*
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

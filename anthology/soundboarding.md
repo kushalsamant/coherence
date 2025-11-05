@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Soundboarding**  
 Soundboarding is basically process in which a person say for example me.  
 I will talk to you about my problem/s or probably about things I am dealing with in my problem/s.  
@@ -21,3 +24,5 @@ How do we do it?
 6. then we will know what works best in the current scenario
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

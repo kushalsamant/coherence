@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **How to trade futures**?  
 Albeit complex methods exist which include the use of indicators, graphs, and mathematics, the simplest and time-tested strategy for trading futures is called the UP-DOWN strategy.  
 Trading means that you have to predict whether the exchange rate will go UP or DOWN **within** the time you choose, after you open the trade.  
@@ -54,3 +57,5 @@ If the chart goes DOWN, as you predicted, then you get your initial $1 + profit 
 - Always stick to this process.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

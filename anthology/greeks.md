@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Greeks**  
 Even today, if the Greeks fall.  
 There will be violence.  
@@ -6,3 +9,5 @@ No matter how absurd a thought.
 It is Powerful.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

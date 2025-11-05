@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Slowly intro**  
 Hi you!  
 My name is Kushal Dhananjay Samant.  
@@ -49,3 +52,5 @@ I am glad that this app led to remind me of my dreams.
 Yours truly,  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

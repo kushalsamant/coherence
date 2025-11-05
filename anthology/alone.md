@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Alone**  
 Thank you for the inspiration.  
 It is things like these that make me keep on going even when all the odds are against me, and the future of all my dreams seem bleak.  
@@ -10,3 +13,5 @@ As we feel direct influence, the people of our planet will soon see an impact of
 Thank you a lot for pulling me out of timid safety.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

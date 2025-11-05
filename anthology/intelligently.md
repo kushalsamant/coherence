@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Intelligently**  
 > “If we share, everyone can have enough.”  
 We believe that every society has enough to feed itself.  
@@ -15,3 +18,5 @@ We may not change the world, yet let's begin here.
 > but part of your life too, May be our planet.”  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

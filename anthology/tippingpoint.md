@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Tipping point**  
 So I think around 2018 December, I managed to drive a traffic of more than 18 million monthly unique visitors to my Pinterest account.  
 Now this might be seem like a paid effort but it was an entirely organic deal.  
@@ -14,3 +17,5 @@ The trick of the game is to pick one thing, and stick to it.
 Period.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

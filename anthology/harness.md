@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Harness**  
 Today is sort of my last day at <a href="https://www.theblackcanvas.in/" rel="noopener noreferrer" target="_blank">theblackcanvas. in</a> Mummy returns at dawn, and I shall be gone.  
 This cool pic of their camera harness reminds me a lot of my archer’s sling.  
@@ -14,3 +17,5 @@ There is so much more to do, with these on your apparel, gear.
 Watch that audience rhyme with envy, as you swing, and shoot with cameras dear.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

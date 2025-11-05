@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Love 2**  
 Love is like photo editing.  
 Where you reach a point that you know there is more to be done by your standards, but the picture looks so good already that your standards fail to add to it eventually.  
@@ -23,3 +26,5 @@ But to see where you stand, and appreciate whatever it is that you hold.
 Self love.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Want to look away**  
 If you have any complaints then it is that in this process I cannot look away.  
 Well actually I just called it I close my eyes when speaking out the sentence the previous sentence.  
@@ -12,3 +15,5 @@ Although I get saturated with my thoughts it is still better than having to type
 This is like taking out a crucial block out of my life so that I can create more creatives.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

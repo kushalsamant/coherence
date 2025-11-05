@@ -1,122 +1,90 @@
-# Contact & Support
+<section class="content-section">
+    <div class="grid-item">
+        <h1>Get in Touch</h1>
 
-Welcome to Kushal Dhananjay Samant – your partner for enterprise-grade SaaS development and innovative software solutions.
+<p>If you'd like to reach out: whether it's to say hello, share feedback, ask a question, or talk through an idea: I'd love to hear from you. The easiest way to connect with me casually is on <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a>, where I try to respond to as many posts and messages as I can.</p>
 
-## About Our Services
+<p>I try to respond to as many posts as possible. I know that's not as satisfying as sending a direct email but my inbox is a big fat mess and when I made it public there were too many messages to respond so they just went unread - that sucks for everyone.</p>
 
-We specialize in building robust, scalable software-as-a-service applications and providing proprietary platform solutions for businesses and professionals worldwide. Our services combine technical excellence with a deep understanding of modern software architecture, data security, and compliance requirements.
+## Boundaries & Philosophy
 
-Whether you're looking to build a custom SaaS application from the ground up, subscribe to our proprietary software platforms, or need strategic technical consulting, we're here to help transform your vision into reality.
+<p>If you are nearby and want to connect personally or want a couple of minutes of my time on the phone, or in person, have a business or startup idea you want to talk to me about, or want to share something you made with me, or want to get me involved in what you're doing or want me to collaborate on some of your other projects, or anything that involves a commitment of time, any amount of time, I very very gently have to say no. Saying no is hard.</p>
 
----
+<p>So many extraordinary circumstances that should warrant me saying yes, but I can't. It's a hard, inflexible no.</p>
 
-## Our Services
+<p>Family comes first, work second and whatever is left over I like to use for me which is usually travel. There is no time left for yes, even if that means missing opportunities.</p>
 
-**Custom SaaS Development**  
-Full-stack software-as-a-service application development tailored to your unique business needs. We handle everything from architecture design and development to deployment and ongoing support. Services include cloud-based application development, API design and integration, database architecture, user interface design, and DevOps implementation.
+<p><a href="https://twitter.com/paulg" rel="noopener noreferrer" target="_blank">Paul Graham</a> really nails why saying yes for a quick coffee can be so destructive to the creative process - give '<a href="http://paulgraham.com/makersschedule.html" rel="noopener noreferrer" target="_blank">this</a>' a read to understand the maker's schedule. <a href="https://twitter.com/RyanHoliday" rel="noopener noreferrer" target="_blank">Ryan Holiday</a> penned '<a href="https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time" rel="noopener noreferrer" target="_blank">this</a>' pointed essay to everyone who asks for just a little of your time.</p>
 
-**SaaS Product Subscriptions**  
-Access to our proprietary software platforms and tools with flexible monthly and annual subscription plans. Choose from various tiers designed for individuals, growing businesses, and enterprises with specific feature requirements.
+<p>It's brilliant, I wish I'd written it. I am sorry for no, but it's not without reason.</p>
 
-**Technical Consulting**  
-Strategic guidance for your digital transformation journey. We provide architecture planning, technology selection advice, scalability assessments, security and compliance consulting, and technical due diligence for investments.
+## The Solution: Structured Consultations
 
-**Compliance & Security**  
-All our services are built with security and compliance at the core. We adhere to international data protection standards including GDPR (EU), CCPA (California), and Indian IT Act 2000. Our development practices align with SOC 2 Type II requirements, ISO 27001 standards, and we provide HIPAA-compliant solutions for healthcare clients with appropriate Business Associate Agreements.
+<p>For deeper conversations: business ideas, project collaborations, sharing something you've made, or anything that requires focused time and energy: the best way to connect is through a **1:1 consultation**. This ensures I can give you my undivided attention without the chaos of an overloaded inbox or the interruptions of a scattered schedule.</p>
 
----
+<p>I protect my time carefully, prioritizing family first, work second, and recharging (usually through travel) with whatever's left, so that by keeping a structured consultation process I can show up fully present and give you the best of my creative and professional energy. Both <a href="http://paulgraham.com/makersschedule.html" rel="noopener noreferrer" target="_blank">Paul Graham's essay on the maker's schedule</a> and <a href="https://thoughtcatalog.com/ryan-holiday/2017/01/to-everyone-who-asks-for-just-a-little-of-your-time" rel="noopener noreferrer" target="_blank">Ryan Holiday's piece on time requests</a> capture why this matters: they're worth a read if you're curious.</p>
 
-## Get Started
+**1:1 Consultation – TL;DR**
 
-### Book a Complimentary Consultation
+Here's the quick version:
 
-We offer **free initial 1:1 consultation meetings** to discuss your project, explore solutions, and assess how we can best serve your needs.
+- ✅ Pay upfront → your slot is confirmed.  
+- ✅ Cancel **48 hrs in advance** → full refund.  
+- ✅ Reschedule **24 hrs in advance** → no extra cost.  
+- ❌ No-shows or late arrivals → no refund.  
+- 🛡️ Everything we discuss stays confidential.  
+- ⚖️ I'm only liable up to the fee you paid.  
+- 📜 Governed by Indian law (Sindhudurg jurisdiction).
 
-**<a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank" class="btn">Schedule Your Free Consultation</a>**
+If that works for you, we'll get along fine. You can also <a href="https://kushalsamant.github.io/termsofservice.html">read full Terms of Service here</a>.
 
-**What to Expect:**
-- **Duration:** 30-60 minutes
-- **Format:** Video conference or phone call
-- **Discussion:** Your needs, project scope, technical requirements, timelines, and next steps
-- **No Obligation:** No payment required, no commitment necessary
-
-**Cancellation Policy:**  
-We request 24-hour notice for cancellations or rescheduling. No penalties apply. See our <a href="https://kvshvl.in/cancellationandrefundpolicy.html" rel="noopener noreferrer" target="_blank">Cancellation & Refund Policy</a> for details.
+**<a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Schedule Your Free Consultation</a>**
 
 ---
 
-## Support Channels
+## Services
 
-### For Existing Clients
+**Custom SaaS Development** - Full-stack application development, cloud solutions, API integration, database architecture, DevOps.
 
-**Technical Support:**  
-Our support team provides assistance per the Service Level Agreements defined in your contract. Response times vary based on priority level (Critical: 2 hours, High: 8 business hours, Medium: 24 business hours, Low: 48 business hours).
+**SaaS Subscriptions** - Monthly/annual access to proprietary software platforms for individuals, businesses, and enterprises.
 
-**Account Management:**  
-Questions about your subscription, billing, account settings, or service modifications.
+**Technical Consulting** - Architecture planning, technology selection, scalability assessments, security consulting, technical due diligence.
 
-**Billing Inquiries:**  
-Invoice questions, payment methods, refund requests, or financial concerns.
-
-### For New Inquiries
-
-**Sales Questions:**  
-Project scoping, pricing, timelines, and service capabilities.
-
-**Partnership Opportunities:**  
-Collaboration proposals, reseller inquiries, or strategic partnerships.
-
-**General Information:**  
-Service details, technical capabilities, compliance documentation, or other questions.
+**Compliance & Security** - GDPR (EU), CCPA (California), Indian IT Act 2000 compliant. SOC 2 Type II, ISO 27001 practices. HIPAA solutions available with BAA.
 
 ---
 
 ## Contact Information
 
-**Email:** <a href="mailto:writetokushaldsamant@gmail.com" rel="noopener noreferrer" target="_blank">writetokushaldsamant@gmail.com</a>  
 **Phone:** +91 87796 32310  
-**Response Time:** Within 24 business hours  
+**Email:** <a href="mailto:writetokushaldsamant@gmail.com">writetokushaldsamant@gmail.com</a>  
 **Support Hours:** Monday–Saturday, 10:00 AM – 8:00 PM IST
 
----
-
-## Business Information
-
-**Registered Business Name:** Kushal Dhananjay Samant  
-**Industry:** Software as a Service (SaaS)  
-**Services:** Custom SaaS Development, Software Subscriptions, Technical Consulting  
-**Markets Served:** India, United States, European Union, and International  
-**Compliance:** Indian IT Act 2000, Consumer Protection Act 2019, GDPR, CCPA
-
----
-
-## Registered Address
-
-Kushal Dhananjay Samant  
-H.No. 2337, "Visava"  
-Swami Samarth Nagar, Near Dattanagar  
-Kavilgaon, Nerur  
-Kudal – 416520, Taluka Kudal  
+**Registered Address:**  
+H.No. 2337, "Visava", Swami Samarth Nagar,  
+Near Dattanagar, Kavilgaon, Nerur,  
+Kudal – 416520, Taluka Kudal,  
 District Sindhudurg, Maharashtra, India
 
 ---
 
-## Professional Links
+## Explore My Work
 
-**LinkedIn:** <a href="https://www.linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">linkedin.com/in/kvshvl</a> – Professional updates and industry insights  
-**GitHub:** <a href="https://github.com/kushalsamant" rel="noopener noreferrer" target="_blank">github.com/kushalsamant</a> – Open source contributions and code samples
+Essays on <a href="https://kvshvl.medium.com" rel="noopener noreferrer" target="_blank">Medium</a>, books on <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank">Gumroad</a>, inspiration on <a href="https://in.pinterest.com/kvshvl/_saved/" rel="noopener noreferrer" target="_blank">Pinterest</a>, snapshots on <a href="https://instagram.com/kvshvl" rel="noopener noreferrer" target="_blank">Instagram</a>, videos on <a href="https://youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank">YouTube</a>, updates on <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a>.
 
 ---
 
 ## Legal & Policies
 
-**Terms of Service:** <a href="https://kvshvl.in/termsofservice.html" rel="noopener noreferrer" target="_blank">kvshvl.in/termsofservice.html</a>  
-**Privacy Policy:** <a href="https://kvshvl.in/privacypolicy.html" rel="noopener noreferrer" target="_blank">kvshvl.in/privacypolicy.html</a>  
-**Cancellation & Refund Policy:** <a href="https://kvshvl.in/cancellationandrefundpolicy.html" rel="noopener noreferrer" target="_blank">kvshvl.in/cancellationandrefundpolicy.html</a>
+**Terms of Service:** <a href="https://kvshvl.in/termsofservice.html">kvshvl.in/termsofservice.html</a>  
+**Privacy Policy:** <a href="https://kvshvl.in/privacypolicy.html">kvshvl.in/privacypolicy.html</a>  
+**Cancellation & Refund Policy:** <a href="https://kvshvl.in/cancellationandrefundpolicy.html">kvshvl.in/cancellationandrefundpolicy.html</a>
 
-**Data Protection Inquiries:** writetokushaldsamant@gmail.com  
-**Security Compliance:** SOC 2 Type II practices, ISO 27001 standards
+**Data Protection:** writetokushaldsamant@gmail.com  
+**Security Compliance:** SOC 2 Type II, ISO 27001
 
 ---
 
 **Committed to delivering reliable, secure, and compliant SaaS solutions for businesses worldwide.**
+    </div>
+</section>

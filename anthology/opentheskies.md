@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Open the skies**  
 Open the skies.  
 and see.  
@@ -18,3 +21,5 @@ and fleas.
 or have mystery.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

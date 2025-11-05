@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The locus of all focus**  
 There isn’t much that we don’t know about life.  
 There has been a lot that is written on it.  
@@ -6,3 +9,5 @@ The idea is to read a book a day, try a new meal a day, do the only thing you lo
 Simplicity then, is not the key, it’s the only way to do things right.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

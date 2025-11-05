@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Slowly letters 7**  
 Yes.  
 My parent's marriage is one of a kind.  
@@ -109,3 +112,5 @@ Yours truly,
 P.S.: :P I am thinking of publishing these letters into a book format.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

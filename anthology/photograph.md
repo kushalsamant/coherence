@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Photograph**  
 A photograph is like a memory.  
 a part of the picture with a whole story unseen behind the frame.  
@@ -20,3 +23,5 @@ you can truly go ahead, and know more about the people there.
 The family was a large one but the feelings they shared, and the connection they kept, warm like the closely knit woollen fabric we know.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

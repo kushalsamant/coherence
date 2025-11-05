@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The writer’s manifesto**  
 I think I should write.  
 Write on Medium
@@ -57,3 +60,5 @@ And every moment when I am alive
 Here.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

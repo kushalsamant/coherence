@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Damage**  
 We limit our view of others by the reality we can imagine for ourselves.  
 In my lifetime, I have been boycotted, spat on, stoned, ambushed, assaulted, raped, and abandoned.  
@@ -25,3 +28,5 @@ But more of what we wish for us, or think as ideal when we are posed with a new 
 Awareness as such, is essential for happiness.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 8**  
 She: Idiot.  
 Don't get slow while being smitten
@@ -161,3 +164,5 @@ And everything that can come out of it.
 Rubbing your lipstick off with that cock...  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

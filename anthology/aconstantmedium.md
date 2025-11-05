@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **A constant medium**  
 If you are used to change the medium of publishing in your creative process then you should stop that.  
 Like the mistake I make is to flip from using speech-to-text vs.  
@@ -11,3 +14,5 @@ But it is also the most productive ways to create using a different forms of med
 As long as your aim dictates that you can slack in your creative process.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

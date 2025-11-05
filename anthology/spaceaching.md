@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Space aching**  
 Time, space, place & play.  
 Often we seek spaces that resonate with the depths of our darkness.  
@@ -33,3 +36,5 @@ Is it a clear ‘yes’?
 Is Mumbai losing itself in the materialistic version of the human adventure spirit?  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

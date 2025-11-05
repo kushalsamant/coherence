@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Hanxwriter**  
 I have no clue about how fast I can type using this inanimate typewriter or if coding is something I should worry about as per the geekiness of being a static site web developer, and all the banter about those GitHub pages hosting issues.  
 It can seem to be a pain to learn these things but it seems to me like a one-time thing, or maybe I shouldn’t bother so much on the layout, and search for the most minimalistic wordpress website, and add to the latest post like I am doing here.  
@@ -8,3 +11,5 @@ Maybe there is something that lets me use my email account as a web hosting site
 So that all my activities focused but not limited to one platform.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

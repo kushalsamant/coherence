@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Consistency II**
 Continuing from the previous chapter, what James inferred was that in the human perspective this is how things would play.  
 Now imagine an Olympic race or rather an Olympic swimming contest.  
@@ -19,3 +22,5 @@ Remember "slightly".
 I will continue this in the next chapter.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

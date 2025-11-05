@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Circles**  
 I think this is one of the rare posts agar aap not asked question before beginning to talk about it.  
 I mean within this lockdown.  
@@ -12,3 +15,5 @@ But it's a good thing to learn from something that might not be creating the bes
 Learning again then becomes a byproduct of making mistakes by going around in circles.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

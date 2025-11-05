@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Mumbai suburban railway**  
 I don’t know about you, but often I need more enthusiasm to jot down few words here.  
 Maybe, it’s the accessibility of the platform.  
@@ -47,3 +50,5 @@ Since, the way you do anything is the way you do everything.
 The long term impact of replacing old habits with a new set of habits will lead to a happier, mentally healthy, and productive society.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **How to keep your creative writing spree alive**?  
 I spent last night creating a timed protocol to create articles.  
 1. Set a pomodoro timer to 3 intervals of 5 mins each.  
@@ -11,3 +14,5 @@ You can choose your normals.
 4. Repeat this process until I hit my target number of posts on Typewrighter.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

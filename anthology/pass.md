@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Pass**  
 Like the tree in the snow,
 I wonder if we know,
@@ -15,3 +18,5 @@ Of the time that comes,
 Even this will pass.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

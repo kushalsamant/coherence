@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Meetings**  
 Why am I so lost? What drives meetings? To be honest, last week I was not fair enough to myself, my colleagues, and my work.  
 I slept for 12 hours a day from my otherwise 2 hour routine.  
@@ -66,3 +69,5 @@ Maybe not.
 Maybe it’s all about the people.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

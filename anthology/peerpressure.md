@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Peer pressure**  
 I don't know if you have noticed but you know we can do a lot more if we complicate things.  
 I lost this thought but I am trying to remember it from a glimpse.  
@@ -24,3 +27,5 @@ The ability to stay complicated or simple, but to accept that there is a sense i
 This acceptance is how you have a better chance of winning than your peers.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

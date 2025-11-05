@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Curing a hickey**  
 1. Water in a steel glass.  
 2. Frozen for 12 hours.  
@@ -6,3 +9,5 @@
 5. Slept in a warm coziest blanket I could find, and hoped that my logic about capillaries, skin, and temperature would work.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

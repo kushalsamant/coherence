@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Do you see**? 
 Do you see.  
 The mist, and the mountains tonight?
@@ -16,3 +19,5 @@ It ain’t no fault of thine?
 Why you should never give up for some wine!
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

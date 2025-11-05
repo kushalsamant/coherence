@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 Can we use design to create alluring event spaces?
 
 **These projects illustrate the phenomena of 'the programming of human behavior using architecture'**.
@@ -43,3 +46,5 @@ The area observes intense social conflicts on the values of religion and related
 The water bodies effects the micro-climatic factor of the site, compensating for the low green cover of the site. The whole setup assembles a new landmark which is based on the experiences in a rural temple with all of its communal bonding, event spaces, and sunny sided attitude towards life instilling a melody of peace within the stagnant growth of the local society in India.
 
 - <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
+    </div>
+</section>

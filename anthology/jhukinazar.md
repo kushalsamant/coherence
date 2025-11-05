@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Jhuki nazar**  
 Mere janeja tu mujhse pyaar kar 
 Kabhi maane na tu intezaar
@@ -24,3 +27,5 @@ Jhuki nazar
 Kyun jhuki nazar
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

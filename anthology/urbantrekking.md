@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Urban trekking**  
 I commute a decent 2 to 3 hours one way on my urban trekking rounds for site visits around the city.  
 There is this thing about travel.  
@@ -32,3 +35,5 @@ Every form of resource.
 And these choices when adhered to, create a never ending spiral of habits that create infinite growth.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

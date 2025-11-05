@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Reh gaya**  
 Reh gaya teri yaadon mein,
 Ho main,
@@ -22,3 +25,5 @@ Kho jaane do,
 Kho jaane do inn nazaron mein.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **A rule of thumb**  
 Not the exact nature of woodworking but the idea of how things can be built.  
 Bit by bit, block by block, or layer by layer.  
@@ -89,3 +92,5 @@ But if you just begin, everything that’s messed up will start to fall into pla
 In ways that will make the mess seem like a petty folly.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

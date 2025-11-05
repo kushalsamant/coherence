@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The idea of sharing**  
 Today I was talking to a very influential community host.  
 I have always wondered about the ability a non profit might have in functioning without any hindrance.  
@@ -30,3 +33,5 @@ How hard can be getting funding from CSR be? My friends say that it is either be
 Maybe social norms prefer what exists but personally, I prefer CSR funding without having to ask for it, just because there is a law that states it will be available for my social cause.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

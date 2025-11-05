@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **A chat**  
 It is just hard for me to find someone who has the same troubles as I do.  
 And then ignore them for the longest while till they fade away into the shadows.  
@@ -25,3 +28,5 @@ Let’s write our texts as poems, and publish them on medium, maybe it will work
 What say of this whispering, that my mind has begun to speak, shall we find each other, and love through the means of poetry.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

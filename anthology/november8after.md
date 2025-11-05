@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **“After.”**
 
 **Tuesday, November 8, U.S Presidential Election 2016**  
@@ -138,3 +141,5 @@ A simple change that make people conscious, and rethink about their habits, what
 With a rise in awareness for a cashless economy, the value of the Indian Rupee will soon surpass the U.S Dollar, the value of the Indian Rupee will equal that of time in the financial capital of India.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

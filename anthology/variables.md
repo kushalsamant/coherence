@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Variables**  
 The constant changes in variables that can be inclusive or exclusive of other factors are only as infinite as the human’s belief of infinity.  
 We set our own limits.  
@@ -35,3 +38,5 @@ But the human potential inside of us is equal.
 Human potential that you have is infinite.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

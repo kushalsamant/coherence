@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Diet**  
 
 **Note**: This article is not an advice from a General Practitioner (GP).  
@@ -84,3 +87,5 @@ Cooking the onions may reduce these digestive effects.
 - There are many gluten-free alternatives to wheat, such as pure oats, quinoa, buckwheat, almond flour and coconut flour.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

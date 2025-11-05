@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **How to not re-invent the wheel**?  
 I wish structures was an everyday thing, back in school.  
 It gets erratically wavering between technical-informal from here on.  
@@ -32,3 +35,5 @@ So, stop looking.
 Reflect instead.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

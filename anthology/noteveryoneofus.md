@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Not everyone of us**  
 There are a lot of people who walk in, and out of our lives.  
 The best thing that you can learn from these semi-strange weird reasoning based experiences is to believe.  
@@ -58,3 +61,5 @@ I am leaving this post with a TK note so we all understand that somethings can b
 What inspires us is the fact that the most beautiful experiences in our lives grow slowly, die a few times before they blossom, and are filled with surprises.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

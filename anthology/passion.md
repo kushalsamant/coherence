@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Passion**  
 It feels almost like I have lost the passion to do something for others.  
 As if everytime I think of solving a problem for creating a product or just sharing information and knowledge that might help someone achieve something in ways unforeseen, I get lazy, hopeless, and lost.  
@@ -9,3 +12,5 @@ I would want to be excited because my work is rewarding.
 Nothing else matters except doing what makes me feel alive.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

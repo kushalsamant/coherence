@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Morning**  
 It ain’t snow,
 It’s raining;
@@ -10,3 +13,5 @@ Carpe diem,
 Carpe diem.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

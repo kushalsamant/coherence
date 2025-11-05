@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Hard to imagine**  
 I was looking at youtube videos on Steve Jobs.  
 Most of them displayed how self appreciation was a key to better marketing.  
@@ -11,3 +14,5 @@ Rather it gets done because we can imagine it.
 Ain’t that easy, human?  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

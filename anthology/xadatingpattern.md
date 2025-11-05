@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **A dating pattern**  
 Oh well, I have been on dating apps since 2014. So I have an idea about that.  
 1. Dating app algorithms give you a match mostly on Wednesdays and Thursdays.  
@@ -28,3 +31,5 @@ You will have to cut your nails again.
 :D
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **India**  
 I live in a country.  
 where if a soldier is shot.  
@@ -8,3 +11,5 @@ rather than fighting with those.
 who shot that brave soldier.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

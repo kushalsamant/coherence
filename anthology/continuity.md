@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Continuity**  
 To help us go down memory lane, to crave a feeling of nostalgia.  
 Even if as we speak of many memories that buildings evoke.  
@@ -52,3 +55,5 @@ Questions.
 A lot of them.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 How can traditional architectural elements be used to solve issues of daylighting in dense urban settlements?
 
 **IVAVELUX award competition**.
@@ -29,3 +32,5 @@ The basic courtyard functions as a semiprivate space to which more private livin
 Hence these spaces affect the gloomy psychology and non-existing sense of neighbourhood in the apartments or office buildings and creates a more cheerful environment and a happier lot of experiences for the people inside. These courtyard spaces together throw joy into the lives of the people experiencing them.
 
 - <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
+    </div>
+</section>

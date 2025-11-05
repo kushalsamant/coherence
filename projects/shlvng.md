@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 Can we design storage systems to accommodate endless shopping sprees?
 
 **SHLVNG**.
@@ -226,3 +229,5 @@ You can always come back for more later.
 We attend to no damages. We advise you to handle these products with care.
 
 - <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
+    </div>
+</section>

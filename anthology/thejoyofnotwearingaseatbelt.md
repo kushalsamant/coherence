@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The joy of not wearing a seatbelt**  
 Today, I travelled in a local train.  
 My mind went out with glee.  
@@ -43,3 +46,5 @@ P.  S: The joy of not wearing a seatbelt.
 Try it only in a train.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **I met someone**  
 “You will meet her in seven days,
 her name starts with N,
@@ -70,3 +73,5 @@ like the poetry in thee,
 coz’ yes, we did not kiss.  "
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

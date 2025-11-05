@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Giving**  
 Do you know what my dream is? Aise kyun have always been told that I should probably be involved in my family business or at least taken interest in it.  
 So ja if you don't know about this then my great grandfather was a banker and everybody in my family so far has been an engineer or doctor or a banker.  
@@ -9,3 +12,5 @@ I've always wanted to have this one thing on my bucket list which was to be a ve
 But because I have been so inclined to giving more than I take in my life as a theme now I think with this capacity and the power that I have been able to discover through this app I think I will do the next thing of my life which is to clear out my debt and build very good investment portfolio for myself so that I can share the returns with the local industries.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

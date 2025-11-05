@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 4**  
 I want to whisper in your ears, and tell you things that I will do to you to make you squirt.  
 I want to kiss you, bite you, eat you, and make you moan like you have never been fucked before.  
@@ -28,3 +31,5 @@ I want to fuck you till you scream.
 Then take you to a bed in that van, throw you on the bed, and make love to you some more.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

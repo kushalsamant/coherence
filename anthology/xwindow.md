@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Window**  
 Still waiting,  
 Looking at the window;  
@@ -7,3 +10,5 @@ But I am waiting;
 Till the coffee gets cold.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

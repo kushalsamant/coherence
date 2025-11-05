@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Arguments**  
 Let's talk about arguments.  
 The whole concept of peace revolves around the presence mutual respect.  
@@ -12,3 +15,5 @@ But yes, communicate.
 Having done so, I have found that most of us segue to other topics.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

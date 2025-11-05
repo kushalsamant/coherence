@@ -1,4 +1,9 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Slept**  
 Someone slept for 2 hours, someone slept for 3. I wonder what joy I find, I wonder with glee, I wonder if the love for travel, is what I seek, to find a heart that’s free.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The best way**  
 The best way to miss a person.  
 The best way, to capture a person.  
@@ -7,3 +10,5 @@ Today, a lot of things changed, for you, and I;, and for the world, in a sense.
 Let alone the past, locked itself, out of all bounds; and an era of pain, until you ask for forgiveness.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

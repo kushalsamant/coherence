@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **3:10 to Yuma**  
 I am now going to jot a film because most of my tinder dates have succeeded in disappointing me by showing an uncanny ability at flipping.  
 
@@ -18,3 +21,5 @@ So far, as an architect, I am wholeheartedly disappointed in mankind, and angry 
 I think this world needs to be committed like the protagonists of 3:10 to Yuma.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

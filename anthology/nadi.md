@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Nadi**  
 > "Badi mushkil se nadiyon mein nadi milti hai jo manzil ko paati hai.  
 Nahi toh har lehar bas gun guna kar kho si jati hai.  
@@ -9,3 +12,5 @@ Badi mushkil se nadiyon mein nadi milti hai jo manzil ko paati hai.  .
 > ©Swanand Kirkire.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

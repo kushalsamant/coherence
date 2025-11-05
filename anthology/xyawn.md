@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Yawn**  
 Yawn
 whispered a wind
@@ -9,3 +12,5 @@ like frozen gold
 as music bellows by a rising yawn.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

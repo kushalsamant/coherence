@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **2000 dates**  
 So, I have been on 2000 first dates over the last 5 years.  
 The experience has let me see the alarmingly range of people who are swept away their choices under a lull of popular beliefs.  
@@ -7,3 +10,5 @@ The moment you give someone what they ask for, they will feel happy for that end
 They will do this, even if you have literally saved their lives when they asked you to.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Khamoshi**  
 Teri meri khamoshi mein
 Khoje hum tumhe
@@ -24,3 +27,5 @@ Teri inn adaon pe hum
 Jaaneja jaan bhi mar mite
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

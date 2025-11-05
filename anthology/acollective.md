@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **A collective**  
 I have spent my last three months trying to declutter.  
 I have changed the way I live at least two dozen times.  
@@ -44,3 +47,5 @@ Life is simpler maybe something the Americans can learn from.
 This is hard to understand for some of us, but soon you will start to get interesting something like Twitter.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

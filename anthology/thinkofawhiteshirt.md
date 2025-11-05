@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Think of a white shirt**  
 Think of a white shirt,
 Fluttering in the wind;
@@ -25,3 +28,5 @@ Watch your hearts soar,
 As the birds take flight.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

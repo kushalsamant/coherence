@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Happy X Sad**  
 There was a thought in my mind about randomness.  
 Have you ever noticed that there is nothing that has an order.  
@@ -47,3 +50,5 @@ It comes with the other side of the coin: Sadness.
 Instead if we focus on making an effort to keep joyful, our minds will be full and our hearts will feel content, and that's good enough.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

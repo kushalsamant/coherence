@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Components of a trading plan**  
 Components of a trading plan includes:
 - Setting a time of day to trade
@@ -11,3 +14,5 @@ Components of a trading plan includes:
 Make it personal to your goals and refer to your trading plan daily.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

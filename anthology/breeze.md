@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Breeze**  
 The most fun things to do, is to get up in the morning, and keep running.  
 I have never found myself to be so lazy in my entire life until this quarantine.  
@@ -12,3 +15,5 @@ Instead I can do a lot more monetarily by picking up these projects.
 Projects that are basically me trying to help other people solve their problems.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

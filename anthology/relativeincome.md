@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Relative income**  
 What are we posting here?
 
@@ -48,3 +51,5 @@ This only means that I am now making more than 1000 rupees for 10 hours of my ti
 This is how my income becomes more than yours even if we are equals in effort.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

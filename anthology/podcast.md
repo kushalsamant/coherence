@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Podcast**  
 I tried walking, and recording a podcast on <a href="https://anchor.fm" rel="noopener noreferrer" target="_blank">anchor. fm</a> today.  
 I did this instead of my daily 4AM hour reading.  
@@ -26,3 +29,5 @@ This bit might need strategies to create a better, and clearer episode.
 One of which I think would be to record pointers in the comfort of your own room.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

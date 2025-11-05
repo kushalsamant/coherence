@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The key to money**  
 Do you know what the key to wealth is?  
 Like I mentioned in the previous article the key to banking is spending your money in the right places.  
@@ -22,3 +25,5 @@ It is again a tool that is something I would like you to remember for the rest o
 It is as good as a saw is to a carpenter or a screwdriver is to an electrician or wrench is to a plumber.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

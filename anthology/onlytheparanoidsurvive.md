@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Only the paranoid survive**  
 Only the paranoid survive.  
 I don’t think so.  
@@ -53,3 +56,5 @@ It is in those moments, when you look up from your keyboard.
 Because you are scared that your disbelief in yourself, and your own way of life, is a lie.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

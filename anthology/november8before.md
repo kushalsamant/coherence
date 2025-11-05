@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **“Before.”**
 
 **Tuesday, November 8, U.S Presidential Election 2016**  
@@ -77,3 +80,5 @@ My happiness is simple.
 My happiness lies in keeping the planet alive so that your children can make better talks.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

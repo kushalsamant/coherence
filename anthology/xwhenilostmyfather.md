@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **When I lost my father**  
 When I lost my father I thought I saw it coming for there was thunder in the skies, and we had about a few hundred miles to ride.  
 For any country boy, it seemed an arduous task but when I lost my father I thought I lost a part.  
@@ -10,3 +13,5 @@ Now I wish I would have friends again with a chance to live my life not spend ti
 I wish for another chance I wish I had a dream, and I pray that life will show me lest what I was taught is real.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

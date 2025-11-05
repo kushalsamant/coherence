@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Hemingway app**  
 The reason I stopped using hemingway app is not because I think they do a bad job.  
 Well that is certainly not the case.  
@@ -7,3 +10,5 @@ I wonder how will I shape my mind, my way, if I learn by the rules set by others
 > “Writing is after all just jotting your mind down.”  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

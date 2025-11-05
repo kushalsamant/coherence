@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **People**  
 I find it rather interesting how the Indian government has now made the train routes go from all the states to the central region that is the national capital region of Delhi.  
 For for most people it just seems that they running trains but what I see is that it's a very small ploy to inspect and measure the infection of Covid19 in India.  
@@ -10,3 +13,5 @@ Although you may think that asking lives of all the people in these teams, but t
 In a very ratio and proportional perspective, you are putting a lot at stake as a government when you mobilise the same people that you have current time for over a period of 60 days without doing any accurate testing to differentiate the carriers of the virus versus the people who are infected and are facing the symptoms versus the people who are completely removed from this population.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Makerspace quotes**  
 Experience,
 Sprung from pain,
@@ -34,3 +37,5 @@ that only a maker can have,
 amongst humanity.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

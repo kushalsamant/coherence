@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 Can constant communication alleviate depression in stressed individuals?
 
 **These projects illustrate the phenomena of 'the programming of human behavior using architecture'**.
@@ -40,3 +43,5 @@ He walked out of the door and ran. He ran to find new feelings, thinking of that
 Superbench by Philippe Malouin.
 
 - <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
+    </div>
+</section>

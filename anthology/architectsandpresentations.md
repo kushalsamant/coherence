@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Architects, and presentations**  
 Coming to think of it, presentations scare me.  
 Architecture has given me the skill set to sell ice to the Eskimos at prices even Jobs would fear to mark up.  
@@ -46,3 +49,5 @@ But it is the reason most of us find the reason to live.
 Remember this will make all the difference.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

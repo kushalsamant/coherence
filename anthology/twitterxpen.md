@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Twitter X pen**  
 My issue with Twitter is that once you drop a message it becomes as impossible to find it again as to find a drop of water in the vast mighty ocean.  
 I have often thought of not enclosing or meddling with the whole social media bubble.  
@@ -15,3 +18,5 @@ But nonetheless, it was meant to provide me with me some clarity.
 And it did.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 2**  
 How about I surprise you, 
 Sneak up to you, 
@@ -60,3 +63,5 @@ You turn your cheek,
 To kiss me on my lips.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

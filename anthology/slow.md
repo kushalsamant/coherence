@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Slow**  
 So there is this entire idea of slow.  
 Oftentimes we comes across a point in life while making a broth that it turns out to be better if we just let it simmer, and boil up with time.  
@@ -24,3 +27,5 @@ The focus is to experience the moment, consciously.
 - *Slow things down, and everything becomes more beautiful.*
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

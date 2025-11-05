@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Jaun**  
 Main kahi, teri yaadon mein
 Teri yaadon mein
@@ -16,3 +19,5 @@ Baatein tu, raaton ki
 So jaun.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

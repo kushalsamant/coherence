@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **The Dark Knight fantasy**  
 This week I got asked a couple of times by the folks at UN, and a few other friends.  
 A pretty simple question.  
@@ -108,3 +111,5 @@ And it took a lot of a time to get here.
 “To believe that all work is done pre-season.”  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Consistency III**  
 Continuing from the previous chapter.  
 Remember "slightly"? That is the key to understand how the Pareto principle works.  
@@ -30,3 +33,5 @@ Remember "the Diderot effect".
 I will continue in the next chapter.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

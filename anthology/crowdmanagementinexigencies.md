@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Crowd management in exigencies**  
 They have been extending the lockdown by 2 weeks whenever the scheduled end is around the corner.  
 India started a lockdown on the 22nd of March.  
@@ -14,3 +17,5 @@ Quarantine is distinct from medical isolation, in which those confirmed to be in
 Quarantine may be used interchangeably with cordon sanitaire, and although the terms are related, cordon sanitaire refers to the restriction of movement of people into or out of a defined geographic area, such as a community, in order to prevent an infection from spreading.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

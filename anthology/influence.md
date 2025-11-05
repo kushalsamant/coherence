@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Influence**  
 In my past, I was fired in situations as people vied for influence.  
 I have been shown how important, this power over someone or something can be.  
@@ -30,3 +33,5 @@ Wish for wishes that make you burn as an individual.
 Wishes that make you rise up from those ashes like a Phoenix.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

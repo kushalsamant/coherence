@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **What is thinking versus writing**?  
 So thinking is a process that you do with your own mind and then you forget about it maybe or maybe do something about it.  
 Whereas writing is a process that you do within your own mind but you take it down on paper.  
@@ -11,3 +14,5 @@ I don't want to sit down and put my mind at rest because when I do so I will be 
 I will also be killing my own creativity.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Monogamy**  
 Case 1: Monogamy is a pattern.  
 I am scared of people who say monogamy since July.  
@@ -30,3 +33,5 @@ Then she tells me a day later that she is unsure of when we will talk next becau
 Conclusion: I am puzzled about why would someone go from they want to start a family to ghosting me abruptly.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

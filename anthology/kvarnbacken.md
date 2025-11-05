@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Kvarnbacken**  
 Kvarnbacken, the hill close to the Jakobsberg train station felt like a shadow.  
 As he moved across the plains thinking of all that had happened to him, searching for joy.  
@@ -92,3 +95,5 @@ As the drum rolls now fastened, he found himself witnessing an unbelievable fact
 Yet he felt cliche on this once-lost hill called Kvarnbacken, the hill close to the Jakobsberg train station.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

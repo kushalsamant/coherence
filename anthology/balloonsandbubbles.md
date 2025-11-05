@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Balloons & bubbles**  
 How do you change the name of a city? — You start with the local bus pass.  
 Let’s be clear about this notion that what you see, and what you get are often not the best of what we will see happening in life.  
@@ -9,3 +12,5 @@ It is not progress, but paradigm shifts that challenge dogma, and act as catalys
 If our lives are an one time event, we might as well be vulnerable, and prick ourselves, only to fly around the room like a balloon.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

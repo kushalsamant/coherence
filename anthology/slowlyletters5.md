@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Slowly letters 5**  
 My mom's family is from Telishery, Kannur.  
 Dad's a Maharashtrian.  
@@ -67,3 +70,5 @@ Today's question: What inspired you to do psychology?
 Have a nice day.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

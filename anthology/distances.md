@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Distances**  
 So I have been traveling back and forth cities now.  
 The one thing that I have realised in process is that our perspective about distances change when we travel.  
@@ -11,3 +14,5 @@ Routine seems to blind us to the vast world that lies beyond it.
 It is funny how millions of us would choose to scurry into routines that seem dull to those who put themselves in situations that are reckless, dangerous, but alive.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

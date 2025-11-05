@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Your&nbsp;Mail&nbsp; Project**
 
 Your Mail Project keeps things simple, thoughtful, and transparent.
@@ -259,3 +262,6 @@ We hope you love what we do.
 </p>
 
 - <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
+
+    </div>
+</section>

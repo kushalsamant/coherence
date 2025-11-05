@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **I won't let you walk away, with a broken heart**  
 I won’t let you walk away, with a broken heart,
 And I wanna ride away from the past,
@@ -33,3 +36,5 @@ Even if you take me dear,
 I love you, you love me, & we love us two.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

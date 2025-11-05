@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Rebounding**  
 I think that all of humanity is now hit by an epidemic.  
 An epidemic of insomnia.  
@@ -15,3 +18,5 @@ The only thing that can save you in this mess of constant rebounding off people 
 The idea is to pick one thing, or person, and to stick to it, or him/her.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

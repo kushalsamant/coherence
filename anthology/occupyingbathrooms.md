@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Occupying bathrooms**  
 Now I don’t know what you were doing when you picked this up.  
 But you should stop and ponder.  
@@ -8,3 +11,5 @@ Much like money.
 Much like any other asset.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

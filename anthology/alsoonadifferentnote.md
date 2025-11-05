@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Also, on a different note**  
 Also, on a different note, I was crossing the Vashi bridge yesterday.  
 It was raining, and these harbour line trains usually sway in the strong winds on that bridge.  
@@ -13,3 +16,5 @@ It was as intense as the choice to live, when those winds last night scared all 
 So, staying happy needed our conscious attention, just like anything else in life.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

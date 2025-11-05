@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Erotica 7**  
 So here's how I really want you.  
 Steamy, fresh after a bath with that first few buttons open, just enough for me to see the top of your cleavage.  
@@ -25,3 +28,5 @@ You choke.
 As I run my fingers on your mane, you close your eyes and kiss my cock...  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

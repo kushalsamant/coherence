@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Time**  
 Now I don’t know what you were doing when you picked this up.  
 But you should stop and ponder.  
@@ -18,3 +21,5 @@ ped good changes if you choose to be present in the moment you can also choose t
 You can also then notice how much you can get done more if you keep a track of every minute, albeit not in a literal sense but in a conscious sense.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

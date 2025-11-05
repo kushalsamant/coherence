@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Phew**  
 I just had the scariest leak of my life.  
 Off a bridge on Palm beach road,
@@ -11,3 +14,5 @@ And heights make me dizzy af.
 Phew!
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

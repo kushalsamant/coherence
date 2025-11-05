@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Google voice**  
 The funny part is that when I first started using Google voice input it would not give me the correct inputs like I would speak something or say something and then this app or the keyboard would interpret it differently.  
 now that I think about it everything has slowly started to learn from me it is assive Google has its own AI running on this thing which launch my pronunciation and launch my voice and makes it easier for me to speak out long sentences without having to stop to edit a mistake.  
@@ -9,3 +12,5 @@ I think at this rate I can even publish a book who actually I have published one
 Better late than never.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 **Things**  
 The things that are common to you, like windy mornings, starry skies, and old trees; beetles, strawberries, and doorbells; coffee, blue jeans, and summertime… are not common to us.  
 
@@ -22,3 +25,5 @@ But I have also been carried back from a beach, directed, dropped home when drun
 That's the good side of things.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
+    </div>
+</section>

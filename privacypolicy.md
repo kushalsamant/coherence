@@ -1,3 +1,6 @@
+<section class="content-section">
+    <div class="grid-item">
+
 # Privacy Policy
 
 **Effective Date:** November 5, 2025  
@@ -907,3 +910,6 @@ Your privacy and trust are important to us. We continuously review and improve o
 **Related Policies:**
 - Terms of Service: https://kvshvl.in/termsofservice.html
 - Cancellation & Refund Policy: https://kvshvl.in/cancellationandrefundpolicy.html
+        < / d i v > \ n < / s e c t i o n > 
+ 
+ 
