@@ -56,7 +56,7 @@ This collection of writings touches upon various aspects of the human experience
 - <a href="https://kushalsamant.github.io/anthology/componentsofatradingplan.html">Components of a trading plan</a>.  
 - <a href="https://kushalsamant.github.io/anthology/condescending.html">Condescending</a>.  
 - <a href="https://kushalsamant.github.io/anthology/consistency1.html">Consistency 1</a>.  
-- <a href="https://kushalsamant.github.io/anthology/consistency2.html)">Consistency 2</a>.  
+- <a href="https://kushalsamant.github.io/anthology/consistency2.html">Consistency 2</a>.  
 - <a href="https://kushalsamant.github.io/anthology/consistency3.html">Consistency 3</a>.  
 - <a href="https://kushalsamant.github.io/anthology/consistency4.html">Consistency 4</a>.  
 - <a href="https://kushalsamant.github.io/anthology/contentcreationforarchitects.html">Content creation for architects</a>.  

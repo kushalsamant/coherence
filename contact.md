@@ -24,12 +24,12 @@ Here’s the quick version:
 - ⚖️ I’m only liable up to the fee you paid.  
 - 📜 Governed by Indian law (Sindhudurg jurisdiction).
 
-If that works for you, we’ll get along fine. You can also <a href="https://kushalsamant.github.io/termsofuse.html">read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Use&nbsp;here</a>.
+If that works for you, we’ll get along fine. You can also <a href="https://kushalsamant.github.io/termsofservice.html">read&nbsp;full&nbsp;Terms&nbsp;of&nbsp;Service&nbsp;here</a>.
 
 **Contact Us**
 
 **Phone**: +91 87796 32310  
-**Email**: <a href="mailto:kushaldsamant@gmail.com" rel="noopener noreferrer" target="_blank">kushaldsamant@gmail.com</a>  
+**Email**: <a href="mailto:writetokushaldsamant@gmail.com" rel="noopener noreferrer" target="_blank">writetokushaldsamant@gmail.com</a>  
 **Support Hours**: Mon–Sat, 10:00 AM – 08:00 PM IST
 
 **Registered Company Address**:  

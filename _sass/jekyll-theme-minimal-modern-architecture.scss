@@ -3,56 +3,23 @@
    Designed for Architect Kushal Samant's Portfolio
    ========================================================================== */
 
-/* CSS Custom Properties - Design System Foundation
+/* CSS Custom Properties - Minimalist Design System
    ========================================================================== */
 :root {
-  /* Color Palette - Blue Architectural Theme */
-  --color-primary: #1e40af;           /* Deep blue */
-  --color-primary-light: #3b82f6;     /* Medium blue */
-  --color-primary-dark: #1e3a8a;      /* Darker blue */
-  --color-accent: #0ea5e9;            /* Bright blue accent */
-  --color-accent-light: #38bdf8;      /* Light blue accent */
-  --color-accent-dark: #0284c7;       /* Dark blue accent */
+  /* Monochrome Color Palette */
+  --color-black: #000000;
+  --color-gray-dark: #333333;
+  --color-gray-medium: #666666;
+  --color-gray-light: #e5e5e5;
+  --color-white: #ffffff;
+  --color-accent-hover: #0066ff;
   
-  /* Neutral Colors - Enhanced for Better Contrast */
-  --color-neutral-50: #ffffff;
-  --color-neutral-100: #f7fafc;
-  --color-neutral-200: #edf2f7;
-  --color-neutral-300: #e2e8f0;
-  --color-neutral-400: #cbd5e0;
-  --color-neutral-500: #a0aec0;
-  --color-neutral-600: #718096;
-  --color-neutral-700: #4a5568;
-  --color-neutral-800: #2d3748;
-  --color-neutral-900: #1a202c;
-  
-  /* Surface Colors - Enhanced Visual Hierarchy */
-  --color-background: #ffffff;
-  --color-surface: #fafbfc;
-  --color-surface-elevated: #f1f5f9;
-  --color-surface-dark: var(--color-neutral-900);
-  --color-surface-card: #ffffff;
-  --color-surface-overlay: rgba(45, 55, 72, 0.05);
-  
-  /* Text Colors - Optimized for Readability */
-  --color-text: var(--color-neutral-900);
-  --color-text-secondary: var(--color-neutral-700);
-  --color-text-muted: var(--color-neutral-600);
-  --color-text-light: #ffffff;
-  --color-text-inverse: var(--color-neutral-50);
-  
-  /* Border Colors - Enhanced Definition */
-  --color-border: var(--color-neutral-300);
-  --color-border-light: var(--color-neutral-200);
-  --color-border-strong: var(--color-primary);
-  --color-border-accent: var(--color-accent);
-  --color-border-focus: var(--color-accent-light);
-  
-  /* Status Colors - Additional Design System */
-  --color-success: #10b981;
-  --color-warning: #f59e0b;
-  --color-error: #ef4444;
-  --color-info: var(--color-accent);
+  /* Simplified Color System */
+  --color-background: var(--color-white);
+  --color-text: var(--color-black);
+  --color-text-secondary: var(--color-gray-dark);
+  --color-text-muted: var(--color-gray-medium);
+  --color-border: var(--color-gray-light);
   
   /* Typography System */
   --font-family-sans: 'Inter', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
@@ -61,91 +28,42 @@
   --font-family-display: 'Playfair Display', 'Georgia', serif;
   
   /* Font Weights */
-  --font-weight-light: 300;
   --font-weight-normal: 400;
   --font-weight-medium: 500;
-  --font-weight-semibold: 600;
   --font-weight-bold: 700;
-  --font-weight-extrabold: 800;
   
-  /* Font Sizes - Modular Scale */
-  --font-size-xs: 0.75rem;      /* 12px */
+  /* Font Sizes - Simplified Scale */
   --font-size-sm: 0.875rem;     /* 14px */
   --font-size-base: 1rem;       /* 16px */
   --font-size-lg: 1.125rem;     /* 18px */
-  --font-size-xl: 1.25rem;      /* 20px */
-  --font-size-2xl: 1.5rem;      /* 24px */
-  --font-size-3xl: 1.875rem;    /* 30px */
-  --font-size-4xl: 2.25rem;     /* 36px */
-  --font-size-5xl: 3rem;        /* 48px */
-  --font-size-6xl: 3.75rem;     /* 60px */
+  --font-size-xl: 1.5rem;       /* 24px */
+  --font-size-2xl: 2rem;        /* 32px */
+  --font-size-3xl: 2.5rem;      /* 40px */
+  --font-size-4xl: 3rem;        /* 48px */
   
   /* Line Heights */
-  --line-height-tight: 1.25;
   --line-height-normal: 1.5;
-  --line-height-relaxed: 1.625;
-  --line-height-loose: 2;
+  --line-height-relaxed: 1.6;
   
-  /* Spacing System - 8px Grid */
-  --space-1: 0.25rem;   /* 4px */
+  /* Spacing System - Increased Whitespace */
   --space-2: 0.5rem;    /* 8px */
-  --space-3: 0.75rem;   /* 12px */
   --space-4: 1rem;      /* 16px */
-  --space-5: 1.25rem;   /* 20px */
   --space-6: 1.5rem;    /* 24px */
   --space-8: 2rem;      /* 32px */
-  --space-10: 2.5rem;   /* 40px */
   --space-12: 3rem;     /* 48px */
   --space-16: 4rem;     /* 64px */
-  --space-20: 5rem;     /* 80px */
   --space-24: 6rem;     /* 96px */
   --space-32: 8rem;     /* 128px */
   
-  /* Border Radius */
-  --radius-none: 0;
-  --radius-sm: 0.125rem;   /* 2px */
-  --radius-md: 0.375rem;   /* 6px */
-  --radius-lg: 0.5rem;     /* 8px */
-  --radius-xl: 0.75rem;    /* 12px */
-  --radius-2xl: 1rem;      /* 16px */
-  --radius-full: 9999px;
-  
   /* Border Widths */
-  --border-width-thin: 1px;
-  --border-width: 2px;
-  --border-width-thick: 4px;
+  --border-width: 1px;
   
-  /* Shadows - Architectural Depth */
-  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-  --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-  
-  /* Transitions */
+  /* Transitions - Minimal */
   --duration-fast: 150ms;
-  --duration-normal: 300ms;
-  --duration-slow: 500ms;
-  --ease-in: cubic-bezier(0.4, 0, 1, 1);
-  --ease-out: cubic-bezier(0, 0, 0.2, 1);
-  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
-  
-  /* Z-Index Scale */
-  --z-index-dropdown: 1000;
-  --z-index-sticky: 1020;
-  --z-index-fixed: 1030;
-  --z-index-modal-backdrop: 1040;
-  --z-index-modal: 1050;
-  --z-index-popover: 1060;
-  --z-index-tooltip: 1070;
   
   /* Layout */
-  --wrapper-max-width: 1200px;
+  --wrapper-max-width: 800px;
   --wrapper-width: 90%;
-  
-  /* Touch Targets */
-  --touch-target-min: 44px;
-  --touch-target-comfortable: 48px;
 }
 
 /* Reset and Base Styles
@@ -184,89 +102,58 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-family-display);
   font-weight: var(--font-weight-bold);
-  line-height: var(--line-height-tight);
+  line-height: var(--line-height-normal);
   color: var(--color-text);
-  margin: 0 0 var(--space-6);
-  letter-spacing: -0.025em;
+  margin: 0 0 var(--space-12);
 }
 
 h1 {
-  font-size: var(--font-size-5xl);
-  font-weight: var(--font-weight-extrabold);
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
 }
 
 h2 {
-  font-size: var(--font-size-4xl);
-}
-
-h3 {
   font-size: var(--font-size-3xl);
 }
 
-h4 {
+h3 {
   font-size: var(--font-size-2xl);
 }
 
-h5 {
+h4 {
   font-size: var(--font-size-xl);
 }
 
-h6 {
+h5, h6 {
   font-size: var(--font-size-lg);
 }
 
 p {
-  margin: 0 0 var(--space-6);
+  margin: 0 0 var(--space-8);
   line-height: var(--line-height-relaxed);
 }
 
-/* Links - Architectural Focus
+/* Links - Minimalist Style
    ========================================================================== */
 a {
-  color: var(--color-primary);
+  color: var(--color-text);
   text-decoration: none;
-  font-weight: var(--font-weight-medium);
-  transition: all var(--duration-normal) var(--ease-out);
-  position: relative;
-  border-radius: var(--radius-sm);
-  padding: var(--space-1) var(--space-2);
-  margin: calc(-1 * var(--space-1)) calc(-1 * var(--space-2));
-}
-
-a::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 0;
-  height: 2px;
-  background: var(--color-accent);
-  transition: width var(--duration-normal) var(--ease-out);
+  border-bottom: 1px solid transparent;
+  transition: border-color var(--duration-fast);
 }
 
 a:hover {
-  color: var(--color-accent);
-  background: rgba(14, 165, 233, 0.1);
-}
-
-a:hover::after {
-  width: 100%;
+  color: var(--color-accent-hover);
+  border-bottom-color: var(--color-accent-hover);
 }
 
 a:focus {
-  outline: 2px solid var(--color-primary);
+  outline: 2px solid var(--color-text);
   outline-offset: 2px;
-  background: rgba(44, 62, 80, 0.1);
 }
 
 a:focus:not(:focus-visible) {
   outline: none;
-}
-
-a:focus-visible {
-  outline: 2px solid var(--color-primary);
-  outline-offset: 2px;
-  background: rgba(44, 62, 80, 0.1);
 }
 
 /* Layout Components
@@ -276,57 +163,47 @@ a:focus-visible {
   max-width: var(--wrapper-max-width);
   margin: 0 auto;
   padding: 0 var(--space-6);
-  contain: layout;
 }
 
 header {
   width: 100%;
-  position: relative;
-  -webkit-font-smoothing: subpixel-antialiased;
-  z-index: var(--z-index-sticky);
   background: var(--color-background);
-  padding: var(--space-8) 0;
+  padding: var(--space-16) 0;
   border-bottom: var(--border-width) solid var(--color-border);
-  margin-bottom: var(--space-8);
+  margin-bottom: var(--space-24);
 }
 
 section {
   width: 100%;
-  padding: var(--space-8) 0;
+  padding: var(--space-16) 0;
   flex: 1;
 }
 
 footer {
   width: 100%;
-  position: relative;
-  -webkit-font-smoothing: subpixel-antialiased;
   background: var(--color-background);
-  padding: var(--space-8) 0;
+  padding: var(--space-16) 0;
   border-top: var(--border-width) solid var(--color-border);
-  margin-top: auto;
+  margin-top: var(--space-24);
 }
 
-/* Downloads Section - Architectural Style
+/* Downloads Section - Minimalist
    ========================================================================== */
 ul.downloads {
   list-style: none;
   padding: 0;
-  background: var(--color-surface-dark);
-  border-radius: var(--radius-lg);
-  border: var(--border-width) solid var(--color-accent);
+  border: var(--border-width) solid var(--color-border);
   width: 100%;
-  margin: var(--space-8) 0;
+  margin: var(--space-16) 0;
   display: flex;
   flex-wrap: wrap;
   gap: 0;
-  box-shadow: var(--shadow-lg);
 }
 
 .downloads li {
   flex: 1;
   min-width: 0;
-  border-right: var(--border-width) solid var(--color-accent);
-  position: relative;
+  border-right: var(--border-width) solid var(--color-border);
 }
 
 .downloads li:last-child {
@@ -335,39 +212,29 @@ ul.downloads {
 
 .downloads a {
   display: block;
-  padding: var(--space-6);
-  min-height: var(--touch-target-comfortable);
+  padding: var(--space-8);
   text-align: center;
-  color: var(--color-text-light);
+  color: var(--color-text);
   text-decoration: none;
-  transition: all var(--duration-normal) var(--ease-out);
+  border-bottom: none;
   font-size: var(--font-size-sm);
   line-height: var(--line-height-normal);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-weight: var(--font-weight-medium);
 }
 
-.downloads a:hover, .downloads a:focus {
-  background-color: rgba(255, 255, 255, 0.1);
-  color: var(--color-text-light);
-  font-weight: var(--font-weight-semibold);
-  transform: translateY(-1px);
-}
-
-.downloads a:active {
-  background-color: rgba(255, 255, 255, 0.2);
-  transform: translateY(0);
+.downloads a:hover {
+  color: var(--color-accent-hover);
+  background-color: transparent;
 }
 
 .downloads a strong {
   font-size: var(--font-size-base);
-  color: var(--color-text-light);
-  font-weight: var(--font-weight-semibold);
+  font-weight: var(--font-weight-bold);
 }
 
-/* Code and Pre - Architectural Documentation Style
+/* Code and Pre - Minimalist
    ========================================================================== */
 code, pre {
   font-family: var(--font-family-mono);
@@ -376,108 +243,73 @@ code, pre {
 
 code {
   font-size: var(--font-size-sm);
-  background: var(--color-surface-elevated);
-  color: var(--color-accent);
-  padding: var(--space-1) var(--space-2);
-  border-radius: var(--radius-sm);
-  border: var(--border-width-thin) solid var(--color-border);
-  font-weight: var(--font-weight-medium);
+  background: transparent;
+  padding: var(--space-2);
+  border: var(--border-width) solid var(--color-border);
 }
 
 pre {
-  padding: var(--space-6);
-  background: var(--color-surface-dark);
-  border-radius: var(--radius-lg);
+  padding: var(--space-8);
+  background: var(--color-background);
   border: var(--border-width) solid var(--color-border);
   overflow-x: auto;
-  margin: var(--space-8) 0;
-  box-shadow: var(--shadow-md);
+  margin: var(--space-16) 0;
   font-size: var(--font-size-sm);
   line-height: var(--line-height-normal);
-  color: var(--color-text-light);
 }
 
 pre code {
   background: transparent;
   padding: 0;
   border: none;
-  color: inherit;
-  font-size: inherit;
 }
 
-/* Tables - Architectural Specifications
+/* Tables - Minimalist
    ========================================================================== */
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: var(--space-8) 0;
-  background: var(--color-surface-card);
-  border-radius: var(--radius-lg);
-  overflow: hidden;
-  box-shadow: var(--shadow-md);
+  margin: var(--space-16) 0;
+  border: var(--border-width) solid var(--color-border);
 }
 
 th, td {
-  padding: var(--space-4) var(--space-6);
+  padding: var(--space-6);
   text-align: left;
-  border-bottom: var(--border-width-thin) solid var(--color-border);
+  border-bottom: var(--border-width) solid var(--color-border);
 }
 
 th {
-  background: var(--color-surface-elevated);
-  font-weight: var(--font-weight-semibold);
-  color: var(--color-text-secondary);
-  font-size: var(--font-size-sm);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-tr:hover {
-  background: rgba(14, 165, 233, 0.05);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text);
 }
 
 tr:last-child td {
   border-bottom: none;
 }
 
-/* Blockquotes - Architectural Quotes
+/* Blockquotes - Minimalist
    ========================================================================== */
 blockquote {
-  border-left: var(--border-width-thick) solid var(--color-accent);
-  margin: var(--space-8) 0;
-  padding: var(--space-6) var(--space-8);
-  background: rgba(14, 165, 233, 0.05);
-  border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+  border-left: 2px solid var(--color-text);
+  margin: var(--space-16) 0;
+  padding: 0 var(--space-12);
   font-style: italic;
   font-size: var(--font-size-lg);
   line-height: var(--line-height-relaxed);
   color: var(--color-text-secondary);
-  position: relative;
-}
-
-blockquote::before {
-  content: '"';
-  font-size: var(--font-size-4xl);
-  color: var(--color-accent);
-  position: absolute;
-  top: var(--space-2);
-  left: var(--space-2);
-  font-family: var(--font-family-serif);
-  line-height: 1;
 }
 
 blockquote p {
   margin: 0;
-  padding-left: var(--space-8);
 }
 
 blockquote cite {
   display: block;
-  margin-top: var(--space-4);
+  margin-top: var(--space-6);
   font-size: var(--font-size-sm);
   color: var(--color-text-muted);
   font-style: normal;
-  text-align: right;
 }
 
 /* Horizontal Rules
@@ -486,90 +318,47 @@ hr {
   border: none;
   background: var(--color-border);
   height: var(--border-width);
-  margin: var(--space-8) 0;
-  border-radius: var(--radius-full);
+  margin: var(--space-24) 0;
 }
 
-/* Grid System - Architectural Layout
+/* Grid System - Minimalist
    ========================================================================== */
 .grid-container {
   display: grid;
-  gap: var(--space-8);
-  margin: var(--space-8) 0;
+  gap: var(--space-16);
+  margin: var(--space-16) 0;
   padding: var(--space-8);
-  contain: layout;
   grid-template-columns: 1fr;
 }
 
 .grid-item {
-  background-color: var(--color-surface-card);
-  border: var(--border-width-thin) solid var(--color-border-light);
-  border-radius: var(--radius-lg);
-  margin: var(--space-4) 0;
-  padding: var(--space-6);
-  box-shadow: var(--shadow-sm);
-  transition: all var(--duration-normal) var(--ease-out);
+  background-color: var(--color-background);
+  border: none;
+  margin: 0;
+  padding: var(--space-12);
 }
 
-.grid-item:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--shadow-lg);
-  border-color: var(--color-border-strong);
-}
-
-/* Button Components - Architectural Actions
+/* Button Components - Minimalist
    ========================================================================== */
 .btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--space-2);
-  padding: var(--space-3) var(--space-6);
+  display: inline-block;
+  padding: var(--space-4) var(--space-8);
   font-size: var(--font-size-base);
-  font-weight: var(--font-weight-medium);
-  line-height: 1;
   color: var(--color-text);
-  background: var(--color-surface-card);
-  border: var(--border-width) solid var(--color-border-light);
-  border-radius: var(--radius-md);
+  background: transparent;
+  border: var(--border-width) solid var(--color-border);
   text-decoration: none;
   cursor: pointer;
-  transition: all var(--duration-normal) var(--ease-out);
-  box-shadow: var(--shadow-sm);
-  position: relative;
-  overflow: hidden;
-  min-height: var(--touch-target-comfortable);
-}
-
-.btn::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: -100%;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(90deg, transparent, rgba(14, 165, 233, 0.1), transparent);
-  transition: left var(--duration-slow) var(--ease-out);
+  border-bottom: var(--border-width) solid var(--color-border);
 }
 
 .btn:hover {
-  transform: translateY(-1px);
-  box-shadow: var(--shadow-lg);
-  border-color: var(--color-border-accent);
-  background: var(--color-surface-elevated);
-}
-
-.btn:hover::before {
-  left: 100%;
-}
-
-.btn:active {
-  transform: translateY(0);
-  box-shadow: var(--shadow-sm);
+  color: var(--color-accent-hover);
+  border-color: var(--color-accent-hover);
 }
 
 .btn:focus {
-  outline: 2px solid var(--color-primary);
+  outline: 2px solid var(--color-text);
   outline-offset: 2px;
 }
 
@@ -577,87 +366,36 @@ hr {
   outline: none;
 }
 
-/* Button Variants */
-.btn-primary {
-  background: var(--color-primary);
-  border-color: var(--color-primary);
-  color: var(--color-neutral-50);
-}
-
-.btn-primary:hover {
-  background: var(--color-primary-dark);
-  border-color: var(--color-primary-dark);
-  color: var(--color-neutral-50);
-}
-
-.btn-accent {
-  background: var(--color-accent);
-  border-color: var(--color-accent);
-  color: var(--color-neutral-50);
-}
-
-.btn-accent:hover {
-  background: var(--color-accent-dark);
-  border-color: var(--color-accent-dark);
-  color: var(--color-neutral-50);
-}
-
-.btn-outline {
-  background: transparent;
-  border-color: var(--color-primary);
-  color: var(--color-primary);
-}
-
-.btn-outline:hover {
-  background: var(--color-primary);
-  color: var(--color-neutral-50);
-}
-
-/* Image Styles - Architectural Photography
+/* Image Styles - Minimalist
    ========================================================================== */
 img {
   max-width: 100%;
   height: auto;
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-md);
-  transition: all var(--duration-normal) var(--ease-out);
+  display: block;
 }
 
-img:hover {
-  transform: scale(1.02);
-  box-shadow: var(--shadow-xl);
-}
-
-/* Responsive Design - Mobile-First Architecture
+/* Responsive Design - Mobile-First
    ========================================================================== */
 
 /* Mobile Devices (up to 640px) */
 @media screen and (max-width: 640px) {
   :root {
-    --space-1: 0.125rem;
-    --space-2: 0.25rem;
-    --space-3: 0.375rem;
-    --space-4: 0.5rem;
-    --space-5: 0.625rem;
-    --space-6: 0.75rem;
-    --space-8: 1rem;
-    --space-10: 1.25rem;
-    --space-12: 1.5rem;
-    --space-16: 2rem;
-    --space-20: 2.5rem;
+    --space-2: 0.5rem;
+    --space-4: 0.75rem;
+    --space-6: 1rem;
+    --space-8: 1.5rem;
+    --space-12: 2rem;
+    --space-16: 2.5rem;
     --space-24: 3rem;
     --space-32: 4rem;
     
-    --font-size-xs: 0.625rem;
-    --font-size-sm: 0.75rem;
-    --font-size-base: 0.875rem;
+    --font-size-sm: 0.8rem;
+    --font-size-base: 0.9rem;
     --font-size-lg: 1rem;
-    --font-size-xl: 1.125rem;
-    --font-size-2xl: 1.25rem;
-    --font-size-3xl: 1.5rem;
-    --font-size-4xl: 1.875rem;
-    --font-size-5xl: 2.25rem;
-    --font-size-6xl: 3rem;
+    --font-size-xl: 1.25rem;
+    --font-size-2xl: 1.5rem;
+    --font-size-3xl: 2rem;
+    --font-size-4xl: 2.5rem;
   }
 
   body {
@@ -669,11 +407,11 @@ img:hover {
   }
 
   header, footer {
-    padding: var(--space-6) 0;
+    padding: var(--space-8) 0;
   }
 
   section {
-    padding: var(--space-6) 0;
+    padding: var(--space-8) 0;
   }
 
   .downloads {
@@ -682,7 +420,7 @@ img:hover {
 
   .downloads li {
     border-right: none;
-    border-bottom: var(--border-width) solid var(--color-accent);
+    border-bottom: var(--border-width) solid var(--color-border);
   }
 
   .downloads li:last-child {
@@ -690,40 +428,16 @@ img:hover {
   }
 
   .downloads a {
-    min-height: var(--touch-target-comfortable);
-    padding: var(--space-4);
-  }
-
-  h1 {
-    font-size: var(--font-size-4xl);
-  }
-
-  h2 {
-    font-size: var(--font-size-3xl);
-  }
-
-  h3 {
-    font-size: var(--font-size-2xl);
-  }
-
-  pre {
-    font-size: var(--font-size-xs);
-    padding: var(--space-4);
-    overflow-x: auto;
-  }
-
-  blockquote {
-    padding: var(--space-4) var(--space-6);
-    margin: var(--space-6) 0;
+    padding: var(--space-6);
   }
 
   .grid-container {
     padding: var(--space-4);
-    gap: var(--space-4);
+    gap: var(--space-8);
   }
 
   .grid-item {
-    padding: var(--space-4);
+    padding: var(--space-6);
   }
 }
 
@@ -738,37 +452,8 @@ img:hover {
     min-width: 150px;
   }
 
-  .downloads a {
-    padding: var(--space-5);
-  }
-
   .grid-container {
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--space-6);
-  }
-}
-
-/* Large Tablets (769px to 1023px) */
-@media screen and (min-width: 769px) and (max-width: 1023px) {
-  body {
-    padding: var(--space-8);
-  }
-
-  .wrapper {
-    padding: 0 var(--space-8);
-  }
-
-  .downloads li {
-    flex: 1;
-  }
-
-  .downloads a {
-    padding: var(--space-6) var(--space-8);
-  }
-
-  .grid-container {
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--space-8);
+    grid-template-columns: 1fr;
   }
 }
 
@@ -782,73 +467,23 @@ img:hover {
     padding: 0 var(--space-12);
   }
 
-  header {
-    position: sticky;
-    top: 0;
-    z-index: var(--z-index-sticky);
-    backdrop-filter: blur(10px);
-  }
-
-  .downloads a {
-    padding: var(--space-6) var(--space-8);
-  }
-
   .grid-container {
-    grid-template-columns: repeat(3, 1fr);
-    gap: var(--space-10);
+    grid-template-columns: 1fr;
   }
 }
 
-/* Large Desktop (1440px and up) */
-@media screen and (min-width: 1440px) {
-  :root {
-    --wrapper-max-width: 1400px;
-  }
-
-  body {
-    padding: var(--space-16);
-  }
-
-  .wrapper {
-    padding: 0 var(--space-16);
-  }
-
-  .grid-container {
-    grid-template-columns: repeat(4, 1fr);
-    gap: var(--space-12);
-  }
-}
-
-/* Print Styles - Architectural Documentation
+/* Print Styles
    ========================================================================== */
 @media print {
-  :root {
-    --color-primary: #000000;
-    --color-accent: #000000;
-    --color-background: #ffffff;
-    --color-surface: #ffffff;
-    --color-text: #000000;
-    --color-border: #000000;
-    --shadow-sm: none;
-    --shadow-md: none;
-    --shadow-lg: none;
-    --shadow-xl: none;
-    --shadow-2xl: none;
-  }
-
   * {
     background: transparent !important;
     color: black !important;
-    box-shadow: none !important;
-    text-shadow: none !important;
   }
 
   body {
-    background: none !important;
     font-size: 12pt;
     line-height: 1.5;
     padding: 1in;
-    word-wrap: break-word;
   }
 
   a, a:visited {
@@ -864,42 +499,16 @@ img:hover {
   img {
     max-width: 100% !important;
     page-break-inside: avoid;
-    border-radius: 0 !important;
-    box-shadow: none !important;
   }
 
   blockquote {
-    border-left: 3pt solid #000 !important;
+    border-left: 2pt solid #000 !important;
     margin: 1.5em 0;
     padding-left: 1em;
-    background: transparent !important;
-    border-radius: 0 !important;
-  }
-
-  .grid-container {
-    display: block !important;
-    border: none !important;
-    box-shadow: none !important;
-    background: transparent !important;
   }
 
   header, footer {
     position: static !important;
-    background: transparent !important;
-    border: none !important;
-    box-shadow: none !important;
-  }
-
-  .btn {
-    border: 1pt solid black !important;
-    background: transparent !important;
-    box-shadow: none !important;
-  }
-
-  .downloads {
-    border: 1pt solid black !important;
-    background: transparent !important;
-    box-shadow: none !important;
   }
 }
 
@@ -918,93 +527,15 @@ img:hover {
   html {
     scroll-behavior: auto;
   }
-
-  .btn::before {
-    transition: none !important;
-  }
 }
 
 @media (prefers-contrast: high) {
   :root {
-    --color-primary: #000000;
-    --color-accent: #0066FF;
-    --color-background: #FFFFFF;
-    --color-surface: #F0F0F0;
-    --color-text: #000000;
     --color-border: #000000;
   }
 
-  .btn, .grid-item, .downloads {
+  .btn, .downloads {
     border-width: 2px;
-  }
-}
-
-/* Dark Mode Support - Architectural Night Mode
-   ========================================================================== */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-background: #0f172a;
-    --color-surface: #1e293b;
-    --color-surface-elevated: #334155;
-    --color-surface-card: #1e293b;
-    --color-surface-overlay: rgba(255, 255, 255, 0.05);
-    --color-text: #f8fafc;
-    --color-text-secondary: #cbd5e1;
-    --color-text-muted: #94a3b8;
-    --color-text-light: #0f172a;
-    --color-text-inverse: #f8fafc;
-    --color-border: #475569;
-    --color-border-light: #334155;
-    --color-primary: #60a5fa;
-    --color-primary-light: #93c5fd;
-    --color-primary-dark: #3b82f6;
-    --color-accent: #22d3ee;
-    --color-accent-light: #67e8f9;
-    --color-accent-dark: #06b6d4;
-  }
-
-  header {
-    backdrop-filter: blur(10px);
-  }
-}
-
-/* Performance Optimizations
-   ========================================================================== */
-.btn, .grid-item, img, .downloads a {
-  will-change: transform;
-  transform: translateZ(0);
-}
-
-img {
-  image-rendering: -webkit-optimize-contrast;
-  image-rendering: crisp-edges;
-  content-visibility: auto;
-  contain: layout style paint;
-}
-
-.grid-container, .wrapper {
-  contain: layout style;
-}
-
-.grid-item {
-  contain: layout style paint;
-}
-
-/* Modern CSS Features Support
-   ========================================================================== */
-@supports (backdrop-filter: blur(10px)) {
-  header {
-    backdrop-filter: blur(10px);
-  }
-}
-
-@supports (container-type: inline-size) {
-  .wrapper {
-    container-type: inline-size;
-  }
-
-  .grid-container {
-    container-type: inline-size;
   }
 }
 
@@ -1026,22 +557,9 @@ img {
 .text-left { text-align: left; }
 .text-right { text-align: right; }
 
-.font-light { font-weight: var(--font-weight-light); }
 .font-normal { font-weight: var(--font-weight-normal); }
 .font-medium { font-weight: var(--font-weight-medium); }
-.font-semibold { font-weight: var(--font-weight-semibold); }
 .font-bold { font-weight: var(--font-weight-bold); }
 
-.mt-4 { margin-top: var(--space-4); }
-.mt-6 { margin-top: var(--space-6); }
-.mt-8 { margin-top: var(--space-8); }
-.mb-4 { margin-bottom: var(--space-4); }
-.mb-6 { margin-bottom: var(--space-6); }
-.mb-8 { margin-bottom: var(--space-8); }
-
-.p-4 { padding: var(--space-4); }
-.p-6 { padding: var(--space-6); }
-.p-8 { padding: var(--space-8); }
-
-/* End of Modern Architecture Portfolio SCSS
+/* End of Minimalist Portfolio SCSS
    ========================================================================== */
