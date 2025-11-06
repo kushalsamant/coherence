@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **The last supper**  
 There are moments of surprises that dot our lives from eventful days to dinner dates.  
@@ -11,6 +12,4 @@ Simplicity then is not a habit but what you see in every thing, everything for t
 Then everything around you grows in the life just got lucky way.  
 This is how you give life meaning.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

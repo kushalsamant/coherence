@@ -7,6 +7,8 @@ layout: content
 **Effective Date:** November 5, 2025  
 **Last Updated:** November 5, 2025
 
+> **Questions about this Policy?** Email writetokushaldsamant@gmail.com. We're committed to transparency about data practices.
+
 Kushal Dhananjay Samant ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our SaaS development services, proprietary software platforms, and related offerings (collectively, the "Services").
 
 Please read this Privacy Policy carefully. By using our Services, you consent to the practices described in this policy.

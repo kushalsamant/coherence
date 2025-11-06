@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Slowly letters 2**  
 Corinthiana, that's such an architect-y name na.  
@@ -121,6 +122,4 @@ Let's see if you can reply to this one and not get bored doing so :P Sorry typin
 
 Yours truly,  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

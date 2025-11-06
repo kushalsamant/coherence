@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Erotica 1**  
 I dreamt of us.  
@@ -26,6 +27,4 @@ With your long nails, running all over my back.
 I howl in pain.  
 To moan together in pleasure, we can't wait for you to dominate me, and then I will throw you on a bed and have you alone.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

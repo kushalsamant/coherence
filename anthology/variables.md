@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Variables**  
 The constant changes in variables that can be inclusive or exclusive of other factors are only as infinite as the human’s belief of infinity.  
@@ -37,6 +38,4 @@ The number of times we have bled may differ.
 But the human potential inside of us is equal.  
 Human potential that you have is infinite.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

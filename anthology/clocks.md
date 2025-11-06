@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Clocks**  
 When you are working from 8 PM to 4 AM every night, it is hard to realize how much of the news you are missing.  
@@ -35,6 +36,4 @@ Astonishingly, most of these people are kids.
 21 or so in age.  
 And they are travelling, the world, unbound.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

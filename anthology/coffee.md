@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Coffee**  
 Is it time for some coffee already?
@@ -14,6 +15,4 @@ And then triple down your effort on that one single thing.
 Your efforts will keep generating returns that keep compounding if you are consistent.  
 This consistent effort that generates a non-zero return is the answer to solve your own personal economic crisis.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

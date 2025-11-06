@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Greeks**  
 Even today, if the Greeks fall.  
@@ -8,6 +9,4 @@ Specks of mutiny as tiny islands on the world map go on to show the world how in
 No matter how absurd a thought.  
 It is Powerful.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

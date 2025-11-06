@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Portraits**  
 So I have always been thinking about making a blog for the way my hair grows back.  
@@ -20,6 +21,4 @@ And I will be freed of all self doubt that sets in when I am questioned for my r
 The self awareness that this brings is more important as an asset to have than any other life experience can bring.  
 This blog is @madewithadobe.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

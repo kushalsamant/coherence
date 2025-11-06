@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Intelligently**  
 > “If we share, everyone can have enough.”  
@@ -17,6 +18,4 @@ We may not change the world, yet let's begin here.
 > “Contribution changes, not the life of one individual.  
 > but part of your life too, May be our planet.”  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

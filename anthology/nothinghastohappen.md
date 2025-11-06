@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Nothing has to happen**  
 Look at this photograph, how abnormal it is.  
@@ -18,6 +19,4 @@ So please stop believing, in happenings, and leisure, Will Smith was right when 
 
 Because the only things that might happen, are the ones you put on your Google Keep.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Letters to The Commissioner of Police, Mumbai**  
 Date: 15th May 2020  
@@ -36,6 +37,4 @@ You can reply to this message or contact me for any queries.
 Thanking you very much.  
 Yours truly,  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

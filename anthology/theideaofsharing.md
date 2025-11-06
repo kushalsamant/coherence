@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **The idea of sharing**  
 Today I was talking to a very influential community host.  
@@ -32,6 +33,4 @@ How hard can be getting funding from CSR be? My friends say that it is either be
 
 Maybe social norms prefer what exists but personally, I prefer CSR funding without having to ask for it, just because there is a law that states it will be available for my social cause.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

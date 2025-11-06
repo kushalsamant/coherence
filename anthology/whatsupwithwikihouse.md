@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **What’s up with WikiHouse**?  
 The thought is what’s the end product or service we are offering? There are many firms in the process of building a WikiHouse, and use it for commercial purposes: competition in a commercial market.  
@@ -8,6 +9,4 @@ We can share our knowledge with the wikihouse project; or develop certain design
 A goal here is to ease appropriation of design.  
 An ideal way to move forward would be a book that documents all the work we have done on the project so far.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

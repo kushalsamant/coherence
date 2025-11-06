@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Tipping point**  
 So I think around 2018 December, I managed to drive a traffic of more than 18 million monthly unique visitors to my Pinterest account.  
@@ -16,6 +17,4 @@ But more often than not, it helps to bring reminders of obvious things to the ta
 The trick of the game is to pick one thing, and stick to it.  
 Period.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Space aching**  
 Time, space, place & play.  
@@ -35,6 +36,4 @@ Is it questionable?
 Is it a clear ‘yes’?  
 Is Mumbai losing itself in the materialistic version of the human adventure spirit?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

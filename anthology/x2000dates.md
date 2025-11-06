@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **2000 dates**  
 So, I have been on 2000 first dates over the last 5 years.  
@@ -9,6 +10,4 @@ The things that people do, including the way they treat others under a belief of
 The moment you give someone what they ask for, they will feel happy for that endorphins hit, and they will toss you like a used condom and even talk trash about you to their friends.  
 They will do this, even if you have literally saved their lives when they asked you to.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

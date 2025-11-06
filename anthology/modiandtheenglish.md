@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Modi & the English**  
 I always thought that the English were smart people.  
@@ -13,6 +14,4 @@ The traces of everything this tyrant Government of India does henceforth shall b
 Learning from the English history, the roots of this tyranny could lie as far ago as a 100 years.  
 Maybe, more.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

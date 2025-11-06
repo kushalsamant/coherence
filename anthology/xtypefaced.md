@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Type-faced**  
 We need to get curious.  
@@ -46,6 +47,4 @@ And we give way even more to ruin.
 If we take a step back, and pause.  
 We will see where we are heading.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

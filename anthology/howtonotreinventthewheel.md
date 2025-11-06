@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **How to not re-invent the wheel**?  
 I wish structures was an everyday thing, back in school.  
@@ -34,6 +35,4 @@ Maybe that’s why they say,
 So, stop looking.  
 Reflect instead.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

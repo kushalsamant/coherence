@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Slowly letters 3**  
 Can I know your first name? It helps add context :P Maybe if we run into each other someday.  
@@ -22,6 +23,4 @@ P.S.
 You can see my pictures on my Instagram.  
 I am currently curating my entire photo archive from Google Photos on it.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

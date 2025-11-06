@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Death**  
 So here’s what happens when you die
@@ -52,6 +53,4 @@ If you are not destined to die
 Or if you have seen the future
 Then it changes for you that’s why.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

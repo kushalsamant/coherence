@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **A rule of thumb**  
 Not the exact nature of woodworking but the idea of how things can be built.  
@@ -91,6 +92,4 @@ But if you take the pen, and start scribbling, you will get past the first few l
 But if you just begin, everything that’s messed up will start to fall into place.  
 In ways that will make the mess seem like a petty folly.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Collective**  
 Some things in life need a lot more rhythm to it than you can beat.  
@@ -10,6 +11,4 @@ About how the people collectively make a city without any formal inspiration.
 Now I have a question.  
 If the boundaries are to be dissolved, and the city becomes an ocean of collaboration, where, and how does one creative mind find individuality OR Identity of a creative expression? Does anybody have any thoughts?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

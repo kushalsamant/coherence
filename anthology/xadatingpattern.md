@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **A dating pattern**  
 Oh well, I have been on dating apps since 2014. So I have an idea about that.  
@@ -30,6 +31,4 @@ If you cut your nails at 1.  a.  , then by the time you have completed the story
 You will have to cut your nails again.  
 :D
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

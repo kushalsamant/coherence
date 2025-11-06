@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Railway line intervention**  
 Have you seen this city - the city of Bombay? It is a straight line from South to North.  
@@ -23,6 +24,4 @@ The thoughts of being more careful about not having a fever when they are going 
 This simple requirement will need them to have thoughts of being more careful about their health.  
 These are further spilled over with them having the thoughts of being more careful about their hygiene.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

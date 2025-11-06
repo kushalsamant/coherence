@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **The railroad To Tinkamentown**  
 The railroad to Tinkamentown was selected in Cityscape Article Writing Competition 2012, and published by The National Association of Students of Architecture.  
@@ -69,6 +70,4 @@ Maximum, like a few authors called.
 In spirit, and in soul.  
 Beating forever, alongside my heart.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

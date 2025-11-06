@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Lessons in running a scam 2020**  
 Date: 4th June 2020  
@@ -13,6 +14,4 @@ Date: 4th June 2020
 7. Watch your World Bank fund become tax free money when these employees pay their electricity bills.  
 Viola!
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

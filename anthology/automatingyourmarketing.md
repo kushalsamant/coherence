@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Automating your marketing**  
 Automating your marketing by making Instagram Central.  
@@ -15,6 +16,4 @@ Automating your marketing by making Instagram Central.
 6. Repeat steps under section 5. for YouTube and Medium.  
 Set this up first so that you don’t interrupt your creative flow later.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

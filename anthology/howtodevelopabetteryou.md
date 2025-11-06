@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **How to develop a better you**?  
 Ok, so the thing is that I don't know exactly what I am doing.  
@@ -78,6 +79,4 @@ It's important for you to create your own rules.
 Even if you don't relate to your intensity, you're meant to prioritize your own experience and be driven by your passions.  
 > "If something doesn't excite you, then it's not for you.  "
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

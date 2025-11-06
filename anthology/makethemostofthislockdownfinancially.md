@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Make the most of this lockdown financially**  
 So the whole ideas is to make a post on typewrighter using Google Voice input.  
@@ -13,6 +14,4 @@ The entire success of this exercise, also contributes to being an essential tool
 So much for global lockdown.  
 I would suggest that you read this article once again, and clearly understand the steps within all of these sentences.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

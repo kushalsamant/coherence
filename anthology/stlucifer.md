@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **St. Lucifer**  
 I co-authored a song named _"St. Lucifer"_ with Thomas Albert.  
@@ -68,6 +69,4 @@ Janet D’Santos, Kushal Dhananjay Samant, Rani Viswas, Shashank Jha, Thomas Alb
 ![_St. Lucifer YouTube Header_](https://66.media.tumblr.com/ae4bb51ac2082980e4e1b412fdc03cee/a4c6536c061003f6-e2/s540x810/68035b637405fe6f52933fe6ca90fae8a4e8f341.jpg)  
 St. Lucifer YouTube Header.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

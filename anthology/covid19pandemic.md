@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Covid19 pandemic**  
 "I think NatGeo cooked SARS-Cov-2 is a myth.  
@@ -24,6 +25,4 @@ and gets converted to white money."
 
 What do you think?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Being you**  
 Life gives you exactly what you want.  
@@ -29,6 +30,4 @@ Editing eats away a part of you.
 Be it writing, life or truth.  
 “From a Mumbaikar’s perspective, American influence on his life just went from having a sense of Bandra to the menace of Harbour Line.”  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

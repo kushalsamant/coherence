@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Happy X Sad**  
 There was a thought in my mind about randomness.  
@@ -49,6 +50,4 @@ Happiness is a temporary thing.
 It comes with the other side of the coin: Sadness.  
 Instead if we focus on making an effort to keep joyful, our minds will be full and our hearts will feel content, and that's good enough.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

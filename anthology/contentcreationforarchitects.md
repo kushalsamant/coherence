@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Content creation for architects**  
 I think you are thinking old school where the only way information would flow would be through peer recommendation.  
@@ -15,6 +16,4 @@ If you then pick the best of your thoughts between A[...  ], B[...  ], C[...  ],
 to compile books A[...  ], B[...  ], C[...  ], and so on...  
 you will have enough for the credibility you are looking for.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

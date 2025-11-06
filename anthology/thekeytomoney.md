@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **The key to money**  
 Do you know what the key to wealth is?  
@@ -24,6 +25,4 @@ It is again a tool that is something I would like you to remember for the rest o
 
 It is as good as a saw is to a carpenter or a screwdriver is to an electrician or wrench is to a plumber.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

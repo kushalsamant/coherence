@@ -1,3 +1,7 @@
+---
+description: "142+ architecture and design projects: international competitions, built work, SaaS development, teaching roles. From Mumbai Sea Link thesis to WikiHouse to enterprise software."
+---
+
 # Projects
 
 These are the projects/ventures I've worked on.

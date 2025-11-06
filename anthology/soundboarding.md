@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Soundboarding**  
 Soundboarding is basically process in which a person say for example me.  
@@ -23,6 +24,4 @@ How do we do it?
 5. then we play tetris with all variables,
 6. then we will know what works best in the current scenario
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

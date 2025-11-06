@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Ashore**  
 Lines from a forgotten past
@@ -10,6 +11,4 @@ For breakfast on board
 While a burning sun, and mist
 Color yellow anoraks ashore.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

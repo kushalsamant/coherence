@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Mind**  
 It is funny how our mind works.  
@@ -34,6 +35,4 @@ Days when my belief in everything around me is so high, for I can step without l
 The thoughts that run through my mind in these subtle moments, seems to manifest themselves in roughly about 7 years.  
 Deja Vu, anyone?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

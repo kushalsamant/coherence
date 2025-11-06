@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Also, on a different note**  
 Also, on a different note, I was crossing the Vashi bridge yesterday.  
@@ -15,6 +16,4 @@ In the same way as worrying was also a choice I made.
 It was as intense as the choice to live, when those winds last night scared all of us in that train.  
 So, staying happy needed our conscious attention, just like anything else in life.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

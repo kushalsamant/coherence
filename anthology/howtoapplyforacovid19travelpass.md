@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **How to apply for a Covid19 travel pass**?  
 Date: 12th May 2020  
@@ -38,6 +39,4 @@ For Mumbai, the website will direct to a emergency pass for medical cases page.
 
 **So you cannot go home if you are stranded within Mumbai**  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

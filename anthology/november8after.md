@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **“After.”**
 
@@ -140,6 +141,4 @@ But the government has done what most probably is the best thing a government ca
 A simple change that make people conscious, and rethink about their habits, what they own, what they use, their behaviours, patterns, et cetera.  
 With a rise in awareness for a cashless economy, the value of the Indian Rupee will soon surpass the U.S Dollar, the value of the Indian Rupee will equal that of time in the financial capital of India.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

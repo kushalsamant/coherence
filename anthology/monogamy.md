@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Monogamy**  
 Case 1: Monogamy is a pattern.  
@@ -32,6 +33,4 @@ Then she tells me a day later that she has enough friends, sure I have too, so w
 Then she tells me a day later that she is unsure of when we will talk next because she talks to her friends once in a week.  
 Conclusion: I am puzzled about why would someone go from they want to start a family to ghosting me abruptly.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

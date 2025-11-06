@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Slow**  
 So there is this entire idea of slow.  
@@ -26,6 +27,4 @@ The focus is to experience the moment, consciously.
 
 - *Slow things down, and everything becomes more beautiful.*
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

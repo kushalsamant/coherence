@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Semantics of a word**  
 If Tomato is Tamatar,  
@@ -34,6 +35,4 @@ If (P)otato is (A)lu,
 
 then why is Tomato not Elu?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

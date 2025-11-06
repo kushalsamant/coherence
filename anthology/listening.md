@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Listening**  
 Whatever might be the reason that stops you from doing what you want, it is essential to recognize that the only way you can get things going is by trusting yourself blindly.  
@@ -16,6 +17,4 @@ And the easiest way to find what you don’t need is to ask a single question.
 > "If the answer is not a clear “Yes!”, then it is a clear “No.”.  
 > Malcolm Gladwell.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

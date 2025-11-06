@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Hanxwriter**  
 I have no clue about how fast I can type using this inanimate typewriter or if coding is something I should worry about as per the geekiness of being a static site web developer, and all the banter about those GitHub pages hosting issues.  
@@ -10,6 +11,4 @@ I want to limit my work to my mobile device, and my application usage to my webp
 Maybe there is something that lets me use my email account as a web hosting site.  
 So that all my activities focused but not limited to one platform.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

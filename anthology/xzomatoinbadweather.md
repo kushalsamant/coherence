@@ -1,8 +1,10 @@
-<section class="content-section">
-    <div class="grid-item">
-        <h1>Zomato in bad weather</h1>
+---
+layout: content
+---
 
-<p>So I haven't' been to this place, Smoking Pizza, Nerul, Navi Mumbai.</p>  
+# Zomato in bad weather
+
+So I haven't' been to this place, Smoking Pizza, Nerul, Navi Mumbai.  
 But my mom got her Zomato Gold.  
 Pretty excited about it, so she ordered 1+1 Cheese Burst Pizzas through her new Zomato Gold.  
 Although she got a 3rd Pizza because I think there is an offer ongoing here, this is going to be a pretty bad review.  
@@ -44,5 +46,3 @@ Everyone fucked up.
 Yes, you can try and blame it on the weather, but alas.  
 
 - <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
-    </div>
-</section>

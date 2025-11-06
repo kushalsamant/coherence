@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Relative income**  
 What are we posting here?
@@ -50,6 +51,4 @@ So you may not get paid 1000 rupees for today again in your life, but I will.
 This only means that I am now making more than 1000 rupees for 10 hours of my time.  
 This is how my income becomes more than yours even if we are equals in effort.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

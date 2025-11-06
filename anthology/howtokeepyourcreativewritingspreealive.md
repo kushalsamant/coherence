@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **How to keep your creative writing spree alive**?  
 I spent last night creating a timed protocol to create articles.  
@@ -13,6 +14,4 @@ You can choose your normals.
 3. Take a 15 min long break to attend to daily tasks around me.  
 4. Repeat this process until I hit my target number of posts on Typewrighter.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

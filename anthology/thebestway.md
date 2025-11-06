@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **The best way**  
 The best way to miss a person.  
@@ -9,6 +10,4 @@ Who do you miss the most? and who else? and who else? There will be a time, for 
 Today, a lot of things changed, for you, and I;, and for the world, in a sense.  
 Let alone the past, locked itself, out of all bounds; and an era of pain, until you ask for forgiveness.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

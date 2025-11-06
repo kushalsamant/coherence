@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Lost 1**  
 This is a journal entry, not conscious of public discretion, in the now, or the future.  
@@ -51,6 +52,4 @@ Executing your first thought or the instinctive idea that comes to you when you 
 > "Somehow, your heart already knows what you need.  "
 > Steve Jobs.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **The Inner Voice**
 As Kushal sat in his temporary residence in Mumbai, he couldn't help but feel frustrated with the bureaucratic process of getting permission to travel back home.  
@@ -24,6 +25,4 @@ He knew that it would guide him towards the right path, even when he couldn't se
 And as he closed his eyes and leaned back against the bus seat, he felt a sense of peace wash over him.  
 The chaos around him had faded away, and all he could hear was the gentle whisper of his inner voice.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

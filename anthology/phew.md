@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Phew**  
 I just had the scariest leak of my life.  
@@ -13,6 +14,4 @@ with nothing to hold on to.
 And heights make me dizzy af.  
 Phew!
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

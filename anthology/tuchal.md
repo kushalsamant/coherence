@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Tu chal**  
 Tu khud ki khoj mein nika.  
@@ -52,6 +53,4 @@ Samay ko bhi talaash ha.
 
 ©Tanveer Ghazi
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

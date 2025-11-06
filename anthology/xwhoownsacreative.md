@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Who owns a creative**?  
 Well, remember this.  
@@ -8,6 +9,4 @@ Well, remember this.
 2. A picture doesn't belong to you if it's a picture of you.  
 3. A picture belongs to you only if you click it.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

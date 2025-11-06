@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Schedule for quick dating**  
 Here's a schedule for quick dating that I religiously followed from 2014 to 2016 to be able to blink about people.  
@@ -16,6 +17,4 @@ It was a great learning experience for me.
 06 00 PM - Evening walk date.  
 08 00 PM - Dinner date at marine drive
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

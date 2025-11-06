@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Slowly letters 4**  
 Thanks for writing your name.  
@@ -71,6 +72,4 @@ I have so many questions for you! :D
 Happy Christmas to you too!!!  
 Yours truly,  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

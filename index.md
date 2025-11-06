@@ -14,7 +14,7 @@
     <article class="grid-item">
         <h2>This Website</h2>
         
-        <p>No tracking, no analytics, no unnecessary scripts. Just content. It's fast, respects your bandwidth, and doesn't collect your data. Built this way because it aligns with how I think about design—stripping away what's not needed.</p>
+        <p>Privacy-focused analytics to improve the site. No invasive tracking, no data sold. Built lean because it aligns with how I think about design—stripping away what's not needed.</p>
         
         <h1>Kushal Samant</h1>
         
@@ -52,7 +52,7 @@
         <p>If you have a project and need someone to work through it with you, <a href="https://kushalsamant.github.io/support.html">get in touch</a> or <a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">schedule a consultation</a>. We'll talk about what you're trying to solve.</p>
     </article>
     
-    <footer class="grid-item" style="margin-top: 2em; padding-top: 2em; font-size: 0.9em; color: #666;">
+    <footer class="grid-item page-footer">
         <p>© {{ site.time | date: "%Y" }} Architect Kushal Dhananjay Samant. Licensed under the Architect's Act, 1972 of India.</p>
     </footer>
 </main>

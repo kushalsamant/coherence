@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Crowds**  
 Why do the crowds cheer aloud?
@@ -9,6 +10,4 @@ But they are all quiet.
 But have you noticed that when large crowds assemble at a concert, they are screaming even if it is senseless with the mic off.  
 It is all for one purpose to russell.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

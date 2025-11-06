@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Erotica 6**  
 I love eating you out, and hearing you moan, like a toy in my hands.  
@@ -58,6 +59,4 @@ Come get me baby.
 I want to fuck you on your main door.  
 I want to push your face in the door, and spank your ass hard for being such an ass, and not fucking me soon everyday.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

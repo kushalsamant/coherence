@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Erotica 12**  
 She: It is a quaint Sunday afternoon, 
@@ -187,6 +188,4 @@ The minute I unleash the monster inside me
 You will crumble like breadsticks
 Dipped in mayonnaise and cream
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

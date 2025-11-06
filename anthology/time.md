@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Time**  
 Now I don’t know what you were doing when you picked this up.  
@@ -20,6 +21,4 @@ As we all know time is relative factor in life, it changes as per our emotional 
 ped good changes if you choose to be present in the moment you can also choose to be aware of every passing minute which leads to give you the complete control over your day and the things that you choose to react to or respond to or to pass.  
 You can also then notice how much you can get done more if you keep a track of every minute, albeit not in a literal sense but in a conscious sense.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

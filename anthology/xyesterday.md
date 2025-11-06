@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Yesterday**  
 Yesterday, at about 9pm, the security said he was closing the place for the day.  
@@ -11,6 +12,4 @@ As music barreled at its walls, trumpets, drums, and all.
 As a Navratri procession passed the gates, I waited for the rains to subside before I could make a move back home.  
 He replied, “Humein ye kam pasand hai! In logon ko dekhna pasand hai”.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

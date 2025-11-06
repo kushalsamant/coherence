@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **The right to share**  
 The right to share.  
@@ -11,6 +12,4 @@ Considering how much can we achieve when we share our resources, and not exchang
 Ask those amongst us who have spent their university years, living in hostels or with roommates.  
 The core belief is that sharing encourages access whereas exchange discourages access.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

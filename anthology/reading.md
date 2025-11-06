@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Reading**  
 Reading for the sake of reading is no good.  
@@ -25,6 +26,4 @@ Spatial reminds me that you must be alone, and your most comfortable place will 
 I could have scrolled up to add the previous sentence.  
 Avoid such edits on paper.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

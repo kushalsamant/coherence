@@ -7,6 +7,8 @@ layout: content
 **Effective Date:** November 5, 2025  
 **Last Updated:** November 5, 2025
 
+> **Questions about cancellations or refunds?** Email writetokushaldsamant@gmail.com. We're committed to fair and transparent policies.
+
 This Cancellation & Refund Policy explains the terms and conditions for cancelling services and requesting refunds for services provided by Kushal Dhananjay Samant. This policy applies to all services including SaaS subscriptions, custom development projects, and consultation bookings.
 
 ---
@@ -26,36 +28,50 @@ Contact us at writetokushaldsamant@gmail.com
 
 ---
 
-## 2. Initial Consultation Meetings
+## 2. Consultation Meetings
 
-### 2.1 Meeting Terms
-Initial consultation meetings are **complimentary** (free of charge):
-- Duration: 30-60 minutes
+We offer two types of consultations with different cancellation terms:
+
+### 2.1 Discovery Call (Complimentary - Free)
+
+**Meeting Terms:**
+- Duration: 15 minutes
+- Purpose: Initial fit assessment, basic questions
 - Scheduled via Setmore: https://kvshvl.setmore.com
-- Purpose: Discovery, project scoping, assessment of fit
 - No payment required
 
-### 2.2 Cancellation Policy
-**Preferred Notice:** 24 hours advance notice for cancellations or rescheduling
+**Cancellation:**
+- Cancel anytime without penalty
+- Preferred notice: 24 hours
+- No fees or charges
+- Reschedule up to 2 times per booking
 
-**How to Cancel:**
-- Through your Setmore booking confirmation
-- Email writetokushaldsamant@gmail.com
-- Phone: +91 87796 32310
+**No-Show Policy:**
+- First no-show: Noted without penalty
+- Repeated no-shows: May affect future booking priority
 
-**No Penalties:** No fees or charges for cancelling consultation meetings.
+Since discovery calls are complimentary, no refunds are applicable.
 
-### 2.3 Rescheduling
-- **Allowed:** Anytime with reasonable notice
-- **Limit:** Up to 2 reschedules per booking
-- **Subject to:** Availability of meeting times
+### 2.2 Professional Consultation (Paid)
 
-### 2.4 No-Show Policy
-- **First No-Show:** Noted without penalty
-- **Repeated No-Shows:** May affect future booking priority
-- **Emergency Exceptions:** Contact us as soon as possible; emergency situations considered on case-by-case basis
+**Meeting Terms:**
+- Duration: 60 minutes
+- Purpose: In-depth project discussion, technical guidance
+- Payment required upfront to confirm booking
 
-Since consultation meetings are complimentary, no refunds are applicable.
+**Cancellation & Refund:**
+- **48+ hours in advance:** Full refund
+- **24-48 hours in advance:** 50% refund
+- **Less than 24 hours:** No refund
+- **No-shows or late arrivals:** No refund
+
+**Rescheduling:**
+- **24+ hours in advance:** Free, no penalty
+- **Less than 24 hours:** Subject to availability, may incur fee
+
+**Processing:**
+- Refunds processed within 5-7 business days
+- Returned to original payment method
 
 ---
 

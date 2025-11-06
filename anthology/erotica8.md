@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Erotica 8**  
 She: Idiot.  
@@ -163,6 +164,4 @@ And swallowing it.
 And everything that can come out of it.  
 Rubbing your lipstick off with that cock...  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

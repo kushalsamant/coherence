@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Occupying bathrooms**  
 Now I don’t know what you were doing when you picked this up.  
@@ -10,6 +11,4 @@ It is an asset only if you do something with it.
 Much like money.  
 Much like any other asset.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

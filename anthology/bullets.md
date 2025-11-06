@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Bullets**  
 He shouted, “No Bro, Wait!” As he could see his silhouette disappear into the dim space.  
@@ -13,6 +14,4 @@ Not a friend or a foe came to help him in his disruptive times.
 He was there for everyone meeting people, and finding friends again after 15 long years.  
 But there he was all alone lonely when they put bullets into his heart.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

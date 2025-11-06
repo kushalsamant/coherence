@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Instagram strategy**  
 I have always looked at Instagram as a note taking app more than a photo sharing app.  
@@ -73,6 +74,4 @@ Bear in mind that:
 **Fin**  
 I mean these books, lectures, and workshops are what Instagram captions can lead to, understood?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

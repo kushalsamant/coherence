@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **I won't let you walk away, with a broken heart**  
 I won’t let you walk away, with a broken heart,
@@ -35,6 +36,4 @@ I am gonna be yours forever,
 Even if you take me dear,
 I love you, you love me, & we love us two.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

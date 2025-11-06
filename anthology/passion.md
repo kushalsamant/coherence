@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Passion**  
 It feels almost like I have lost the passion to do something for others.  
@@ -11,6 +12,4 @@ And it is getting harder by the day to be able to find something that brings me 
 I would want to be excited because my work is rewarding.  
 Nothing else matters except doing what makes me feel alive.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

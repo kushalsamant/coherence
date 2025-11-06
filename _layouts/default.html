@@ -33,6 +33,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#000000">
     
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:image" content="{{ site.url }}/assets/img/logo_kushal_samant_profile_picture_white.png">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="{{ page.url | absolute_url }}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image" content="{{ site.url }}/assets/img/logo_kushal_samant_profile_picture_white.png">
+    <meta name="twitter:site" content="@kvshvl_">
+    <meta name="twitter:creator" content="@kvshvl_">
+    
     <!-- Preload Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -72,57 +93,58 @@
                 <div class="footer-column">
                     <details>
                         <summary>Social</summary>
-                        <a href="https://behance.net/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logobehance.png" alt="">Behance</a>
-                        <a href="https://www.instagram.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="">Instagram</a>
-                        <a href="https://www.linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logolinkedin.png" alt="">LinkedIn</a>
-                        <a href="https://kvshvl.medium.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logomedium.png" alt="">Medium</a>
-                        <a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopinterest.png" alt="">Pinterest</a>
-                        <a href="https://soundcloud.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosoundcloud.png" alt="">Soundcloud</a>
-                        <a href="https://twitch.tv/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitch.png" alt="">Twitch</a>
-                        <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="">Twitter</a>
-                        <a href="https://www.youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyoutube.png" alt="">YouTube</a>
+                        <a href="https://behance.net/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logobehance.png" alt="Behance">Behance</a>
+                        <a href="https://www.instagram.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram">Instagram</a>
+                        <a href="https://www.linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logolinkedin.png" alt="LinkedIn">LinkedIn</a>
+                        <a href="https://kvshvl.medium.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logomedium.png" alt="Medium">Medium</a>
+                        <a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopinterest.png" alt="Pinterest">Pinterest</a>
+                        <a href="https://soundcloud.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosoundcloud.png" alt="Soundcloud">Soundcloud</a>
+                        <a href="https://twitch.tv/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitch.png" alt="Twitch">Twitch</a>
+                        <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="Twitter">Twitter</a>
+                        <a href="https://www.youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyoutube.png" alt="YouTube">YouTube</a>
                     </details>
                 </div>
                 
                 <div class="footer-column">
                     <details>
                         <summary>Platforms</summary>
-                        <a href="https://stock.adobe.com/contributor/212199501/KVSHVL" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoadobe.png" alt="">Adobe Stock</a>
-                        <a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="">Airbnb</a>
-                        <a href="https://alamy.com/portfolio/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoalamy.png" alt="">Alamy</a>
+                        <a href="https://stock.adobe.com/contributor/212199501/KVSHVL" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoadobe.png" alt="Adobe Stock">Adobe Stock</a>
+                        <a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb">Airbnb</a>
+                        <a href="https://alamy.com/portfolio/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoalamy.png" alt="Alamy">Alamy</a>
                         <a href="https://kushalsamant.github.io/anthology.html">Anthology</a>
-                        <a href="https://contrado.com/stores/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logocontrado.png" alt="">Contrado</a>
-                        <a href="https://github.com/kushalsamant" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogithub.png" alt="">GitHub</a>
-                        <a href="https://github.com/sponsors/kushalsamant" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogithub.png" alt="">GitHub Sponsors</a>
-                        <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="">Gumroad</a>
-                        <a href="https://patreon.com/c/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopatreon.png" alt="">Patreon</a>
-                        <a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosetmore.png" alt="">Setmore</a>
-                        <a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="">Shopify</a>
-                        <a href="https://shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshutterstock.png" alt="">Shutterstock</a>
-                        <a href="https://unsplash.com/@kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logounsplash.png" alt="">Unsplash</a>
+                        <a href="https://contrado.com/stores/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logocontrado.png" alt="Contrado">Contrado</a>
+                        <a href="https://github.com/kushalsamant" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogithub.png" alt="GitHub">GitHub</a>
+                        <a href="https://github.com/sponsors/kushalsamant" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogithub.png" alt="GitHub Sponsors">GitHub Sponsors</a>
+                        <a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="Gumroad">Gumroad</a>
+                        <a href="https://patreon.com/c/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopatreon.png" alt="Patreon">Patreon</a>
+                        <a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosetmore.png" alt="Setmore">Setmore</a>
+                        <a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="Shopify">Shopify</a>
+                        <a href="https://shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshutterstock.png" alt="Shutterstock">Shutterstock</a>
+                        <a href="https://unsplash.com/@kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logounsplash.png" alt="Unsplash">Unsplash</a>
                     </details>
                 </div>
                 
                 <div class="footer-column">
                     <details>
                         <summary>Documentation Tools</summary>
-                        <div class="documentation-tools-content">
-                            <p>
-                                <strong>Video:</strong> <a href="https://videosoftdev.com" rel="noopener noreferrer" target="_blank">VSDC</a>, <a href="https://kapwing.com" rel="noopener noreferrer" target="_blank">Kapwing</a>, <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot" rel="noopener noreferrer" target="_blank">Inshot</a><br>
-                                <strong>Photo:</strong> <a href="https://play.google.com/store/apps/details?id=com.vsco.cam" rel="noopener noreferrer" target="_blank">VSCO</a>, <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed" rel="noopener noreferrer" target="_blank">Snapseed</a>, <a href="https://play.google.com/store/apps/details?id=com.instagram.android" rel="noopener noreferrer" target="_blank">Instagram</a><br>
-                                <strong>Effects:</strong> <a href="https://play.google.com/store/apps/details?id=maa.vaporwave_editor_glitch_vhs_trippy_pro" rel="noopener noreferrer" target="_blank">Vaporgram Pro</a>, <a href="https://play.google.com/store/apps/details?id=kr.co.manhole.hujicam" rel="noopener noreferrer" target="_blank">Huji Cam</a>
-                            </p>
-                        </div>
+                        <a href="https://videosoftdev.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logovsdc.png" alt="VSDC">VSDC</a>
+                        <a href="https://kapwing.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logokapwing.png" alt="Kapwing">Kapwing</a>
+                        <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinshot.png" alt="Inshot">Inshot</a>
+                        <a href="https://play.google.com/store/apps/details?id=com.vsco.cam" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logovsco.png" alt="VSCO">VSCO</a>
+                        <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosnapseed.png" alt="Snapseed">Snapseed</a>
+                        <a href="https://play.google.com/store/apps/details?id=com.instagram.android" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram">Instagram</a>
+                        <a href="https://play.google.com/store/apps/details?id=maa.vaporwave_editor_glitch_vhs_trippy_pro" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logovaporgrampro.png" alt="Vaporgram Pro">Vaporgram Pro</a>
+                        <a href="https://play.google.com/store/apps/details?id=kr.co.manhole.hujicam" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logohujicam.png" alt="Huji Cam">Huji Cam</a>
                     </details>
                 </div>
                 
                 <div class="footer-column">
                     <details>
                         <summary>Legal</summary>
-                        <a href="https://www.kvshvl.in/cancellationandrefundpolicy.html">Cancellation and Refund Policy</a>
-                        <a href="https://www.kvshvl.in/privacypolicy.html">Privacy Policy</a>
-                        <a href="https://www.kvshvl.in/support.html">Support</a>
-                        <a href="https://www.kvshvl.in/termsofservice.html">Terms of Service</a>
+                        <a href="https://kushalsamant.github.io/cancellationandrefundpolicy.html">Cancellation and Refund Policy</a>
+                        <a href="https://kushalsamant.github.io/privacypolicy.html">Privacy Policy</a>
+                        <a href="https://kushalsamant.github.io/support.html">Support</a>
+                        <a href="https://kushalsamant.github.io/termsofservice.html">Terms of Service</a>
                     </details>
                 </div>
             </div>
@@ -132,6 +154,33 @@
             </div>
         </footer>
     </div>
+    
+    <!-- Structured Data (Schema.org) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Kushal Dhananjay Samant",
+      "alternateName": "KVSHVL",
+      "url": "https://kushalsamant.github.io",
+      "image": "https://kushalsamant.github.io/assets/img/logo_kushal_samant_profile_picture_white.png",
+      "jobTitle": "Architect & Software Developer",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Licensed Independent Practice"
+      },
+      "alumniOf": "Visvesvaraya Technological University",
+      "knowsAbout": ["Architecture", "Software Development", "SaaS", "Urban Design", "Problem Solving"],
+      "sameAs": [
+        "https://linkedin.com/in/kvshvl",
+        "https://github.com/kushalsamant",
+        "https://twitter.com/kvshvl_",
+        "https://instagram.com/kvshvl",
+        "https://behance.net/kvshvl",
+        "https://kvshvl.medium.com"
+      ]
+    }
+    </script>
     
 </body>
 </html>

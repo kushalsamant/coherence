@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **What some women want on dating apps**?  
 First, was a girl who said she wanted commitment, intimacy, monogamy and a relationship.  
@@ -19,6 +20,4 @@ Also in the hour we spent together, she was freakishly silent.
 She went to bed without saying goodnight.  
 I slept on the couch, and left in the morning.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

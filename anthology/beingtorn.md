@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Being torn**  
 Between a job or your own shop,
@@ -14,6 +15,4 @@ I am lost at making a decision dear,
 Between selling my craft, and saving my soul,
 Between things that might last, and a risky endeavour.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

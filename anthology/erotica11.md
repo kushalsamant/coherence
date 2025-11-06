@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Erotica 11**  
 :* You’re gonna be working and you’re gonna be getting frustrated.  
@@ -50,6 +51,4 @@ You’re going to pull me back, and grab my sides and thrust harder and harder m
 You’re going to fuck me until I’m begging you to cum and hold me down and fill me up, with every thrust just until you’re about to cum, and then pull out, and make me open my mouth and take you completely in, hitting the back of my throat.  
 You’re going to hold my head, pushing deeper into my mouth, my tongue all over you, and I’m going to suck you up as you fill my mouth with your cum until it drips out.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

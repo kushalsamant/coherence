@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **TBC Travellers Journal**  
 So now this bad boy is called The TBC Travellers Journal.  
@@ -14,6 +15,4 @@ I think TBC has this in Black, Brown, Tan, Full Yellow Rickshaw, Yellow & Black 
 
 Remember - Nothing boots as fast as pen and paper.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

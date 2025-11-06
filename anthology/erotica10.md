@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Erotica 10**  
 She: You ain't gonna jerk off.  
@@ -32,6 +33,4 @@ She: Nope.
 Nothing but your dick and my mouth.  
 Kisses are for another time.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

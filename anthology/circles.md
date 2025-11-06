@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Circles**  
 I think this is one of the rare posts agar aap not asked question before beginning to talk about it.  
@@ -14,6 +15,4 @@ But I agree that their idea is a slight variation of what an actual haiku is.
 But it's a good thing to learn from something that might not be creating the best of its own craft.  
 Learning again then becomes a byproduct of making mistakes by going around in circles.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

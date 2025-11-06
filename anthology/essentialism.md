@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Essentialism**  
 The idea is to lose yourself in nature, and find the time to nurture your creative pursuits.  
@@ -38,6 +39,4 @@ But now because you have the money, asking questions like, “Do you want a hous
 Architects can have a bigger social impact that any other trade around the world.  
 After all that’s the 101 of architecture to use your intelligence to make this world a better place.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Bathroom door**  
 I opened the bathroom door, wondering what will my friends think about me if they discovered that one of the sober guys was doing it too.  
@@ -27,6 +28,4 @@ The garden outside, still visible.
 The voices, still very much audible.  
 I could see the window pane, the steel frame, green grass, the blank wall, the bright sunshine, and the things in my mind!
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

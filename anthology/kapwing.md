@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Kapwing**  
 Here's a sweet resource for digital content creation.  
@@ -43,6 +44,4 @@ You can know more about Kapwing on
 <a href="https://www.kapwing.com/resources" rel="noopener noreferrer" target="_blank">Resources</a>.  
 <a href="https://twitter.com/KapwingApp" rel="noopener noreferrer" target="_blank">Twitter</a>.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

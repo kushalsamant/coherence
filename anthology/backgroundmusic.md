@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Background music**  
 There is this constant background music that comes to us in life.  
@@ -24,6 +25,4 @@ Her rule applies even in everything.
 From dating to products.  
 Everywhere.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

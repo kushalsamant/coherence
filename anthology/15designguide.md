@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **$15 Design Guide**  
 This guide is made of 15 chapters.  
@@ -23,6 +24,4 @@ I hope that my ideas are helpful and universal in nature.
 14. Shadows  
 15. The unknown factor X  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

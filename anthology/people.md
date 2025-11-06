@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **People**  
 I find it rather interesting how the Indian government has now made the train routes go from all the states to the central region that is the national capital region of Delhi.  
@@ -12,6 +13,4 @@ It may not be better than what I thought would be ideal to do that is sending te
 Although you may think that asking lives of all the people in these teams, but the current approach taken by the Indian government risks the life of not just person holding that thermometer but the lives of everybody on the trains.  
 In a very ratio and proportional perspective, you are putting a lot at stake as a government when you mobilise the same people that you have current time for over a period of 60 days without doing any accurate testing to differentiate the carriers of the virus versus the people who are infected and are facing the symptoms versus the people who are completely removed from this population.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

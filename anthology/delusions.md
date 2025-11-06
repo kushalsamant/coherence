@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Delusions**  
 I saw Joker.  
@@ -40,6 +41,4 @@ To walk away from monotony.
 Maybe this is not the real meaning of life.  
 But, a key to make you start thinking consciously and deep about every move you make.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

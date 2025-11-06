@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Meetings**  
 Why am I so lost? What drives meetings? To be honest, last week I was not fair enough to myself, my colleagues, and my work.  
@@ -68,6 +69,4 @@ Was it the setting? Was it the topic? Was it the weather? Was it my determinatio
 Maybe not.  
 Maybe it’s all about the people.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

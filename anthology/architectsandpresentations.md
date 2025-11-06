@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Architects, and presentations**  
 Coming to think of it, presentations scare me.  
@@ -48,6 +49,4 @@ But it is the reason most of us find the reason to live.
 
 Remember this will make all the difference.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

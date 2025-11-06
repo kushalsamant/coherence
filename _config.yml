@@ -1,6 +1,8 @@
 author: "Kushal Samant"
-description: "Official Site / KVSHVL"
+description: "Licensed architect and software developer. Problem solver across architecture, SaaS development, and design. 150+ projects, 296 essays."
 email: kushaldsamant@gmail.com
+url: "https://kushalsamant.github.io"
+baseurl: ""
 google_analytics: UA-105795582-1
 keywords: "Architecture, CSS, HTML, Javascript, People, Places, Visual Art, Web"
 logo: /assets/img/logo_kushal_samant_profile_picture_white.png
@@ -15,6 +17,16 @@ minimal:
 plugins: 
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 show_downloads: true
 theme: jekyll-theme-minimal
 title: KVSHVL
+twitter:
+  username: kvshvl_
+  card: summary
+social:
+  name: Kushal Dhananjay Samant
+  links:
+    - https://twitter.com/kvshvl_
+    - https://linkedin.com/in/kvshvl
+    - https://github.com/kushalsamant

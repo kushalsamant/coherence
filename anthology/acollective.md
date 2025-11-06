@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **A collective**  
 I have spent my last three months trying to declutter.  
@@ -46,6 +47,4 @@ Since I have made a collective out of my everything, every kind of separation ha
 Life is simpler maybe something the Americans can learn from.  
 This is hard to understand for some of us, but soon you will start to get interesting something like Twitter.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Erotica 7**  
 So here's how I really want you.  
@@ -27,6 +28,4 @@ It makes the belt fasten around your delicate neck.
 You choke.  
 As I run my fingers on your mane, you close your eyes and kiss my cock...  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **A riding song**  
 I was just riding alone;
@@ -22,6 +23,4 @@ Ain’t it nothing for you?
 No no no, I was just riding alone;
 On the way to my home.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

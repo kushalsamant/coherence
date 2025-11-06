@@ -1,3 +1,7 @@
+---
+description: "Licensed architect in India with 150+ projects spanning residential, commercial, cultural spaces, teaching, and digital work. Problem solver working transparently through challenges."
+---
+
 # About
 
 ![Architect Kushal Dhananjay Samant](/assets/img/logo_kushal_samant_profile_picture_white.png){:width="150"}

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Ideas**  
 I've never found that every time I get an idea or everytime you come across an idea you will often think that you had thought about it sometime back in your life.  
@@ -13,6 +14,4 @@ But it is not yours alone.
 So next time you feel that why were you not the person to make something happen, or the next time you feel that oh! shit I had thought about this first.  
 So remember this, next time an idea comes to you, forget everything else and try it out.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

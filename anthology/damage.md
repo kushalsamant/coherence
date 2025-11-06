@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Damage**  
 We limit our view of others by the reality we can imagine for ourselves.  
@@ -27,6 +28,4 @@ These are not a part of what popular culture dictates.
 But more of what we wish for us, or think as ideal when we are posed with a new experience.  
 Awareness as such, is essential for happiness.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

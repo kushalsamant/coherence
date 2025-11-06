@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Third approach**  
 I believe that the way you do anything is the way you do everything.  
@@ -26,6 +27,4 @@ What I learnt from these three experiences is that,
 So the third approach is the ideal way of doing things in life.  
 This is true for Maggi, and relationships as it is for most things in life.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

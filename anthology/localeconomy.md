@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Local economy**  
 Do you know what the idea is behind funding local economics? The the full idea why I want to give funding to local economy instead of se a brand as much life in this small top that I was having with this auto rickshaw driver while going back home before this lockdown.  
@@ -10,6 +11,4 @@ Because I am spending it on rickshaw ride I am pretty sure the rickshaw drivers 
 
 Please excuse me for all the spelling mistakes in my articles I am not typing them out I am trying to capture my thought and trying to figure out the next best thing to do for me.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

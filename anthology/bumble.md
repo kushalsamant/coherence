@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Bumble**  
 Well I matched with a girl on @bumble.  
@@ -40,6 +41,4 @@ I will probably sell my books on Instagram.
 She reconnected in 2020, and she confessed that she had lied about being on her chums.  
 We decided to date but she quit that chapter because I did not apply for a government job.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Influence**  
 In my past, I was fired in situations as people vied for influence.  
@@ -32,6 +33,4 @@ Self awareness is the antidote.
 Wish for wishes that make you burn as an individual.  
 Wishes that make you rise up from those ashes like a Phoenix.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Running**  
 Running across different plains, as we see the green pass by, with every turn in turn it stays, a high that drives our innate joys.  
@@ -9,6 +10,4 @@ The only thing that shall save me is unknown, is unknown, is lost within an endl
 But maybe I should just stop still, let the wind blow by me, show me what is that’s missing, let me realize.  
 That every day, and every tide, comes again on a distant stride, we must make right all our wrongs, for this time is all we have, for this time is a blessing in disguise.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

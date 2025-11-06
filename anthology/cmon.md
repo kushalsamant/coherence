@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **C’mon**  
 Step up to the unknown, it’s beautiful inside
@@ -12,6 +13,4 @@ Beckoning my soul, to the depths of an ocean,
 Cries of seagulls, and a big shoal.  
 C’mon, C’mon, C’mon.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

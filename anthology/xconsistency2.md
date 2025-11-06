@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Consistency II**
 Continuing from the previous chapter, what James inferred was that in the human perspective this is how things would play.  
@@ -21,6 +22,4 @@ All you have to do, is to be slightly again slightly better than the other appli
 Remember "slightly".  
 I will continue this in the next chapter.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

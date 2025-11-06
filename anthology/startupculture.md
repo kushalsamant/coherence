@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Startup culture**  
 Start ups are businesses that are still figuring out:  
@@ -7,6 +8,4 @@ Start ups are businesses that are still figuring out:
 2. What purpose they serve?  
 3. How do they make money?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

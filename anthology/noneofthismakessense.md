@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **None of this makes sense**  
 I don't know if you have read the Archie's comic strip series, but there is a story in which Jughead tops the French class.  
@@ -12,6 +13,4 @@ This is the most apt process to learning for life.
 That's what Jughead did and as far as I know that's what everyone should do.  
 So whatever your dream is, whatever you plan to do next, start whereever you can and stick to it.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Slowly letters 1**  
 Hahahahaha, let's write longer letters :P
@@ -59,6 +60,4 @@ Tell me about yourself.
 What all do you do in life? Do you teach?
 Made in India with ❤️
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

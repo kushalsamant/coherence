@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Has Bangalore thought about this**?  
 I am from Bombay, and the two things that I have found to be missing in my rendezvous with Bangalore are, in my opinion as an architect, major reasons for the issues with traffic, and a solution to most anti-outsiders viewpoints that have been shared to me by most of the Uber drivers I have spoken to in this city.  
@@ -54,6 +55,4 @@ This shall give you a healthier society in most respects.
 If you are serious about these things, then two more examples would be The High Line Project, and Central Park, New York would increase the acceptance of this idea by some folds.  
 Since if small roads are a problem then bigger roads is not the answer.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

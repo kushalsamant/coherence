@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Space is an emotion**  
 Space is an emotion, is an attempt to illustrate certain observed notions between human emotions and the spaces we inhabit mostly through the practice of creating architectural spaces.  
@@ -144,6 +145,4 @@ Because the time share is now split into 3 parcels, everyone is more aware about
 This consciousness brings to them a heightened filtering of the clutter.  
 The process then brings clarity to the most personal thoughts and spill out the rest.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Roads**  
 So what happens when people are friendly, almost to the extend that they feel like a soulmate.  
@@ -36,6 +37,4 @@ I remember once a friend quoting, “The roads they gave us a lot, but they also
 
 Just a gist of it, that my mind plays with, is what I have seen, and learnt from all these travel craving people around me.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

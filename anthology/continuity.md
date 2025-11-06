@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Continuity**  
 To help us go down memory lane, to crave a feeling of nostalgia.  
@@ -54,6 +55,4 @@ Do you know what the world needs the most?
 Questions.  
 A lot of them.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

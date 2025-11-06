@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Smaller**  
 If you have read Stupid White Men by Michael Moore, then you would know that Men demand bigger things.  
@@ -12,6 +13,4 @@ Much as the fable goes, David, and Goliath.
 You can complete daunting tasks by going one at it in bits.  
 Bits, not pieces, see! That small.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

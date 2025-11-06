@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Nostalgia**  
 When the society is a non inclusive society, our minds are driven by fear psychosis or an inherent instinct for survival.  
@@ -8,6 +9,4 @@ So be nice to everyone.
 Make nice memories.  
 This way, you can change the world.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

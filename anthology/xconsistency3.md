@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Consistency III**  
 Continuing from the previous chapter.  
@@ -32,6 +33,4 @@ This is popularly known as the Diderot effect.
 Remember "the Diderot effect".  
 I will continue in the next chapter.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

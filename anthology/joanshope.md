@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Joan’s hope**  
 We see, and wonder,
@@ -27,6 +28,4 @@ In the end we are all just humans;
 looking for an escape, a warm body,
 or to shine as the moon under the cloudy skies.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

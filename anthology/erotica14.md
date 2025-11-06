@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Erotica 14**  
 I want you to suck me dry, see your body flow, into voluptuous curves, in dim light, of a lamp shade.  
@@ -10,6 +11,4 @@ You can't help, but close your eyes, and take me in, take me in all the way, the
 These inches of joy, that you are with me for, with you cumming all over it, yet you carry on, to tease me with your tits.  
 You pin my hands down, so I can't spank you, without putting up a fight, just to hold your neck/let you bite my fingers, as you fuck me right.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

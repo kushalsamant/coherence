@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Do you see**? 
 Do you see.  
@@ -18,6 +19,4 @@ How quietly can meta survive?
 It ain’t no fault of thine? 
 Why you should never give up for some wine!
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

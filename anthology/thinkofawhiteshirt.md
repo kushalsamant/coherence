@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Think of a white shirt**  
 Think of a white shirt,
@@ -27,6 +28,4 @@ For a silent breathe you wait;
 Watch your hearts soar,
 As the birds take flight.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

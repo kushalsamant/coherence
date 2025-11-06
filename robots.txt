@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://kushalsamant.github.io/sitemap.xml
+
+# Crawl-delay (be respectful)
+Crawl-delay: 1
+
+# Directories
+Allow: /projects/
+Allow: /anthology/
+Allow: /assets/
+
+# Files to skip
+Disallow: /script/
+Disallow: /Gemfile
+Disallow: /LICENSE
+Disallow: /readme.md
+Disallow: /export.xml
+

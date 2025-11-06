@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Slowly letters 8**  
 Is this your real name?
@@ -53,6 +54,4 @@ Question for today: How many friends do you have? Please do elaborate on the pos
 
 Yours truly,  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

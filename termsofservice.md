@@ -7,6 +7,8 @@ layout: content
 **Effective Date:** November 5, 2025  
 **Last Updated:** November 5, 2025
 
+> **Questions about these Terms?** Email writetokushaldsamant@gmail.com or review with legal counsel before engaging our services.
+
 Welcome to the services provided by Kushal Dhananjay Samant. These Terms of Service ("Terms") govern your access to and use of our SaaS development services, proprietary software platforms, and related offerings. By accessing or using our services, you agree to be bound by these Terms.
 
 Please read these Terms carefully. If you do not agree to these Terms, you may not access or use our services.
@@ -84,8 +86,22 @@ Subscription-based access to our proprietary software platforms and tools, inclu
 - Digital transformation strategy
 - Training and knowledge transfer
 
-### 4.4 Initial Consultation Meetings
-We offer complimentary 30-60 minute discovery meetings to discuss potential projects and assess fit. These meetings are scheduled via Setmore (https://kvshvl.setmore.com) and are subject to our scheduling policies described in Section 6.
+### 4.4 Consultation Types
+
+We offer two types of consultations:
+
+**Discovery Call (Complimentary):**
+- 15-minute introductory conversation
+- Assess project fit and basic scope
+- No payment required
+- Scheduled via [Setmore](https://kvshvl.setmore.com)
+
+**Professional Consultation (Paid):**
+- 60-minute in-depth session
+- Detailed project discussion and technical guidance
+- Upfront payment required
+- Cancellation policy applies (Section 6)
+- Deliverable insights and recommendations
 
 ---
 
@@ -351,15 +367,29 @@ Clients are responsible for:
 - Incident response procedures
 - Employee security training and background checks (where permitted)
 
-### 13.2 Compliance Commitments
+### 13.2 Security Framework
 
-**SOC 2 Type II:** We are working toward SOC 2 Type II certification and implement controls aligned with the Trust Services Criteria.
+We implement security practices informed by industry frameworks:
 
-**ISO 27001:** We follow ISO 27001 best practices for information security management.
+**SOC 2 Trust Services Criteria:**
+- Security controls for data protection
+- Availability and system reliability measures
+- Confidentiality safeguards
+- Privacy controls for personal data
 
-**HIPAA:** For healthcare-related projects, we can provide HIPAA-compliant services with a signed Business Associate Agreement (BAA).
+**ISO 27001-Informed Practices:**
+- Information security management protocols
+- Risk assessment and mitigation
+- Continuous improvement processes
 
-**Industry Standards:** We maintain security practices consistent with industry standards for SaaS providers.
+**Healthcare Project Security:**
+For healthcare-related work, we implement enhanced security measures aligned with HIPAA requirements, including:
+- Encryption for protected health information (PHI)
+- Access controls and audit logging
+- Business Associate Agreement (BAA) execution where applicable
+- Breach notification procedures
+
+*Note: These represent our security practices and commitments. Formal certifications may be pursued based on business needs and client requirements.*
 
 ### 13.3 Security Audits
 We conduct regular third-party security assessments. Audit reports may be provided to enterprise clients under NDA upon request.
@@ -464,53 +494,72 @@ You warrant that:
 
 ## 17. Warranty Disclaimers
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+To the maximum extent permitted by law:
 
 ### 17.1 "AS IS" Services
-THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+The Services are provided "as is" and "as available" without warranties of any kind, whether express or implied. This includes, but is not limited to:
+- Implied warranties of merchantability
+- Fitness for a particular purpose
+- Non-infringement
+
+*In plain terms: We'll do our best and use professional standards, but we can't guarantee specific outcomes.*
 
 ### 17.2 No Guarantee of Results
-WE DO NOT WARRANT OR GUARANTEE ANY SPECIFIC RESULTS FROM USE OF THE SERVICES.
+
+We do not warrant or guarantee any specific results from use of the Services. Success depends on many factors beyond our control.
 
 ### 17.3 Service Availability
-WE DO NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+
+We do not warrant that the Services will be uninterrupted, error-free, secure, or free of viruses or other harmful components. We work to maintain reliability but cannot guarantee 100% uptime.
 
 ### 17.4 Third-Party Components
-WE DISCLAIM ALL WARRANTIES REGARDING THIRD-PARTY SERVICES, SOFTWARE, OR COMPONENTS.
+
+We disclaim all warranties regarding third-party services, software, or components. These are governed by their own terms and conditions.
 
 ### 17.5 Consumer Rights Preserved
-FOR CONSUMERS SUBJECT TO THE CONSUMER PROTECTION ACT, 2019 (INDIA) OR OTHER MANDATORY CONSUMER PROTECTION LAWS, STATUTORY RIGHTS ARE NOT EXCLUDED OR LIMITED BY THESE DISCLAIMERS. THESE DISCLAIMERS APPLY ONLY TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+
+**Important for Consumers:** If you're subject to the Consumer Protection Act, 2019 (India) or other mandatory consumer protection laws, your statutory rights are not excluded or limited by these disclaimers. These disclaimers apply only to the extent permitted by applicable law.
 
 ---
 
 ## 18. Limitation of Liability
 
-### 18.1 Liability Cap – B2B Clients
-FOR BUSINESS-TO-BUSINESS TRANSACTIONS, OUR TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THESE TERMS OR THE SERVICES SHALL NOT EXCEED THE GREATER OF:
-- (a) FEES PAID BY YOU IN THE 12 MONTHS PRECEDING THE CLAIM, OR
-- (b) FIVE LAKH RUPEES (₹5,00,000)
+### 18.1 Liability Cap – Business Clients
+
+For business-to-business transactions, our total liability arising from these Terms or the Services is limited to the greater of:
+- The fees you paid in the 12 months before the claim, or
+- ₹5,00,000 (five lakh rupees)
+
+This cap applies to all claims, regardless of the form of action.
 
 ### 18.2 Exclusion of Consequential Damages
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR:
-- LOST PROFITS, LOST REVENUE, OR LOST BUSINESS OPPORTUNITIES
-- LOSS OF DATA OR DATA CORRUPTION
-- BUSINESS INTERRUPTION
-- LOSS OF GOODWILL OR REPUTATION
-- INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES
+
+To the maximum extent permitted by law, we are not liable for:
+- Lost profits, revenue, or business opportunities
+- Loss of data or data corruption
+- Business interruption
+- Loss of goodwill or reputation
+- Indirect, incidental, consequential, special, exemplary, or punitive damages
+
+*Even if we've been advised of the possibility of such damages.*
 
 ### 18.3 Exceptions
-THE LIMITATIONS IN THIS SECTION DO NOT APPLY TO:
+
+The limitations in this section do not apply to:
 - Fraud, willful misconduct, or gross negligence
 - Death or personal injury caused by our negligence
 - Intellectual property infringement by our deliverables
 - Violations of data protection laws caused by our breach
 - Liabilities that cannot be limited under applicable law
 
-### 18.4 Consumer Protection – B2C Clients
-FOR INDIVIDUAL CONSUMERS IN INDIA, RIGHTS UNDER THE CONSUMER PROTECTION ACT, 2019 ARE PRESERVED. STATUTORY REMEDIES FOR DEFECTIVE SERVICES OR UNFAIR TRADE PRACTICES ARE NOT LIMITED. MAXIMUM LIABILITY REMAINS ₹5,00,000 EXCEPT FOR STATUTORY CONSUMER REMEDIES.
+### 18.4 Consumer Protection – Individual Clients
+
+**For individual consumers in India:** Your rights under the Consumer Protection Act, 2019 are fully preserved. Statutory remedies for defective services or unfair trade practices are not limited. The maximum liability of ₹5,00,000 applies except where statutory consumer remedies provide greater protection.
 
 ### 18.5 International Consumer Rights
-FOR CONSUMERS IN OTHER JURISDICTIONS, LOCAL CONSUMER PROTECTION LAWS APPLY. THESE LIMITATIONS APPLY ONLY TO THE EXTENT PERMITTED BY MANDATORY CONSUMER PROTECTION LAWS IN YOUR JURISDICTION.
+
+**For consumers in other jurisdictions:** Local consumer protection laws apply. These limitations apply only to the extent permitted by mandatory consumer protection laws in your jurisdiction. Your statutory rights remain unaffected.
 
 ---
 

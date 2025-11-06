@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Twitter X pen**  
 My issue with Twitter is that once you drop a message it becomes as impossible to find it again as to find a drop of water in the vast mighty ocean.  
@@ -17,6 +18,4 @@ I know, this topic is so tiring that I did fall asleep while I pen this.
 But nonetheless, it was meant to provide me with me some clarity.  
 And it did.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

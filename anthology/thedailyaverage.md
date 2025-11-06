@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **The daily average**  
 The daily average is at Rs. 25 now.  
@@ -19,6 +20,4 @@ Letting go is an art that I might have mastered so far, but the art of not being
 
 Love.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.

@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **Erotica 5**  
 I want to meet you at a wedding, find you in the crowd, from the other family’s side.  
@@ -53,6 +54,4 @@ Pretending to never have known you, but now a flashback to go to time and again.
 
 Phew!
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.  
-    </div>
-</section>
+- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
