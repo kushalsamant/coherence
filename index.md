@@ -2,59 +2,13 @@
     <p>"I'm the person you call when you don't know what to do. I might not know either, but we'll figure it out together."</p>
 </header>
 
-<div class="slideshow-section">
-    <div class="slideshow-container">
-        <div class="swiper">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <img src="/assets/img/wallpaper.png" alt="Architectural design workspace with blueprints and creative materials" loading="lazy">
-                </div>
-                <div class="swiper-slide">
-                    <img src="/assets/img/wallpaper_01.png" alt="Contemporary architectural concept visualization" loading="lazy">
-                </div>
-                <div class="swiper-slide">
-                    <img src="/assets/img/wallpaper_02.png" alt="Modern building exterior perspective with natural lighting" loading="lazy">
-                </div>
-                <div class="swiper-slide">
-                    <img src="/assets/img/wallpaper_03.png" alt="Urban architecture and streetscape design study" loading="lazy">
-                </div>
-                <div class="swiper-slide">
-                    <img src="/assets/img/wallpaper_04.png" alt="Architectural detail exploration and material studies" loading="lazy">
-                </div>
-                <div class="swiper-slide">
-                    <img src="/assets/img/wallpaper_05.png" alt="Interior spatial design concept with natural elements" loading="lazy">
-                </div>
-                <div class="swiper-slide">
-                    <img src="/assets/img/wallpaper_06.jpg" alt="Built environment documentation and site analysis" loading="lazy">
-                </div>
-                <div class="swiper-slide">
-                    <img src="/assets/img/wallpaper_07.jpg" alt="Architectural photography and design inspiration" loading="lazy">
-                </div>
-                <div class="swiper-slide">
-                    <img src="/assets/img/wallpaper_oprah.jpg" alt="Cultural and contextual architectural influences" loading="lazy">
-                </div>
-            </div>
-            
-            <div class="swiper-button-next" aria-label="Next slide"></div>
-            <div class="swiper-button-prev" aria-label="Previous slide"></div>
-        </div>
-    </div>
-    
-    <div class="slideshow-info">
-        <div>
-            <h2 class="slideshow-title">KVSHVL</h2>
-            <nav class="slideshow-menu" role="navigation" aria-label="Main navigation">
-                <a href="https://kushalsamant.github.io/about.html">About</a>
-                <a href="https://kushalsamant.github.io/people.html">People</a>
-                <a href="https://kushalsamant.github.io/projects.html">Projects</a>
-                <a href="https://kushalsamant.github.io/support.html">Get in Touch</a>
-                <a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book a Consultation</a>
-            </nav>
-        </div>
-        <div class="slideshow-counter" aria-live="polite" aria-atomic="true">1/9</div>
-        <!-- Note: Counter requires JavaScript to update dynamically -->
-    </div>
-</div>
+<nav class="main-navigation" role="navigation" aria-label="Main navigation">
+    <a href="https://kushalsamant.github.io/about.html">About</a>
+    <a href="https://kushalsamant.github.io/people.html">People</a>
+    <a href="https://kushalsamant.github.io/projects.html">Projects</a>
+    <a href="https://kushalsamant.github.io/support.html">Get in Touch</a>
+    <a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Book a Consultation</a>
+</nav>
 
 <main class="content-section">
     <article class="grid-item">
