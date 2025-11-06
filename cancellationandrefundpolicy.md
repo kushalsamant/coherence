@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 # Cancellation & Refund Policy
 
@@ -633,6 +634,3 @@ Our policies are designed to meet or exceed legal requirements while ensuring fa
 **Related Policies:**
 - Terms of Service: https://kvshvl.in/termsofservice.html
 - Privacy Policy: https://kvshvl.in/privacypolicy.html
-        < / d i v > \ n < / s e c t i o n > 
- 
- 

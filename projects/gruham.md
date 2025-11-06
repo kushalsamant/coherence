@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 **GRÜHAM**.
 
@@ -131,5 +132,3 @@ Carpet Area: 384 SFT
 We hope you love what we do.
 
 - <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
-    </div>
-</section>

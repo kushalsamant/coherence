@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 Can clients themselves build with an earthen material palette?
 
@@ -9,5 +10,3 @@ Can clients themselves build with an earthen material palette?
 Built 2011.
 
 - <a href="https://kushalsamant.github.io/projects.html">Back to Projects</a>.
-    </div>
-</section>

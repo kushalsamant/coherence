@@ -1,5 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
+---
+layout: content
+---
 
 # Terms of Service
 
@@ -743,6 +744,3 @@ By accessing or using our Services, you acknowledge that you have read, understo
 ---
 
 *These Terms of Service were last updated on November 5, 2025. For the most current version, please visit https://kvshvl.in/termsofservice.html*
-        < / d i v > \ n < / s e c t i o n > 
- 
- 

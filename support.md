@@ -1,6 +1,8 @@
-<section class="content-section">
-    <div class="grid-item">
-        <h1>Get in Touch</h1>
+---
+layout: content
+---
+
+# Get in Touch
 
 <p>If you'd like to reach out: whether it's to say hello, share feedback, ask a question, or talk through an idea: I'd love to hear from you. The easiest way to connect with me casually is on <a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a>, where I try to respond to as many posts and messages as I can.</p>
 
@@ -86,5 +88,3 @@ Essays on <a href="https://kvshvl.medium.com" rel="noopener noreferrer" target="
 ---
 
 **Committed to delivering reliable, secure, and compliant SaaS solutions for businesses worldwide.**
-    </div>
-</section>
