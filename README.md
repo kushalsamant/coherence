@@ -1,6 +1,3 @@
-<section class="content-section">
-    <div class="grid-item">
-
 # KVSHVL - Official Website
 
 > "Memento Mori, Amor Fati." — Marcus Aurelius
@@ -106,10 +103,10 @@ Comprehensive documentation is organized in the `.github/` folder:
 |--------|-------|
 | **Blog Posts** | 296 |
 | **Portfolio Projects** | 142+ |
-| **People Acknowledged** | 136 |
-| **Legal Document Lines** | 2,286 (across 3 files) |
-| **Total Markdown Files** | 325+ |
-| **Images** | 114 |
+| **People Acknowledged** | 132 |
+| **Legal Document Lines** | 2,301 (across 3 files) |
+| **Total Markdown Files** | 321 |
+| **Images** | 115 |
 | **Sitemap Entries** | 1,144 |
 
 ---
@@ -119,7 +116,7 @@ Comprehensive documentation is organized in the `.github/` folder:
 ### Main Navigation
 - **[Home](https://kvshvl.in)** - SVMVNT introduction and philosophy
 - **[About](https://kvshvl.in/about.html)** - Professional biography (2006-2024)
-- **[People](https://kvshvl.in/people.html)** - Acknowledgments of 136 mentors
+- **[People](https://kvshvl.in/people.html)** - Acknowledgments of 132 mentors
 - **[Projects](https://kvshvl.in/projects.html)** - Portfolio of 142+ projects
 - **[Get in Touch](https://kvshvl.in/support.html)** - Business services
 
@@ -127,9 +124,9 @@ Comprehensive documentation is organized in the `.github/` folder:
 - **[Anthology](https://kvshvl.in/anthology.html)** - Index of 296 blog posts
 
 ### Legal Pages
-- **[Terms of Service](https://kvshvl.in/termsofservice.html)** - 743 lines, 27 sections
-- **[Privacy Policy](https://kvshvl.in/privacypolicy.html)** - 910 lines, 20 sections (GDPR/CCPA)
-- **[Cancellation & Refund Policy](https://kvshvl.in/cancellationandrefundpolicy.html)** - 633 lines, 16 sections
+- **[Terms of Service](https://kvshvl.in/termsofservice.html)** - 748 lines, 27 sections
+- **[Privacy Policy](https://kvshvl.in/privacypolicy.html)** - 915 lines, 20 sections (GDPR/CCPA)
+- **[Cancellation & Refund Policy](https://kvshvl.in/cancellationandrefundpolicy.html)** - 638 lines, 16 sections
 
 ---
 
@@ -222,7 +219,7 @@ Based on jekyll-theme-minimal with extensive custom modifications.
 
 This website represents years of work, learning, and collaboration. Special thanks to:
 
-- **136 individuals** acknowledged in [people.md](people.md) who taught things that couldn't be learned otherwise
+- **132 individuals** acknowledged in [people.md](people.md) who taught things that couldn't be learned otherwise
 - The **Jekyll community** for creating an excellent static site generator
 - **GitHub Pages** for free, reliable hosting
 - **Open source contributors** whose tools and libraries made this possible
@@ -284,14 +281,17 @@ Interested in working together? Book a **free 1:1 consultation** to discuss your
 
 **November 5, 2025:**
 - ✅ Dark minimalist theme redesign with serif typography
-- ✅ Swiper.js carousel integration with fade transitions
+- ✅ Swiper.js carousel integration with fade transitions (`assets/js/slideshow.js`)
+- ✅ New dark theme stylesheet (`portfolio-dark-theme.scss`)
+- ✅ SVG favicon for dark theme (`assets/img/favicon.svg`)
 - ✅ Comprehensive legal documentation implementation
-- ✅ Terms of Service (743 lines, 27 sections)
-- ✅ Privacy Policy (910 lines, 20 sections) - GDPR/CCPA compliant
-- ✅ Cancellation & Refund Policy (633 lines, 16 sections)
+- ✅ Terms of Service (748 lines, 27 sections)
+- ✅ Privacy Policy (915 lines, 20 sections) - GDPR/CCPA compliant
+- ✅ Cancellation & Refund Policy (638 lines, 16 sections)
 - ✅ Complete website validation (Production Ready status)
 - ✅ Enterprise-grade SaaS business platform ready
-- ✅ Documentation reorganization into modular structure
+- ✅ Documentation reorganization into 8 modular files in `.github/`
+- ✅ Workflows moved to `.github/.workflows/` subdirectory
 
 **2024:**
 - ✅ Launched Geometry merchandising venture
@@ -313,4 +313,3 @@ Interested in working together? Book a **free 1:1 consultation** to discuss your
   <a href="https://www.linkedin.com/in/kvshvl">LinkedIn</a> •
   <a href="https://github.com/kushalsamant">GitHub</a>
 </p>
-

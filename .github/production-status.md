@@ -14,7 +14,7 @@ Complete dark minimalist theme redesign and comprehensive validation across all 
 
 **Production Readiness Score:** 100%
 
-**Recent Major Update:** Dark minimalist theme with Swiper.js carousel, 323+ pages updated
+**Recent Major Update:** Dark minimalist theme with Swiper.js carousel, 321 markdown files updated
 
 ---
 
@@ -29,7 +29,7 @@ Complete dark minimalist theme redesign and comprehensive validation across all 
 
 ### Verified Content
 
-- ✅ All 325 markdown files present and accounted for
+- ✅ All 321 markdown files present and accounted for
 - ✅ 296 anthology blog posts with working links
 - ✅ Main navigation pages (index, about, people, projects, support)
 - ✅ Legal documentation pages render correctly

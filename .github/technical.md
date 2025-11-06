@@ -21,7 +21,7 @@ kushalsamant.github.io/
 ├── assets/                              # Static assets
 │   ├── css/                            # Compiled CSS
 │   ├── fonts/                          # Font files
-│   ├── img/                            # Images (114 files) + favicon.svg
+│   ├── img/                            # Images (115 files including favicon.svg)
 │   └── js/
 │       └── slideshow.js                # Swiper carousel configuration
 ├── anthology/                           # 296 blog posts
@@ -30,7 +30,7 @@ kushalsamant.github.io/
 │   ├── rss.xml                         # RSS feed
 │   └── sitemap/                        # XML sitemaps (1144 files)
 ├── .github/                             # GitHub configuration
-│   ├── workflows/                       # CI/CD workflows
+│   ├── .workflows/                      # CI/CD workflows (hidden subdirectory)
 │   │   ├── update_rss.yml
 │   │   └── update_sitemap.yml
 │   ├── business.md                      # Business information
@@ -45,16 +45,16 @@ kushalsamant.github.io/
 ├── Core Pages:
 ├── index.md                            # Homepage (SVMVNT)
 ├── about.md                            # Professional biography
-├── people.md                           # Acknowledgments (136 people)
+├── people.md                           # Acknowledgments (132 people)
 ├── projects.md                         # Portfolio index
 ├── anthology.md                        # Blog index
 ├── support.md                          # Business contact & services
 ├── contact.md                          # Personal contact page
 │
 ├── Legal Documentation:
-├── termsofservice.md                   # Terms of Service (743 lines)
-├── privacypolicy.md                    # Privacy Policy (910 lines)
-├── cancellationandrefundpolicy.md      # Refund Policy (633 lines)
+├── termsofservice.md                   # Terms of Service (748 lines)
+├── privacypolicy.md                    # Privacy Policy (915 lines)
+├── cancellationandrefundpolicy.md      # Refund Policy (638 lines)
 │
 └── Configuration Files:
     ├── CNAME                           # Custom domain (kvshvl.in)
@@ -281,7 +281,7 @@ For design details, see [Design System](.github/design-system.md).
 
 ### Update RSS Feed
 
-**File:** `.github/workflows/update_rss.yml`
+**File:** `.github/.workflows/update_rss.yml`
 
 **Trigger:**
 - Push to main branch
@@ -294,7 +294,7 @@ For design details, see [Design System](.github/design-system.md).
 
 ### Update Sitemap
 
-**File:** `.github/workflows/update_sitemap.yml`
+**File:** `.github/.workflows/update_sitemap.yml`
 
 **Trigger:**
 - Push to main branch
@@ -303,7 +303,7 @@ For design details, see [Design System](.github/design-system.md).
 **Actions:**
 - Generate sitemap for all pages
 - Update `marketing/sitemap/` files
-- Include all 325+ pages
+- Include all 321 markdown files
 - Commit changes (if any)
 
 ---
@@ -357,13 +357,13 @@ kvshvl.in
 
 **CSS:** `assets/css/`  
 **Fonts:** `assets/fonts/` (organized by variant)  
-**Images:** `assets/img/` (114 files)  
-**JavaScript:** `assets/js/`
+**Images:** `assets/img/` (115 files)  
+**JavaScript:** `assets/js/` (slideshow.js - Swiper carousel configuration)
 
 ### Documentation
 
 **Repository Docs:** `.github/` (8 documentation files)  
-**Workflows:** `.github/workflows/` (2 automation files)
+**Workflows:** `.github/.workflows/` (2 automation files - hidden subdirectory)
 
 ---
 

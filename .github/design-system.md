@@ -267,9 +267,17 @@ Used on People page for elegant name listing.
 
 ### Assets
 
-- `/assets/img/` - Images and logos
+- `/assets/img/` - Images and logos (115 files)
 - `/assets/img/favicon.svg` - Black/white SVG favicon
 - `/assets/fonts/` - Font files (Noto Sans legacy)
+
+### JavaScript
+
+- `assets/js/slideshow.js` - Swiper carousel configuration
+  - Fade effect with 5-second auto-advance
+  - Keyboard navigation support
+  - Counter display (current/total)
+  - Arrow navigation controls
 
 ---
 

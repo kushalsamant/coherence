@@ -8,7 +8,7 @@ Comprehensive overview of the enterprise-grade legal documentation suite and com
 
 ### Terms of Service
 - **File:** `termsofservice.md`
-- **Lines:** 743
+- **Lines:** 748
 - **Sections:** 27
 - **Status:** ✅ Complete
 - **Effective Date:** November 5, 2025
@@ -25,7 +25,7 @@ Comprehensive overview of the enterprise-grade legal documentation suite and com
 
 ### Privacy Policy
 - **File:** `privacypolicy.md`
-- **Lines:** 910
+- **Lines:** 915
 - **Sections:** 20
 - **Status:** ✅ Complete
 - **Effective Date:** November 5, 2025
@@ -42,7 +42,7 @@ Comprehensive overview of the enterprise-grade legal documentation suite and com
 
 ### Cancellation & Refund Policy
 - **File:** `cancellationandrefundpolicy.md`
-- **Lines:** 633
+- **Lines:** 638
 - **Sections:** 16
 - **Status:** ✅ Complete
 - **Effective Date:** November 5, 2025
@@ -232,10 +232,10 @@ All legal documents properly reference each other for comprehensive coverage:
 
 | Document | Lines | Sections | Effective Date |
 |----------|-------|----------|----------------|
-| Terms of Service | 743 | 27 | Nov 5, 2025 |
-| Privacy Policy | 910 | 20 | Nov 5, 2025 |
-| Cancellation & Refund | 633 | 16 | Nov 5, 2025 |
-| **Total** | **2,286** | **63** | **All Current** |
+| Terms of Service | 748 | 27 | Nov 5, 2025 |
+| Privacy Policy | 915 | 20 | Nov 5, 2025 |
+| Cancellation & Refund | 638 | 16 | Nov 5, 2025 |
+| **Total** | **2,301** | **63** | **All Current** |
 
 ---
 
