@@ -108,7 +108,6 @@ body {
 body, p, h1, h2, h3, h4, h5, h6, a, li, td, th {
   word-wrap: break-word;
   overflow-wrap: break-word;
-  hyphens: auto;
 }
 
 /* Typography
@@ -188,6 +187,7 @@ a:focus:not(:focus-visible) {
 
 header {
   width: 100%;
+  max-width: 100vw;
   background: var(--color-background);
   padding: var(--space-8) 0;
   border-bottom: var(--border-width) solid var(--color-border);
@@ -394,6 +394,7 @@ hr {
   margin: var(--space-16) 0;
   padding: var(--space-8);
   grid-template-columns: 1fr;
+  max-width: 100%;
 }
 
 .grid-item {
@@ -401,6 +402,7 @@ hr {
   border: none;
   margin: 0;
   padding: var(--space-12);
+  max-width: 100%;
 }
 
 /* Button Components - Minimalist
