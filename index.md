@@ -53,6 +53,6 @@
     </article>
     
     <footer class="grid-item" style="margin-top: 2em; padding-top: 2em; font-size: 0.9em; color: #666;">
-        <p>© Architect Kushal Dhananjay Samant. Licensed under the Architect's Act, 1972 of India.</p>
+        <p>© {{ site.time | date: "%Y" }} Architect Kushal Dhananjay Samant. Licensed under the Architect's Act, 1972 of India.</p>
     </footer>
 </main>
