@@ -81,6 +81,9 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
+  background-color: var(--color-background);
+  overflow-x: hidden;
+  width: 100%;
 }
 
 body {
@@ -96,6 +99,16 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+/* Global text wrapping and overflow handling
+   ========================================================================== */
+body, p, h1, h2, h3, h4, h5, h6, a, li, td, th {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
 }
 
 /* Typography
@@ -146,6 +159,8 @@ a {
   border-bottom: 1px solid transparent;
   transition: border-color var(--duration-fast);
   letter-spacing: var(--letter-spacing-normal);
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 a:hover {
@@ -168,6 +183,7 @@ a:focus:not(:focus-visible) {
   max-width: var(--wrapper-max-width);
   margin: 0 auto;
   padding: 0 var(--space-6);
+  overflow-x: hidden;
 }
 
 header {
@@ -290,6 +306,7 @@ code {
   background: transparent;
   padding: var(--space-2);
   border: var(--border-width) solid var(--color-border);
+  word-break: break-all;
 }
 
 pre {
@@ -315,6 +332,9 @@ table {
   border-collapse: collapse;
   margin: var(--space-16) 0;
   border: var(--border-width) solid var(--color-border);
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 th, td {
@@ -417,6 +437,7 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
+  object-fit: contain;
 }
 
 /* Hero Section - Minimalist Style
@@ -534,6 +555,8 @@ img {
   display: block;
   margin-bottom: var(--space-4);
   font-size: var(--font-size-sm);
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .footer-column img {
@@ -596,13 +619,13 @@ a, button, [role="button"] {
     --space-24: 3rem;
     --space-32: 4rem;
     
-    --font-size-sm: 0.75rem;
-    --font-size-base: 1.125rem;
-    --font-size-lg: 1.25rem;
-    --font-size-xl: 1.5rem;
-    --font-size-2xl: 1.875rem;
-    --font-size-3xl: 2.25rem;
-    --font-size-4xl: 2.5rem;
+    --font-size-sm: 0.75rem;      /* 12px */
+    --font-size-base: 1rem;        /* 16px - better for mobile */
+    --font-size-lg: 1.125rem;      /* 18px */
+    --font-size-xl: 1.25rem;       /* 20px */
+    --font-size-2xl: 1.5rem;       /* 24px */
+    --font-size-3xl: 1.875rem;     /* 30px */
+    --font-size-4xl: 2.25rem;      /* 36px */
   }
 
   body {
@@ -669,6 +692,31 @@ a, button, [role="button"] {
 
   .grid-item {
     padding: var(--space-6);
+  }
+}
+
+/* Extra Small Devices (320px to 479px) */
+@media screen and (max-width: 479px) {
+  :root {
+    --font-size-base: 0.875rem;  /* 14px for very small screens */
+    --space-4: 0.5rem;
+    --space-8: 1rem;
+  }
+
+  body {
+    padding: var(--space-2);
+  }
+
+  .hero-quote {
+    font-size: 1.5rem;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
   }
 }
 
