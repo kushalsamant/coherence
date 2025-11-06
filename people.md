@@ -1,8 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
-        <h1>People</h1>
+# People
 
-<p>These people taught me things that I could not have learnt otherwise.</p>
+These people taught me things that I could not have learnt otherwise.
 
 <div class="content-columns">
 
@@ -138,6 +136,5 @@ Varadkar,&nbsp;Santosh. <br>
 Vora,&nbsp;Shyam. <br>
 Wadhwani,&nbsp;Sakshi. <br>
 Yalgi,&nbsp;Mohit.
-        </div>
-    </div>
-</section>
+
+</div>

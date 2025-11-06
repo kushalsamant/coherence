@@ -268,7 +268,7 @@ For the complete list, see the [People page](https://kvshvl.in/people.html).
 
 Interested in working together? Book a **free 1:1 consultation** to discuss your project:
 
-**[📅 Book a Meeting on Setmore](https://kvshvl.setmore.com)**
+**[📅 Schedule a Consultation on Setmore](https://kvshvl.setmore.com)**
 
 - Duration: 30-60 minutes
 - Format: Video conference or phone call
@@ -309,7 +309,7 @@ Interested in working together? Book a **free 1:1 consultation** to discuss your
 
 <p align="center">
   <a href="https://kvshvl.in">Website</a> •
-  <a href="https://kvshvl.setmore.com">Book Consultation</a> •
+  <a href="https://kvshvl.setmore.com">Schedule Consultation</a> •
   <a href="https://www.linkedin.com/in/kvshvl">LinkedIn</a> •
   <a href="https://github.com/kushalsamant">GitHub</a>
 </p>

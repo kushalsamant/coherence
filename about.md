@@ -1,10 +1,8 @@
-<section class="content-section">
-    <div class="grid-item">
-        <h1>About</h1>
+# About
 
-<img src="/assets/img/logo_kushal_samant_profile_picture_white.png" alt="Architect Kushal Dhananjay Samant" width="150">
+![Architect Kushal Dhananjay Samant](/assets/img/logo_kushal_samant_profile_picture_white.png){:width="150"}
 
-<p>Kushal&nbsp;Dhananjay&nbsp;Samant is an Architect, based in India.</p>
+Kushal Dhananjay Samant is an Architect, based in India.
 
 In 2006, he started this journey as a side-hustle by selling stationery. In 2009, he started designing competition entries with other architects based in Seattle, CDMX, Buenos Aires, Maastricht, Torino, Kaapstad, Tampere, Mumbai, Panjim, Bangalore, Manila, and Sydney.
 
@@ -23,5 +21,3 @@ Since 2022, he is listed as an Assistant Professor of Architecture at Dr.&nbsp;D
 In 2024, he built a merchandising venture - <a href="https://geometry.printify.com" rel="noopener noreferrer" target="_blank">Geometry</a>. Currently, he is creating the open-source <a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">_ASK_:&nbsp;Daily&nbsp;Research</a> tool - an offline-first AI platform for generating photorealistic Q&A content on research themes including architecture, sustainability, and urban planning.
 
 He has been working in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
-    </div>
-</section>

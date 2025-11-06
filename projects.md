@@ -1,8 +1,6 @@
-<section class="content-section">
-    <div class="grid-item">
-        <h1>Projects</h1>
+# Projects
 
-<p>These are the projects/ventures I've worked on.</p>
+These are the projects/ventures I've worked on.
 
 <a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">_ASK_: Daily Research</a>. <br>
 <a href="https://geometry.printify.com" rel="noopener noreferrer" target="_blank">Geometry</a>. <br>
@@ -145,5 +143,3 @@ Apartment, Sanjaynagar, Bangalore. Client: Mr. Nori Phanindra. <br>
 Residence, Chamarajpet, Bangalore. Client: Mr. Sitaram and Mrs. Shruti. <br>
 Residence + Interiors, Bangalore. Client: Dr. Ravindran. <br>
 Interiors, Sanjaynagar, Bangalore. Client: Ar. Madhusudhan Sridhar. <br>
-    </div>
-</section>
