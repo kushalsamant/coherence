@@ -81,7 +81,6 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background-color: var(--color-background);
   overflow-x: hidden;
   width: 100%;
 }
@@ -93,7 +92,6 @@ body {
   line-height: var(--line-height-normal);
   letter-spacing: var(--letter-spacing-normal);
   color: var(--color-text);
-  background-color: var(--color-background);
   margin: 0;
   padding: var(--space-8);
   min-height: 100vh;
