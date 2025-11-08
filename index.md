@@ -3,6 +3,7 @@ description: "Licensed Architect & SaaS Developer building tools that preserve h
 ---
 
 <nav class="main-navigation" role="navigation" aria-label="Main navigation" style="display: flex; gap: 2rem; padding: 1rem;">
+    <a href="https://kushalsamant.github.io/history.html" style="color: #4A9EFF; font-weight: 600;">History</a>
     <a href="https://kvshvl.vercel.app" rel="noopener noreferrer" target="_blank" style="color: #4A9EFF; font-weight: 600;">SaaS</a>
     <a href="https://kushalsamant.github.io/support.html" style="color: #4A9EFF; font-weight: 600;">Support</a>
 </nav>
