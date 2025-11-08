@@ -2,12 +2,12 @@
 description: "Licensed Architect & SaaS Developer building tools that preserve human voice in AI systems. Based in Navi Mumbai, India."
 ---
 
-<nav class="main-navigation" role="navigation" aria-label="Main navigation" style="display: flex; justify-content: center; gap: 2rem; padding: 1rem;">
+<nav class="main-navigation" role="navigation" aria-label="Main navigation" style="display: flex; gap: 2rem; padding: 1rem;">
     <a href="https://kvshvl.vercel.app" rel="noopener noreferrer" target="_blank" style="color: #4A9EFF; font-weight: 600;">SaaS</a>
     <a href="https://kushalsamant.github.io/support.html" style="color: #4A9EFF; font-weight: 600;">Support</a>
 </nav>
 
-<main class="content-section" style="text-align: center; padding: 2rem 1rem; color: #ffffff;">
+<main class="content-section" style="padding: 2rem 1rem; color: #ffffff;">
     <article class="grid-item">
         <h1 style="color: #ffffff; font-size: 2.5rem; margin-bottom: 1rem;">Kushal Samant</h1>
         
