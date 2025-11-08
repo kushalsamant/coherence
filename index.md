@@ -16,12 +16,6 @@ description: "Licensed Architect & SaaS Developer building tools that preserve h
         <p>Licensed Architect & SaaS Developer<br>
         Building tools that preserve human voice in AI systems</p>
         
-        <p style="display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; justify-content: center;">
-        <strong><a href="https://kvshvl.vercel.app" rel="noopener noreferrer" target="_blank">View Projects</a></strong>
-        <strong><a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank">Schedule Consultation</a></strong>
-        <strong><a href="https://linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank">LinkedIn</a></strong>
-        </p>
-        
         <p>Based in Navi Mumbai, India<br>
         +91 87796 32310<br>
         <a href="mailto:writetokushaldsamant@gmail.com">writetokushaldsamant@gmail.com</a></p>
