@@ -2,24 +2,20 @@
 description: "Licensed Architect & SaaS Developer building tools that preserve human voice in AI systems. Based in Navi Mumbai, India."
 ---
 
-<nav class="main-navigation" role="navigation" aria-label="Main navigation">
-    <a href="https://kvshvl.vercel.app" rel="noopener noreferrer" target="_blank">SaaS</a>
-    <a href="https://kushalsamant.github.io/support.html">Support</a>
+<nav class="main-navigation" role="navigation" aria-label="Main navigation" style="display: flex; justify-content: center; gap: 2rem; padding: 1rem;">
+    <a href="https://kvshvl.vercel.app" rel="noopener noreferrer" target="_blank" style="color: #4A9EFF; font-weight: 600;">SaaS</a>
+    <a href="https://kushalsamant.github.io/support.html" style="color: #4A9EFF; font-weight: 600;">Support</a>
 </nav>
 
-<main class="content-section">
+<main class="content-section" style="text-align: center; padding: 2rem 1rem; color: #ffffff;">
     <article class="grid-item">
-        <h1>Kushal Samant</h1>
+        <h1 style="color: #ffffff; font-size: 2.5rem; margin-bottom: 1rem;">Kushal Samant</h1>
         
-        <p>Licensed Architect & SaaS Developer<br>
+        <p style="font-size: 1.2rem; margin-bottom: 2rem;">Licensed Architect & SaaS Developer<br>
         Building tools that preserve human voice in AI systems</p>
         
-        <p>Based in Navi Mumbai, India<br>
+        <p style="line-height: 1.8;">Based in Navi Mumbai, India<br>
         +91 87796 32310<br>
-        <a href="mailto:writetokushaldsamant@gmail.com">writetokushaldsamant@gmail.com</a></p>
+        <a href="mailto:writetokushaldsamant@gmail.com" style="color: #4A9EFF; font-weight: 600;">writetokushaldsamant@gmail.com</a></p>
     </article>
-    
-    <footer class="grid-item page-footer">
-        <p>© {{ site.time | date: "%Y" }} Architect Kushal Dhananjay Samant. Licensed under the Architect's Act, 1972 of India.</p>
-    </footer>
 </main>
