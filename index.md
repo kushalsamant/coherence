@@ -9,8 +9,6 @@ description: "Licensed Architect & SaaS Developer building tools that preserve h
 
 <main class="content-section">
     <article class="grid-item">
-        <img src="/assets/img/logo_kushal_samant_profile_picture_cute.png" alt="Kushal Samant" width="150" style="border-radius: 50%; margin-bottom: 1rem;">
-        
         <h1>Kushal Samant</h1>
         
         <p>Licensed Architect & SaaS Developer<br>
