@@ -624,4 +624,3 @@ This collection of writings touches upon various aspects of the human experience
 <a href="https://kushalsamant.github.io/anthology/yesterday.html">Yesterday</a> | 
 <a href="https://kushalsamant.github.io/anthology/yetohtujaanena.html">Ye toh tu jaane na</a> | 
 <a href="https://kushalsamant.github.io/anthology/zomatoinbadweather.html">Zomato in bad weather</a>
-
