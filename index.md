@@ -3,20 +3,20 @@ description: "Licensed Architect & SaaS Developer building tools that preserve h
 ---
 
 <nav class="main-navigation" role="navigation" aria-label="Main navigation" style="display: flex; gap: 2rem; padding: 1rem;">
-    <a href="https://kushalsamant.github.io/history.html" style="color: #CCCCCC; font-weight: 600; text-decoration: none;">History</a>
-    <a href="https://kvshvl.vercel.app" rel="noopener noreferrer" target="_blank" style="color: #CCCCCC; font-weight: 600; text-decoration: none;">SaaS</a>
-    <a href="https://kushalsamant.github.io/support.html" style="color: #CCCCCC; font-weight: 600; text-decoration: none;">Support</a>
+    <a href="https://kushalsamant.github.io/history.html" style="color: #E0E0E0; font-weight: 600; text-decoration: none;">History</a>
+    <a href="https://kvshvl.vercel.app" rel="noopener noreferrer" target="_blank" style="color: #E0E0E0; font-weight: 600; text-decoration: none;">SaaS</a>
+    <a href="https://kushalsamant.github.io/support.html" style="color: #E0E0E0; font-weight: 600; text-decoration: none;">Support</a>
 </nav>
 
-<main style="padding: 2rem 1rem; color: #E8E8E8;">
+<main style="padding: 2rem 1rem; color: #ffffff;">
     <article>
-        <h1 style="color: #F5F5F5; font-size: 2.5rem; margin-bottom: 1rem;">Kushal Samant</h1>
+        <h1 style="color: #ffffff; font-size: 2.5rem; margin-bottom: 1rem;">Kushal Samant</h1>
         
-        <p style="font-size: 1.2rem; margin-bottom: 2rem; color: #E8E8E8;">Licensed Architect & SaaS Developer<br>
+        <p style="font-size: 1.2rem; margin-bottom: 2rem;">Licensed Architect & SaaS Developer<br>
         Building tools that preserve human voice in AI systems</p>
         
-        <p style="line-height: 1.8; color: #E8E8E8;">Based in Navi Mumbai, India<br>
+        <p style="line-height: 1.8;">Based in Navi Mumbai, India<br>
         +91 87796 32310<br>
-        <a href="mailto:writetokushaldsamant@gmail.com" style="color: #CCCCCC; font-weight: 600;">writetokushaldsamant@gmail.com</a></p>
+        <a href="mailto:writetokushaldsamant@gmail.com" style="color: #E0E0E0; font-weight: 600;">writetokushaldsamant@gmail.com</a></p>
     </article>
 </main>
