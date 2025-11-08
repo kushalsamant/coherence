@@ -8,8 +8,8 @@ description: "Licensed Architect & SaaS Developer building tools that preserve h
     <a href="https://kushalsamant.github.io/support.html" style="color: #4A9EFF; font-weight: 600; text-decoration: none;">Support</a>
 </nav>
 
-<main class="content-section" style="padding: 2rem 1rem; color: #ffffff;">
-    <article class="grid-item">
+<main style="padding: 2rem 1rem; color: #ffffff; background: none;">
+    <article style="background: none;">
         <h1 style="color: #ffffff; font-size: 2.5rem; margin-bottom: 1rem;">Kushal Samant</h1>
         
         <p style="font-size: 1.2rem; margin-bottom: 2rem;">Licensed Architect & SaaS Developer<br>
