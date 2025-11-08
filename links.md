@@ -2,6 +2,15 @@
 description: "All social media, creative platforms, and tools where you can find Kushal Samant's work across the web."
 ---
 
+<style>
+article img {
+  height: 1.2em;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+</style>
+
 # Links
 
 All platforms and tools where you can find my work, connect, or explore content.
