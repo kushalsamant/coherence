@@ -188,7 +188,6 @@ a:focus:not(:focus-visible) {
 header {
   width: 100%;
   max-width: 100vw;
-  background: var(--color-background);
   padding: var(--space-8) 0;
   margin-bottom: 0;
   position: sticky;
@@ -240,7 +239,6 @@ section {
 
 footer {
   width: 100%;
-  background: var(--color-background);
   padding: var(--space-16) 0;
   margin-top: var(--space-24);
 }
