@@ -61,6 +61,38 @@
     <!-- Main Stylesheet -->
     <link rel="stylesheet" href="/assets/css/style.css">
     
+    <!-- Responsive Typography & Refined Colors -->
+    <style>
+    @media (max-width: 767px) {
+      .logo { font-size: 1.75rem !important; }
+      .main-heading { font-size: 2rem !important; }
+      .bio-text { font-size: 1.125rem !important; }
+      .body-text { font-size: 1rem !important; }
+      .nav-link { font-size: 0.9375rem !important; }
+      .footer-link { font-size: 0.875rem !important; }
+      .copyright-text { font-size: 0.8125rem !important; }
+    }
+    @media (min-width: 768px) and (max-width: 1023px) {
+      .logo { font-size: 2.25rem !important; }
+      .main-heading { font-size: 2.5rem !important; }
+      .bio-text { font-size: 1.25rem !important; }
+      .body-text { font-size: 1.125rem !important; }
+      .nav-link { font-size: 1rem !important; }
+      .footer-link { font-size: 0.9375rem !important; }
+      .copyright-text { font-size: 0.875rem !important; }
+    }
+    @media (min-width: 1024px) {
+      .logo { font-size: 3rem !important; }
+      .main-heading { font-size: 3rem !important; }
+      .bio-text { font-size: 1.5rem !important; }
+      .body-text { font-size: 1.25rem !important; }
+      .nav-link { font-size: 1.125rem !important; }
+      .footer-link { font-size: 1rem !important; }
+      .copyright-text { font-size: 0.9375rem !important; }
+    }
+    a:hover { color: #F5F5F5 !important; }
+    </style>
+    
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg">
     <link rel="alternate icon" href="/assets/img/favicon.ico">
@@ -76,10 +108,10 @@
     <!-- Skip to Content Link -->
     <a href="#main-content" class="skip-to-content">Skip to main content</a>
     
-    <div class="grid-container" style="margin: 1rem; min-height: calc(100vh - 2rem); background-color: rgba(0, 0, 0, 0.1); color: #ffffff;">
+    <div class="grid-container" style="margin: 1rem; min-height: calc(100vh - 2rem); background-color: rgba(26, 26, 26, 0.4); color: #EEEEEE;">
         <header style="padding: 2rem 1rem;">
             <div>
-                <h1><a href="https://kushalsamant.github.io" style="color: #ffffff; text-decoration: none;">KVSHVL</a></h1>
+                <h1 class="logo"><a href="https://kushalsamant.github.io" style="color: #FAFAFA; text-decoration: none;">KVSHVL</a></h1>
             </div>
         </header>
         
@@ -90,12 +122,12 @@
         
         <footer>
             <div class="footer-copyright" style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.5rem; padding: 1rem;">
-                <a href="https://kushalsamant.github.io/links.html" style="color: #E0E0E0;">Links</a>
-                <a href="https://kushalsamant.github.io/cancellationandrefundpolicy.html" style="color: #E0E0E0;">Cancellation and Refund Policy</a>
-                <a href="https://kushalsamant.github.io/privacypolicy.html" style="color: #E0E0E0;">Privacy Policy</a>
-                <a href="https://kushalsamant.github.io/support.html" style="color: #E0E0E0;">Support</a>
-                <a href="https://kushalsamant.github.io/termsofservice.html" style="color: #E0E0E0;">Terms of Service</a>
-                <p style="margin-top: 1rem; color: #ffffff;">© {{ site.time | date: "%Y" }} Architect Kushal Dhananjay Samant. Licensed under the Architect's Act, 1972 of India.</p>
+                <a href="https://kushalsamant.github.io/links.html" class="footer-link" style="color: #DDDDDD;">Links</a>
+                <a href="https://kushalsamant.github.io/cancellationandrefundpolicy.html" class="footer-link" style="color: #DDDDDD;">Cancellation and Refund Policy</a>
+                <a href="https://kushalsamant.github.io/privacypolicy.html" class="footer-link" style="color: #DDDDDD;">Privacy Policy</a>
+                <a href="https://kushalsamant.github.io/support.html" class="footer-link" style="color: #DDDDDD;">Support</a>
+                <a href="https://kushalsamant.github.io/termsofservice.html" class="footer-link" style="color: #DDDDDD;">Terms of Service</a>
+                <p class="copyright-text" style="margin-top: 1rem; color: #BBBBBB;">© {{ site.time | date: "%Y" }} Architect Kushal Dhananjay Samant. Licensed under the Architect's Act, 1972 of India.</p>
             </div>
         </footer>
     </div>
