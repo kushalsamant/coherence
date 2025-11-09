@@ -3,8 +3,8 @@ description: "All social media, creative platforms, and tools where you can find
 ---
 
 <style>
-article img {
-  height: 1.2em;
+a img {
+  height: 1.2em !important;
   width: auto;
   vertical-align: middle;
   margin-right: 0.5rem;
