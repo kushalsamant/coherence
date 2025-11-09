@@ -159,11 +159,13 @@ a {
   letter-spacing: var(--letter-spacing-normal);
   word-break: break-word;
   overflow-wrap: break-word;
+  font-style: oblique 20deg;
+  font-weight: var(--font-weight-bold);
 }
 
 a:hover {
-  color: #ffffff;
-  border-bottom-color: #ffffff;
+  color: #d0d0d0;
+  border-bottom-color: #d0d0d0;
 }
 
 a:focus {
