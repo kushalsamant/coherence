@@ -18,7 +18,7 @@ And I been very woke and aware of each passing minute.
 Now this is a state of mind that I find to be really nice.  
 It just tells me that I can achieve a lot in my entire day, more than what I would have achieved on a normal week.  
 As we all know time is relative factor in life, it changes as per our emotional state, experiences, feelings, and presence of mind.  
-ped good changes if you choose to be present in the moment you can also choose to be aware of every passing minute which leads to give you the complete control over your day and the things that you choose to react to or respond to or to pass.  
+It has the power to create good changes if you choose to be present in the moment. You can also choose to be aware of every passing minute which leads to give you the complete control over your day and the things that you choose to react to or respond to or to pass.  
 You can also then notice how much you can get done more if you keep a track of every minute, albeit not in a literal sense but in a conscious sense.  
 
 - <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

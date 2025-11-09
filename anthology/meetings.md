@@ -29,7 +29,7 @@ A deliberate choice.
 Well I met someone.  
 I lost myself in a conversation that made me want more of it.  
 That made me skip dinner, convince myself it was okay being rude to everyone who was lined up.  
-But no worries, the line up was a smart one I am sure they saw that coming when I mentioned “random architect.”   The thing here is I have slept a wink after 48 hours of being lost.  
+But no worries, the line up was a smart one I am sure they saw that coming when I mentioned "random architect." The thing here is I haven't slept a wink after 48 hours of being lost.  
 That’s because I could think of nothing else to do but drool.  
 
 I am up now, still half asleep with pretty interesting work meetings for the evening.  

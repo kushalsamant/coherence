@@ -22,7 +22,7 @@ The fact that the test takers have to submit this piece to the graphologist afte
 A similar trust is expected from you when you are jotting down your thoughts to paper.  
 
 The whole idea being that your written word then would remain true to reality, lacking any outside influence, whether social, environmental, or spatial.  
-Spatial reminds me that you must be alone, and your most comfortable place will you are at it.  
+Spatial reminds me that you must be alone, in your most comfortable place while you are at it.  
 I could have scrolled up to add the previous sentence.  
 Avoid such edits on paper.  
 
