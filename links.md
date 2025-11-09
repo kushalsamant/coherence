@@ -41,15 +41,3 @@ All platforms and tools where you can find my work, connect, or explore content.
 <a href="https://twitch.tv/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitch.png" alt="Twitch">Twitch</a><br>
 <a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="Twitter">Twitter</a><br>
 <a href="https://www.youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyoutube.png" alt="YouTube">YouTube</a>
-
-## Documentation Tools
-
-<a href="https://videosoftdev.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logovsdc.png" alt="VSDC">VSDC</a><br>
-<a href="https://kapwing.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logokapwing.png" alt="Kapwing">Kapwing</a><br>
-<a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinshot.png" alt="Inshot">Inshot</a><br>
-<a href="https://play.google.com/store/apps/details?id=com.vsco.cam" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logovsco.png" alt="VSCO">VSCO</a><br>
-<a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosnapseed.png" alt="Snapseed">Snapseed</a><br>
-<a href="https://play.google.com/store/apps/details?id=com.instagram.android" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram">Instagram</a><br>
-<a href="https://play.google.com/store/apps/details?id=maa.vaporwave_editor_glitch_vhs_trippy_pro" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logovaporgrampro.png" alt="Vaporgram Pro">Vaporgram Pro</a><br>
-<a href="https://play.google.com/store/apps/details?id=kr.co.manhole.hujicam" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logohujicam.png" alt="Huji Cam">Huji Cam</a>
-
