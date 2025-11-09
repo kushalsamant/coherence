@@ -5,7 +5,7 @@ description: "Get in touch for architectural projects or SaaS development. Struc
 
 # Get in Touch
 
-If you'd like to reach out—whether it's to say hello, share feedback, ask a question, or talk through an idea—I'd love to hear from you. The easiest way to connect is on [LinkedIn](https://linkedin.com/in/kvshvl), where I try to respond to as many messages as I can.
+If you'd like to reach out—whether it's to say hello, share feedback, ask a question, or talk through an idea—I'd love to hear from you. The easiest way to connect is on [LinkedIn](https://linkedin.com/in/kvshvl){:target="_blank" rel="noopener noreferrer"}, where I try to respond to as many messages as I can.
 
 I know that's not as satisfying as direct email, but my inbox is a mess. When I made it public, too many messages came in and went unread—that sucks for everyone.
 
@@ -39,7 +39,7 @@ Here's the quick version:
 
 If that works for you, we'll get along fine. You can also [read the full Terms of Service](https://kushalsamant.github.io/termsofservice.html).
 
-**[Schedule Your Consultation](https://kvshvl.setmore.com)**
+**[Schedule Your Consultation](https://kvshvl.setmore.com){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
@@ -71,15 +71,15 @@ District Sindhudurg, Maharashtra, India
 
 ## Explore My Work
 
-Essays on [Medium](https://kvshvl.medium.com), books on [Gumroad](https://kvshvl.gumroad.com), inspiration on [Pinterest](https://in.pinterest.com/kvshvl/_saved/), snapshots on [Instagram](https://instagram.com/kvshvl), videos on [YouTube](https://youtube.com/@kvshvl/videos), updates on [LinkedIn](https://linkedin.com/in/kvshvl).
+[View all platforms and social links →](/links.html)
 
 ---
 
 ## Legal & Policies
 
-**Terms of Service:** [kushalsamant.github.io/termsofservice.html](https://kushalsamant.github.io/termsofservice.html)  
-**Privacy Policy:** [kushalsamant.github.io/privacypolicy.html](https://kushalsamant.github.io/privacypolicy.html)  
-**Cancellation & Refund Policy:** [kushalsamant.github.io/cancellationandrefundpolicy.html](https://kushalsamant.github.io/cancellationandrefundpolicy.html)
+**Terms of Service:** [https://kushalsamant.github.io/termsofservice.html](https://kushalsamant.github.io/termsofservice.html)  
+**Privacy Policy:** [https://kushalsamant.github.io/privacypolicy.html](https://kushalsamant.github.io/privacypolicy.html)  
+**Cancellation & Refund Policy:** [https://kushalsamant.github.io/cancellationandrefundpolicy.html](https://kushalsamant.github.io/cancellationandrefundpolicy.html)
 
 **Data Protection:** writetokushaldsamant@gmail.com  
 **Security Practices:** Industry-standard encryption, access controls, monitoring
