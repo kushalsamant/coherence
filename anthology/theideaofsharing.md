@@ -33,4 +33,4 @@ How hard can be getting funding from CSR be? My friends say that it is either be
 
 Maybe social norms prefer what exists but personally, I prefer CSR funding without having to ask for it, just because there is a law that states it will be available for my social cause.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

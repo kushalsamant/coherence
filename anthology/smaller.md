@@ -13,4 +13,4 @@ Much as the fable goes, David, and Goliath.
 You can complete daunting tasks by going one at it in bits.  
 Bits, not pieces, see! That small.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -25,4 +25,4 @@ That's the mean side of things.
 But I have also been carried back from a beach, directed, dropped home when drunk, fed, helped, saved, and sheltered.  
 That's the good side of things.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

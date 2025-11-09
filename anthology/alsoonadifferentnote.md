@@ -16,4 +16,4 @@ In the same way as worrying was also a choice I made.
 It was as intense as the choice to live, when those winds last night scared all of us in that train.  
 So, staying happy needed our conscious attention, just like anything else in life.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

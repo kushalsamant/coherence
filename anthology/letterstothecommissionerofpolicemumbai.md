@@ -37,4 +37,4 @@ You can reply to this message or contact me for any queries.
 Thanking you very much.  
 Yours truly,  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

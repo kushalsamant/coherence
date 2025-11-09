@@ -23,4 +23,4 @@ P.S.
 You can see my pictures on my Instagram.  
 I am currently curating my entire photo archive from Google Photos on it.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

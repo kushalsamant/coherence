@@ -17,4 +17,4 @@ It was a great learning experience for me.
 06 00 PM - Evening walk date.  
 08 00 PM - Dinner date at marine drive
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

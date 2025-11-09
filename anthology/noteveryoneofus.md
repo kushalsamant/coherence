@@ -61,4 +61,4 @@ So, this is our story that will keep on growing into something better, not alway
 I am leaving this post with a TK note so we all understand that somethings can be started without the end in sight such as life, process, and most things of beauty in our minds.  
 What inspires us is the fact that the most beautiful experiences in our lives grow slowly, die a few times before they blossom, and are filled with surprises.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

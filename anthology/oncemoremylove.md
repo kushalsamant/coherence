@@ -31,4 +31,4 @@ I press the forever that you wear around your neck against my eyes-muffin so tha
 You will always be my little cakes face.  
 the wild cat of my own kissing style of love.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

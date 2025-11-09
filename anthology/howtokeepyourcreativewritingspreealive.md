@@ -14,4 +14,4 @@ You can choose your normals.
 3. Take a 15 min long break to attend to daily tasks around me.  
 4. Repeat this process until I hit my target number of posts on Typewrighter.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

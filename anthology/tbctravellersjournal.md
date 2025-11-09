@@ -15,4 +15,4 @@ I think TBC has this in Black, Brown, Tan, Full Yellow Rickshaw, Yellow & Black 
 
 Remember - Nothing boots as fast as pen and paper.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

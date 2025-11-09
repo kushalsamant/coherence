@@ -19,4 +19,4 @@ Jaane jo, baatein tu
 Baatein tu, raaton ki
 So jaun.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -13,4 +13,4 @@ Beckoning my soul, to the depths of an ocean,
 Cries of seagulls, and a big shoal.  
 C’mon, C’mon, C’mon.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

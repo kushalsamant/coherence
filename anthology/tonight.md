@@ -15,4 +15,4 @@ Basically I don't know what to do next but I think I will stay put and hope that
 So to tonight; my first night in my own city where I feel like a complete stranger being all by myself.  
 This feels very similar to how Kangana Ranaut's character might have felt in the movie "Queen" when her friends leave for their journeys at the club.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

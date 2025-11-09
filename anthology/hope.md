@@ -10,4 +10,4 @@ Until people started honking.
 And I was thinking, good but my girl be better.  
 Your eyes, and the way the light falls on your face, the way your skin glows under a haze, gives me hope, gives me hope.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

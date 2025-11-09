@@ -24,4 +24,4 @@ I hope that my ideas are helpful and universal in nature.
 14. Shadows  
 15. The unknown factor X  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

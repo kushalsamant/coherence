@@ -20,4 +20,4 @@ It is pretty interesting how things work no?
 so again the trick to having lasting wealth is to spend it in the right places.  
 Not saving, spending.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

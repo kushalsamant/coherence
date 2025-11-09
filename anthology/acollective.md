@@ -47,4 +47,4 @@ Since I have made a collective out of my everything, every kind of separation ha
 Life is simpler maybe something the Americans can learn from.  
 This is hard to understand for some of us, but soon you will start to get interesting something like Twitter.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

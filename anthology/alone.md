@@ -13,4 +13,4 @@ All I can say is “You should write more.”   It keeps guys like me going.
 As we feel direct influence, the people of our planet will soon see an impact of your work.  
 Thank you a lot for pulling me out of timid safety.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

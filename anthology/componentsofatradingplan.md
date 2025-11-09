@@ -14,4 +14,4 @@ Components of a trading plan includes:
 - Defined trading strategy
 Make it personal to your goals and refer to your trading plan daily.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -30,4 +30,4 @@ Editing eats away a part of you.
 Be it writing, life or truth.  
 “From a Mumbaikar’s perspective, American influence on his life just went from having a sense of Bandra to the menace of Harbour Line.”  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

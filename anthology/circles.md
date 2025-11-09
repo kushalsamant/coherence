@@ -15,4 +15,4 @@ But I agree that their idea is a slight variation of what an actual haiku is.
 But it's a good thing to learn from something that might not be creating the best of its own craft.  
 Learning again then becomes a byproduct of making mistakes by going around in circles.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

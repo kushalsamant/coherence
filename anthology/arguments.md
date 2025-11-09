@@ -15,4 +15,4 @@ Not discuss.
 But yes, communicate.  
 Having done so, I have found that most of us segue to other topics.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

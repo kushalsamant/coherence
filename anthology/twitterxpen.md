@@ -18,4 +18,4 @@ I know, this topic is so tiring that I did fall asleep while I pen this.
 But nonetheless, it was meant to provide me with me some clarity.  
 And it did.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

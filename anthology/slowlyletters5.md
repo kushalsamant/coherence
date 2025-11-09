@@ -70,4 +70,4 @@ Today's question: What inspired you to do psychology?
 
 Have a nice day.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

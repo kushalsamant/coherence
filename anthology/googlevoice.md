@@ -12,4 +12,4 @@ have you noticed how easy it is that I am posting articles but every time I keep
 I think at this rate I can even publish a book who actually I have published one book but I think I will share the link with you guys some day after I think I have made my target on typewriter I hope that I wished for something like this only in my life or rather actually wish I had found something like this earlier in my life but it's alright.  
 Better late than never.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -25,4 +25,4 @@ He knew that it would guide him towards the right path, even when he couldn't se
 And as he closed his eyes and leaned back against the bus seat, he felt a sense of peace wash over him.  
 The chaos around him had faded away, and all he could hear was the gentle whisper of his inner voice.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

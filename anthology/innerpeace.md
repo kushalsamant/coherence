@@ -39,4 +39,4 @@ And to know that it will change.
 To wait, and observe instead of taking action.  
 When you focus only on the things around you, will you understand what you are here for?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -35,4 +35,4 @@ Days when my belief in everything around me is so high, for I can step without l
 The thoughts that run through my mind in these subtle moments, seems to manifest themselves in roughly about 7 years.  
 Deja Vu, anyone?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

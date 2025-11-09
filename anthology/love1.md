@@ -7,4 +7,4 @@ Oh my! oh my!
 That value for love she had;
 for she never had any.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -12,4 +12,4 @@ And it is getting harder by the day to be able to find something that brings me 
 I would want to be excited because my work is rewarding.  
 Nothing else matters except doing what makes me feel alive.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -11,4 +11,4 @@ So I distance myself from the rest of the world, and spend time trying to create
 Since yesterday i have aimed at not making plans.  
 Instead making one move at a time, because life is like chess, and you can get to be wherever you want in 36500 moves, that's 100 years; or 36526 moves if you count leap years.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

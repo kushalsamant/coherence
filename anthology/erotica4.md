@@ -31,4 +31,4 @@ Because I am entering you slowly, mm by mm, as you can feel me slide.
 I want to fuck you till you scream.  
 Then take you to a bed in that van, throw you on the bed, and make love to you some more.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

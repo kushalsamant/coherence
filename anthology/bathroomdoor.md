@@ -28,4 +28,4 @@ The garden outside, still visible.
 The voices, still very much audible.  
 I could see the window pane, the steel frame, green grass, the blank wall, the bright sunshine, and the things in my mind!
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -55,4 +55,4 @@ Do you know what the world needs the most?
 Questions.  
 A lot of them.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

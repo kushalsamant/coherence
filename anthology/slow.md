@@ -27,4 +27,4 @@ The focus is to experience the moment, consciously.
 
 - *Slow things down, and everything becomes more beautiful.*
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

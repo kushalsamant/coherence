@@ -26,4 +26,4 @@ Spatial reminds me that you must be alone, and your most comfortable place will 
 I could have scrolled up to add the previous sentence.  
 Avoid such edits on paper.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

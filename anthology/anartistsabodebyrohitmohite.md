@@ -12,4 +12,4 @@ She played a major role in this process.
 We gave her a house, and she made it a home.  
 We thoroughly enjoyed working on this project.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

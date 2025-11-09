@@ -122,4 +122,4 @@ Let's see if you can reply to this one and not get bored doing so :P Sorry typin
 
 Yours truly,  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

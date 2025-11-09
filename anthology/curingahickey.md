@@ -9,4 +9,4 @@ layout: content
 4. After 60 mins, stretched the skin, and rubbed this steel glass over the hickey for 30 mins, with gentle massaging at intervals.  
 5. Slept in a warm coziest blanket I could find, and hoped that my logic about capillaries, skin, and temperature would work.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

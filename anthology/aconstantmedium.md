@@ -14,4 +14,4 @@ I know it's hard to believe that.
 But it is also the most productive ways to create using a different forms of media.  
 As long as your aim dictates that you can slack in your creative process.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -6,4 +6,4 @@ layout: content
 A smile turned into a frown as he expected some love to stay.  
 for losing a like and a request on Instagram meant more to him than his girl making chocolate milkshake.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

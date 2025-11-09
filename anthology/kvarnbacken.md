@@ -95,4 +95,4 @@ As the drum rolls now fastened, he found himself witnessing an unbelievable fact
 
 Yet he felt cliche on this once-lost hill called Kvarnbacken, the hill close to the Jakobsberg train station.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

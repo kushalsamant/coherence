@@ -11,4 +11,4 @@ It is an asset only if you do something with it.
 Much like money.  
 Much like any other asset.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

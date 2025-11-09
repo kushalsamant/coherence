@@ -23,4 +23,4 @@ Ain’t it nothing for you?
 No no no, I was just riding alone;
 On the way to my home.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

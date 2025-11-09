@@ -12,4 +12,4 @@ Considering how much can we achieve when we share our resources, and not exchang
 Ask those amongst us who have spent their university years, living in hostels or with roommates.  
 The core belief is that sharing encourages access whereas exchange discourages access.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

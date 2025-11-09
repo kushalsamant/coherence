@@ -49,4 +49,4 @@ But it is the reason most of us find the reason to live.
 
 Remember this will make all the difference.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

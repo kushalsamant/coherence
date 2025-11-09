@@ -188,4 +188,4 @@ The minute I unleash the monster inside me
 You will crumble like breadsticks
 Dipped in mayonnaise and cream
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

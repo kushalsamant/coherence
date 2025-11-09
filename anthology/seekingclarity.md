@@ -46,4 +46,4 @@ Design styles based on climates.
 Shoot! “We often tend to forget what we do.  
 There are so many of us doing the same things in their own little ways.”  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

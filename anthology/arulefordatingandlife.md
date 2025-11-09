@@ -15,4 +15,4 @@ nahi toh energy drain hoga kisi ek ka.
 yay! iska matlab if you want to be the chairman of your bank, you can choose to have the energy level of the chairman, and you will almost immediately be there.  
 such classic physics!
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

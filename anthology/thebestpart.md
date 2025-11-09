@@ -9,4 +9,4 @@ So pick anything and stick to it.
 Experience counts more than education in today's world.  
 And advantage of having internships it's that you can do two jobs at many places because you will work from home and you will get paid for the same which means you will make a much higher collection of money than if you take a full time job at one place.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

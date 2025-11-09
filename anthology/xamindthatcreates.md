@@ -139,4 +139,4 @@ This is the effect of space on our minds.
 Space can affect our minds, emotions, thoughts, and hence hold an influence over the behaviors that we exhibit.  
 After seeing people huddled together in a tiny space under the pretext of an event or a gathering, in spaces designed to accommodate such affairs, I have gathered an interest in better understanding people, and the effects that spaces /emotions play in their behaviors.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -35,4 +35,4 @@ Every form of resource.
 
 And these choices when adhered to, create a never ending spiral of habits that create infinite growth.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -22,4 +22,4 @@ All you have to do, is to be slightly again slightly better than the other appli
 Remember "slightly".  
 I will continue this in the next chapter.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

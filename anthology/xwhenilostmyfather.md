@@ -13,4 +13,4 @@ When no friends would show up a rival had mercy for this is just a small world t
 Now I wish I would have friends again with a chance to live my life not spend time on social but making better memories.  
 I wish for another chance I wish I had a dream, and I pray that life will show me lest what I was taught is real.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

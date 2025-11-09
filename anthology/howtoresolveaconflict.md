@@ -13,4 +13,4 @@ We will discuss it out.
 6. We will suggest a mid way.  
 7. Bingo! We can go back to binge watching movies together.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

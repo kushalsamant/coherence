@@ -79,4 +79,4 @@ It's important for you to create your own rules.
 Even if you don't relate to your intensity, you're meant to prioritize your own experience and be driven by your passions.  
 > "If something doesn't excite you, then it's not for you.  "
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

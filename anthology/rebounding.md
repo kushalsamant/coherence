@@ -18,4 +18,4 @@ The only thing that can save you in this mess of constant rebounding off people 
 
 The idea is to pick one thing, or person, and to stick to it, or him/her.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

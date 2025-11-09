@@ -11,4 +11,4 @@ For breakfast on board
 While a burning sun, and mist
 Color yellow anoraks ashore.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

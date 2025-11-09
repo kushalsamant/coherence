@@ -25,4 +25,4 @@ Her rule applies even in everything.
 From dating to products.  
 Everywhere.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

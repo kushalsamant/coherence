@@ -54,4 +54,4 @@ Then I gave the forms to the Netbanking counter.
 This lady activated it.  
 Then she said I will get the cards 7 days mein.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

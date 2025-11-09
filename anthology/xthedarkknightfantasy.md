@@ -111,4 +111,4 @@ And it took a lot of a time to get here.
 
 “To believe that all work is done pre-season.”  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

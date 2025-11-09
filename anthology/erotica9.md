@@ -22,4 +22,4 @@ I want to stay down there until you quiver, and shake, suck on your clit, and fi
 Then eat you till my face is wet, and my beard is dripping in your cum.  
 I want to pick you up, and turn you around, pin you on a wall, and rub my boner on your ass, before I make you go down on your knees, make you give me a sloppy fucking blowjob for an hour and a half, before I cum on your face as long as from your face it drips.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -39,4 +39,4 @@ for a change, stay
 perhaps, not five feet close  
 but not even a thousand light years apart!  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

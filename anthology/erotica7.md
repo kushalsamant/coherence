@@ -28,4 +28,4 @@ It makes the belt fasten around your delicate neck.
 You choke.  
 As I run my fingers on your mane, you close your eyes and kiss my cock...  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

@@ -87,4 +87,4 @@ Cooking the onions may reduce these digestive effects.
 - Wheat which is also a major source of fodmaps, which can cause digestive problems in many people.  
 - There are many gluten-free alternatives to wheat, such as pure oats, quinoa, buckwheat, almond flour and coconut flour.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

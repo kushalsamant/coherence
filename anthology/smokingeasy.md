@@ -8,4 +8,4 @@ see can talk to the phone and you can also direct instructions to it so it is a 
 show the process is a very small process it takes less than a minute I initially thought it would take me a lot more time but that is not the case.  
 This is kind of a marathon but this marathon will be off for generations to come.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

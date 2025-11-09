@@ -33,4 +33,4 @@ This is popularly known as the Diderot effect.
 Remember "the Diderot effect".  
 I will continue in the next chapter.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

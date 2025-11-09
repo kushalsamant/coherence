@@ -13,4 +13,4 @@ Why wouldn’t the government print notes in advance to ease the shift? Why woul
 
 For a land of villages, the shift should have been careful, and considerate of all the citizens for the world’s largest democracy.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

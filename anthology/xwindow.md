@@ -10,4 +10,4 @@ I forgot about my coffee,
 But I am waiting;  
 Till the coffee gets cold.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

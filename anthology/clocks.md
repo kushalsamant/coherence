@@ -36,4 +36,4 @@ Astonishingly, most of these people are kids.
 21 or so in age.  
 And they are travelling, the world, unbound.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

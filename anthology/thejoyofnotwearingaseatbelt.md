@@ -46,4 +46,4 @@ I might meet god instantly.
 P.  S: The joy of not wearing a seatbelt.  
 Try it only in a train.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

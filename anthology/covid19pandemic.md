@@ -25,4 +25,4 @@ and gets converted to white money."
 
 What do you think?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

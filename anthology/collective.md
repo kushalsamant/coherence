@@ -11,4 +11,4 @@ About how the people collectively make a city without any formal inspiration.
 Now I have a question.  
 If the boundaries are to be dissolved, and the city becomes an ocean of collaboration, where, and how does one creative mind find individuality OR Identity of a creative expression? Does anybody have any thoughts?  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

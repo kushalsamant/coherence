@@ -17,4 +17,4 @@ The word is also used as a verb.
 Quarantine is distinct from medical isolation, in which those confirmed to be infected with a communicable disease are isolated from the healthy population.  
 Quarantine may be used interchangeably with cordon sanitaire, and although the terms are related, cordon sanitaire refers to the restriction of movement of people into or out of a defined geographic area, such as a community, in order to prevent an infection from spreading.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

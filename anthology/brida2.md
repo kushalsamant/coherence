@@ -27,4 +27,4 @@ I don’t seek attention maybe acceptance is the word but I don’t want to cry 
 It’s been so good of her to trust me with her shop, and her store but I don’t see what lies ahead.  
 I am just so lost in an endless mystery but when it comes to the future I cannot see, anymore.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

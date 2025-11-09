@@ -117,4 +117,4 @@ layout: content
 > "Your twenties are always an apprenticeship, but you don't always know what for."  
 > Jan Houtema.
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

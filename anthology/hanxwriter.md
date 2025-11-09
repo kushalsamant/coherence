@@ -11,4 +11,4 @@ I want to limit my work to my mobile device, and my application usage to my webp
 Maybe there is something that lets me use my email account as a web hosting site.  
 So that all my activities focused but not limited to one platform.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

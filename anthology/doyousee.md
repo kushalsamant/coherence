@@ -19,4 +19,4 @@ How quietly can meta survive?
 It ain’t no fault of thine? 
 Why you should never give up for some wine!
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

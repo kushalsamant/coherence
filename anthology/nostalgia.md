@@ -9,4 +9,4 @@ So be nice to everyone.
 Make nice memories.  
 This way, you can change the world.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

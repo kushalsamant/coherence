@@ -44,4 +44,4 @@ The very basic core of a man’s living spirit is his passion for adventure.
 The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new, and different sun.  .  
 > Christopher McCandless in Into The Wild (2007).  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

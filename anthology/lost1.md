@@ -52,4 +52,4 @@ Executing your first thought or the instinctive idea that comes to you when you 
 > "Somehow, your heart already knows what you need.  "
 > Steve Jobs.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

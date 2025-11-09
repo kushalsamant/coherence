@@ -27,4 +27,4 @@ What I learnt from these three experiences is that,
 So the third approach is the ideal way of doing things in life.  
 This is true for Maggi, and relationships as it is for most things in life.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.

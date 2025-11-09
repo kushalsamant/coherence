@@ -70,4 +70,4 @@ Maximum, like a few authors called.
 In spirit, and in soul.  
 Beating forever, alongside my heart.  
 
-- <a href="https://kushalsamant.github.io/anthology.html">Back to Anthology</a>.
+- <a href="https://kushalsamant.github.io/history.html#anthology">Back to Anthology</a>.
