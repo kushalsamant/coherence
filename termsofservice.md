@@ -1,5 +1,6 @@
 ---
 layout: content
+description: "Terms of Service for KVSHVL products and Kushal Samant consulting services. Legal terms governing use of our services, intellectual property, and user obligations."
 ---
 
 # Terms of Service

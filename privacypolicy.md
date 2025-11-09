@@ -1,5 +1,6 @@
 ---
 layout: content
+description: "Privacy policy for KVSHVL and Kushal Samant services. Learn how we collect, use, and protect your personal information and data."
 ---
 
 # Privacy Policy

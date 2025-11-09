@@ -1,5 +1,6 @@
 ---
 layout: content
+description: "Cancellation and refund policy for KVSHVL services and products. Clear terms for subscription cancellations, refund eligibility, and processing timelines."
 ---
 
 # Cancellation & Refund Policy
