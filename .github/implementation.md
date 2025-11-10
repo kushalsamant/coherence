@@ -38,7 +38,7 @@
 
 ## Files Created/Updated
 
-### 1. termsofservice.md (NEW - 748 lines)
+### 1. termsofservice.md (NEW - 839 lines)
 
 **Comprehensive Terms of Service covering:**
 - 27 detailed sections
@@ -51,7 +51,7 @@
 - B2B and B2C provisions
 - Multi-jurisdiction dispute resolution
 
-### 2. privacypolicy.md (REPLACED - 915 lines)
+### 2. privacypolicy.md (REPLACED - 913 lines)
 
 **Enterprise Privacy Policy including:**
 - 20 comprehensive sections
@@ -65,7 +65,7 @@
 - Data breach notification procedures
 - Children's privacy (under 16)
 
-### 3. cancellationandrefundpolicy.md (REPLACED - 638 lines)
+### 3. cancellationrefund.md (REPLACED - 612 lines)
 
 **Comprehensive Cancellation & Refund Policy covering:**
 - 16 sections for all service types
@@ -92,7 +92,7 @@
 
 ✅ **Effective Date:** November 5, 2025 (consistent across all documents)  
 ✅ **Setmore Booking:** https://kvshvl.setmore.com (6 references)  
-✅ **Website:** https://kvshvl.in
+✅ **Website:** https://kushalsamant.github.io
 
 See [Business Information](.github/business.md) for contact details.
 
@@ -103,16 +103,16 @@ See [Business Information](.github/business.md) for contact details.
 All documents properly reference each other:
 
 - **Terms of Service** references:
-  - Privacy Policy: https://kvshvl.in/privacypolicy.html
-  - Cancellation & Refund Policy: https://kvshvl.in/cancellationandrefundpolicy.html
+  - Privacy Policy: https://kushalsamant.github.io/privacypolicy.html
+  - Cancellation & Refund Policy: https://kushalsamant.github.io/cancellationrefund.html
 
 - **Privacy Policy** references:
-  - Terms of Service: https://kvshvl.in/termsofservice.html
-  - Cancellation & Refund Policy: https://kvshvl.in/cancellationandrefundpolicy.html
+  - Terms of Service: https://kushalsamant.github.io/termsofservice.html
+  - Cancellation & Refund Policy: https://kushalsamant.github.io/cancellationrefund.html
 
 - **Cancellation & Refund Policy** references:
-  - Terms of Service: https://kvshvl.in/termsofservice.html
-  - Privacy Policy: https://kvshvl.in/privacypolicy.html
+  - Terms of Service: https://kushalsamant.github.io/termsofservice.html
+  - Privacy Policy: https://kushalsamant.github.io/privacypolicy.html
 
 - **Support Page** references all three policies
 
@@ -124,11 +124,11 @@ All documents properly reference each other:
 
 | Document | Lines | Sections | Key Features |
 |----------|-------|----------|-------------|
-| Terms of Service | 748 | 27 | Comprehensive B2B/B2C coverage |
-| Privacy Policy | 915 | 20 | GDPR/CCPA/Indian IT Act |
-| Cancellation & Refund | 638 | 16 | Multi-service coverage |
+| Terms of Service | 839 | 27 | Comprehensive B2B/B2C coverage |
+| Privacy Policy | 913 | 20 | GDPR/CCPA/Indian IT Act |
+| Cancellation & Refund | 612 | 16 | Multi-service coverage |
 | Support Page | 125 | 10 | Professional enterprise focus |
-| **Total** | **2,426** | **73** | **Enterprise-grade suite** |
+| **Total** | **2,489** | **73** | **Enterprise-grade suite** |
 
 ---
 
@@ -157,7 +157,7 @@ All documents properly reference each other:
 
 ### Updated:
 - ✅ `privacypolicy.md`
-- ✅ `cancellationandrefundpolicy.md`
+- ✅ `cancellationrefund.md`
 - ✅ `support.md`
 
 ### No Changes Needed:

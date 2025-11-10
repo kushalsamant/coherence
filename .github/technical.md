@@ -30,7 +30,7 @@ kushalsamant.github.io/
 │   ├── rss.xml                         # RSS feed
 │   └── sitemap/                        # XML sitemaps (1144 files)
 ├── .github/                             # GitHub configuration
-│   ├── .workflows/                      # CI/CD workflows (hidden subdirectory)
+│   ├── workflows/                       # CI/CD workflows
 │   │   ├── update_rss.yml
 │   │   └── update_sitemap.yml
 │   ├── business.md                      # Business information
@@ -52,12 +52,12 @@ kushalsamant.github.io/
 ├── contact.md                          # Personal contact page
 │
 ├── Legal Documentation:
-├── termsofservice.md                   # Terms of Service (748 lines)
-├── privacypolicy.md                    # Privacy Policy (915 lines)
-├── cancellationandrefundpolicy.md      # Refund Policy (638 lines)
+├── termsofservice.md                   # Terms of Service (839 lines)
+├── privacypolicy.md                    # Privacy Policy (913 lines)
+├── cancellationrefund.md               # Refund Policy (612 lines)
 │
 └── Configuration Files:
-    ├── CNAME                           # Custom domain (kvshvl.in)
+    ├── CNAME                           # Custom domain (kushalsamant.github.io)
     ├── Gemfile                         # Ruby dependencies
     ├── jekyll-theme-minimal.gemspec    # Theme specification
     └── LICENSE                         # License information
@@ -71,7 +71,7 @@ kushalsamant.github.io/
 |-----------|------------|-----------------|
 | **Static Site Generator** | Jekyll | 4.x |
 | **Hosting** | GitHub Pages | Automatic deployment |
-| **Domain** | kvshvl.in | Custom domain with HTTPS |
+| **Domain** | kushalsamant.github.io | Custom domain with HTTPS |
 | **Styling** | SCSS/CSS | Dark minimalist theme |
 | **Typography** | Times New Roman serif | Elegant serif with tight kerning |
 | **Carousel** | Swiper.js 11.x | Fade transitions, auto-advance |
@@ -188,7 +188,7 @@ Comprehensive list covering:
 <meta property="og:title" content="KVSHVL">
 <meta property="og:description" content="Official Site">
 <meta property="og:image" content="[preview image]">
-<meta property="og:url" content="https://kvshvl.in">
+<meta property="og:url" content="https://kushalsamant.github.io">
 ```
 
 ### Twitter Card Tags
@@ -281,7 +281,7 @@ For design details, see [Design System](.github/design-system.md).
 
 ### Update RSS Feed
 
-**File:** `.github/.workflows/update_rss.yml`
+**File:** `.github/workflows/update_rss.yml`
 
 **Trigger:**
 - Push to main branch
@@ -294,7 +294,7 @@ For design details, see [Design System](.github/design-system.md).
 
 ### Update Sitemap
 
-**File:** `.github/.workflows/update_sitemap.yml`
+**File:** `.github/workflows/update_sitemap.yml`
 
 **Trigger:**
 - Push to main branch
@@ -317,7 +317,7 @@ For design details, see [Design System](.github/design-system.md).
 2. GitHub Actions workflows run
 3. GitHub Pages builds site with Jekyll
 4. Site deployed to https://kushalsamant.github.io
-5. Custom domain (kvshvl.in) serves the site
+5. Custom domain (kushalsamant.github.io) serves the site
 
 **Build Configuration:**
 - Source: main branch, root directory
@@ -329,7 +329,7 @@ For design details, see [Design System](.github/design-system.md).
 
 **CNAME File:**
 ```
-kvshvl.in
+kushalsamant.github.io
 ```
 
 **DNS Configuration:**
@@ -363,7 +363,7 @@ kvshvl.in
 ### Documentation
 
 **Repository Docs:** `.github/` (8 documentation files)  
-**Workflows:** `.github/.workflows/` (2 automation files - hidden subdirectory)
+**Workflows:** `.github/workflows/` (2 automation files)
 
 ---
 

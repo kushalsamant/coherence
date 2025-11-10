@@ -2,7 +2,7 @@
 
 > "Memento Mori, Amor Fati." — Marcus Aurelius
 
-**Live Site:** [https://kvshvl.in](https://kvshvl.in) | [https://kushalsamant.github.io](https://kushalsamant.github.io)
+**Live Site:** [https://kushalsamant.github.io](https://kushalsamant.github.io) | [https://kushalsamant.github.io](https://kushalsamant.github.io)
 
 A professional portfolio, architecture showcase, and enterprise SaaS business platform built with Jekyll and hosted on GitHub Pages. This repository contains the complete website for Kushal Dhananjay Samant, featuring an extensive project portfolio, 296 anthology blog posts, and enterprise-grade legal documentation.
 
@@ -85,13 +85,14 @@ Comprehensive documentation is organized in the `.github/` folder:
 |-----------|------------|
 | **Static Site Generator** | Jekyll 4.x |
 | **Hosting** | GitHub Pages |
-| **Domain** | kvshvl.in (custom domain) |
+| **Domain** | kushalsamant.github.io (custom domain) |
 | **Styling** | SCSS/CSS (dark minimalist theme) |
 | **Typography** | Times New Roman serif family |
 | **Carousel** | Swiper.js 11.x |
 | **Analytics** | Google Analytics 4 (G-0LNSC1VBGQ) |
 | **Tag Management** | Google Tag Manager (GTM-KXDZLM4W) |
 | **Booking System** | Setmore (kvshvl.setmore.com) |
+| **Payment Processing** | Stripe (payment integration) |
 | **CI/CD** | GitHub Actions (RSS, sitemap generation) |
 | **Version Control** | Git / GitHub |
 
@@ -114,19 +115,19 @@ Comprehensive documentation is organized in the `.github/` folder:
 ## Key Pages
 
 ### Main Navigation
-- **[Home](https://kvshvl.in)** - SVMVNT introduction and philosophy
-- **[About](https://kvshvl.in/about.html)** - Professional biography (2006-2024)
-- **[People](https://kvshvl.in/people.html)** - Acknowledgments of 132 mentors
-- **[Projects](https://kvshvl.in/projects.html)** - Portfolio of 142+ projects
-- **[Get in Touch](https://kvshvl.in/getintouch.html)** - Business services
+- **[Home](https://kushalsamant.github.io)** - SVMVNT introduction and philosophy
+- **[About](https://kushalsamant.github.io/about.html)** - Professional biography (2006-2024)
+- **[People](https://kushalsamant.github.io/people.html)** - Acknowledgments of 132 mentors
+- **[Projects](https://kushalsamant.github.io/projects.html)** - Portfolio of 142+ projects
+- **[Get in Touch](https://kushalsamant.github.io/getintouch.html)** - Business services
 
 ### Content Collections
-- **[Anthology](https://kvshvl.in/anthology.html)** - Index of 296 blog posts
+- **[Anthology](https://kushalsamant.github.io/anthology.html)** - Index of 296 blog posts
 
 ### Legal Pages
-- **[Terms of Service](https://kvshvl.in/termsofservice.html)** - 748 lines, 27 sections
-- **[Privacy Policy](https://kvshvl.in/privacypolicy.html)** - 915 lines, 20 sections (GDPR/CCPA)
-- **[Cancellation & Refund Policy](https://kvshvl.in/cancellationandrefundpolicy.html)** - 638 lines, 16 sections
+- **[Terms of Service](https://kushalsamant.github.io/termsofservice.html)** - 748 lines, 27 sections
+- **[Privacy Policy](https://kushalsamant.github.io/privacypolicy.html)** - 915 lines, 20 sections (GDPR/CCPA)
+- **[Cancellation & Refund Policy](https://kushalsamant.github.io/cancellationrefund.html)** - 638 lines, 16 sections
 
 ---
 
@@ -219,12 +220,12 @@ Based on jekyll-theme-minimal with extensive custom modifications.
 
 This website represents years of work, learning, and collaboration. Special thanks to:
 
-- **132 individuals** acknowledged in [people.md](people.md) who taught things that couldn't be learned otherwise
+- **132 individuals** acknowledged in [people.html](people.html) who taught things that couldn't be learned otherwise
 - The **Jekyll community** for creating an excellent static site generator
 - **GitHub Pages** for free, reliable hosting
 - **Open source contributors** whose tools and libraries made this possible
 
-For the complete list, see the [People page](https://kvshvl.in/people.html).
+For the complete list, see the [People page](https://kushalsamant.github.io/people.html).
 
 ---
 
@@ -279,7 +280,7 @@ Interested in working together? Book a **free 1:1 consultation** to discuss your
 
 ## Recent Updates
 
-**November 5, 2025:**
+**November 10, 2025:**
 - ✅ Dark minimalist theme redesign with serif typography
 - ✅ Swiper.js carousel integration with fade transitions (`assets/js/slideshow.js`)
 - ✅ New dark theme stylesheet (`portfolio-dark-theme.scss`)
@@ -291,7 +292,7 @@ Interested in working together? Book a **free 1:1 consultation** to discuss your
 - ✅ Complete website validation (Production Ready status)
 - ✅ Enterprise-grade SaaS business platform ready
 - ✅ Documentation reorganization into 8 modular files in `.github/`
-- ✅ Workflows moved to `.github/.workflows/` subdirectory
+- ✅ Workflows moved to `.github/workflows/` directory
 
 **2024:**
 - ✅ Launched Geometry merchandising venture
@@ -303,12 +304,12 @@ Interested in working together? Book a **free 1:1 consultation** to discuss your
 ---
 
 <p align="center">
-  <strong>Built with ❤️ by <a href="https://kvshvl.in">Kushal Dhananjay Samant</a></strong><br>
+  <strong>Built with ❤️ by <a href="https://kushalsamant.github.io">Kushal Dhananjay Samant</a></strong><br>
   <em>Architect | Developer | Creator</em>
 </p>
 
 <p align="center">
-  <a href="https://kvshvl.in">Website</a> •
+  <a href="https://kushalsamant.github.io">Website</a> •
   <a href="https://kvshvl.setmore.com">Schedule Consultation</a> •
   <a href="https://www.linkedin.com/in/kvshvl">LinkedIn</a> •
   <a href="https://github.com/kushalsamant">GitHub</a>

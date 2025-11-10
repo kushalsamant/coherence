@@ -1,7 +1,7 @@
 # Production Status
 
 **Date:** November 5, 2025  
-**Website:** kushalsamant.github.io (kvshvl.in)  
+**Website:** kushalsamant.github.io (kushalsamant.github.io)  
 **Status:** ✅ **PRODUCTION READY**
 
 ---
@@ -55,10 +55,10 @@ Complete dark minimalist theme redesign and comprehensive validation across all 
 
 - ✅ All 28 social media and portfolio platform links functional
 - ✅ Legal policy links verified:
-  - Cancellation and Refund Policy → `www.kvshvl.in/cancellationandrefundpolicy.html`
-  - Privacy Policy → `www.kvshvl.in/privacypolicy.html`
-  - Support → `www.kvshvl.in/support.html`
-  - Terms of Service → `www.kvshvl.in/termsofservice.html`
+  - Cancellation and Refund Policy → `www.kushalsamant.github.io/cancellationrefund.html`
+  - Privacy Policy → `www.kushalsamant.github.io/privacypolicy.html`
+  - Support → `www.kushalsamant.github.io/support.html`
+  - Terms of Service → `www.kushalsamant.github.io/termsofservice.html`
 
 ---
 

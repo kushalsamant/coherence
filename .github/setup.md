@@ -276,7 +276,7 @@ For custom hosting, configure cache headers.
 Copy and paste this into **Product Description:**
 
 ```
-Kushal Dhananjay Samant provides enterprise-grade SaaS development services and software subscriptions to businesses and individuals globally. Services include custom SaaS application development, cloud solutions, API integrations, database design, and proprietary software platform subscriptions. We serve clients across technology, e-commerce, healthcare, and professional services sectors. Customers discover us through our website (kvshvl.in), professional networks, and referrals. We charge via monthly/annual subscriptions for SaaS products and milestone-based payments for custom development projects. All services comply with international data protection standards (GDPR, CCPA) and industry security frameworks (SOC 2, ISO 27001).
+Kushal Dhananjay Samant provides enterprise-grade SaaS development services and software subscriptions to businesses and individuals globally. Services include custom SaaS application development, cloud solutions, API integrations, database design, and proprietary software platform subscriptions. We serve clients across technology, e-commerce, healthcare, and professional services sectors. Customers discover us through our website (kushalsamant.github.io), professional networks, and referrals. We charge via monthly/annual subscriptions for SaaS products and milestone-based payments for custom development projects. All services comply with international data protection standards (GDPR, CCPA) and industry security frameworks (SOC 2, ISO 27001).
 ```
 
 **Step 4: Update Statement Descriptor**
@@ -292,16 +292,16 @@ This appears on customers' bank statements (max 22 characters).
 **Step 5: Verify Policy URLs**
 
 Ensure all URLs are correct:
-- **Business website:** https://kvshvl.in
-- **Terms of service:** https://kvshvl.in/termsofservice.html
-- **Privacy policy:** https://kvshvl.in/privacypolicy.html
-- **Cancellation & refund policy:** https://kvshvl.in/cancellationandrefundpolicy.html
+- **Business website:** https://kushalsamant.github.io
+- **Terms of service:** https://kushalsamant.github.io/termsofservice.html
+- **Privacy policy:** https://kushalsamant.github.io/privacypolicy.html
+- **Cancellation & refund policy:** https://kushalsamant.github.io/cancellationrefund.html
 
 **Step 6: Update Support Contact**
 
 - **Support email:** writetokushaldsamant@gmail.com
 - **Support phone:** +91 87796 32310
-- **Customer support URL:** https://kvshvl.in/support.html
+- **Customer support URL:** https://kushalsamant.github.io/support.html
 
 **Step 7: Review and Test**
 
@@ -377,11 +377,11 @@ git push origin main
 1. Push changes to `main` branch
 2. GitHub Pages automatically builds site
 3. Live site updates at https://kushalsamant.github.io
-4. Custom domain (kvshvl.in) serves the site
+4. Custom domain (kushalsamant.github.io) serves the site
 
 **Configuration:**
 - Settings → Pages → Source: main branch
-- Custom domain: kvshvl.in (configured in CNAME file)
+- Custom domain: kushalsamant.github.io (configured in CNAME file)
 
 ### Manual Deployment
 
@@ -428,6 +428,6 @@ bundle exec jekyll build
 
 ---
 
-**Last Updated:** November 5, 2025  
+**Last Updated:** November 10, 2025  
 **Status:** Complete Setup Guide
 

@@ -307,7 +307,7 @@ Comprehensive testing recommendations for the KVSHVL website to ensure quality, 
 
 ### Post-Deployment Actions
 
-- [ ] DNS verification (kvshvl.in)
+- [ ] DNS verification (kushalsamant.github.io)
 - [ ] SSL certificate working
 - [ ] Analytics receiving data
 - [ ] Browser testing on live site

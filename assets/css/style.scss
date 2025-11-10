@@ -6,3 +6,22 @@
 
 // Import the dark portfolio theme
 @import "portfolio-dark-theme";
+
+// Links page specific styles
+.links-page {
+  a img {
+    height: 1.2em !important;
+    width: auto;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  li {
+    margin-bottom: 1rem;
+  }
+}

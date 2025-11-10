@@ -18,7 +18,7 @@
 
 **Email:** writetokushaldsamant@gmail.com  
 **Phone:** +91 87796 32310  
-**Website:** https://kvshvl.in
+**Website:** https://kushalsamant.github.io
 
 ### Support Hours
 
@@ -143,7 +143,7 @@ Expert advisory services:
 - Development projects (conditions apply)
 - Free consultations (no refund needed, just cancel)
 
-For complete refund terms, see: https://kvshvl.in/cancellationandrefundpolicy.html
+For complete refund terms, see: https://kushalsamant.github.io/cancellationrefund.html
 
 ---
 
@@ -177,9 +177,9 @@ For detailed compliance information, see [Legal & Compliance](.github/legal-comp
 
 All legal policies are available on the website:
 
-- **Terms of Service:** https://kvshvl.in/termsofservice.html (743 lines, 27 sections)
-- **Privacy Policy:** https://kvshvl.in/privacypolicy.html (910 lines, 20 sections)
-- **Cancellation & Refund Policy:** https://kvshvl.in/cancellationandrefundpolicy.html (633 lines, 16 sections)
+- **Terms of Service:** https://kushalsamant.github.io/termsofservice.html (839 lines, 27 sections)
+- **Privacy Policy:** https://kushalsamant.github.io/privacypolicy.html (913 lines, 20 sections)
+- **Cancellation & Refund Policy:** https://kushalsamant.github.io/cancellationrefund.html (612 lines, 16 sections)
 
 **Effective Date:** November 5, 2025 (all policies)
 
@@ -270,7 +270,7 @@ Yes, we serve clients globally with compliance for GDPR, CCPA, and other interna
 
 ### What is your refund policy?
 
-We offer a 14-day money-back guarantee on SaaS subscriptions and clear refund terms for development projects. See https://kvshvl.in/cancellationandrefundpolicy.html
+We offer a 14-day money-back guarantee on SaaS subscriptions and clear refund terms for development projects. See https://kushalsamant.github.io/cancellationrefund.html
 
 ### How long does development take?
 

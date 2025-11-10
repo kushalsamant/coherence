@@ -5,8 +5,8 @@ description: "Privacy policy for KVSHVL and Kushal Samant services. Learn how we
 
 # Privacy Policy
 
-**Effective Date:** November 5, 2025  
-**Last Updated:** November 5, 2025
+**Effective Date:** November 10, 2025  
+**Last Updated:** November 10, 2025
 
 > **Questions about this Policy?** Email writetokushaldsamant@gmail.com. We're committed to transparency about data practices.
 
@@ -96,7 +96,7 @@ Email: writetokushaldsamant@gmail.com
 - **Preference Cookies:** Language, display settings, saved preferences
 - **Marketing Cookies:** Conversion tracking, remarketing (with consent)
 
-See Section 10 for detailed information about cookies.
+See Section 9 for detailed information about cookies.
 
 **Location Data:**
 - Approximate location based on IP address (always collected)
@@ -765,7 +765,7 @@ Kudal – 416520
 Sindhudurg, Maharashtra, India
 
 ### 17.4 General Support
-**Website:** https://kvshvl.in/getintouch.html  
+**Website:** https://kushalsamant.github.io/getintouch.html  
 **Phone:** +91 87796 32310  
 **Support Hours:** Monday–Saturday, 10:00 AM – 8:00 PM IST
 
@@ -907,7 +907,7 @@ Your privacy and trust are important to us. We continuously review and improve o
 
 ---
 
-**This Privacy Policy was last updated on November 5, 2025.**
+**This Privacy Policy was last updated on November 10, 2025.**
 
-**For the most current version, please visit:** https://kvshvl.in/privacypolicy.html
+**For the most current version, please visit:** https://kushalsamant.github.io/privacypolicy.html
 

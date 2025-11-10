@@ -8,11 +8,11 @@ Comprehensive overview of the enterprise-grade legal documentation suite and com
 
 ### Terms of Service
 - **File:** `termsofservice.md`
-- **Lines:** 748
+- **Lines:** 839
 - **Sections:** 27
 - **Status:** ✅ Complete
 - **Effective Date:** November 5, 2025
-- **URL:** https://kvshvl.in/termsofservice.html
+- **URL:** https://kushalsamant.github.io/termsofservice.html
 
 **Coverage:**
 - Custom SaaS development services
@@ -25,11 +25,11 @@ Comprehensive overview of the enterprise-grade legal documentation suite and com
 
 ### Privacy Policy
 - **File:** `privacypolicy.md`
-- **Lines:** 915
+- **Lines:** 913
 - **Sections:** 20
 - **Status:** ✅ Complete
 - **Effective Date:** November 5, 2025
-- **URL:** https://kvshvl.in/privacypolicy.html
+- **URL:** https://kushalsamant.github.io/privacypolicy.html
 
 **Coverage:**
 - Data collection and usage
@@ -41,12 +41,12 @@ Comprehensive overview of the enterprise-grade legal documentation suite and com
 - Children's privacy
 
 ### Cancellation & Refund Policy
-- **File:** `cancellationandrefundpolicy.md`
-- **Lines:** 638
+- **File:** `cancellationrefund.md`
+- **Lines:** 612
 - **Sections:** 16
 - **Status:** ✅ Complete
 - **Effective Date:** November 5, 2025
-- **URL:** https://kvshvl.in/cancellationandrefundpolicy.html
+- **URL:** https://kushalsamant.github.io/cancellationrefund.html
 
 **Coverage:**
 - Free consultation cancellations
@@ -232,10 +232,10 @@ All legal documents properly reference each other for comprehensive coverage:
 
 | Document | Lines | Sections | Effective Date |
 |----------|-------|----------|----------------|
-| Terms of Service | 748 | 27 | Nov 5, 2025 |
-| Privacy Policy | 915 | 20 | Nov 5, 2025 |
-| Cancellation & Refund | 638 | 16 | Nov 5, 2025 |
-| **Total** | **2,301** | **63** | **All Current** |
+| Terms of Service | 839 | 27 | Nov 5, 2025 |
+| Privacy Policy | 913 | 20 | Nov 5, 2025 |
+| Cancellation & Refund | 612 | 16 | Nov 5, 2025 |
+| **Total** | **2,364** | **63** | **All Current** |
 
 ---
 

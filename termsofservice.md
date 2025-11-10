@@ -5,8 +5,8 @@ description: "Terms of Service for KVSHVL products and Kushal Samant consulting 
 
 # Terms of Service
 
-**Effective Date:** November 5, 2025  
-**Last Updated:** November 5, 2025
+**Effective Date:** November 10, 2025  
+**Last Updated:** November 10, 2025
 
 > **Questions about these Terms?** Email writetokushaldsamant@gmail.com or review with legal counsel before engaging our services.
 
@@ -87,23 +87,6 @@ Subscription-based access to our proprietary software platforms and tools, inclu
 - Digital transformation strategy
 - Training and knowledge transfer
 
-### 4.4 Consultation Types
-
-We offer two types of consultations:
-
-**Discovery Call (Complimentary):**
-- 15-minute introductory conversation
-- Assess project fit and basic scope
-- No payment required
-- Scheduled via [Setmore](https://kvshvl.setmore.com)
-
-**Professional Consultation (Paid):**
-- 60-minute in-depth session
-- Detailed project discussion and technical guidance
-- Upfront payment required
-- Cancellation policy applies (Section 6)
-- Deliverable insights and recommendations
-
 ---
 
 ## 5. Account Registration
@@ -131,29 +114,9 @@ You are responsible for:
 
 ---
 
-## 6. Initial Consultation Meetings
+## 6. Development Services – Statement of Work
 
-### 6.1 Meeting Terms
-We offer complimentary initial consultation meetings to prospective clients:
-- Duration: 30-60 minutes
-- Scheduled via Setmore: https://kvshvl.setmore.com
-- Conducted via video conference or phone
-- No payment required, no obligation
-
-### 6.2 Cancellation and Rescheduling
-- **Preferred notice:** 24 hours advance notice for cancellations or rescheduling
-- **No penalties:** No fees charged for cancellations
-- **Rescheduling:** Allowed up to 2 times per booking, subject to availability
-- **No-show policy:** First no-show noted without penalty; repeated no-shows may affect future booking priority
-
-### 6.3 Non-Binding
-Initial consultation meetings do not constitute a binding service agreement. Formal engagement requires a signed Statement of Work, Order Form, or written contract as described in Section 7.
-
----
-
-## 7. Development Services – Statement of Work
-
-### 7.1 SOW Requirement
+### 6.1 SOW Requirement
 All Development Services projects require a written Statement of Work (SOW) that includes:
 - Detailed project scope and objectives
 - Specific deliverables and acceptance criteria
@@ -162,14 +125,14 @@ All Development Services projects require a written Statement of Work (SOW) that
 - Roles and responsibilities
 - Change request procedures
 
-### 7.2 Change Requests
+### 6.2 Change Requests
 Changes to the agreed scope must be:
 - Submitted in writing
 - Reviewed and quoted by us
 - Approved by the Client before implementation
 - Subject to timeline and cost adjustments
 
-### 7.3 Client Responsibilities
+### 6.3 Client Responsibilities
 Clients are responsible for:
 - Providing timely content, assets, and information
 - Granting necessary access to systems and platforms
@@ -177,13 +140,13 @@ Clients are responsible for:
 - Designating authorized representatives for decision-making
 - Ensuring availability for scheduled meetings and reviews
 
-### 7.4 Delays
+### 6.4 Delays
 Delays caused by Client failure to meet responsibilities may result in:
 - Timeline extensions without penalty to us
 - Additional costs for extended engagement
-- Project suspension or termination per Section 20
+- Project suspension or termination per Section 19
 
-### 7.5 Acceptance Testing
+### 6.5 Acceptance Testing
 - Deliverables are provided for Client testing and review
 - Client has 7 calendar days to test and provide feedback
 - Acceptance is deemed granted if no response within 7 days
@@ -191,23 +154,23 @@ Delays caused by Client failure to meet responsibilities may result in:
 
 ---
 
-## 8. Development Services – Project Execution
+## 7. Development Services – Project Execution
 
-### 8.1 Milestone-Based Delivery
+### 7.1 Milestone-Based Delivery
 Projects are typically delivered in phases with defined milestones. Payment is released upon milestone completion and acceptance.
 
-### 8.2 Progress Communication
+### 7.2 Progress Communication
 We provide regular progress reports and maintain open communication channels throughout the project lifecycle.
 
-### 8.3 Third-Party Services
+### 7.3 Third-Party Services
 Use of third-party services, APIs, or tools requires Client approval. Associated costs are passed through to the Client or included in project quotations.
 
-### 8.4 Environments
+### 7.4 Environments
 - **Beta/Staging:** Provided for testing before production deployment
 - **Production:** Deployment executed after Client approval
 - **Access:** Client receives appropriate access credentials upon delivery
 
-### 8.5 Post-Launch Warranty
+### 7.5 Post-Launch Warranty
 Development Services include a 30-day warranty period from final delivery for defects that prevent the deliverable from performing as specified in the SOW. The warranty does not cover:
 - Changes to requirements or scope
 - Issues caused by Client modifications
@@ -216,710 +179,170 @@ Development Services include a 30-day warranty period from final delivery for de
 
 ---
 
-## 9. SaaS Subscription Terms
+## 8. SaaS Subscription Terms
 
-### 9.1 Subscription Plans
+### 8.1 Subscription Plans
 SaaS Products are offered under various plans:
 - **Free Trial:** Limited-time access with specified features
 - **Monthly Subscriptions:** Billed monthly, cancel anytime
 - **Annual Subscriptions:** Billed annually with discounted rates
 - **Enterprise Plans:** Custom pricing and features
 
-### 9.2 Fair Use and Limits
+### 8.2 Fair Use and Limits
 Subscriptions include usage limits (e.g., storage, API calls, users). Excessive use beyond fair use thresholds may result in:
 - Additional charges
 - Throttling or temporary suspension
 - Requirement to upgrade to a higher plan
 
-### 9.3 Auto-Renewal
+### 8.3 Auto-Renewal
 Subscriptions automatically renew at the end of each billing period unless cancelled before the renewal date. You will be charged using your payment method on file.
 
-### 9.4 Price Changes
+### 8.4 Price Changes
 We reserve the right to change subscription prices with 30 days' advance notice. Existing subscribers will be notified via email. Continued use after the effective date constitutes acceptance of the new pricing.
 
-### 9.5 Access Termination
+### 8.5 Access Termination
 Non-payment may result in service suspension after 15 days and termination after 30 days. Data export options are available during the suspension period.
 
-### 9.6 Data Portability
+### 8.6 Data Portability
 Upon request, we provide data export tools to retrieve your data in standard formats (e.g., JSON, CSV).
 
-### 9.7 Service Modifications
+### 8.7 Service Modifications
 We may modify, update, or discontinue features with reasonable notice. Material changes to core functionality will be communicated with at least 60 days' notice.
 
 ---
 
-## 10. Payment Terms
+## 9. Payment Terms
 
-### 10.1 Development Services Payment
+### 9.1 Development Services Payment
 - **Deposit:** 30-50% upfront payment required to commence work
 - **Milestone Payments:** Per SOW schedule
 - **Final Payment:** Due before final delivery and transfer of deliverables
 - **Payment Terms:** Net 15 days from invoice date unless otherwise specified
 
-### 10.2 Subscription Payment
+### 9.2 Subscription Payment
 - Charged in advance for the subscription period
 - Processed automatically on the renewal date
 - Prorated charges for mid-cycle upgrades
 
-### 10.3 Payment Methods
+### 9.3 Payment Methods
 We accept payment via:
 - Credit and debit cards (processed via Stripe)
 - Bank transfer (for larger projects or enterprise clients)
 - Other methods as mutually agreed
 
-### 10.4 Currency
+### 9.4 Currency
 - **Primary:** Indian Rupees (INR)
 - **International:** US Dollars (USD) or as agreed
 - Currency conversion rates apply at the time of transaction
 
-### 10.5 Late Payment
+### 9.5 Late Payment
 Late payments are subject to:
 - Interest of 1.5% per month (18% annually) or the maximum allowed by law
 - Suspension of services after 15 days overdue
 - Termination after 30 days overdue
 - Collection costs and legal fees
 
-### 10.6 Taxes
+### 9.6 Taxes
 All fees are exclusive of applicable taxes, duties, and levies. You are responsible for payment of all such taxes except those based on our net income.
 
-### 10.7 Disputed Charges
+### 9.7 Disputed Charges
 If you dispute a charge, contact us at writetokushaldsamant@gmail.com within 30 days of the charge. We will investigate and respond within 15 business days.
 
 ---
 
-## 11. Cancellation & Refund Policy
+## 10. Cancellation & Refund Policy
 
-**Effective Date:** November 5, 2025  
-**Last Updated:** November 5, 2025
+Our Cancellation & Refund Policy is governed by our separate [Cancellation & Refund Policy](https://kushalsamant.github.io/cancellationrefund.html). Below is a summary of key terms:
 
-> **Questions about cancellations or refunds?** Email writetokushaldsamant@gmail.com. We're committed to fair and transparent policies.
+### 10.1 SaaS Subscriptions
 
-This Cancellation & Refund Policy explains the terms and conditions for cancelling services and requesting refunds for services provided by Kushal Dhananjay Samant. This policy applies to all services including SaaS subscriptions, custom development projects, and consultation bookings.
+**Monthly Subscriptions:**
+- Cancel anytime via account settings or email
+- No prorated refunds for partial months
+- Access continues until end of billing period
 
-### 11.1 Policy Overview
+**Annual Subscriptions:**
+- 30-day money-back guarantee for new subscriptions
+- After 30 days: Prorated refund (90% of unused months)
+- Alternative: Full service credit (no administrative fee)
 
-We are committed to fair and transparent cancellation and refund practices. This policy complies with:
-- **Consumer Protection Act, 2019** (India)
-- **EU Consumer Rights Directive 2011/83/EU**
-- **FTC Guidelines** (United States)
-- Other applicable consumer protection laws
+**Trial Periods:**
+- Cancel anytime during trial period without charges
+- Email reminder 3 days before auto-conversion to paid subscription
 
-Different cancellation and refund terms apply depending on the type of service. Please review the relevant section below.
+### 10.2 Development Services
 
-**Questions or Concerns:**  
-Contact us at writetokushaldsamant@gmail.com
+**Before Project Start:**
+- Within 7 days of payment: Full refund
+- After 7 days, before project start: 90% refund (10% administrative fee)
 
-### 11.2 Consultation Meetings
+**During Development:**
+- 30 days' written notice required
+- Payment due for completed milestones and in-progress work (prorated)
+- Deliverables provided for all paid work
 
-We offer two types of consultations with different cancellation terms:
+**After Completion:**
+- No refunds once deliverables accepted
+- 30-day warranty for defects per SOW specifications
 
-**Discovery Call (Complimentary - Free)**
+### 10.3 Refund Processing
 
-**Meeting Terms:**
-- Duration: 15 minutes
-- Purpose: Initial fit assessment, basic questions
-- Scheduled via Setmore: https://kvshvl.setmore.com
-- No payment required
-
-**Cancellation:**
-- Cancel anytime without penalty
-- Preferred notice: 24 hours
-- No fees or charges
-- Reschedule up to 2 times per booking
-
-**No-Show Policy:**
-- First no-show: Noted without penalty
-- Repeated no-shows: May affect future booking priority
-
-Since discovery calls are complimentary, no refunds are applicable.
-
-**Professional Consultation (Paid)**
-
-**Meeting Terms:**
-- Duration: 60 minutes
-- Purpose: In-depth project discussion, technical guidance
-- Payment required upfront to confirm booking
-
-**Cancellation & Refund:**
-- **48+ hours in advance:** Full refund
-- **24-48 hours in advance:** 50% refund
-- **Less than 24 hours:** No refund
-- **No-shows or late arrivals:** No refund
-
-**Rescheduling:**
-- **24+ hours in advance:** Free, no penalty
-- **Less than 24 hours:** Subject to availability, may incur fee
-
-**Processing:**
-- Refunds processed within 5-7 business days
-- Returned to original payment method
-
-### 11.3 SaaS Subscription Cancellations
-
-**Monthly Subscriptions**
-
-**Cancellation Process:**
-- Cancel anytime via account settings (self-service)
-- Or email writetokushaldsamant@gmail.com
-- Confirmation email sent upon cancellation
-
-**Effective Date:**
-- Cancellation effective at the end of current billing period
-- You retain access until the end of the paid period
-
-**Refunds:**
-- **No prorated refunds** for partial months
-- You've paid for the full month; service remains available until period ends
-
-**Auto-Renewal:**
-- Automatically stops upon cancellation
-- No further charges after current period expires
-
-**Data Export:**
-- 30-day window to export your data after cancellation
-- Use account settings or contact support for data export
-
-**Reactivation:**
-- You may reactivate your subscription at any time
-- Choose same plan or different plan
-- Previous data restored if within 30-day window
-
-**Annual Subscriptions**
-
-**Cancellation Process:**
-- Via account settings or email writetokushaldsamant@gmail.com
-- Confirmation email sent
-
-**30-Day Money-Back Guarantee:**
-- Cancel within 30 days of initial purchase: **full refund**
-- No questions asked
-
-**After 30 Days – Prorated Refund:**
-- Prorated refund for unused months
-- **Calculation:** (Remaining full months ÷ 12) × Annual fee × 90%
-- 10% administrative fee deducted
-
-**Example:**
-- Annual Plan: ₹12,000
-- Cancelled after 6 months (6 months remaining)
-- Refund: (6 ÷ 12) × ₹12,000 × 90% = ₹5,400
-
-**Service Credit Option:**
-- Full credit toward other services (no administrative fee)
-- Service credits valid for 12 months
-
-**Access:**
-- Continues until end of current billing period if no refund requested
-- Immediate termination if refund is processed
-
-**Trial Periods**
-
-**Trial Terms:**
-- Duration specified per plan (typically 14-30 days)
-- Full feature access during trial
-- No payment required until trial ends
-
-**Cancellation During Trial:**
-- Cancel anytime before trial expires
-- No charges applied
-- Automatic cancellation if no payment method added
-
-**Auto-Conversion:**
-- Trial automatically converts to paid subscription upon expiration
-- Email reminder sent 3 days before conversion
-- Cancel to prevent automatic charge
-
-**Post-Trial Cancellation:**
-- After trial converts to paid: standard cancellation terms apply
-
-**Upgrades & Downgrades**
-
-**Upgrades:**
-- Immediate access to new plan features
-- Prorated charge for remainder of current billing period
-- New price applies on next full billing cycle
-
-**Downgrades:**
-- Effective at the start of next billing cycle
-- Continue with current plan until period ends
-- No refund for price difference between plans
-- Data and features adjusted on effective date
-
-**Add-Ons:**
-- Prorated charge when added mid-cycle
-- Cancel anytime
-- Prorated refund for unused portion (monthly add-ons)
-
-### 11.4 Development Services Cancellations
-
-**Before Project Commencement**
-
-**Within 7 Days of Payment (Cooling-Off Period):**
-- **Full refund** of deposit
-- No questions asked
 - Request via email: writetokushaldsamant@gmail.com
+- Review within 3 business days
+- Processing: 14 business days after approval
+- Total timeline: 3-4 weeks from request to receipt
+- Refund issued to original payment method
 
-**After 7 Days, Before Project Start:**
-- **90% refund** of deposit
-- 10% administrative fee applies
-- If discovery/planning work completed: costs deducted from refund
+### 10.4 Non-Refundable Items
 
-**How to Cancel:**
-- Email writetokushaldsamant@gmail.com
-- Include: Project name, order number, reason for cancellation
-- Confirmation sent within 24 hours
-
-**During Active Development**
-
-**Client-Initiated Termination:**
-
-**Notice Required:** 30 days' written notice
-
-**Payment Due:**
-- All **completed milestones** (100% of milestone fees)
-- **In-progress work:** Prorated based on percentage completion
-- **Third-party costs** already incurred (domains, APIs, hosting, licenses)
-
-**Deliverables Provided:**
-- Source code and files for all paid work
-- Documentation completed to date
-- Transfer of any assets or accounts
-
-**Example:**
-- Total Project Cost: ₹5,00,000 (5 milestones @ ₹1,00,000 each)
-- Completed: 2 milestones = ₹2,00,000
-- In Progress: Milestone 3, 50% complete = ₹50,000
-- Third-party costs: ₹20,000
-- **Amount Due:** ₹2,70,000
-- **Refundable:** ₹2,30,000
-
-**Project Suspension:**
-- Client may request project pause (maximum 90 days)
-- No additional charges during suspension
-- Resume fee: 10% of remaining project balance
-- Deposit paid holds project slot
-
-**Developer-Initiated Termination**
-
-**For Client Breach:**
-- 15-day cure period provided
-- Full payment due for work completed to date
-- No refund of completed work
-
-**For Convenience:**
-- Rare; only in extraordinary circumstances (e.g., conflict of interest discovered)
-- Full refund of unused deposit
-- Deliverables for all paid work provided
-- Assistance with transition to another provider
-
-**After Project Completion**
-
-**Post-Delivery:**
-- **No refunds** once deliverables have been accepted and delivered
-- Acceptance per Terms of Service (typically 7 days for testing)
-
-**Warranty Period:**
-- 30-day warranty for defects in deliverables
-- Defect fixes provided free of charge during warranty period
-- Defect: deliverable doesn't meet SOW specifications
-- Does not cover: change requests, enhancements, or new features
-
-**Enhancement Requests:**
-- Treated as new work with separate quotation
-- Not covered under original project cost
-
-**Rejection of Deliverables:**
-- Must be based on Statement of Work (SOW) acceptance criteria
-- Specific issues must be documented
-- We have opportunity to revise and correct
-- Dispute resolution per Terms of Service if disagreement persists
-
-### 11.5 Refund Processing
-
-**Approval Process**
-
-**Request Submission:**
-- Email: writetokushaldsamant@gmail.com
-- Subject: "Refund Request – [Order Number]"
-- Include:
-  - Your name and email
-  - Order/invoice number
-  - Service type
-  - Reason for refund request
-  - Preferred refund method
-
-**Acknowledgment:**
-- Confirmation email within 24 hours
-
-**Review:**
-- Evaluation within 3 business days
-- Approval or denial notification
-- If denied: explanation provided with appeal option
-
-**Processing Timeline**
-
-**Initiation:**
-- Approved refunds initiated within **14 business days** of approval
-
-**Payment Method:**
-- Refund to **original payment method**
-- Credit card: Automatic reversal to original card
-- Bank transfer: To original account
-
-**Additional Processing Time:**
-- **Stripe Processing:** 5-10 business days after we initiate refund
-- **Bank Processing:** 5-7 business days after Stripe processes
-- **Total Expected Timeline:** 3-4 weeks maximum from request to receipt
-
-**Tracking:**
-- Refund reference number provided
-- Status updates available upon request
-
-**Refund Methods**
-
-**Original Payment Method (Preferred):**
-- Credit/Debit Card: Automatic reversal
-- Bank Transfer: To verified original account
-- Stripe Balance: Credited to Stripe account
-
-**Alternative Methods** (if original method unavailable):
-- Bank transfer to verified account (requires banking details)
-- Service credits (same value, no expiration)
-- Check/Cheque (for India addresses only, may take longer)
-
-**Method Requirements:**
-- Identity verification may be required
-- Banking details verification for bank transfers
-
-**Refund Confirmation**
-
-**Notification:**
-- Email confirmation when refund is processed
-- Includes: refund amount, method, reference number, expected timeline
-
-**Questions:**
-- Contact writetokushaldsamant@gmail.com with refund reference number
-- Response within 48 business hours
-
-### 11.6 Non-Refundable Items
-
-The following are **not refundable**:
-
-**Third-Party Costs**
-- Domain name registrations
-- SSL certificates
-- Third-party API subscriptions
-- Hosting fees paid to providers
-- Software licenses purchased
-- Stock assets (images, fonts, graphics, etc.)
-
-These costs are passed through to clients and paid directly to vendors. Refunds for these items are subject to third-party vendor policies.
-
-**Completed Services**
-- Fully delivered development work
-- Accepted project milestones
-- Consumed subscription time (past billing periods)
-- Training sessions attended
-- Consulting hours already used
-
-**Administrative Fees**
-- Payment processing fees (Stripe, bank charges)
+- Third-party costs (domains, licenses, hosting, APIs)
+- Completed and accepted services
+- Payment processing fees
 - Currency conversion fees
-- International wire transfer fees
 
-**Late Cancellations**
-- Development Services: Cancellations less than 7 days before scheduled start (negotiable based on circumstances)
-- Scheduled deliveries or launches: Past committed deadlines
+### 10.5 Consumer Rights
 
-### 11.7 Service Credits
+**India:** Rights under Consumer Protection Act, 2019 fully preserved. Contact National Consumer Helpline: 1800-11-4000
 
-**SLA Breach Credits**
-- Issued per Terms of Service SLA provisions
-- Calculated based on uptime or support response time failures
-- Applied automatically to next billing cycle
+**EU:** 14-day cooling-off period for distance contracts per Consumer Rights Directive 2011/83/EU
 
-**Credit Amounts:**
-- Based on severity and duration of service disruption
-- Detailed in Terms of Service, Section 15
+**UK:** Rights under Consumer Rights Act 2015 and Consumer Contracts Regulations
 
-**Request Process:**
-- Must request within 30 days of SLA breach
-- Email writetokushaldsamant@gmail.com with incident details
+**US:** Compliance with FTC Guidelines and applicable state consumer protection laws
 
-**Credit Terms**
-- **Validity:** 12 months from issue date
-- **Application:** Automatically applied to subscription renewals
-- **Non-Transferable:** Cannot transfer to another account
-- **Non-Refundable:** Cannot be redeemed for cash
-- **Combination:** Cannot combine with other discounts unless explicitly stated
+### 10.6 Full Policy
 
-**Credit Balance**
-- View current balance in account dashboard
-- Email notification when credits are issued
-- Expiration warnings sent 30 days before expiry
+For complete cancellation and refund terms, including:
+- Upgrades, downgrades, and add-ons
+- Service credits and SLA breach compensation
+- Disputed charges and chargeback procedures
+- Currency and exchange rate policies
+- Special circumstances and force majeure
+- International consumer rights details
+- Refund exceptions and time limits
 
-### 11.8 Disputed Charges
+Please review our full [Cancellation & Refund Policy](https://kushalsamant.github.io/cancellationrefund.html).
 
-**Contact Us First**
-
-Before initiating a chargeback with your bank:
-- **Email:** writetokushaldsamant@gmail.com
-- **Subject:** "Disputed Charge – [Order Number]"
-- **Response:** Within 48 business hours
-- **Resolution Attempt:** Within 7 business days
-
-**Chargeback Impact**
-
-If you initiate a chargeback:
-- Account suspended during investigation
-- Services paused until resolution
-- If chargeback is successful: Account permanently closed
-- If chargeback is reversed: Reactivation may be offered
-- Chargeback fees (if any) may be charged to your account
-
-**Dispute Resolution**
-
-We will:
-- Review all evidence and documentation
-- Make good faith effort to resolve the issue
-- Follow dispute resolution procedures in Terms of Service
-- Provide clear explanation of charges
-
-### 11.9 Currency & Exchange Rates
-
-**Transaction Currency**
-- **Primary:** Indian Rupees (INR)
-- **International:** US Dollars (USD)
-- Prices displayed in your selected currency at time of purchase
-
-**Refund Currency**
-- Refunds issued in **same currency as original payment**
-- Exchange rate: **Current rate at time of refund processing**
-- Exchange rate may differ from rate at time of original purchase
-- Currency conversion risk is customer's responsibility
-
-**Fees**
-- Bank currency conversion fees: Non-refundable
-- International wire transfer fees: Paid by customer
-- Stripe processing fees: Non-refundable
-
-### 11.10 Special Circumstances
-
-**Technical Issues**
-
-If we experience service issues:
-- **Service Unavailable:** Prorated refund or service credit
-- **Data Loss (Our Fault):** Full refund plus compensation
-- **Major Bugs:** Refund for affected period or resolution at no charge
-
-**Service Dissatisfaction**
-- We make reasonable efforts to resolve issues and concerns
-- Onboarding support and training offered
-- Mutual termination and refund considered on case-by-case basis
-
-**Force Majeure**
-- No refunds for delays due to force majeure events (natural disasters, pandemics, war, etc.)
-- Service extension or credits offered instead
-- Per Terms of Service force majeure provisions
-
-**Emergency or Hardship**
-
-Extraordinary circumstances (medical emergency, natural disaster, etc.):
-- Case-by-case review
-- Payment plans or postponement may be considered
-- Contact writetokushaldsamant@gmail.com to discuss
-
-### 11.11 Consumer Rights (India)
-
-**Consumer Protection Act, 2019**
-
-Indian consumers have rights under the Consumer Protection Act, 2019:
-
-**Rights for Defective Goods/Services:**
-- Repair or replacement of defective service
-- Refund of payment
-- Compensation for deficiency in service
-
-**Unfair Trade Practices:**
-- Protection against misleading advertisements
-- Protection against unfair contract terms
-- Right to seek redressal
-
-**Available Remedies**
-- Removal of defects in service
-- Replacement with new service of similar description
-- Return of price paid
-- Compensation for losses or injury suffered
-
-**Consumer Dispute Redressal Forums**
-
-**District Consumer Disputes Redressal Commission:**
-- For claims up to ₹1 crore
-
-**State Consumer Disputes Redressal Commission:**
-- For claims exceeding ₹1 crore but not exceeding ₹10 crore
-
-**National Consumer Disputes Redressal Commission:**
-- For claims exceeding ₹10 crore
-
-**National Consumer Helpline:**  
-Phone: **1800-11-4000**  
-Website: https://consumerhelpline.gov.in
-
-**Time Limits**
-- File complaint within **2 years** of cause of action
-- Extension possible in cases of disability or other valid reasons
-
-### 11.12 International Consumer Rights
-
-**European Union**
-
-**Consumer Rights Directive 2011/83/EU:**
-- **14-Day Cooling-Off Period** for distance contracts (online purchases)
-- Right to cancel within 14 days of purchase without giving reason
-- Full refund within 14 days of cancellation notification
-
-**Exceptions:**
-- Services fully performed with consumer's prior express consent
-- Customized goods or services
-
-**How to Exercise:**
-- Email writetokushaldsamant@gmail.com
-- Subject: "EU Right of Withdrawal"
-- We provide standard withdrawal form
-
-**United Kingdom**
-
-**Consumer Rights Act 2015:**
-- Services must be performed with reasonable care and skill
-- Right to repeat performance or price reduction for deficient services
-
-**Consumer Contracts Regulations:**
-- 14-day cooling-off period
-- Right to cancel distance and off-premises contracts
-
-**United States**
-
-**FTC Guidelines:**
-- Truth in advertising
-- Fair billing practices
-- Reasonable refund policies
-
-**State-Specific Laws:**
-- Additional consumer protection laws may apply depending on your state
-- Some states have specific requirements for refund policies
-
-**Other Jurisdictions**
-- Local consumer protection laws apply
-- Your statutory consumer rights are not limited by this policy
-- Policy will be adjusted to meet local legal requirements where necessary
-
-### 11.13 Refund Exceptions
-
-Refunds are **not available** for:
-
-**Violations**
-- Violation of Terms of Service
-- Account suspension or termination for breach
-- Fraudulent activity
-- Misuse of services
-
-**Time Limits**
-- Requests made after applicable warranty or guarantee period expired
-- Beyond refund windows specified in this policy
-
-**Explicitly Non-Refundable**
-- Services or products explicitly marked as non-refundable at time of purchase
-- Final sale items (if any)
-
-**Changed Mind (After Applicable Period)**
-- After cooling-off or money-back guarantee periods have expired
-- Subject to statutory consumer rights in your jurisdiction
-
-### 11.14 Policy Updates
-
-**Right to Modify**
-
-We reserve the right to modify this Cancellation & Refund Policy at any time.
-
-**Notice of Changes**
-
-Material changes will be communicated via:
-- Email to registered email address (30 days' advance notice)
-- Prominent notice on our website
-- In-app notification (where applicable)
-
-**Existing Transactions**
-- Policy in effect at time of purchase applies, **OR**
-- Current policy applies (whichever is more favorable to you)
-
-**Notification**
-- Check our website for the most current version
-- "Last Updated" date at top indicates latest revision
-- Review regularly for updates
-
-### 11.15 Contact Information for Cancellations and Refunds
-
-**Refund Requests**
-
-**Email:** writetokushaldsamant@gmail.com  
-**Subject:** "Refund Request – [Order Number]"  
-**Include:**
-- Your name and email
-- Order/invoice number
-- Reason for refund request
-- Preferred refund method
-- Contact details for follow-up
-
-**Questions and Support**
-
-**Email:** writetokushaldsamant@gmail.com  
-**Website:** https://kvshvl.in/getintouch.html  
-**Phone:** +91 87796 32310  
-**Response Time:** 24-48 business hours
-
-**Support Hours:**  
-Monday–Saturday, 10:00 AM – 8:00 PM IST
-
-**Mailing Address**
-
-Kushal Dhananjay Samant  
-H.No. 2337, "Visava"  
-Swami Samarth Nagar, Near Dattanagar  
-Kavilgaon, Nerur  
-Kudal – 416520  
-Sindhudurg, Maharashtra, India
-
-**Consumer Complaints (India)**
-
-**National Consumer Helpline:** 1800-11-4000  
-**Website:** https://consumerhelpline.gov.in
-
-### 11.16 Commitment to Fair Dealing
-
-We are committed to:
-- **Transparency:** Clear communication about cancellation and refund terms
-- **Fairness:** Reasonable policies that respect consumer rights
-- **Compliance:** Full compliance with Indian, European, and US consumer protection laws
-- **Customer Service:** Responsive support for refund requests and concerns
-
-Our policies are designed to meet or exceed legal requirements while ensuring fair treatment for all customers.
+**Contact for Cancellations/Refunds:**  
+Email: writetokushaldsamant@gmail.com  
+Phone: +91 87796 32310  
+Support Hours: Monday–Saturday, 10:00 AM – 8:00 PM IST
 
 ---
 
-## 12. Intellectual Property Rights
+## 11. Intellectual Property Rights
 
-### 12.1 Development Work – Client IP
+### 11.1 Development Work – Client IP
 Upon full payment, Client receives ownership of custom deliverables specifically created for the Client under the SOW, excluding:
 - Pre-existing intellectual property owned by us or third parties
 - General methodologies, processes, and know-how
 - Reusable components, frameworks, and tools
 - Open source components (subject to respective licenses)
 
-### 12.2 Platform and SaaS Products – Our IP
+### 11.2 Platform and SaaS Products – Our IP
 We retain all ownership rights to our proprietary Platform, SaaS Products, tools, and technologies. Clients receive a non-exclusive, non-transferable, limited license to access and use the Platform solely for their internal business purposes during the subscription term or as specified in the agreement.
 
-### 12.3 License Restrictions
+### 11.3 License Restrictions
 You may not:
 - Reverse engineer, decompile, or disassemble the Platform
 - Copy, modify, or create derivative works
@@ -927,13 +350,13 @@ You may not:
 - Remove or alter proprietary notices
 - Use the Platform for competitive analysis or to develop competing products
 
-### 12.4 Open Source Components
+### 11.4 Open Source Components
 Third-party open source components are governed by their respective licenses. We provide documentation of open source components used. Client is responsible for compliance with open source licenses post-delivery.
 
-### 12.5 Feedback and Suggestions
+### 11.5 Feedback and Suggestions
 Any feedback, suggestions, or ideas you provide regarding our Services may be used by us without compensation or obligation to you.
 
-### 12.6 Infringement Claims
+### 11.6 Infringement Claims
 If a deliverable infringes third-party IP rights, we will, at our option:
 - Obtain the right for you to continue using it
 - Replace or modify it to be non-infringing
@@ -941,28 +364,28 @@ If a deliverable infringes third-party IP rights, we will, at our option:
 
 ---
 
-## 13. Data Protection & Privacy
+## 12. Data Protection & Privacy
 
-### 13.1 Privacy Policy
+### 12.1 Privacy Policy
 Our collection, use, and protection of personal data is governed by our Privacy Policy.
 
-### 13.2 Compliance
+### 12.2 Compliance
 We comply with:
 - General Data Protection Regulation (GDPR) for EU users
 - California Consumer Privacy Act (CCPA) for California residents
 - Indian Information Technology Act, 2000 and related rules
 - Other applicable data protection laws
 
-### 13.3 Data Processor Role
+### 12.3 Data Processor Role
 For Development Services, we act as a data processor on behalf of Clients (data controllers) regarding any personal data of their end users.
 
-### 13.4 Data Processing Agreement
+### 12.4 Data Processing Agreement
 Enterprise clients may request a separate Data Processing Agreement (DPA) that details data processing terms, security measures, and sub-processor arrangements.
 
-### 13.5 Data Residency
+### 12.5 Data Residency
 Where technically feasible, we offer data residency options in India, the European Union, and the United States. Data residency preferences should be specified at the start of the engagement.
 
-### 13.6 Your Responsibilities
+### 12.6 Your Responsibilities
 Clients are responsible for:
 - Obtaining necessary consents from their end users
 - Complying with applicable data protection laws
@@ -971,9 +394,9 @@ Clients are responsible for:
 
 ---
 
-## 14. Security & Compliance
+## 13. Security & Compliance
 
-### 14.1 Security Measures
+### 13.1 Security Measures
 
 **Technical Safeguards:**
 - **Encryption:** TLS 1.3 or higher for data in transit; AES-256 encryption for data at rest
@@ -988,7 +411,7 @@ Clients are responsible for:
 - Incident response procedures
 - Employee security training and background checks (where permitted)
 
-### 14.2 Security Framework
+### 13.2 Security Framework
 
 We implement security practices informed by industry frameworks:
 
@@ -1012,10 +435,10 @@ For healthcare-related work, we implement enhanced security measures aligned wit
 
 *Note: These represent our security practices and commitments. Formal certifications may be pursued based on business needs and client requirements.*
 
-### 14.3 Security Audits
+### 13.3 Security Audits
 We conduct regular third-party security assessments. Audit reports may be provided to enterprise clients under NDA upon request.
 
-### 14.4 Client Security Responsibilities
+### 13.4 Client Security Responsibilities
 Clients must:
 - Use strong passwords and enable MFA where available
 - Securely store API keys and access credentials
@@ -1023,14 +446,14 @@ Clients must:
 - Follow security best practices for their use of the Services
 - Maintain compliance with their own regulatory requirements
 
-### 14.5 Security Incident Notification
+### 13.5 Security Incident Notification
 In the event of a security incident affecting your data, we will notify you in accordance with applicable laws and our Privacy Policy, typically within 72 hours of discovery.
 
 ---
 
-## 15. Service Level Agreements (SLAs)
+## 14. Service Level Agreements (SLAs)
 
-### 15.1 Uptime Guarantee (SaaS Products)
+### 14.1 Uptime Guarantee (SaaS Products)
 We target 99.9% monthly uptime for our SaaS Products, calculated as:
 ```
 Uptime % = (Total Minutes in Month - Downtime Minutes) / Total Minutes in Month × 100
@@ -1038,12 +461,12 @@ Uptime % = (Total Minutes in Month - Downtime Minutes) / Total Minutes in Month 
 
 **Exclusions:** Downtime due to scheduled maintenance, force majeure events, Client's actions, third-party service failures, or circumstances beyond our reasonable control.
 
-### 15.2 Scheduled Maintenance
+### 14.2 Scheduled Maintenance
 - **Advance Notice:** 72 hours for scheduled maintenance
 - **Timing:** Performed during low-traffic windows when possible
 - **Duration:** Minimized to the extent reasonably possible
 
-### 15.3 Support Response Times
+### 14.3 Support Response Times
 
 | Priority | Description | Response Time |
 |----------|-------------|---------------|
@@ -1054,7 +477,7 @@ Uptime % = (Total Minutes in Month - Downtime Minutes) / Total Minutes in Month 
 
 **Business Hours:** Monday–Saturday, 10:00 AM – 8:00 PM IST
 
-### 15.4 Service Credits
+### 14.4 Service Credits
 If we fail to meet the uptime guarantee:
 
 | Uptime Achievement | Service Credit |
@@ -1071,15 +494,15 @@ If we fail to meet the uptime guarantee:
 
 ---
 
-## 16. Confidentiality
+## 15. Confidentiality
 
-### 16.1 Confidential Information
+### 15.1 Confidential Information
 Each party agrees to protect the other party's Confidential Information with the same degree of care used to protect its own confidential information, but no less than reasonable care.
 
-### 16.2 Confidentiality Period
+### 15.2 Confidentiality Period
 Confidentiality obligations continue for 5 years from the date of disclosure.
 
-### 16.3 Exceptions
+### 15.3 Exceptions
 Confidential Information does not include information that:
 - Is or becomes publicly available through no breach of this Agreement
 - Was known to the receiving party before disclosure
@@ -1087,24 +510,24 @@ Confidential Information does not include information that:
 - Is rightfully received from a third party without confidentiality restrictions
 - Must be disclosed pursuant to law or court order (with notice to disclosing party where permitted)
 
-### 16.4 Return of Information
+### 15.4 Return of Information
 Upon termination or request, each party will return or destroy the other party's Confidential Information, except for archival copies required by law or backup systems.
 
-### 16.5 Injunctive Relief
+### 15.5 Injunctive Relief
 Breach of confidentiality may cause irreparable harm for which monetary damages are inadequate. The injured party may seek injunctive relief in addition to other remedies.
 
 ---
 
-## 17. Warranties
+## 16. Warranties
 
-### 17.1 Our Warranties
+### 16.1 Our Warranties
 We warrant that:
 - Services will be performed in a professional and workmanlike manner
 - Services will comply with applicable laws and regulations
 - Development deliverables will not infringe third-party intellectual property rights (to the best of our knowledge)
 - We will use reasonable skill and care in providing the Services
 
-### 17.2 Client Warranties
+### 16.2 Client Warranties
 You warrant that:
 - You have authority to enter into this Agreement
 - Your use of the Services complies with applicable laws
@@ -1113,11 +536,11 @@ You warrant that:
 
 ---
 
-## 18. Warranty Disclaimers
+## 17. Warranty Disclaimers
 
 To the maximum extent permitted by law:
 
-### 18.1 "AS IS" Services
+### 17.1 "AS IS" Services
 
 The Services are provided "as is" and "as available" without warranties of any kind, whether express or implied. This includes, but is not limited to:
 - Implied warranties of merchantability
@@ -1126,27 +549,27 @@ The Services are provided "as is" and "as available" without warranties of any k
 
 *In plain terms: We'll do our best and use professional standards, but we can't guarantee specific outcomes.*
 
-### 18.2 No Guarantee of Results
+### 17.2 No Guarantee of Results
 
 We do not warrant or guarantee any specific results from use of the Services. Success depends on many factors beyond our control.
 
-### 18.3 Service Availability
+### 17.3 Service Availability
 
 We do not warrant that the Services will be uninterrupted, error-free, secure, or free of viruses or other harmful components. We work to maintain reliability but cannot guarantee 100% uptime.
 
-### 18.4 Third-Party Components
+### 17.4 Third-Party Components
 
 We disclaim all warranties regarding third-party services, software, or components. These are governed by their own terms and conditions.
 
-### 18.5 Consumer Rights Preserved
+### 17.5 Consumer Rights Preserved
 
 **Important for Consumers:** If you're subject to the Consumer Protection Act, 2019 (India) or other mandatory consumer protection laws, your statutory rights are not excluded or limited by these disclaimers. These disclaimers apply only to the extent permitted by applicable law.
 
 ---
 
-## 19. Limitation of Liability
+## 18. Limitation of Liability
 
-### 19.1 Liability Cap – Business Clients
+### 18.1 Liability Cap – Business Clients
 
 For business-to-business transactions, our total liability arising from these Terms or the Services is limited to the greater of:
 - The fees you paid in the 12 months before the claim, or
@@ -1154,7 +577,7 @@ For business-to-business transactions, our total liability arising from these Te
 
 This cap applies to all claims, regardless of the form of action.
 
-### 19.2 Exclusion of Consequential Damages
+### 18.2 Exclusion of Consequential Damages
 
 To the maximum extent permitted by law, we are not liable for:
 - Lost profits, revenue, or business opportunities
@@ -1165,7 +588,7 @@ To the maximum extent permitted by law, we are not liable for:
 
 *Even if we've been advised of the possibility of such damages.*
 
-### 19.3 Exceptions
+### 18.3 Exceptions
 
 The limitations in this section do not apply to:
 - Fraud, willful misconduct, or gross negligence
@@ -1174,32 +597,32 @@ The limitations in this section do not apply to:
 - Violations of data protection laws caused by our breach
 - Liabilities that cannot be limited under applicable law
 
-### 19.4 Consumer Protection – Individual Clients
+### 18.4 Consumer Protection – Individual Clients
 
 **For individual consumers in India:** Your rights under the Consumer Protection Act, 2019 are fully preserved. Statutory remedies for defective services or unfair trade practices are not limited. The maximum liability of ₹5,00,000 applies except where statutory consumer remedies provide greater protection.
 
-### 19.5 International Consumer Rights
+### 18.5 International Consumer Rights
 
 **For consumers in other jurisdictions:** Local consumer protection laws apply. These limitations apply only to the extent permitted by mandatory consumer protection laws in your jurisdiction. Your statutory rights remain unaffected.
 
 ---
 
-## 20. Indemnification
+## 19. Indemnification
 
-### 20.1 Client Indemnification
+### 19.1 Client Indemnification
 You agree to indemnify, defend, and hold harmless Kushal Dhananjay Samant from claims, damages, losses, and expenses (including reasonable attorneys' fees) arising from:
 - Your misuse of the Services
 - Your violation of these Terms or applicable laws
 - Intellectual property infringement by your Content or materials
 - Your breach of representations or warranties
 
-### 20.2 Our Indemnification
+### 19.2 Our Indemnification
 We agree to indemnify you from claims arising from:
-- Intellectual property infringement by our original deliverables (subject to Section 12.6)
+- Intellectual property infringement by our original deliverables (subject to Section 11.6)
 - Our gross negligence or willful misconduct
 - Data breaches caused by our failure to implement reasonable security measures
 
-### 20.3 Indemnification Procedures
+### 19.3 Indemnification Procedures
 The indemnified party must:
 - Promptly notify the indemnifying party in writing of the claim
 - Grant control of the defense and settlement to the indemnifying party
@@ -1208,111 +631,111 @@ The indemnified party must:
 
 ---
 
-## 21. Term & Termination
+## 20. Term & Termination
 
-### 21.1 Term
+### 20.1 Term
 These Terms begin upon your first access to the Services and continue until terminated as described in this section. Project-specific terms are defined in individual SOWs.
 
-### 21.2 Termination for Convenience
-- **By Client:** 30 days' written notice for subscriptions; Development Services termination governed by Section 11
+### 20.2 Termination for Convenience
+- **By Client:** 30 days' written notice for subscriptions; Development Services termination governed by Section 10
 - **By Us:** 60 days' written notice
 
-### 21.3 Termination for Cause
+### 20.3 Termination for Cause
 Either party may terminate immediately if the other party:
 - Commits a material breach and fails to cure within 15 days of written notice
 - Becomes insolvent or enters bankruptcy proceedings
 - Engages in illegal activities or fraud
 
-### 21.4 Immediate Termination by Us
+### 20.4 Immediate Termination by Us
 We may immediately suspend or terminate for:
 - Non-payment exceeding 30 days
 - Violations of these Terms that pose security risks or legal liability
 - Repeated violations after warnings
 
-### 21.5 Effect of Termination
+### 20.5 Effect of Termination
 Upon termination:
 - **Payment:** All outstanding fees become immediately due
 - **Data Export:** You have 30 days to export your data
 - **Access:** Your access to the Platform is revoked
 - **Confidential Information:** Must be returned or destroyed
-- **IP Rights:** Development Services IP transfers per Section 12; Platform licenses terminate
-- **Refunds:** Per Section 11 (Cancellation & Refund Policy)
+- **IP Rights:** Development Services IP transfers per Section 11; Platform licenses terminate
+- **Refunds:** Per Section 10 (Cancellation & Refund Policy)
 
-### 21.6 Survival
+### 20.6 Survival
 The following sections survive termination: Definitions, Intellectual Property Rights, Confidentiality, Warranties, Disclaimers, Limitation of Liability, Indemnification, Dispute Resolution, and any payment obligations.
 
 ---
 
-## 22. Export Compliance
+## 21. Export Compliance
 
-### 22.1 Export Laws
+### 21.1 Export Laws
 You agree to comply with all applicable export and import control laws and regulations, including:
 - Indian export control laws
 - U.S. Export Administration Regulations (where applicable)
 - International trade sanctions and embargoes
 
-### 22.2 Prohibited Destinations
+### 21.2 Prohibited Destinations
 You may not use the Services or export deliverables to countries subject to comprehensive sanctions, including but not limited to: Iran, North Korea, Syria, Cuba, or Crimea region of Ukraine.
 
-### 22.3 Restricted Parties
+### 21.3 Restricted Parties
 You represent that you are not on any government list of prohibited or restricted parties.
 
-### 22.4 Compliance Responsibility
+### 21.4 Compliance Responsibility
 You are solely responsible for obtaining any necessary export licenses and ensuring compliance with export regulations for your use of deliverables.
 
 ---
 
-## 23. Prohibited Uses
+## 22. Prohibited Uses
 
 You agree not to use the Services to:
 
-### 23.1 Illegal Activities
+### 22.1 Illegal Activities
 - Violate any local, state, national, or international law or regulation
 - Engage in fraudulent activities or misrepresentation
 - Facilitate illegal gambling, money laundering, or terrorism
 
-### 23.2 Harmful Conduct
+### 22.2 Harmful Conduct
 - Harass, abuse, threaten, or incite violence against individuals or groups
 - Distribute viruses, malware, ransomware, or other malicious code
 - Attempt to gain unauthorized access to systems or data
 - Conduct denial-of-service attacks or network interference
 
-### 23.3 Intellectual Property Infringement
+### 22.3 Intellectual Property Infringement
 - Infringe copyrights, trademarks, patents, or other intellectual property rights
 - Distribute pirated software or unauthorized content
 
-### 23.4 Spam and Abuse
+### 22.4 Spam and Abuse
 - Send unsolicited bulk communications (spam)
 - Engage in phishing or social engineering attacks
 - Impersonate any person or entity
 
-### 23.5 Competitive Use
+### 22.5 Competitive Use
 - Reverse engineer, decompile, or disassemble the Platform
 - Conduct competitive analysis or benchmarking without consent
 - Develop competing products based on our Services
 
-### 23.6 Resource Abuse
+### 22.6 Resource Abuse
 - Excessive use beyond fair use thresholds
 - Cryptocurrency mining without authorization
 - Activities that degrade service performance for other users
 
 ---
 
-## 24. Dispute Resolution
+## 23. Dispute Resolution
 
-### 24.1 Informal Resolution
+### 23.1 Informal Resolution
 Before pursuing formal dispute resolution, the parties agree to attempt good faith negotiations for 30 days. Contact us at writetokushaldsamant@gmail.com to initiate informal resolution.
 
-### 24.2 Mediation
+### 23.2 Mediation
 If informal resolution fails, parties may agree to voluntary mediation. Mediation costs will be shared equally.
 
-### 24.3 Governing Law
+### 23.3 Governing Law
 These Terms are governed by the laws of India, without regard to conflict of law principles. Specific statutes include:
 - Information Technology Act, 2000
 - Consumer Protection Act, 2019 (for consumer transactions)
 - Indian Contract Act, 1872
 
-### 24.4 Jurisdiction
+### 23.4 Jurisdiction
 **Primary Jurisdiction:** The courts of Sindhudurg, Maharashtra, India, shall have exclusive jurisdiction over disputes arising under these Terms.
 
 **International Disputes:** For disputes involving clients outside India, parties agree to resolve disputes through arbitration administered by the International Chamber of Commerce (ICC) using ICC Rules, with arbitration seated in India.
@@ -1323,52 +746,52 @@ These Terms are governed by the laws of India, without regard to conflict of law
 - National Consumer Disputes Redressal Commission
 - National Consumer Helpline: 1800-11-4000
 
-### 24.5 Class Action Waiver
+### 23.5 Class Action Waiver
 Where permitted by law, you agree to resolve disputes individually and waive participation in class actions or representative proceedings.
 
 ---
 
-## 25. General Provisions
+## 24. General Provisions
 
-### 25.1 Force Majeure
+### 24.1 Force Majeure
 Neither party is liable for delays or failures in performance due to causes beyond reasonable control, including natural disasters, war, terrorism, pandemics, government actions, labor strikes, or internet/telecommunications failures. Obligations are suspended during force majeure events. If a force majeure event continues for more than 60 days, either party may terminate the affected agreement.
 
-### 25.2 Assignment
+### 24.2 Assignment
 We may assign these Terms or any rights hereunder without your consent, including in connection with a merger, acquisition, or sale of assets. You may not assign these Terms without our prior written consent, except that you may assign to a successor entity in a merger or acquisition involving substantially all of your assets or business.
 
-### 25.3 Entire Agreement
+### 24.3 Entire Agreement
 These Terms, together with any applicable SOWs or Order Forms, constitute the entire agreement between the parties and supersede all prior agreements, representations, and understandings.
 
-### 25.4 Severability
+### 24.4 Severability
 If any provision of these Terms is held to be invalid, illegal, or unenforceable, the remaining provisions will remain in full force and effect, and the invalid provision will be modified to the minimum extent necessary to make it valid and enforceable.
 
-### 25.5 Waiver
+### 24.5 Waiver
 Failure to enforce any provision of these Terms does not constitute a waiver of that provision or any other provision. Any waiver must be in writing and signed by the waiving party.
 
-### 25.6 Notices
+### 24.6 Notices
 All notices under these Terms must be in writing and sent to:
 - **Email:** writetokushaldsamant@gmail.com (for routine matters)
 - **Mailing Address:** Kushal Dhananjay Samant, H.No. 2337, "Visava", Swami Samarth Nagar, Near Dattanagar, Kavilgaon, Nerur, Kudal – 416520, Sindhudurg, Maharashtra, India (for legal notices)
 
 Notices are effective upon sending to the email address or mailing address on file.
 
-### 25.7 Relationship of Parties
+### 24.7 Relationship of Parties
 The parties are independent contractors. These Terms do not create a partnership, joint venture, employment, or agency relationship.
 
-### 25.8 Third-Party Beneficiaries
+### 24.8 Third-Party Beneficiaries
 These Terms do not confer any rights or remedies upon any person other than the parties and their permitted successors and assigns, except for our authorized service providers who are third-party beneficiaries of confidentiality and liability provisions.
 
-### 25.9 Language
+### 24.9 Language
 These Terms are prepared in English. Any translations are provided for convenience only. In case of conflict, the English version prevails.
 
 ---
 
-## 26. Updates to Terms
+## 25. Updates to Terms
 
-### 26.1 Right to Modify
+### 25.1 Right to Modify
 We reserve the right to modify these Terms at any time to reflect changes in our Services, business practices, or legal requirements.
 
-### 26.2 Notice of Changes
+### 25.2 Notice of Changes
 Material changes will be notified via:
 - Email to your registered email address (30 days advance notice)
 - Prominent notice on our website
@@ -1382,13 +805,13 @@ We encourage you to review these Terms periodically. The "Last Updated" date at 
 
 ---
 
-## 27. Contact Information
+## 26. Contact Information
 
 For questions, concerns, or notices regarding these Terms, please contact us:
 
 **General Inquiries:**  
 Email: writetokushaldsamant@gmail.com  
-Website: https://kvshvl.in/getintouch.html  
+Website: https://kushalsamant.github.io/getintouch.html  
 Phone: +91 87796 32310
 
 **Legal Notices:**  
@@ -1400,17 +823,17 @@ Email: writetokushaldsamant@gmail.com
 Support Hours: Monday–Saturday, 10:00 AM – 8:00 PM IST
 
 **Data Protection Inquiries:**  
-See our Privacy Policy at https://kvshvl.in/privacypolicy.html  
+See our Privacy Policy at https://kushalsamant.github.io/privacypolicy.html  
 Email: writetokushaldsamant@gmail.com
 
 ---
 
-## 28. Acceptance
+## 27. Acceptance
 
 By accessing or using our Services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
 
-**Effective Date:** November 5, 2025
+**Effective Date:** November 10, 2025
 
 ---
 
-*These Terms of Service were last updated on November 5, 2025. For the most current version, please visit https://kvshvl.in/termsofservice.html*
+*These Terms of Service were last updated on November 10, 2025. For the most current version, please visit https://kushalsamant.github.io/termsofservice.html*

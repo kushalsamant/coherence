@@ -1,15 +1,9 @@
 ---
+layout: content
 description: "All social media, creative platforms, and tools where you can find Kushal Samant's work across the web."
 ---
 
-<style>
-a img {
-  height: 1.2em !important;
-  width: auto;
-  vertical-align: middle;
-  margin-right: 0.5rem;
-}
-</style>
+<div class="links-page" markdown="1">
 
 # Links
 
@@ -17,54 +11,41 @@ All platforms and tools where you can find my work, connect, or explore content.
 
 ## Development
 
-<a href="https://github.com/kushalsamant" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogithub.png" alt="GitHub">GitHub</a><br><br>
-
-<a href="https://github.com/sponsors/kushalsamant" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogithub.png" alt="GitHub Sponsors">GitHub Sponsors</a>
+- [![GitHub](/assets/img/logogithub.png) GitHub](https://github.com/kushalsamant){:target="_blank" rel="noopener noreferrer"}
+- [![GitHub](/assets/img/logogithub.png) GitHub Sponsors ❤️](https://github.com/sponsors/kushalsamant){:target="_blank" rel="noopener noreferrer"}
 
 ## Commerce
 
-<a href="https://kvshvl.gumroad.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logogumroad.png" alt="Gumroad">Gumroad</a><br><br>
-
-<a href="https://patreon.com/c/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopatreon.png" alt="Patreon">Patreon</a><br><br>
-
-<a href="https://311290.myshopify.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshopify.png" alt="Shopify">Shopify</a>
+- [![Gumroad](/assets/img/logogumroad.png) Gumroad](https://kvshvl.gumroad.com){:target="_blank" rel="noopener noreferrer"}
+- [![Patreon](/assets/img/logopatreon.png) Patreon](https://patreon.com/c/kvshvl){:target="_blank" rel="noopener noreferrer"}
+- [![Shopify](/assets/img/logoshopify.png) Shopify](https://311290.myshopify.com){:target="_blank" rel="noopener noreferrer"}
 
 ## Photography
 
-<a href="https://stock.adobe.com/contributor/212199501/KVSHVL" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoadobe.png" alt="Adobe Stock">Adobe Stock</a><br><br>
-
-<a href="https://alamy.com/portfolio/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoalamy.png" alt="Alamy">Alamy</a><br><br>
-
-<a href="https://shutterstock.com/g/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoshutterstock.png" alt="Shutterstock">Shutterstock</a><br><br>
-
-<a href="https://unsplash.com/@kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logounsplash.png" alt="Unsplash">Unsplash</a>
+- [![Adobe Stock](/assets/img/logoadobe.png) Adobe Stock](https://stock.adobe.com/contributor/212199501/KVSHVL){:target="_blank" rel="noopener noreferrer"}
+- [![Alamy](/assets/img/logoalamy.png) Alamy](https://alamy.com/portfolio/kvshvl){:target="_blank" rel="noopener noreferrer"}
+- [![Shutterstock](/assets/img/logoshutterstock.png) Shutterstock](https://shutterstock.com/g/kvshvl){:target="_blank" rel="noopener noreferrer"}
+- [![Unsplash](/assets/img/logounsplash.png) Unsplash](https://unsplash.com/@kvshvl){:target="_blank" rel="noopener noreferrer"}
 
 ## Design & Content
 
-<a href="https://behance.net/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logobehance.png" alt="Behance">Behance</a><br><br>
-
-<a href="https://kvshvl.medium.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logomedium.png" alt="Medium">Medium</a><br><br>
-
-<a href="https://www.youtube.com/@kvshvl/videos" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoyoutube.png" alt="YouTube">YouTube</a><br><br>
-
-<a href="https://soundcloud.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosoundcloud.png" alt="Soundcloud">Soundcloud</a><br><br>
-
-<a href="https://twitch.tv/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitch.png" alt="Twitch">Twitch</a>
+- [![Behance](/assets/img/logobehance.png) Behance](https://behance.net/kvshvl){:target="_blank" rel="noopener noreferrer"}
+- [![Medium](/assets/img/logomedium.png) Medium](https://kvshvl.medium.com){:target="_blank" rel="noopener noreferrer"}
+- [![YouTube](/assets/img/logoyoutube.png) YouTube](https://youtube.com/@kvshvl/videos){:target="_blank" rel="noopener noreferrer"}
+- [![Soundcloud](/assets/img/logosoundcloud.png) Soundcloud](https://soundcloud.com/kvshvl){:target="_blank" rel="noopener noreferrer"}
+- [![Twitch](/assets/img/logotwitch.png) Twitch](https://twitch.tv/kvshvl){:target="_blank" rel="noopener noreferrer"}
 
 ## Social
 
-<a href="https://www.instagram.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoinstagram.png" alt="Instagram">Instagram</a><br><br>
-
-<a href="https://www.linkedin.com/in/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logolinkedin.png" alt="LinkedIn">LinkedIn</a><br><br>
-
-<a href="https://twitter.com/kvshvl_" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logotwitter.png" alt="Twitter">Twitter</a><br><br>
-
-<a href="https://in.pinterest.com/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logopinterest.png" alt="Pinterest">Pinterest</a>
+- [![Instagram](/assets/img/logoinstagram.png) Instagram](https://instagram.com/kvshvl){:target="_blank" rel="noopener noreferrer"}
+- [![LinkedIn](/assets/img/logolinkedin.png) LinkedIn](https://linkedin.com/in/kvshvl){:target="_blank" rel="noopener noreferrer"}
+- [![Twitter](/assets/img/logotwitter.png) Twitter](https://twitter.com/kvshvl_){:target="_blank" rel="noopener noreferrer"}
+- [![Pinterest](/assets/img/logopinterest.png) Pinterest](https://in.pinterest.com/kvshvl){:target="_blank" rel="noopener noreferrer"}
 
 ## Services
 
-<a href="https://kvshvl.setmore.com" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logosetmore.png" alt="Setmore">Setmore</a><br><br>
+- [![Setmore](/assets/img/logosetmore.png) Setmore](https://kvshvl.setmore.com){:target="_blank" rel="noopener noreferrer"}
+- [![Airbnb](/assets/img/logoairbnb.png) Airbnb](https://airbnb.co.in/users/show/21563871){:target="_blank" rel="noopener noreferrer"}
+- [![Contrado](/assets/img/logocontrado.png) Contrado](https://contrado.com/stores/kvshvl){:target="_blank" rel="noopener noreferrer"}
 
-<a href="https://airbnb.co.in/users/show/21563871" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logoairbnb.png" alt="Airbnb">Airbnb</a><br><br>
-
-<a href="https://contrado.com/stores/kvshvl" rel="noopener noreferrer" target="_blank"><img src="/assets/img/logocontrado.png" alt="Contrado">Contrado</a>
+</div>
