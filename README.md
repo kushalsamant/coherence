@@ -118,7 +118,7 @@ Comprehensive documentation is organized in the `.github/` folder:
 - **[About](https://kvshvl.in/about.html)** - Professional biography (2006-2024)
 - **[People](https://kvshvl.in/people.html)** - Acknowledgments of 132 mentors
 - **[Projects](https://kvshvl.in/projects.html)** - Portfolio of 142+ projects
-- **[Get in Touch](https://kvshvl.in/support.html)** - Business services
+- **[Get in Touch](https://kvshvl.in/getintouch.html)** - Business services
 
 ### Content Collections
 - **[Anthology](https://kvshvl.in/anthology.html)** - Index of 296 blog posts
