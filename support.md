@@ -75,12 +75,6 @@ District Sindhudurg, Maharashtra, India
 
 ---
 
-## Legal & Policies
-
-**Terms of Service:** [https://kushalsamant.github.io/termsofservice.html](https://kushalsamant.github.io/termsofservice.html)  
-**Privacy Policy:** [https://kushalsamant.github.io/privacypolicy.html](https://kushalsamant.github.io/privacypolicy.html)  
-**Cancellation & Refund Policy:** [https://kushalsamant.github.io/cancellationandrefundpolicy.html](https://kushalsamant.github.io/cancellationandrefundpolicy.html)
-
 **Data Protection:** writetokushaldsamant@gmail.com  
 **Security Practices:** Industry-standard encryption, access controls, monitoring
 

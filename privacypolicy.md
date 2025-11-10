@@ -911,6 +911,3 @@ Your privacy and trust are important to us. We continuously review and improve o
 
 **For the most current version, please visit:** https://kvshvl.in/privacypolicy.html
 
-**Related Policies:**
-- Terms of Service: https://kvshvl.in/termsofservice.html
-- Cancellation & Refund Policy: https://kvshvl.in/cancellationandrefundpolicy.html

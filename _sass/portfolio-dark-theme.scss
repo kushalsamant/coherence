@@ -154,18 +154,13 @@ p {
 a {
   color: #d0d0d0;
   text-decoration: none;
-  border-bottom: 1px solid transparent;
+  border-bottom: 1px solid #d0d0d0;
   transition: all var(--duration-fast);
   letter-spacing: var(--letter-spacing-normal);
   word-break: break-word;
   overflow-wrap: break-word;
   font-style: oblique 20deg;
   font-weight: var(--font-weight-bold);
-}
-
-a:hover {
-  color: #d0d0d0;
-  border-bottom-color: #d0d0d0;
 }
 
 a:focus {
@@ -280,11 +275,6 @@ ul.downloads {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.downloads a:hover {
-  color: var(--color-accent-hover);
-  background-color: transparent;
 }
 
 .downloads a strong {
@@ -414,11 +404,6 @@ hr {
   text-decoration: none;
   cursor: pointer;
   border-bottom: var(--border-width) solid var(--color-border);
-}
-
-.btn:hover {
-  color: var(--color-accent-hover);
-  border-color: var(--color-accent-hover);
 }
 
 .btn:focus {
