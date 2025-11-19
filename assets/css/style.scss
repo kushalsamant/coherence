@@ -4,6 +4,10 @@
 // Dark Minimalist Portfolio Theme
 // Designed for Architect Kushal Samant's Website
 
+// Import KVSHVL Design System (must be imported first for variables)
+@import "design-tokens";
+@import "kvshvl-components";
+
 // Import the dark portfolio theme
 @import "portfolio-dark-theme";
 

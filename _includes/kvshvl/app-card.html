@@ -1,0 +1,23 @@
+{% comment %}
+  KVSHVL App Card Component
+  Usage: 
+    {% capture card_content %}
+      Card content here
+    {% endcapture %}
+    {% include kvshvl/app-card.html variant="default" padding="md" content=card_content %}
+  
+  Parameters:
+  - variant (optional): "default", "product", or "flat" (default: "default")
+  - padding (optional): "sm", "md", or "lg" (default: "md")
+  - product_gradient (optional): Gradient classes for product variant
+  - content: The card content to display
+{% endcomment %}
+
+{% assign variant = include.variant | default: "default" %}
+{% assign padding = include.padding | default: "md" %}
+{% assign card_class = "app-card card-" | append: variant | append: " card-padding-" | append: padding %}
+
+<div class="{{ card_class }}">
+  {{ include.content }}
+</div>
+
