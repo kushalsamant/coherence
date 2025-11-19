@@ -1,20 +1,22 @@
 # Next.js Migration - kushalsamant.github.io
 
-This repository is being migrated from Jekyll to Next.js.
+This repository has been migrated from Jekyll to Next.js 14.
 
 ## Current Status
 
-✅ Next.js project initialized
+✅ Next.js project initialized and configured
 ✅ TypeScript configured
-✅ Markdown processing utilities created
-✅ Blog post routing setup
-✅ Basic components created
-⏳ Installation in progress
-⏳ Pages migration in progress
-⏳ Styling migration pending
-⏳ Deployment pending
+✅ All pages migrated (home, history, getintouch, links, legal pages)
+✅ KVSHVL dark minimalist design system integrated
+✅ SEO metadata configured for all pages
+✅ Build tested and verified
+✅ Code pushed to GitHub
+⏳ Deployment to Vercel (project connected, awaiting deployment)
+⏳ Custom domain configuration (kvshvl.in) pending
 
 ## Setup
+
+### Local Development
 
 1. Install dependencies:
 ```bash
@@ -26,38 +28,99 @@ npm install
 npm run dev
 ```
 
-3. Build for production:
+Access the site at: http://localhost:3000
+
+### Production Build
+
+1. Build for production:
 ```bash
 npm run build
 ```
 
-4. Start production server:
+This generates a static export in the `out/` directory (Next.js static export mode).
+
+2. Preview production build locally:
 ```bash
-npm start
+npx serve out
 ```
 
-## Structure
+## Deployment to Vercel
+
+### Current Vercel Configuration
+
+The project is already connected to Vercel with the following settings:
+
+- **Framework Preset:** Next.js (auto-detected)
+- **Build Command:** `npm run build`
+- **Install Command:** `npm install`
+- **Root Directory:** (empty - Next.js in repo root)
+- **Node.js Version:** 22.x
+- **Build Machine:** Standard (4 vCPUs, 8GB)
+- **Output:** Static export (`output: 'export'` in `next.config.js`)
+
+### Deployment Steps
+
+1. **Automatic Deployments**
+   - Pushes to `main` branch automatically trigger deployments
+   - Check deployment status in Vercel dashboard
+
+2. **Configure Custom Domain**
+   - Go to Vercel project settings → Domains
+   - Add `kvshvl.in` and `www.kvshvl.in`
+   - Configure DNS records at GoDaddy:
+     - A record: `@` → Vercel IP addresses (provided in Vercel dashboard)
+     - CNAME record: `www` → `cname.vercel-dns.com`
+   - SSL certificates are automatically provisioned by Vercel
+
+3. **Verify Deployment**
+   - Check all pages load correctly
+   - Verify design system renders properly
+   - Test all internal links
+   - Validate responsive design on mobile/tablet
+
+## Project Structure
 
 - `app/` - Next.js App Router pages and layouts
+  - `page.tsx` - Homepage
+  - `history/page.tsx` - History page (from history.md)
+  - `getintouch/page.tsx` - Get in Touch page
+  - `links/page.tsx` - Links page
+  - `termsofservice/page.tsx` - Terms of Service
+  - `privacypolicy/page.tsx` - Privacy Policy
+  - `cancellationrefund/page.tsx` - Cancellation & Refund Policy
 - `components/` - React components
-- `lib/` - Utilities (markdown processing, etc.)
-- `anthology/` - Blog posts (296 markdown files) - unchanged
-- `assets/` - Static assets (images, fonts) - unchanged
-- `_sass/` - SCSS files (to be migrated to CSS Modules)
+  - `AppHeader.tsx` - Site header with navigation
+  - `AppFooter.tsx` - Site footer
+- `lib/` - Utilities
+  - `process-markdown.ts` - Markdown processing for history and legal pages
+- `assets/img/` - Static assets (images, logos)
+- `history.md`, `termsofservice.md`, `privacypolicy.md`, `cancellationrefund.md` - Source markdown files
+- `next.config.js` - Next.js configuration (static export mode)
 
-## Migration Progress
+## Design System
+
+The site uses the KVSHVL dark minimalist design system:
+- Pure black background (#000000) with white text
+- Times New Roman serif typography
+- Large, readable font sizes (26px base)
+- Generous whitespace and spacing
+- Minimalist aesthetic with subtle borders
+- Fully responsive design
+
+## Migration Status
 
 - [x] Project setup
-- [x] Markdown utilities
-- [x] Blog routing
-- [x] Basic components
-- [ ] All pages migrated
-- [ ] Styling migrated
-- [ ] SEO configured
-- [ ] Deployed to Vercel
+- [x] All pages migrated
+- [x] Design system integrated
+- [x] SEO metadata configured
+- [x] Build tested and verified
+- [x] Code pushed to GitHub
+- [ ] Deployed to Vercel production
+- [ ] Custom domain configured (kvshvl.in)
 
 ## Notes
 
-- All markdown files in `anthology/` are preserved
-- Static assets remain in `assets/`
-- Jekyll files will be removed after migration complete
+- **Anthology:** Blog posts in `anthology/` directory are preserved but not used by Next.js (moving to Medium)
+- **Static Assets:** Images remain in `assets/img/` and are used by Next.js
+- **Jekyll Files:** Old Jekyll files (`_config.yml`, `_layouts/`, `_sass/`, etc.) remain in the repository but are not used by Next.js
+- **Static Export:** The site is configured for static export, generating static HTML files compatible with any hosting service
