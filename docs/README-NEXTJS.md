@@ -11,8 +11,12 @@ This repository has been migrated from Jekyll to Next.js 14.
 ✅ SEO metadata configured for all pages
 ✅ Build tested and verified
 ✅ Code pushed to GitHub
-⏳ Deployment to Vercel (project connected, awaiting deployment)
-⏳ Custom domain configuration (kvshvl.in) pending
+✅ Deployment to Vercel (project connected and configured)
+✅ Custom domain kvshvl.in configured
+✅ File organization complete (all .md files in /docs)
+✅ HTML redirect files removed (old Jekyll redirects)
+✅ Duplicate links removed across website
+✅ Pinterest verification file kept (pinterest-bdc46.html)
 
 ## Setup
 
@@ -115,8 +119,11 @@ The site uses the KVSHVL dark minimalist design system:
 - [x] SEO metadata configured
 - [x] Build tested and verified
 - [x] Code pushed to GitHub
-- [ ] Deployed to Vercel production
-- [ ] Custom domain configured (kvshvl.in)
+- [x] Deployed to Vercel production
+- [x] Custom domain configured (kvshvl.in)
+- [x] File organization (docs directory)
+- [x] Code cleanup (removed duplicates, old redirects)
+- [ ] Production verification (test at kvshvl.in)
 
 ## Notes
 
@@ -124,3 +131,7 @@ The site uses the KVSHVL dark minimalist design system:
 - **Static Assets:** Images remain in `assets/img/` and are used by Next.js
 - **Jekyll Files:** Old Jekyll files (`_config.yml`, `_layouts/`, `_sass/`, etc.) remain in the repository but are not used by Next.js
 - **Static Export:** The site is configured for static export, generating static HTML files compatible with any hosting service
+- **HTML Redirects:** Old Jekyll redirect files (`about.html`, `people.html`, `projects.html`, `anthology.html`) have been removed. Old URLs will return 404 unless configured in Vercel redirects
+- **Pinterest Verification:** `pinterest-bdc46.html` is kept in root for Pinterest domain verification
+- **File Organization:** All markdown files (documentation and content) are organized in `/docs` directory
+- **Navigation:** Header contains main navigation, footer contains legal links only (no duplicates)
