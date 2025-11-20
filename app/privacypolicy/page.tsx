@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 }
 
 export default async function PrivacyPolicyPage() {
-  const { content } = await getMarkdownContent('privacypolicy.md')
+  const { content } = await getMarkdownContent('docs/privacypolicy.md')
   
   return (
     <main style={{ padding: '2rem 1rem', maxWidth: '900px', margin: '0 auto' }}>

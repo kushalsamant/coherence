@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 }
 
 export default async function TermsOfServicePage() {
-  const { content } = await getMarkdownContent('termsofservice.md')
+  const { content } = await getMarkdownContent('docs/termsofservice.md')
   
   return (
     <main style={{ padding: '2rem 1rem', maxWidth: '900px', margin: '0 auto' }}>

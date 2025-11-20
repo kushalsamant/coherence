@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 }
 
 export default async function HistoryPage() {
-  const { content } = await getMarkdownContent('history.md')
+  const { content } = await getMarkdownContent('docs/history.md')
   
   return (
     <main style={{ padding: '2rem 1rem', maxWidth: '900px', margin: '0 auto' }}>
