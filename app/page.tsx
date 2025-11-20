@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -35,7 +34,7 @@ export default function Home() {
         
         <div style={{ marginBottom: '2rem' }}>
           <p style={{ marginBottom: '1rem' }}>
-            <strong><Link href="/history">History</Link></strong><br />
+            <strong>History</strong><br />
             Complete archive documenting two decades of work—150+ projects, collaborations, and teaching roles from 2006 to present.
           </p>
           
@@ -45,7 +44,7 @@ export default function Home() {
           </p>
           
           <p style={{ marginBottom: '1rem' }}>
-            <strong><Link href="/links">Links</Link></strong><br />
+            <strong>Links</strong><br />
             Connect across platforms—GitHub, LinkedIn, Medium, Instagram, and more.
           </p>
         </div>
@@ -55,7 +54,7 @@ export default function Home() {
         <div>
           <p>
             <strong>Need custom SaaS development or technical consulting?</strong><br />
-            <Link href="/getintouch">Get in Touch</Link> to discuss your project.
+            Get in Touch to discuss your project.
           </p>
         </div>
       </article>

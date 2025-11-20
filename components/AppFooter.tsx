@@ -8,15 +8,15 @@ export default function AppFooter() {
       <div className="footer-container">
         <div className="footer-links">
           <span className="footer-link">
-            <Link href="/links">Links</Link>
-          </span>
-          <span className="link-separator">|</span>
-          <span className="footer-link">
             <Link href="/privacypolicy">Privacy Policy</Link>
           </span>
           <span className="link-separator">|</span>
           <span className="footer-link">
             <Link href="/termsofservice">Terms of Service</Link>
+          </span>
+          <span className="link-separator">|</span>
+          <span className="footer-link">
+            <Link href="/cancellationrefund">Cancellation & Refund</Link>
           </span>
         </div>
         <div className="footer-branding">
