@@ -10,13 +10,10 @@ export default async function PrivacyPolicyPage() {
   const { content } = await getMarkdownContent('docs/privacypolicy.md')
   
   return (
-    <main style={{ padding: '2rem 1rem', maxWidth: '900px', margin: '0 auto' }}>
+    <main style={{ padding: 'var(--space-xl) var(--space-md)', maxWidth: 'var(--container-max-width)', margin: '0 auto' }}>
       <article 
         className="legal-content"
         dangerouslySetInnerHTML={{ __html: content }}
-        style={{
-          lineHeight: '1.6',
-        }}
       />
     </main>
   )

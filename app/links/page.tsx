@@ -16,19 +16,19 @@ export default function LinksPage() {
   ]
 
   return (
-    <main style={{ padding: '2rem 1rem', maxWidth: '800px', margin: '0 auto' }}>
+    <main style={{ padding: 'var(--space-xl) var(--space-md)', maxWidth: 'var(--container-max-width)', margin: '0 auto' }}>
       <article>
         <h1>Links</h1>
         <p>Connect across platforms</p>
         
         <ul style={{ listStyle: 'none', padding: 0 }}>
           {links.map((link) => (
-            <li key={link.name} style={{ marginBottom: '1rem' }}>
+            <li key={link.name} style={{ marginBottom: 'var(--space-lg)' }}>
               <a 
                 href={link.url} 
                 target="_blank" 
                 rel="noopener noreferrer"
-                style={{ fontSize: '1.125rem' }}
+                style={{ fontSize: 'var(--font-size-xl)' }}
               >
                 {link.name}
               </a>

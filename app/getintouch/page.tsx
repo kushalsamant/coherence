@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function GetInTouchPage() {
   return (
-    <main style={{ padding: '2rem 1rem', maxWidth: '800px', margin: '0 auto' }}>
+    <main style={{ padding: 'var(--space-xl) var(--space-md)', maxWidth: 'var(--container-max-width)', margin: '0 auto' }}>
       <article>
         <h1>Get in Touch</h1>
         
@@ -16,7 +16,7 @@ export default function GetInTouchPage() {
           I work with businesses on custom SaaS development, technical consulting, and cloud solutions. If you have a project in mind or need technical expertise, this page outlines how we can work together.
         </p>
         
-        <hr style={{ margin: '2rem 0' }} />
+        <hr />
         
         <section>
           <h2>Services</h2>
@@ -38,7 +38,7 @@ export default function GetInTouchPage() {
           </p>
         </section>
         
-        <hr style={{ margin: '2rem 0' }} />
+        <hr />
         
         <section>
           <h2>How to Contact</h2>
