@@ -1,7 +1,9 @@
 import type { Metadata, Viewport } from 'next'
 import { Inter } from 'next/font/google'
-import AppHeader from '@/components/AppHeader'
-import AppFooter from '@/components/AppFooter'
+import { ThemeProvider } from '@kushalsamant/design-template'
+import HeaderWrapper from '@/components/HeaderWrapper'
+import FooterWrapper from '@/components/FooterWrapper'
+import '@kushalsamant/design-template/styles/globals.css'
 import './globals.css'
 
 const inter = Inter({ 
@@ -53,10 +55,18 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={inter.variable}>
+      <head>
+        <meta name="theme-color" content="#ffffff" />
+      </head>
       <body className={inter.className}>
-        <AppHeader />
-        <main>{children}</main>
-        <AppFooter />
+        <ThemeProvider>
+          <a href="#main-content" className="skip-link">
+            Skip to main content
+          </a>
+          <HeaderWrapper />
+          <main id="main-content">{children}</main>
+          <FooterWrapper />
+        </ThemeProvider>
       </body>
     </html>
   )

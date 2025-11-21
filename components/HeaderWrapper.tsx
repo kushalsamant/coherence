@@ -2,7 +2,7 @@
 
 import { usePathname } from 'next/navigation'
 import Link from 'next/link'
-import { AppHeader } from '@kvshvl/design-template'
+import { AppHeader } from '@kushalsamant/design-template'
 
 const navLinks = [
   { href: '/getintouch', label: 'Get in Touch' },

@@ -1,4 +1,6 @@
 import type { Metadata } from 'next'
+import Link from 'next/link'
+import { Card, Button } from '@kushalsamant/design-template'
 
 export const metadata: Metadata = {
   title: 'Home',
@@ -11,50 +13,177 @@ export const metadata: Metadata = {
 }
 
 export default function Home() {
+  const exploreItems = [
+    {
+      title: 'History',
+      description: 'Complete archive documenting two decades of work—150+ projects, collaborations, and teaching roles from 2006 to present.',
+      href: '/history',
+    },
+    {
+      title: 'Anthology',
+      description: 'Collection of essays exploring architecture, technology, personal philosophy, and the human experience on Medium.',
+      href: 'https://kvshvl.medium.com',
+      external: true,
+    },
+    {
+      title: 'Links',
+      description: 'Connect across platforms—GitHub, LinkedIn, Medium, Instagram, and more.',
+      href: '/links',
+    },
+  ]
+
   return (
     <main style={{ padding: 'var(--space-xl) var(--space-md)', maxWidth: 'var(--container-max-width)', margin: '0 auto' }}>
-      <article>
-        <h1>Kushal Samant</h1>
-        
-        <p style={{ fontSize: 'var(--font-size-2xl)' }}>
-          Licensed Architect. SaaS Developer. Published in MAO Museum. Preserved in Arctic Code Vault.<br />
-          <br />
+      <article className="fade-in">
+        {/* Hero Section */}
+        <section className="hero" aria-labelledby="hero-title">
+          <h1 id="hero-title" className="hero-title gradient-text">
+            Kushal Samant
+          </h1>
+          
+          <p className="hero-subtitle">
+            Licensed Architect. SaaS Developer. Published in MAO Museum. Preserved in Arctic Code Vault.
+          </p>
+          
+          <p className="hero-subtitle" style={{ fontSize: 'var(--font-size-lg)', marginTop: 'var(--space-lg)' }}>
           Designing spatial and digital systems—from WikiHouse to AI research platforms
         </p>
+        </section>
         
-        <p style={{ fontSize: 'var(--font-size-lg)' }}>
+        {/* About Section */}
+        <section className="section slide-up" style={{ animationDelay: '0.1s' }}>
+          <p style={{ fontSize: 'var(--font-size-lg)', lineHeight: 'var(--line-height-relaxed)', maxWidth: '65ch' }}>
           I work at the intersection of architecture and software development—designing physical spaces and digital systems. Since 2006, I've collaborated internationally on 150+ projects spanning architecture, open-source building systems, and SaaS platforms. My work has been published by MAO Museum and Future Architecture Platform, and one of my repositories is preserved in GitHub's Arctic Code Vault.
         </p>
-        
-        <hr />
-        
-        <h2>Explore</h2>
-        
-        <div>
-          <p>
-            <strong>History</strong><br />
-            Complete archive documenting two decades of work—150+ projects, collaborations, and teaching roles from 2006 to present.
-          </p>
+        </section>
+
+        {/* Products Section */}
+        <section className="section" aria-labelledby="products-title">
+          <h2 id="products-title" className="section-title">Products</h2>
           
-          <p>
-            <strong><a href="https://kvshvl.medium.com" target="_blank" rel="noopener noreferrer">Anthology</a></strong><br />
-            Collection of essays exploring architecture, technology, personal philosophy, and the human experience on Medium.
-          </p>
+          <div className="grid grid-3">
+            <Card
+              variant="elevated"
+              className="slide-up"
+            >
+              <div style={{ marginBottom: 'var(--space-md)' }}>
+                <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
+                  Sketch2BIM
+                </h3>
+              </div>
+              <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
+                Transform hand-drawn sketches into BIM models. Building information modeling for architectural, landscape, and urban design projects.
+              </p>
+              <a
+                href="https://sketch2bim.kvshvl.in"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)' }}
+              >
+                Visit <span aria-hidden="true">→</span>
+              </a>
+            </Card>
+
+            <Card
+              variant="elevated"
+              className="slide-up"
+            >
+              <div style={{ marginBottom: 'var(--space-md)' }}>
+                <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
+                  Ask AI
+                </h3>
+              </div>
+              <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
+                Daily research tool for architecture and sustainability. Offline-first AI platform for generating photorealistic Q&A content.
+              </p>
+              <a
+                href="https://ask.kvshvl.in"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)' }}
+              >
+                Visit <span aria-hidden="true">→</span>
+              </a>
+            </Card>
+
+            <Card
+              variant="elevated"
+              className="slide-up"
+            >
+              <div style={{ marginBottom: 'var(--space-md)' }}>
+                <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
+                  Reframe AI
+                </h3>
+              </div>
+              <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
+                Professional text rewriting with authentic tones. Multiple generation styles for content transformation.
+              </p>
+              <a
+                href="https://reframe.kvshvl.in"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)' }}
+              >
+                Visit <span aria-hidden="true">→</span>
+              </a>
+            </Card>
+          </div>
+        </section>
+
+        {/* Explore Section */}
+        <section className="section" aria-labelledby="explore-title">
+          <h2 id="explore-title" className="section-title">Explore</h2>
           
-          <p>
-            <strong>Links</strong><br />
-            Connect across platforms—GitHub, LinkedIn, Medium, Instagram, and more.
-          </p>
+          <div className="grid grid-3">
+            {exploreItems.map((item, index) => (
+              <Card
+                key={item.href}
+                variant="elevated"
+                className="slide-up"
+              >
+                <div style={{ marginBottom: 'var(--space-md)' }}>
+                  <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
+                    {item.title}
+                  </h3>
+                </div>
+                <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
+                  {item.description}
+                </p>
+                {item.external ? (
+                  <a
+                    href={item.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)' }}
+                  >
+                    Visit <span aria-hidden="true">→</span>
+                  </a>
+                ) : (
+                  <Link href={item.href} style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)' }}>
+                    Explore <span aria-hidden="true">→</span>
+                  </Link>
+                )}
+              </Card>
+            ))}
         </div>
-        
-        <hr />
-        
-        <div>
-          <p>
-            <strong>Need custom SaaS development or technical consulting?</strong><br />
-            Get in Touch to discuss your project.
-          </p>
+        </section>
+
+        {/* CTA Section */}
+        <section className="section">
+          <div style={{ textAlign: 'center' }}>
+            <Card variant="outlined" className="slide-up">
+            <h3 style={{ fontSize: 'var(--font-size-2xl)', marginBottom: 'var(--space-md)' }}>
+              Need custom SaaS development or technical consulting?
+            </h3>
+            <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-xl)' }}>
+              Let's discuss your project and explore how we can work together.
+            </p>
+            <Button href="/getintouch" variant="primary" size="lg">
+              Get in Touch
+            </Button>
+          </Card>
         </div>
+        </section>
       </article>
     </main>
   )

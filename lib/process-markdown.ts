@@ -10,12 +10,27 @@ export async function getMarkdownContent(filePath: string) {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
   
-  const processedContent = await remark()
+  // Pre-process Jekyll image syntax {:width="150"} to HTML attributes
+  // Handle both standard markdown images and Jekyll extended syntax
+  let processedContent = content.replace(
+    /!\[([^\]]*)\]\(([^)]+)\)\{:width="(\d+)"\}/g,
+    (match, alt, src, width) => {
+      return `<img src="${src}" alt="${alt}" width="${width}" style="max-width: 100%; height: auto; display: block; margin: var(--space-lg) 0;" />`
+    }
+  )
+  
+  const result = await remark()
     .use(remarkGfm)
     .use(remarkHtml, { sanitize: false })
-    .process(content)
+    .process(processedContent)
   
-  const contentHtml = processedContent.toString()
+  let contentHtml = result.toString()
+  
+  // Ensure image paths starting with /assets/ are preserved
+  contentHtml = contentHtml.replace(
+    /src="\/assets\//g,
+    'src="/assets/'
+  )
   
   return {
     frontmatter: data,
