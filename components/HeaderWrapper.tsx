@@ -5,9 +5,7 @@ import Link from 'next/link'
 import { AppHeader } from '@kushalsamant/design-template'
 
 const navLinks = [
-  { href: '/getintouch', label: 'Get in Touch' },
   { href: '/history', label: 'History' },
-  { href: '/links', label: 'Links' },
 ]
 
 export default function HeaderWrapper() {

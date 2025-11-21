@@ -1,6 +1,6 @@
 # KVSHVL Design System
 
-> Unified design system for all KVSHVL products: Reframe AI, Ask AI, and Emoji Mosaic
+> Unified design system for all KVSHVL products: Reframe, Ask, and Emoji Mosaic
 
 ---
 
@@ -15,12 +15,12 @@ Pink (Secondary): #EC4899
 
 ### Product-Specific Colors
 
-**Reframe AI**
+**Reframe**
 - Primary: #9333EA (Purple)
 - Secondary: #EC4899 (Pink)
 - Gradient: `from-purple-500 to-pink-500`
 
-**Ask AI**
+**Ask**
 - Primary: #3B82F6 (Blue)
 - Secondary: #06B6D4 (Cyan)
 - Gradient: `from-blue-500 to-cyan-500`

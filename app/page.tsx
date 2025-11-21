@@ -4,7 +4,7 @@ import { Card, Button } from '@kushalsamant/design-template'
 
 export const metadata: Metadata = {
   title: 'Home',
-  description: 'Licensed Architect. SaaS Developer. Published in MAO Museum. Preserved in Arctic Code Vault. Designing spatial and digital systems—from WikiHouse to AI research platforms.',
+  description: 'Licensed Architect. SaaS Developer. Published in MAO Museum. Preserved in Arctic Code Vault. Designing spatial and digital systems—from WikiHouse to research platforms.',
   openGraph: {
     title: 'KVSHVL - Kushal Samant',
     description: 'Licensed Architect. SaaS Developer. Published in MAO Museum. Preserved in Arctic Code Vault.',
@@ -13,25 +13,6 @@ export const metadata: Metadata = {
 }
 
 export default function Home() {
-  const exploreItems = [
-    {
-      title: 'History',
-      description: 'Complete archive documenting two decades of work—150+ projects, collaborations, and teaching roles from 2006 to present.',
-      href: '/history',
-    },
-    {
-      title: 'Anthology',
-      description: 'Collection of essays exploring architecture, technology, personal philosophy, and the human experience on Medium.',
-      href: 'https://kvshvl.medium.com',
-      external: true,
-    },
-    {
-      title: 'Links',
-      description: 'Connect across platforms—GitHub, LinkedIn, Medium, Instagram, and more.',
-      href: '/links',
-    },
-  ]
-
   return (
     <main style={{ padding: 'var(--space-xl) var(--space-md)', maxWidth: 'var(--container-max-width)', margin: '0 auto' }}>
       <article className="fade-in">
@@ -46,7 +27,7 @@ export default function Home() {
           </p>
           
           <p className="hero-subtitle" style={{ fontSize: 'var(--font-size-lg)', marginTop: 'var(--space-lg)' }}>
-          Designing spatial and digital systems—from WikiHouse to AI research platforms
+          Designing spatial and digital systems—from WikiHouse to research platforms
         </p>
         </section>
         
@@ -90,11 +71,11 @@ export default function Home() {
             >
               <div style={{ marginBottom: 'var(--space-md)' }}>
                 <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
-                  Ask AI
+                  Ask
                 </h3>
               </div>
               <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
-                Daily research tool for architecture and sustainability. Offline-first AI platform for generating photorealistic Q&A content.
+                Daily research tool for architecture and sustainability. Offline-first platform for generating photorealistic Q&A content.
               </p>
               <a
                 href="https://ask.kvshvl.in"
@@ -112,7 +93,7 @@ export default function Home() {
             >
               <div style={{ marginBottom: 'var(--space-md)' }}>
                 <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
-                  Reframe AI
+                  Reframe
                 </h3>
               </div>
               <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
@@ -128,44 +109,6 @@ export default function Home() {
               </a>
             </Card>
           </div>
-        </section>
-
-        {/* Explore Section */}
-        <section className="section" aria-labelledby="explore-title">
-          <h2 id="explore-title" className="section-title">Explore</h2>
-          
-          <div className="grid grid-3">
-            {exploreItems.map((item, index) => (
-              <Card
-                key={item.href}
-                variant="elevated"
-                className="slide-up"
-              >
-                <div style={{ marginBottom: 'var(--space-md)' }}>
-                  <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
-                    {item.title}
-                  </h3>
-                </div>
-                <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
-                  {item.description}
-                </p>
-                {item.external ? (
-                  <a
-                    href={item.href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)' }}
-                  >
-                    Visit <span aria-hidden="true">→</span>
-                  </a>
-                ) : (
-                  <Link href={item.href} style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)' }}>
-                    Explore <span aria-hidden="true">→</span>
-                  </Link>
-                )}
-              </Card>
-            ))}
-        </div>
         </section>
 
         {/* CTA Section */}
