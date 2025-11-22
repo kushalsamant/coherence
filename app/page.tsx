@@ -108,10 +108,10 @@ export default function Home() {
           <div style={{ textAlign: 'center' }}>
             <Card variant="outlined" className="slide-up">
             <h3 style={{ fontSize: 'var(--font-size-2xl)', marginBottom: 'var(--space-md)' }}>
-              Need custom SaaS development or technical consulting?
+              Working across architecture, design, development, and content creation
             </h3>
             <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-xl)' }}>
-              Let's discuss your project and explore how we can work together.
+              Since 2006, I've collaborated on 150+ projects spanning spatial design, open-source building systems, SaaS platforms, and creative content. Let's discuss how we can work together on your project.
             </p>
             <Button href="/getintouch" variant="primary" size="lg">
               Get in Touch
