@@ -357,12 +357,26 @@ pre code {
 /* Content Columns */
 .content-columns {
   column-count: 2;
+  column-width: 20rem; /* Fallback for better browser support */
   column-gap: var(--space-xl);
   column-rule: 1px solid var(--color-border);
+  column-fill: balance; /* Balance content between columns */
 }
 
 .content-columns p {
   break-inside: avoid;
+  page-break-inside: avoid; /* Legacy support */
+}
+
+/* Prevent awkward breaks in People section names */
+.content-columns br {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.content-columns > * {
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 /* History and Legal Content */
