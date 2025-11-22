@@ -4,26 +4,26 @@ import { Card, Button } from '@kushalsamant/design-template'
 
 export const metadata: Metadata = {
   title: 'Get in Touch | KVSHVL',
-  description: 'Contact for SaaS development and technical consulting. Clear engagement process for business inquiries.',
+  description: 'Contact for architecture, design, development, and content creation services. Clear engagement process for business inquiries.',
 }
 
 export default function GetInTouchPage() {
   const services = [
     {
-      title: 'Custom SaaS Development',
-      description: 'Full-stack application development, cloud solutions, API integration, database architecture, DevOps.',
+      title: 'Architecture & Spatial Design',
+      description: 'Architectural design, building systems, open-source architecture, competition entries, and spatial planning projects.',
     },
     {
-      title: 'SaaS Subscriptions',
-      description: 'Monthly/annual access to proprietary software platforms for individuals, businesses, and enterprises.',
+      title: 'SaaS Development & Web Design',
+      description: 'Full-stack application development, SaaS platforms, web design, digital marketing automation, and e-commerce solutions.',
     },
     {
-      title: 'Technical Consulting',
-      description: 'Architecture planning, technology selection, scalability assessments, security consulting, technical due diligence.',
+      title: 'Design & Creative Work',
+      description: 'Graphic design, product design, furniture design, content creation, photography, film making, and sound production.',
     },
     {
-      title: 'Compliance & Security',
-      description: 'GDPR (EU), CCPA (California), Indian IT Act 2000 compliant. SOC 2 Type II, ISO 27001 practices. HIPAA solutions available with BAA.',
+      title: 'Teaching & Academic Research',
+      description: 'Architectural Design instruction, Graphics & Drawing Representation, AutoDesk products, proofreading research papers, and editing academic work.',
     },
   ]
 
@@ -33,7 +33,7 @@ export default function GetInTouchPage() {
         <section className="hero" aria-labelledby="contact-title">
           <h1 id="contact-title" className="hero-title">Get in Touch</h1>
           <p className="hero-subtitle">
-            I work with businesses on custom SaaS development, technical consulting, and cloud solutions. If you have a project in mind or need technical expertise, this page outlines how we can work together.
+            Working across architecture, design, development, and content creation since 2006. If you have a project in mind or need expertise in any of these areas, this page outlines how we can work together.
           </p>
         </section>
 
