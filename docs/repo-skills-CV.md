@@ -158,7 +158,7 @@ A technical portfolio demonstrating **full-stack AI product development** with p
 
 ---
 
-### **Project 2: Reframe AI**
+### **Project 2: Reframe**
 **Type:** Production SaaS application  
 **Stack:** Next.js 15, TypeScript, NextAuth, Stripe, Redis, Groq  
 **Status:** ✅ Deployed, payments working, fully functional

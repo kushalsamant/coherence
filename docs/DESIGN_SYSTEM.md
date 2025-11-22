@@ -75,7 +75,7 @@ Pink (Secondary): #EC4899
 Consistent navigation header across all products.
 
 **Parameters:**
-- `product_name` (optional) - Name of the product (e.g., "Reframe", "Ask AI")
+- `product_name` (optional) - Name of the product (e.g., "Reframe", "Ask")
 - `product_gradient` (optional) - Gradient classes for styling
 
 **Usage:**
@@ -207,7 +207,7 @@ Product showcase card for portfolio and cross-promotion.
 **Usage:**
 ```liquid
 {% include kvshvl/product-card.html 
-   name="Reframe AI" 
+   name="Reframe" 
    description="Professional text rewriting with 6 authentic tones and 9 generation styles." 
    gradient="from-purple-500 to-pink-500" 
    status="live" 

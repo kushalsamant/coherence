@@ -2,15 +2,16 @@ import Link from 'next/link'
 import { AppFooter } from '@kushalsamant/design-template'
 
 const legalLinks = [
-  { href: '/privacypolicy', label: 'Privacy Policy' },
-  { href: '/termsofservice', label: 'Terms of Service' },
-  { href: '/cancellationrefund', label: 'Cancellation & Refund' },
+  { href: 'https://kvshvl.in/privacypolicy', label: 'Privacy Policy' },
+  { href: 'https://kvshvl.in/termsofservice', label: 'Terms of Service' },
+  { href: 'https://kvshvl.in/cancellationrefund', label: 'Cancellation & Refund' },
+  { href: 'https://kvshvl.in/getintouch', label: 'Get in Touch' },
 ]
 
 const productLinks = [
   { href: 'https://sketch2bim.kvshvl.in', label: 'Sketch2BIM' },
-  { href: 'https://ask.kvshvl.in', label: 'Ask AI' },
-  { href: 'https://reframe.kvshvl.in', label: 'Reframe AI' },
+  { href: 'https://ask.kvshvl.in', label: 'Ask' },
+  { href: 'https://reframe.kvshvl.in', label: 'Reframe' },
 ]
 
 const socialLinks = [
