@@ -363,9 +363,12 @@ pre code {
   column-fill: balance; /* Balance content between columns */
 }
 
+/* Allow paragraphs to flow across columns */
 .content-columns p {
-  break-inside: avoid;
-  page-break-inside: avoid; /* Legacy support */
+  margin: 0;
+  break-inside: auto;
+  page-break-inside: auto;
+  column-break-inside: auto;
 }
 
 /* Prevent awkward breaks in People section names */
@@ -374,9 +377,10 @@ pre code {
   page-break-inside: avoid;
 }
 
+/* Allow content to flow naturally across columns */
 .content-columns > * {
-  break-inside: avoid;
-  page-break-inside: avoid;
+  break-inside: auto;
+  page-break-inside: auto;
 }
 
 /* History and Legal Content */
