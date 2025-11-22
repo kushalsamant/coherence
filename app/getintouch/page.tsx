@@ -93,7 +93,7 @@ export default function GetInTouchPage() {
                 color: 'var(--color-text-muted)',
                 margin: 0,
               }}>
-                I respond to serious business inquiries within 48 hours during business days.
+                I respond to serious business inquiries within 48 hours during business days (Monday–Friday).
               </p>
             </Card>
 
