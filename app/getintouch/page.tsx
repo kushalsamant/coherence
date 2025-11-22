@@ -112,7 +112,7 @@ export default function GetInTouchPage() {
                   margin: 0,
                 }}>
                   <strong>Support Hours:</strong><br />
-                  Monday–Saturday, 10:00 AM – 8:00 PM IST
+                  Monday–Friday, 10:00 AM – 8:00 PM IST
                 </p>
               </div>
             </Card>
