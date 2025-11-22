@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
-import { Card, Button } from '@kushalsamant/design-template'
+import { Card } from '@kushalsamant/design-template'
 
 export const metadata: Metadata = {
   title: 'Get in Touch | KVSHVL',
@@ -116,25 +116,6 @@ export default function GetInTouchPage() {
                 </p>
               </div>
             </Card>
-          </div>
-
-          <div style={{ marginTop: 'var(--space-xl)' }}>
-            <Card variant="outlined" className="slide-up">
-            <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-md)' }}>
-              Quick Questions or Networking
-            </h3>
-            <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
-              Connect on <a href="https://linkedin.com/in/kvshvl" target="_blank" rel="noopener noreferrer">LinkedIn</a> for industry discussions and general questions. Please note I don't offer free consultations or exploratory calls.
-            </p>
-            <Button 
-              href="https://linkedin.com/in/kvshvl" 
-              variant="secondary"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Connect on LinkedIn
-            </Button>
-          </Card>
           </div>
         </section>
       </article>
