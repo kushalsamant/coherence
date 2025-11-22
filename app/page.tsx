@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import Image from 'next/image'
 import { Card, Button } from '@kushalsamant/design-template'
 
 export const metadata: Metadata = {
@@ -28,14 +29,54 @@ export default function Home() {
           
           <p className="hero-subtitle" style={{ fontSize: 'var(--font-size-lg)', marginTop: 'var(--space-lg)' }}>
           Designing spatial and digital systems—from WikiHouse to research platforms
-        </p>
+          </p>
+          
+          <div style={{ marginTop: 'var(--space-xl)' }}>
+            <Button href="/history" variant="secondary" size="lg">
+              View Complete History
+            </Button>
+          </div>
         </section>
         
         {/* About Section */}
-        <section className="section slide-up" style={{ animationDelay: '0.1s' }}>
-          <p style={{ fontSize: 'var(--font-size-lg)', lineHeight: 'var(--line-height-relaxed)', maxWidth: '65ch' }}>
-          I work at the intersection of architecture and software development—designing physical spaces and digital systems. Since 2006, I've collaborated internationally on 150+ projects spanning architecture, open-source building systems, and SaaS platforms. My work has been published by MAO Museum and Future Architecture Platform, and one of my repositories is preserved in GitHub's Arctic Code Vault.
-        </p>
+        <section className="section slide-up" aria-labelledby="about-title" style={{ animationDelay: '0.1s' }}>
+          <h2 id="about-title" className="section-title">About</h2>
+          
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 'var(--space-lg)', alignItems: 'flex-start' }}>
+            <Image
+              src="/assets/img/logo_kushal_samant_profile_picture_white.png"
+              alt="Architect Kushal Dhananjay Samant"
+              width={150}
+              height={150}
+              style={{ borderRadius: 'var(--radius-lg)', marginBottom: 'var(--space-md)', maxWidth: '100%', height: 'auto' }}
+            />
+            
+            <div style={{ maxWidth: '65ch', width: '100%' }}>
+              <p style={{ fontSize: 'var(--font-size-lg)', lineHeight: 'var(--line-height-relaxed)', marginBottom: 'var(--space-lg)' }}>
+                Kushal Dhananjay Samant is an Architect, based in India.
+              </p>
+              
+              <p style={{ fontSize: 'var(--font-size-base)', lineHeight: 'var(--line-height-relaxed)', marginBottom: 'var(--space-md)' }}>
+                In 2006, I started this journey as a side-hustle by selling stationery. Since then, I've collaborated internationally on 150+ projects spanning architecture, open-source building systems, and SaaS platforms.
+              </p>
+              
+              <p style={{ fontSize: 'var(--font-size-base)', lineHeight: 'var(--line-height-relaxed)', marginBottom: 'var(--space-md)' }}>
+                In 2015, I started the WikiHouse / BOM chapter of <a href="https://www.wikihouse.cc" rel="noopener noreferrer" target="_blank">The WikiHouse Project</a> in Bombay. In 2016, <a href="http://www.mao.si" rel="noopener noreferrer" target="_blank">Muzej Za Arhitektiro In Oblikovanje</a> and <a href="https://www.futurearchitectureplatform.org/projects/8e8af477-4aea-431b-a69f-74cd05862eac" rel="noopener noreferrer" target="_blank">Future Architecture Platform</a> published my work: <a href="https://kushalsamant.github.io/projects/gruham.html" rel="noopener noreferrer" target="_blank">GRÜHAM</a>.
+              </p>
+              
+              <p style={{ fontSize: 'var(--font-size-base)', lineHeight: 'var(--line-height-relaxed)', marginBottom: 'var(--space-md)' }}>
+                In 2020, one of my repositories was selected for the <a href="https://youtu.be/fzI9FNjXQ0o" rel="noopener noreferrer" target="_blank">Arctic Code Vault</a> of the <a href="https://archiveprogram.github.com" rel="noopener noreferrer" target="_blank">GitHub Archive Program</a>. Since 2022, I am listed as an Assistant Professor of Architecture at Dr. D.Y. Patil School of Architecture, Navi Mumbai.
+              </p>
+              
+              <p style={{ fontSize: 'var(--font-size-base)', lineHeight: 'var(--line-height-relaxed)', marginBottom: 'var(--space-lg)' }}>
+                Currently, I am creating the open-source <a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">ASK: Daily Research</a> tool—an offline-first AI platform for generating photorealistic Q&A content on research themes including architecture, sustainability, and urban planning.
+              </p>
+              
+              <Link href="/history" style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)', fontSize: 'var(--font-size-base)', fontWeight: 'var(--font-weight-medium)' }}>
+                Read the complete history <span aria-hidden="true">→</span>
+              </Link>
+            </div>
+          </div>
         </section>
 
         {/* Products Section */}
