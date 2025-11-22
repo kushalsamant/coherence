@@ -71,7 +71,7 @@ export default function Home() {
             >
               <div style={{ marginBottom: 'var(--space-md)' }}>
                 <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
-                  Ask
+                  ASK
                 </h3>
               </div>
               <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
