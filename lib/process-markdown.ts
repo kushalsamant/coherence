@@ -32,6 +32,16 @@ export async function getMarkdownContent(filePath: string) {
     'src="/assets/'
   )
   
+  // Unwrap paragraphs inside .content-columns divs to allow CSS columns to work properly
+  // This handles cases where remark wraps content in <p> tags inside the div
+  // The regex handles optional whitespace and paragraph attributes
+  contentHtml = contentHtml.replace(
+    /<div class="content-columns">\s*<p[^>]*>(.*?)<\/p>\s*<\/div>/gs,
+    (match, content) => {
+      return `<div class="content-columns">${content}</div>`
+    }
+  )
+  
   return {
     frontmatter: data,
     content: contentHtml,
