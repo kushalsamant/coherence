@@ -29,6 +29,16 @@
       "source": "/contact.html",
       "destination": "/getintouch",
       "permanent": true
+    },
+    {
+      "source": "/projects/:slug.html",
+      "destination": "/projects/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/anthology/:slug.html",
+      "destination": "/anthology/:slug",
+      "permanent": true
     }
   ]
 }
