@@ -3,7 +3,7 @@ import { Card, Button } from '@kushalsamant/design-template'
 
 export const metadata: Metadata = {
   title: 'Home',
-  description: 'Licensed Architect. SaaS Developer. Published in MAO Museum. Preserved in Arctic Code Vault. Designing spatial and digital systems—from WikiHouse to research platforms.',
+  description: 'Licensed Architect. SaaS Developer. Published in MAO Museum. Preserved in Arctic Code Vault. Designing spatial and digital systems—from WikiHouse to AI research platforms.',
   openGraph: {
     title: 'KVSHVL - Kushal Samant',
     description: 'Licensed Architect. SaaS Developer. Published in MAO Museum. Preserved in Arctic Code Vault.',
@@ -26,7 +26,7 @@ export default function Home() {
           </p>
           
           <p className="hero-subtitle" style={{ fontSize: 'var(--font-size-lg)', marginTop: 'var(--space-lg)' }}>
-          Designing spatial and digital systems—from WikiHouse to research platforms
+          Designing spatial and digital systems—from WikiHouse to AI research platforms
           </p>
         </section>
 
@@ -35,71 +35,71 @@ export default function Home() {
           <h2 id="products-title" className="section-title">Products</h2>
           
           <div className="grid grid-3">
-            <Card
-              variant="elevated"
-              className="slide-up"
+            <a
+              href="https://sketch2bim.kvshvl.in"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ display: 'block', textDecoration: 'none', color: 'inherit' }}
             >
-              <div style={{ marginBottom: 'var(--space-md)' }}>
-                <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
-                  Sketch2BIM
-                </h3>
-              </div>
-              <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
-                Transform hand-drawn sketches into BIM models. Building information modeling for architectural, landscape, and urban design projects.
-              </p>
-              <a
-                href="https://sketch2bim.kvshvl.in"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)' }}
+              <Card
+                variant="elevated"
+                className="slide-up"
               >
-                Visit <span aria-hidden="true">→</span>
-              </a>
-            </Card>
+                <div style={{ marginBottom: 'var(--space-md)' }}>
+                  <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
+                    Sketch2BIM
+                  </h3>
+                </div>
+                <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
+                  Transform hand-drawn sketches into BIM models. Building information modeling for architectural, landscape, and urban design projects.
+                </p>
+                <span>Visit</span>
+              </Card>
+            </a>
 
-            <Card
-              variant="elevated"
-              className="slide-up"
+            <a
+              href="https://ask.kvshvl.in"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ display: 'block', textDecoration: 'none', color: 'inherit' }}
             >
-              <div style={{ marginBottom: 'var(--space-md)' }}>
-                <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
-                  ASK
-                </h3>
-              </div>
-              <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
-                Daily research tool for architecture and sustainability. Offline-first platform for generating photorealistic Q&A content.
-              </p>
-              <a
-                href="https://ask.kvshvl.in"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)' }}
+              <Card
+                variant="elevated"
+                className="slide-up"
               >
-                Visit <span aria-hidden="true">→</span>
-              </a>
-            </Card>
+                <div style={{ marginBottom: 'var(--space-md)' }}>
+                  <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
+                    ASK
+                  </h3>
+                </div>
+                <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
+                  Daily research tool for architecture and sustainability. Offline-first platform for generating photorealistic Q&A content.
+                </p>
+                <span>Visit</span>
+              </Card>
+            </a>
 
-            <Card
-              variant="elevated"
-              className="slide-up"
+            <a
+              href="https://reframe.kvshvl.in"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ display: 'block', textDecoration: 'none', color: 'inherit' }}
             >
-              <div style={{ marginBottom: 'var(--space-md)' }}>
-                <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
-                  Reframe
-                </h3>
-              </div>
-              <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
-                Professional text rewriting with authentic tones. Multiple generation styles for content transformation.
-              </p>
-              <a
-                href="https://reframe.kvshvl.in"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ display: 'inline-flex', alignItems: 'center', gap: 'var(--space-xs)' }}
+              <Card
+                variant="elevated"
+                className="slide-up"
               >
-                Visit <span aria-hidden="true">→</span>
-              </a>
-            </Card>
+                <div style={{ marginBottom: 'var(--space-md)' }}>
+                  <h3 style={{ fontSize: 'var(--font-size-xl)', marginBottom: 'var(--space-sm)' }}>
+                    Reframe
+                  </h3>
+                </div>
+                <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
+                  Professional text rewriting with authentic tones. Multiple generation styles for content transformation.
+                </p>
+                <span>Visit</span>
+              </Card>
+            </a>
           </div>
         </section>
 

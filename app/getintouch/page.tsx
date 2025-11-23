@@ -8,6 +8,25 @@ export const metadata: Metadata = {
 }
 
 export default function GetInTouchPage() {
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://kvshvl.in',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Get in Touch',
+        item: 'https://kvshvl.in/getintouch',
+      },
+    ],
+  }
+
   const services = [
     {
       title: 'Architecture & Spatial Design',
@@ -28,8 +47,13 @@ export default function GetInTouchPage() {
   ]
 
   return (
-    <main style={{ padding: 'var(--space-xl) var(--space-md)', maxWidth: 'var(--container-max-width)', margin: '0 auto' }}>
-      <article className="fade-in">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <main style={{ padding: 'var(--space-xl) var(--space-md)', maxWidth: 'var(--container-max-width)', margin: '0 auto' }}>
+        <article className="fade-in">
         <section className="hero" aria-labelledby="contact-title">
           <h1 id="contact-title" className="hero-title">Get in Touch</h1>
           <p className="hero-subtitle">
@@ -120,5 +144,6 @@ export default function GetInTouchPage() {
         </section>
       </article>
     </main>
+    </>
   )
 }

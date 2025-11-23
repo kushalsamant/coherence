@@ -10,13 +10,38 @@ export const metadata: Metadata = {
 export default async function HistoryPage() {
   const { content } = await getMarkdownContent('docs/history.md')
   
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://kvshvl.in',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'History',
+        item: 'https://kvshvl.in/history',
+      },
+    ],
+  }
+  
   return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
     <main style={{ padding: 'var(--space-xl) var(--space-md)', maxWidth: 'var(--container-max-width)', margin: '0 auto' }}>
       <article 
         className="history-content"
         dangerouslySetInnerHTML={{ __html: content }}
       />
     </main>
+    </>
   )
 }
 

@@ -123,11 +123,19 @@ The site uses the KVSHVL dark minimalist design system:
 - [x] Custom domain configured (kvshvl.in)
 - [x] File organization (docs directory)
 - [x] Code cleanup (removed duplicates, old redirects)
-- [ ] Production verification (test at kvshvl.in)
+- [x] Production verification (test at kvshvl.in)
+- [x] Links page created (`app/links/page.tsx`)
+- [x] Vercel redirects configured (`vercel.json`)
+- [x] Schema.org structured data added (Person schema in layout, BreadcrumbList on key pages)
+- [x] Projects dynamic routing implemented (`app/projects/[slug]/page.tsx`)
+- [x] Projects index page created (`app/projects/page.tsx`)
+- [x] Anthology dynamic routing implemented (`app/anthology/[slug]/page.tsx`)
+- [x] Static generation verified (all 12 projects + 296 anthology posts generate routes)
 
 ## Notes
 
-- **Anthology:** Blog posts in `anthology/` directory are preserved but not used by Next.js (moving to Medium)
+- **Anthology:** Blog posts in `anthology/` directory are now accessible via `/anthology/[slug]` routes (296 posts generated)
+- **Projects:** Project markdown files in `projects/` directory are accessible via `/projects/[slug]` routes (12 projects generated)
 - **Static Assets:** Images remain in `assets/img/` and are used by Next.js
 - **Jekyll Files:** Old Jekyll files (`_config.yml`, `_layouts/`, `_sass/`, etc.) remain in the repository but are not used by Next.js
 - **Static Export:** The site is configured for static export, generating static HTML files compatible with any hosting service

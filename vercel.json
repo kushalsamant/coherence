@@ -1,0 +1,35 @@
+{
+  "redirects": [
+    {
+      "source": "/about.html",
+      "destination": "/history",
+      "permanent": true
+    },
+    {
+      "source": "/people.html",
+      "destination": "/history#people",
+      "permanent": true
+    },
+    {
+      "source": "/projects.html",
+      "destination": "/history#projects",
+      "permanent": true
+    },
+    {
+      "source": "/anthology.html",
+      "destination": "/history#anthology",
+      "permanent": true
+    },
+    {
+      "source": "/support.html",
+      "destination": "/getintouch",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/getintouch",
+      "permanent": true
+    }
+  ]
+}
+

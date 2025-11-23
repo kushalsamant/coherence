@@ -5,8 +5,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // Preserve existing Jekyll structure during migration
-  // We'll migrate content files gradually
 }
 
 module.exports = nextConfig
