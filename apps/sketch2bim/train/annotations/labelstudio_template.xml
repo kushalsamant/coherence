@@ -1,0 +1,35 @@
+<View>
+  <Image name="image" value="$image"/>
+  <RectangleLabels name="label" toName="image">
+    <Label value="door_single" background="#ff6b6b"/>
+    <Label value="door_double" background="#fa983a"/>
+    <Label value="window_fixed" background="#feca57"/>
+    <Label value="window_sliding" background="#ff9ff3"/>
+    <Label value="stair" background="#54a0ff"/>
+    <Label value="ramp" background="#5f27cd"/>
+    <Label value="elevator" background="#48dbfb"/>
+    <Label value="column" background="#c8d6e5"/>
+    <Label value="bed" background="#1dd1a1"/>
+    <Label value="sofa" background="#10ac84"/>
+    <Label value="table" background="#01a3a4"/>
+    <Label value="chair" background="#2e86de"/>
+    <Label value="kitchen_sink" background="#341f97"/>
+    <Label value="cooktop" background="#ee5253"/>
+    <Label value="toilet" background="#576574"/>
+    <Label value="shower" background="#8395a7"/>
+    <Label value="bathtub" background="#222f3e"/>
+    <Label value="light_fixture" background="#f368e0"/>
+    <Label value="switch" background="#00d2d3"/>
+    <Label value="outlet" background="#ff9f43"/>
+    <Label value="thermostat" background="#ff6b6b"/>
+    <Label value="smoke_detector" background="#00a8ff"/>
+    <Label value="hvac_register" background="#9c88ff"/>
+    <Label value="sprinkler" background="#fda7df"/>
+    <Label value="beam" background="#8e44ad"/>
+    <Label value="grid_marker" background="#34495e"/>
+    <Label value="section_cut" background="#2ecc71"/>
+    <Label value="dimension_marker" background="#16a085"/>
+    <Label value="north_arrow" background="#f1c40f"/>
+  </RectangleLabels>
+</View>
+

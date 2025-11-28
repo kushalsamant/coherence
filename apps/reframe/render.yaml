@@ -1,0 +1,30 @@
+services:
+  - type: web
+    name: reframe-api
+    env: python
+    rootDir: backend
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: DEBUG
+        value: false
+      - key: REFRAME_GROQ_API_KEY
+        sync: false
+      - key: REFRAME_UPSTASH_REDIS_REST_URL
+        sync: false
+      - key: REFRAME_UPSTASH_REDIS_REST_TOKEN
+        sync: false
+      - key: REFRAME_NEXTAUTH_SECRET
+        sync: false
+      - key: REFRAME_AUTH_SECRET
+        sync: false
+      - key: JWT_ALGORITHM
+        value: HS256
+      - key: REFRAME_FREE_LIMIT
+        value: "5"
+      - key: REFRAME_CORS_ORIGINS
+        value: https://reframe.kvshvl.in,https://www.reframe.kvshvl.in
+    healthCheckPath: /health
+

@@ -1,0 +1,9 @@
+{
+  "auth_url": "https://kvshvl.vercel.app",
+  "google_client_id": "620186529337-b5o91ohmbfpbatv8gaa35ct4i0s9i2ru.apps.googleusercontent.com",
+  "redis_url": "https://splendid-platypus-26441.upstash.io",
+  "free_limit": 3,
+  "international_payments_enabled": false,
+  "from_email": "Reframe <noreply@kvshvl.vercel.app>"
+}
+

@@ -1,0 +1,17 @@
+{
+  "buildCommand": "cd frontend && npm run build",
+  "outputDirectory": "frontend/.next",
+  "framework": "nextjs",
+  "env": {
+    "SKETCH2BIM_NEXT_PUBLIC_API_URL": "@sketch2bim-api-url",
+    "SKETCH2BIM_GOOGLE_CLIENT_ID": "@sketch2bim-google-client-id",
+    "SKETCH2BIM_GOOGLE_SECRET": "@sketch2bim-google-secret",
+    "SKETCH2BIM_NEXTAUTH_SECRET": "@nextauth-secret"
+  },
+  "build": {
+    "env": {
+      "SKETCH2BIM_NEXT_PUBLIC_API_URL": "@sketch2bim-api-url"
+    }
+  }
+}
+

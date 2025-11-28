@@ -1,0 +1,48 @@
+{
+  "name": "reframe",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "vercel-build": "git submodule update --init --recursive || true && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "setup": "tsx scripts/setup.ts",
+    "create-razorpay-plans": "tsx scripts/create_razorpay_plans.ts"
+  },
+  "dependencies": {
+    "@auth/upstash-redis-adapter": "^2.11.1",
+    "@kushalsamant/design-template": "^1.3.2",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@radix-ui/react-toast": "^1.2.15",
+    "@upstash/redis": "^1.35.6",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.6.1",
+    "groq-sdk": "^0.34.0",
+    "lucide-react": "^0.552.0",
+    "micro": "^10.0.1",
+    "next": "15.1.4",
+    "next-auth": "5.0.0-beta.30",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "razorpay": "^2.9.2",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/micro": "^7.3.7",
+    "@types/node": "^22.10.7",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.39.0",
+    "eslint-config-next": "^15.1.4",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18",
+    "tailwindcss-animate": "^1.0.7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

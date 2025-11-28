@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ids xmlns="http://standards.buildingsmart.org/IDS"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://standards.buildingsmart.org/IDS http://standards.buildingsmart.org/IDS">
+    <info>
+        <name>Commercial Building - Sketch-to-BIM Requirements</name>
+        <version>1.0</version>
+        <description>Information Delivery Specification for commercial buildings generated from sketches</description>
+        <author>Sketch2BIM</author>
+        <date>2025-01-14</date>
+    </info>
+    
+    <!-- Wall Requirements -->
+    <specification>
+        <name>Wall - Commercial Properties</name>
+        <applicability>
+            <entity name="IfcWall">
+                <predefinedType name="STANDARD"/>
+            </entity>
+        </applicability>
+        <requirements>
+            <propertySet>
+                <name>Pset_WallCommon</name>
+                <required>true</required>
+            </propertySet>
+            <property name="FireRating" required="false">
+                <value type="string"/>
+            </property>
+        </requirements>
+        <material required="true"/>
+    </specification>
+    
+    <!-- Door Requirements -->
+    <specification>
+        <name>Door - Commercial Properties</name>
+        <applicability>
+            <entity name="IfcDoor">
+                <predefinedType name="DOOR"/>
+            </entity>
+        </applicability>
+        <requirements>
+            <propertySet>
+                <name>Pset_DoorCommon</name>
+                <required>true</required>
+            </propertySet>
+            <property name="FireRating" required="false">
+                <value type="string"/>
+            </property>
+            <property name="AcousticRating" required="false">
+                <value type="string"/>
+            </property>
+        </requirements>
+        <material required="true"/>
+    </specification>
+    
+    <!-- Space Requirements -->
+    <specification>
+        <name>Space - Commercial Room Information</name>
+        <applicability>
+            <entity name="IfcSpace">
+                <predefinedType name="SPACE"/>
+            </entity>
+        </applicability>
+        <requirements>
+            <property name="RoomType" required="true">
+                <value type="string"/>
+            </property>
+            <property name="Area" required="true">
+                <value type="real"/>
+            </property>
+            <property name="Occupancy" required="false">
+                <value type="integer"/>
+            </property>
+        </requirements>
+    </specification>
+</ids>
+

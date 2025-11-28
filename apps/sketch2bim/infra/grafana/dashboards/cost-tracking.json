@@ -1,0 +1,57 @@
+{
+  "dashboard": {
+    "title": "Sketch2BIM - Cost Tracking",
+    "tags": ["sketch2bim", "costs"],
+    "timezone": "browser",
+    "panels": [
+      {
+        "id": 1,
+        "title": "Total Cost Over Time",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "sum(increase(sketch2bim_job_cost_total[1h]))",
+            "legendFormat": "Hourly Cost"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Cost by Job Status",
+        "type": "piechart",
+        "targets": [
+          {
+            "expr": "sum(sketch2bim_job_cost_total) by (status)",
+            "legendFormat": "{{status}}"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Average Cost per Job",
+        "type": "stat",
+        "targets": [
+          {
+            "expr": "sum(sketch2bim_job_cost_total) / sum(sketch2bim_jobs_total)",
+            "legendFormat": "Avg Cost/Job"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Daily Cost Breakdown",
+        "type": "bargraph",
+        "targets": [
+          {
+            "expr": "sum(increase(sketch2bim_job_cost_total[24h]))",
+            "legendFormat": "Daily Cost"
+          }
+        ]
+      }
+    ],
+    "refresh": "1m",
+    "schemaVersion": 16,
+    "version": 1
+  }
+}
+

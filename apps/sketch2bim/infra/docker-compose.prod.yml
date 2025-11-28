@@ -1,0 +1,82 @@
+version: '3.8'
+
+services:
+  # Backend API (Production)
+  backend:
+    build:
+      context: ../backend
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      APP_ENV: production
+      DEBUG: false
+      SKETCH2BIM_DATABASE_URL: ${SKETCH2BIM_DATABASE_URL}
+      SKETCH2BIM_REDIS_URL: ${SKETCH2BIM_REDIS_URL}
+      SKETCH2BIM_SECRET_KEY: ${SKETCH2BIM_SECRET_KEY}
+      SKETCH2BIM_NEXTAUTH_SECRET: ${SKETCH2BIM_NEXTAUTH_SECRET}
+      # Razorpay Payment Gateway
+      SKETCH2BIM_RAZORPAY_KEY_ID: ${SKETCH2BIM_RAZORPAY_KEY_ID}
+      SKETCH2BIM_RAZORPAY_KEY_SECRET: ${SKETCH2BIM_RAZORPAY_KEY_SECRET}
+      SKETCH2BIM_RAZORPAY_WEBHOOK_SECRET: ${SKETCH2BIM_RAZORPAY_WEBHOOK_SECRET}
+      RAZORPAY_WEEK_AMOUNT: ${RAZORPAY_WEEK_AMOUNT:-129900}
+      RAZORPAY_MONTH_AMOUNT: ${RAZORPAY_MONTH_AMOUNT:-349900}
+      RAZORPAY_YEAR_AMOUNT: ${RAZORPAY_YEAR_AMOUNT:-2999900}
+      RAZORPAY_PLAN_WEEK: ${RAZORPAY_PLAN_WEEK:-plan_Rha5Ikcm5JrGqx}
+      RAZORPAY_PLAN_MONTH: ${RAZORPAY_PLAN_MONTH:-plan_Rha5JNPsk1WmI6}
+      RAZORPAY_PLAN_YEAR: ${RAZORPAY_PLAN_YEAR:-plan_Rha5Jzn1sk8o1X}
+      SKETCH2BIM_FRONTEND_URL: ${SKETCH2BIM_FRONTEND_URL}
+      SKETCH2BIM_BUNNY_STORAGE_ZONE: ${SKETCH2BIM_BUNNY_STORAGE_ZONE}
+      SKETCH2BIM_BUNNY_ACCESS_KEY: ${SKETCH2BIM_BUNNY_ACCESS_KEY}
+      SKETCH2BIM_BUNNY_CDN_HOSTNAME: ${SKETCH2BIM_BUNNY_CDN_HOSTNAME}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS}
+    ports:
+      - "8000:8000"
+    deploy:
+      replicas: 2
+      resources:
+        limits:
+          cpus: '1'
+          memory: 2G
+
+  # Celery Worker (DEPRECATED: Dockerfile.blender is legacy, use standard backend Dockerfile)
+  celery:
+    build:
+      context: ../backend
+      dockerfile: ../infra/Dockerfile.blender  # LEGACY: Use standard backend Dockerfile instead
+    restart: always
+    command: celery -A app.tasks.celery_app worker --loglevel=info --concurrency=2
+    environment:
+      SKETCH2BIM_DATABASE_URL: ${SKETCH2BIM_DATABASE_URL}
+      SKETCH2BIM_REDIS_URL: ${SKETCH2BIM_REDIS_URL}
+      SKETCH2BIM_BUNNY_STORAGE_ZONE: ${SKETCH2BIM_BUNNY_STORAGE_ZONE}
+      SKETCH2BIM_BUNNY_ACCESS_KEY: ${SKETCH2BIM_BUNNY_ACCESS_KEY}
+      SKETCH2BIM_BUNNY_CDN_HOSTNAME: ${SKETCH2BIM_BUNNY_CDN_HOSTNAME}
+      # BLENDER_PATH: /usr/local/blender/blender  # DEPRECATED: No longer needed (migrated to IfcOpenShell)
+    deploy:
+      replicas: 2
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+
+  # Frontend (Production)
+  frontend:
+    build:
+      context: ../frontend
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      NODE_ENV: production
+      SKETCH2BIM_NEXT_PUBLIC_API_URL: ${SKETCH2BIM_NEXT_PUBLIC_API_URL}
+      SKETCH2BIM_GOOGLE_CLIENT_ID: ${SKETCH2BIM_GOOGLE_CLIENT_ID}
+      SKETCH2BIM_GOOGLE_SECRET: ${SKETCH2BIM_GOOGLE_SECRET}
+      SKETCH2BIM_NEXTAUTH_SECRET: ${SKETCH2BIM_NEXTAUTH_SECRET}
+    ports:
+      - "3000:3000"
+    deploy:
+      replicas: 2
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 1G
+

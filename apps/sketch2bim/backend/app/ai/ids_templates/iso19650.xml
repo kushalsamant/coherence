@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ids xmlns="http://standards.buildingsmart.org/IDS"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://standards.buildingsmart.org/IDS http://standards.buildingsmart.org/IDS">
+    <info>
+        <name>ISO 19650 - Sketch-to-BIM Compliance</name>
+        <version>1.0</version>
+        <description>Information Delivery Specification based on ISO 19650 standards for BIM projects</description>
+        <author>Sketch2BIM</author>
+        <date>2025-01-14</date>
+    </info>
+    
+    <!-- Project Information -->
+    <specification>
+        <name>Project - Basic Information</name>
+        <applicability>
+            <entity name="IfcProject"/>
+        </applicability>
+        <requirements>
+            <property name="ProjectName" required="true">
+                <value type="string"/>
+            </property>
+            <property name="ProjectDescription" required="false">
+                <value type="string"/>
+            </property>
+        </requirements>
+    </specification>
+    
+    <!-- Building Requirements -->
+    <specification>
+        <name>Building - ISO 19650 Properties</name>
+        <applicability>
+            <entity name="IfcBuilding">
+                <predefinedType name="BUILDING"/>
+            </entity>
+        </applicability>
+        <requirements>
+            <propertySet>
+                <name>Pset_BuildingCommon</name>
+                <required>true</required>
+            </propertySet>
+            <property name="Reference" required="true">
+                <value type="string"/>
+            </property>
+        </requirements>
+    </specification>
+    
+    <!-- Storey Requirements -->
+    <specification>
+        <name>Storey - Level Information</name>
+        <applicability>
+            <entity name="IfcBuildingStorey">
+                <predefinedType name="FLOOR"/>
+            </entity>
+        </applicability>
+        <requirements>
+            <propertySet>
+                <name>Pset_StoreyCommon</name>
+                <required>true</required>
+            </propertySet>
+            <property name="Elevation" required="true">
+                <value type="real"/>
+            </property>
+        </requirements>
+    </specification>
+    
+    <!-- Element Classification (ISO 12006-2) -->
+    <specification>
+        <name>Wall - ISO Classification</name>
+        <applicability>
+            <entity name="IfcWall"/>
+        </applicability>
+        <requirements>
+            <classification system="ISO 12006-2" required="false"/>
+        </requirements>
+    </specification>
+    
+    <specification>
+        <name>Door - ISO Classification</name>
+        <applicability>
+            <entity name="IfcDoor"/>
+        </applicability>
+        <requirements>
+            <classification system="ISO 12006-2" required="false"/>
+            <material required="true"/>
+        </requirements>
+    </specification>
+    
+    <specification>
+        <name>Space - ISO Classification</name>
+        <applicability>
+            <entity name="IfcSpace"/>
+        </applicability>
+        <requirements>
+            <classification system="ISO 12006-2" required="false"/>
+            <property name="RoomType" required="true">
+                <value type="string"/>
+            </property>
+        </requirements>
+    </specification>
+</ids>
+

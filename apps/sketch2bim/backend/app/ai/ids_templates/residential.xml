@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ids xmlns="http://standards.buildingsmart.org/IDS"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://standards.buildingsmart.org/IDS http://standards.buildingsmart.org/IDS">
+    <info>
+        <name>Residential Building - Sketch-to-BIM Requirements</name>
+        <version>1.0</version>
+        <description>Information Delivery Specification for residential buildings generated from sketches</description>
+        <author>Sketch2BIM</author>
+        <date>2025-01-14</date>
+    </info>
+    
+    <!-- Wall Requirements -->
+    <specification>
+        <name>Wall - Basic Properties</name>
+        <applicability>
+            <entity name="IfcWall">
+                <predefinedType name="STANDARD"/>
+            </entity>
+        </applicability>
+        <requirements>
+            <propertySet>
+                <name>Pset_WallCommon</name>
+                <required>true</required>
+            </propertySet>
+            <property name="LoadBearing" required="false">
+                <value type="boolean">true</value>
+            </property>
+        </requirements>
+    </specification>
+    
+    <!-- Door Requirements -->
+    <specification>
+        <name>Door - Basic Properties</name>
+        <applicability>
+            <entity name="IfcDoor">
+                <predefinedType name="DOOR"/>
+            </entity>
+        </applicability>
+        <requirements>
+            <propertySet>
+                <name>Pset_DoorCommon</name>
+                <required>true</required>
+            </propertySet>
+        </requirements>
+        <material required="true"/>
+    </specification>
+    
+    <!-- Window Requirements -->
+    <specification>
+        <name>Window - Basic Properties</name>
+        <applicability>
+            <entity name="IfcWindow">
+                <predefinedType name="WINDOW"/>
+            </entity>
+        </applicability>
+        <requirements>
+            <propertySet>
+                <name>Pset_WindowCommon</name>
+                <required>true</required>
+            </propertySet>
+        </requirements>
+    </specification>
+    
+    <!-- Room/Space Requirements -->
+    <specification>
+        <name>Space - Room Information</name>
+        <applicability>
+            <entity name="IfcSpace">
+                <predefinedType name="SPACE"/>
+            </entity>
+        </applicability>
+        <requirements>
+            <property name="RoomType" required="true">
+                <value type="string"/>
+            </property>
+            <property name="Area" required="true">
+                <value type="real"/>
+            </property>
+        </requirements>
+    </specification>
+</ids>
+

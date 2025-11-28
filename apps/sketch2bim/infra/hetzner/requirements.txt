@@ -1,0 +1,4 @@
+# Hetzner Cloud Infrastructure Requirements
+hcloud>=1.19.0
+python-dotenv>=1.0.0
+

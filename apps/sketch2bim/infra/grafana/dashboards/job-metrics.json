@@ -1,0 +1,57 @@
+{
+  "dashboard": {
+    "title": "Sketch2BIM - Job Metrics",
+    "tags": ["sketch2bim", "jobs"],
+    "timezone": "browser",
+    "panels": [
+      {
+        "id": 1,
+        "title": "Job Count by Status",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "sum by (status) (sketch2bim_jobs_total)",
+            "legendFormat": "{{status}}"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Job Duration (seconds)",
+        "type": "histogram",
+        "targets": [
+          {
+            "expr": "histogram_quantile(0.95, sum(rate(sketch2bim_job_duration_seconds_bucket[5m])) by (le, status))",
+            "legendFormat": "p95 - {{status}}"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Total Cost (USD)",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "sum(sketch2bim_job_cost_total)",
+            "legendFormat": "Total Cost"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Jobs Requiring Review",
+        "type": "stat",
+        "targets": [
+          {
+            "expr": "sum(sketch2bim_jobs_total{status=\"review\"})",
+            "legendFormat": "Review Queue"
+          }
+        ]
+      }
+    ],
+    "refresh": "30s",
+    "schemaVersion": 16,
+    "version": 1
+  }
+}
+
