@@ -26,7 +26,7 @@ A technical portfolio demonstrating **full-stack AI product development** with p
 
 **Evidence:**
 - `ask/` - 10GB+ AI models, offline-first generation
-- `reframe-ai/` - 6 production-grade prompts with temperature tuning
+- `reframe/` - 6 production-grade prompts with temperature tuning
 - Smart resource management (GPU detection, automatic fallback)
 
 **Market Value:** $120k-180k/year (AI Engineer roles)
@@ -43,7 +43,7 @@ A technical portfolio demonstrating **full-stack AI product development** with p
 - ✅ Responsive UI (Tailwind CSS, shadcn/ui)
 
 **Evidence:**
-- `reframe-ai/` - Production app with auth, payments, API
+- `reframe/` - Production app with auth, payments, API
 - Clean architecture (lib/, components/, app/)
 - Modern stack (Next.js 15, React 18, TypeScript 5)
 
@@ -60,7 +60,7 @@ A technical portfolio demonstrating **full-stack AI product development** with p
 - ✅ Subscription tier management
 
 **Evidence:**
-- `reframe-ai/lib/stripe.ts` - Complete payment implementation
+- `reframe/lib/stripe.ts` - Complete payment implementation
 - 4 subscription tiers + 3 credit packs configured
 - Production deployment with real payments working
 
@@ -95,7 +95,7 @@ A technical portfolio demonstrating **full-stack AI product development** with p
 
 **Evidence:**
 - `ask/` - Instagram story-sized outputs, sequential numbering
-- `reframe-ai/` - 6 tones targeting different audience levels
+- `reframe/` - 6 tones targeting different audience levels
 - Pricing strategy: free tier → $2.99/wk → $99/yr
 
 **Market Value:** Intangible but critical (Product Manager thinking)
@@ -111,7 +111,7 @@ A technical portfolio demonstrating **full-stack AI product development** with p
 - ✅ Secrets management
 
 **Evidence:**
-- `reframe-ai/` - Deployed at reframe-ai-seven.vercel.app
+- `reframe/` - Deployed at reframe.vercel.app
 - Config files: `stripe.test.json`, `stripe.production.json`
 - Setup automation: `scripts/setup.ts`
 

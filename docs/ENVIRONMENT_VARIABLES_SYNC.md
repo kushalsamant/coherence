@@ -1,73 +1,88 @@
 # Environment Variables Synchronization Status
 
-This document tracks the synchronization of all codebases with the shared `.env.production` file.
+This document tracks how environment variables are loaded across all codebases.
 
-## Shared File Location
+## File Structure
 
-**Path**: `../kushalsamant.github.io/.env.production`
+**App-Specific Environment Files:**
+- **ASK**: `ask.env.production` - Located at repository root
+- **Reframe**: `reframe.env.production` - Located at repository root
+- **Sketch2BIM**: `sketch2bim.env.production` - Located at repository root
 
-This file contains environment variables for all codebases:
-- ASK (backend and frontend)
-- Sketch2BIM (backend and frontend)
-- Reframe (frontend)
+Each app loads its own `.env.production` file, which serves as:
+- **Deployment templates** with clear instructions for copying to Vercel/Render
+- **App-specific organization** for easier reference
+- **Source of truth** for each app's production variables
+
+**Loading Order:**
+1. App-specific `.env.production` file (if exists)
+2. Local development files (`.env.local`, `.env`, etc.) - can override
+3. System environment variables (platform-provided) - highest priority
 
 ## Verification Status
 
 ### ✅ Sketch2BIM Backend
 **File**: `sketch2bim/backend/app/config.py`
-- ✅ Loads shared `.env.production` first
-- ✅ Path resolution: `Path(__file__).resolve().parents[3]` → workspace root → shared file
+- ✅ Loads `sketch2bim.env.production` first
+- ✅ Path resolution: `Path(__file__).resolve().parents[3]` → workspace root → `sketch2bim.env.production`
 - ✅ Falls back to local `.env` with override
 
 **Status**: Fully configured
 
 ### ✅ Sketch2BIM Frontend
 **File**: `sketch2bim/frontend/next.config.js`
-- ✅ Loads shared `.env.production` first
-- ✅ Path resolution: `../../kushalsamant.github.io/.env.production`
+- ✅ Loads `sketch2bim.env.production` first
+- ✅ Path resolution: `../../sketch2bim.env.production`
 - ✅ Falls back to `.env.local` with override
 
 **Status**: Fully configured
 
 ### ✅ ASK Backend
 **File**: `ask/api/config.py`
-- ✅ Loads shared `.env.production` first
-- ✅ Path resolution: `BASE_DIR.parent / "kushalsamant.github.io" / ".env.production"`
+- ✅ Loads `ask.env.production` first
+- ✅ Path resolution: `BASE_DIR.parent / "ask.env.production"`
 - ✅ Falls back to `ask.env` with override (via Pydantic Settings)
 
 **Status**: Fully configured
 
 ### ✅ ASK Frontend
 **File**: `ask/frontend/next.config.ts`
-- ✅ Loads shared `.env.production` first
-- ✅ Path resolution: `../../kushalsamant.github.io/.env.production`
+- ✅ Loads `ask.env.production` first
+- ✅ Path resolution: `../../ask.env.production`
 - ✅ Falls back to `.env.local` with override
 
 **Status**: Fully configured
 
 ### ✅ Reframe Frontend
 **File**: `reframe/next.config.js`
-- ✅ Loads shared `.env.production` first
-- ✅ Path resolution: `../kushalsamant.github.io/.env.production`
+- ✅ Loads `reframe.env.production` first
+- ✅ Path resolution: `../reframe.env.production`
 - ✅ Falls back to `.env.local` with override
 
 **Status**: Fully configured
 
-## Variable Sections in Shared File
+### ✅ Reframe Backend
+**File**: `reframe/backend/app/config.py`
+- ✅ Loads `reframe.env.production` first
+- ✅ Path resolution: `Path(__file__).resolve().parents[3]` → workspace root → `reframe.env.production`
+- ✅ Falls back to system environment variables
 
-The shared `.env.production` file is organized into sections:
+**Status**: Fully configured
 
-1. **FRONTEND VARIABLES** - For Sketch2BIM Vercel deployment
-2. **BACKEND VARIABLES** - For Sketch2BIM Render deployment
-3. **ASK Backend Environment Variables** - For ASK Render deployment
+## Variable Organization
 
-All sections are loaded by all codebases, but each codebase only uses the variables it needs.
+Each app-specific `.env.production` file is organized into sections:
+
+1. **FRONTEND VARIABLES** - For Vercel deployment
+2. **BACKEND VARIABLES** - For Render deployment
+
+Each app only loads its own file, ensuring clean separation of concerns.
 
 ## Loading Order (Consistent Across All Codebases)
 
-1. **Shared production file** (`../kushalsamant.github.io/.env.production`)
+1. **App-specific production file** (`{app}.env.production`)
    - Loaded with `override=False`
-   - Acts as global fallback/default values
+   - Acts as default values for production
 
 2. **Local development files**
    - Backend: `.env`, `ask.env`, etc.
@@ -126,9 +141,10 @@ And accessing variables via `process.env.VARIABLE_NAME`.
 
 - All codebases use consistent loading pattern
 - Path resolution works from any directory
-- Error handling: Shared file is optional (no error if missing)
+- Error handling: App-specific file is optional (no error if missing)
 - Production deployments can use platform env vars instead of file
 - Local development always uses file-based config with overrides
+- Each app is independent - no shared file dependencies
 
 ## Last Updated
 

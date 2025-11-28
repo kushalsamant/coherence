@@ -138,7 +138,7 @@ Branded button component with multiple variants.
 
 {% include kvshvl/app-button.html variant="secondary" text="Learn More" href="/about" %}
 
-{% include kvshvl/app-button.html variant="product" text="Launch" href="https://reframe-ai.vercel.app" full_width="true" %}
+{% include kvshvl/app-button.html variant="product" text="Launch" href="https://reframe.vercel.app" full_width="true" %}
 ```
 
 **Variants:**
@@ -211,7 +211,7 @@ Product showcase card for portfolio and cross-promotion.
    description="Professional text rewriting with 6 authentic tones and 9 generation styles." 
    gradient="from-purple-500 to-pink-500" 
    status="live" 
-   href="https://reframe-ai.vercel.app" %}
+   href="https://reframe.vercel.app" %}
 ```
 
 ---

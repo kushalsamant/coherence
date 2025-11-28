@@ -578,7 +578,7 @@ Deliberately excluded until Oracle works:
 Clean up repo before deploying:
 
 ```bash
-rm -rf reframe-ai/        # Old standalone version
+rm -rf reframe/        # Old standalone version
 rm -rf ask/               # Unrelated Python project
 rm -rf emoji-mosaic/      # Unrelated static site
 ```

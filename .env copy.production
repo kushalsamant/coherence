@@ -1,81 +1,342 @@
-# =============================================================================
-# FRONTEND VARIABLES (Copy to Vercel Environment Variables)
-# =============================================================================
-# Deploy to: https://vercel.com/kvshvl/sketch2bim/settings/environment-variables
-
-AUTH_GOOGLE_ID=620186529337-3e8vnit3kpn5a4q4k9mreceg1f63vd4g.apps.googleusercontent.com
-AUTH_GOOGLE_SECRET=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
-AUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
-AUTH_URL=https://sketch2bim.kvshvl.in
-NEXT_PUBLIC_API_URL=https://sketch2bim-backend.onrender.com
-NEXT_PUBLIC_FREE_LIMIT=5
-NEXTAUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
-
-# End of Frontend Variables
-# =============================================================================
-
+# KVSHVL (PRODUCTION) GOOGLE API CREDENTIALS
+GOOGLE_CLIENT_ID=620186529337-lrr0bflcuihq2gnsko6vbrnsdv2u3ugu.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+AUTH_SECRET=Ug6Fo2c5k9hdoFXkY6wT9MVQlwf6TQAwuTe7Px09kSc=
+NEXTAUTH_SECRET=Ug6Fo2c5k9hdoFXkY6wT9MVQlwf6TQAwuTe7Px09kSc=
 
 # =============================================================================
-# BACKEND VARIABLES (Copy to Render Environment Variables)
+# KVSHVL Platform - Production Environment Variables
+# =============================================================================
+# This file contains all production environment variables for:
+# - ASK (Frontend & Backend)
+# - Reframe (Frontend & Backend)
+# - Sketch2BIM (Frontend & Backend)
+#
+# Variables are organized by project and frontend/backend separation.
+# Copy relevant sections to your deployment platform (Vercel/Render).
+#
+# INSTRUCTIONS: Copy this file to .env.production in kushalsamant.github.io/
+# =============================================================================
+
+# =============================================================================
+# SHARED VARIABLES (Used by multiple projects)
+# =============================================================================
+
+# Groq AI API (App-specific prefixes)
+# ASK
+ASK_GROQ_API_KEY=gsk_
+REFRAME_GROQ_API_KEY=gsk_
+# Legacy: GROQ_API_KEY=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
+# Reframe
+REFRAME_GROQ_API_KEY=gsk_
+REFRAME_GROQ_API_KEY=gsk_
+# Legacy: GROQ_API_KEY=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
+# Legacy (deprecated - use app-specific prefixes)
+# ASK_GROQ_API_KEY=gsk_
+REFRAME_GROQ_API_KEY=gsk_
+# Legacy: GROQ_API_KEY=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
+
+# Razorpay Payment Gateway (Shared across all projects)
+ASK_RAZORPAY_KEY_ID=rzp_live_RhNUuWRBG7lzR4
+REFRAME_RAZORPAY_KEY_ID=rzp_live_RhNUuWRBG7lzR4
+SKETCH2BIM_RAZORPAY_KEY_ID=rzp_live_RhNUuWRBG7lzR4
+# Legacy (deprecated)
+RAZORPAY_KEY_ID=rzp_live_RhNUuWRBG7lzR4
+ASK_RAZORPAY_KEY_SECRET=7T1MCu1xNjX9G4soT7kuqqdB
+REFRAME_RAZORPAY_KEY_SECRET=7T1MCu1xNjX9G4soT7kuqqdB
+SKETCH2BIM_RAZORPAY_KEY_SECRET=7T1MCu1xNjX9G4soT7kuqqdB
+# Legacy: RAZORPAY_KEY_SECRET=7T1MCu1xNjX9G4soT7kuqqdB
+ASK_RAZORPAY_WEBHOOK_SECRET=bbzTiAtV2LWSt4J
+REFRAME_RAZORPAY_WEBHOOK_SECRET=bbzTiAtV2LWSt4J
+SKETCH2BIM_RAZORPAY_WEBHOOK_SECRET=bbzTiAtV2LWSt4J
+# Legacy: RAZORPAY_WEBHOOK_SECRET=bbzTiAtV2LWSt4J
+RAZORPAY_WEEK_AMOUNT=129900
+RAZORPAY_MONTH_AMOUNT=349900
+RAZORPAY_YEAR_AMOUNT=2999900
+
+# Razorpay Plan IDs (if created)
+RAZORPAY_PLAN_WEEK=plan_Rha5Ikcm5JrGqx
+RAZORPAY_PLAN_MONTH=plan_Rha5JNPsk1WmI6
+RAZORPAY_PLAN_YEAR=plan_Rha5Jzn1sk8o1X
+
+# Legacy Razorpay aliases (for backward compatibility)
+LIVE_KEY_ID=rzp_live_RhNUuWRBG7lzR4
+LIVE_KEY_SECRET=7T1MCu1xNjX9G4soT7kuqqdB
+
+# Supabase Database (Shared PostgreSQL database)
+ASK_DATABASE_URL=postgresql://
+SKETCH2BIM_DATABASE_URL=postgresql://
+# Legacy: DATABASE_URL=postgresql://postgres.twxudlzipbiavnzcitzb:linkeDin99-k@aws-1-ap-southeast-2.pooler.supabase.com:6543/postgres
+ASK_DATABASE_PASSWORD_OVERRIDE=
+SKETCH2BIM_DATABASE_PASSWORD_OVERRIDE=
+# Legacy: DATABASE_PASSWORD_OVERRIDE=
+ASK_DATABASE_URL_OVERRIDE=
+SKETCH2BIM_DATABASE_URL_OVERRIDE=
+# Legacy: DATABASE_URL_OVERRIDE=
+
+# Upstash Redis (Shared Redis for Reframe and optional for others)
+REFRAME_UPSTASH_REDIS_REST_URL=https://
+SKETCH2BIM_UPSTASH_REDIS_REST_URL=https://
+# Legacy: UPSTASH_REDIS_REST_URL=https://splendid-platypus-26441.upstash.io
+REFRAME_UPSTASH_REDIS_REST_TOKEN=AWdJAAIncDJjZTMyOGIzZTc3ZmU0MjVhYmZmMDJiODgyYjhlY2NmZHAyMjY0NDE
+SKETCH2BIM_UPSTASH_REDIS_REST_TOKEN=AWdJAAIncDJjZTMyOGIzZTc3ZmU0MjVhYmZmMDJiODgyYjhlY2NmZHAyMjY0NDE
+# Legacy: UPSTASH_REDIS_REST_TOKEN=AWdJAAIncDJjZTMyOGIzZTc3ZmU0MjVhYmZmMDJiODgyYjhlY2NmZHAyMjY0NDE
+SKETCH2BIM_REDIS_URL=redis://
+# Legacy: REDIS_URL=redis://default:AWdJAAIncDJjZTMyOGIzZTc3ZmU0MjVhYmZmMDJiODgyYjhlY2NmZHAyMjY0NDE@splendid-platypus-26441.upstash.io:6379
+
+# Resend Email Service
+REFRAME_RESEND_API_KEY=re_
+# Legacy: RESEND_API_KEY=re_EXWqUYav_AKcCzgFrSSrahYHJHB6majyk
+
+# =============================================================================
+# ASK - FRONTEND VARIABLES (Vercel)
+# =============================================================================
+# Deploy to: https://vercel.com/kvshvl/ask/settings/environment-variables
+
+# NextAuth Configuration
+ASK_AUTH_URL=https://ask.kvshvl.in
+ASK_NEXTAUTH_URL=https://ask.kvshvl.in
+ASK_NEXTAUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+ASK_AUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+
+# Google OAuth (ASK-specific)
+
+# API Configuration
+ASK_NEXT_PUBLIC_API_URL=https://ask-api.onrender.com
+ASK_API_BASE_URL=https://ask-api.onrender.com
+ASK_BACKEND_URL=https://ask-api.onrender.com
+
+# =============================================================================
+# ASK - BACKEND VARIABLES (Render)
 # =============================================================================
 # Deploy to: https://dashboard.render.com/web/srv-xxx/env
 
-ALLOWED_ORIGINS=https://sketch2bim.kvshvl.in
-APP_ENV=production
-BLENDER_PATH=blender
-BUNNY_ACCESS_KEY=4026f19d-3836-4442-ba87fe2013c4-4f75-4944
-BUNNY_CDN_HOSTNAME=kvshvl.b-cdn.net
-BUNNY_REGION=storage.bunnycdn.com
-BUNNY_STORAGE_ZONE=kvshvl
-DATABASE_URL=postgresql://postgres.twxudlzipbiavnzcitzb:linkeDin99-k@aws-1-ap-southeast-2.pooler.supabase.com:6543/postgres
-DEBUG=false
-FRONTEND_URL=https://sketch2bim.kvshvl.in
-GROQ_API_KEY=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
-REFRAME_GOOGLE_CLIENT_ID=620186529337-0d9u3950ph7j4cl7i8bit6prlrq0elgs.apps.googleusercontent.com
-REFRAME_GOOGLE_CLIENT_SECRET=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
-JSON_LOGGING=false
-LIVE_KEY_ID=rzp_live_RhNUuWRBG7lzR4
-LIVE_KEY_SECRET=7T1MCu1xNjX9G4soT7kuqqdB
-LOG_LEVEL=INFO
-RAZORPAY_MONTH_AMOUNT=349900
-RAZORPAY_PLAN_MONTH=plan_Rha5JNPsk1WmI6
-RAZORPAY_PLAN_WEEK=plan_Rha5Ikcm5JrGqx
-RAZORPAY_PLAN_YEAR=plan_Rha5Jzn1sk8o1X
-RAZORPAY_WEBHOOK_SECRET=bbzTiAtV2LWSt4J
-RAZORPAY_WEEK_AMOUNT=129900
-RAZORPAY_YEAR_AMOUNT=2999900
-REDIS_URL=redis://default:AWdJAAIncDJjZTMyOGIzZTc3ZmU0MjVhYmZmMDJiODgyYjhlY2NmZHAyMjY0NDE@splendid-platypus-26441.upstash.io:6379
-REPLICATE_API_KEY=r8_VFZyzSiGscolfIQKxEKowIYr98YpKes1tAMTV
-REPLICATE_MODEL_ID=kushalsamant/sketch2bim-processor
-RESEND_API_KEY=re_EXWqUYav_AKcCzgFrSSrahYHJHB6majyk
-SECRET_KEY=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
-STRIPE_PRICE_PRO=price_1STF6AJlfVCbQ3BNxS9kgLXx
-STRIPE_PRICE_STUDIO=price_1STF6BJlfVCbQ3BNZFQWsKPV
-STRIPE_PUBLISHABLE_KEY=pk_live_2UDHQxbktN5sOx4URR3p2xBr
-STRIPE_SECRET_KEY=sk_live_ywsRrAeVNphfisdV6gICF5Mj00elbZIAEI
-STRIPE_WEBHOOK_SECRET=whsec_dZTUJE7WCxOpz8il6aKSuaKEPxgc9TPQ
-NEXTAUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+# Application Configuration
+ASK_APP_NAME=ASK: Daily Research
+ASK_ENVIRONMENT=production
+ASK_DEBUG=false
+ASK_API_HOST=0.0.0.0
+ASK_API_PORT=8000
 
-# End of Backend Variables
+# CORS Configuration
+ASK_CORS_ORIGINS=https://ask.kvshvl.in,https://www.ask.kvshvl.in
+ASK_FRONTEND_URL=https://ask.kvshvl.in
+
+# Database Configuration (Supabase with schema)
+ASK_DATABASE_SCHEMA=ask_schema
+
+# Logging Configuration
+ASK_LOG_DIR=logs
+ASK_LOG_CSV_FILE=log.csv
+ASK_LOG_LEVEL=INFO
+
+# Groq Configuration
+ASK_GROQ_MODEL=llama-3.1-70b-versatile
+ASK_GROQ_API_BASE=https://api.groq.com/openai/v1
+ASK_GROQ_DAILY_COST_THRESHOLD=10.0
+ASK_GROQ_MONTHLY_COST_THRESHOLD=50.0
+
+# Authentication (JWT validation)
+ASK_JWT_ALGORITHM=HS256
+
+# Python Path
+ASK_PYTHONPATH=.
+
 # =============================================================================
+# REFRAME - FRONTEND VARIABLES (Vercel)
+# =============================================================================
+# Deploy to: https://vercel.com/kvshvl/reframe/settings/environment-variables
 
-# ASK Backend Environment Variables
-# For Render deployment
+# NextAuth Configuration
+REFRAME_AUTH_URL=https://reframe.vercel.app
+REFRAME_NEXTAUTH_URL=https://reframe.vercel.app
+REFRAME_NEXTAUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+REFRAME_AUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+
+# Google OAuth (Reframe-specific)
 
 # API Configuration
-API_HOST=0.0.0.0
-API_PORT=8000
+REFRAME_API_URL=https://reframe-api.onrender.com
+REFRAME_NEXT_PUBLIC_API_URL=https://reframe-api.onrender.com
 
-# CORS Origins (comma-separated, no spaces)
-CORS_ORIGINS=https://ask.kvshvl.in,https://www.ask.kvshvl.in
+# Application Configuration
+REFRAME_NEXT_PUBLIC_SITE_URL=https://reframe.vercel.app
+REFRAME_NEXT_PUBLIC_FREE_LIMIT=5
 
-# File Paths
-LOG_CSV_FILE=log.csv
-IMAGES_DIR=images
-LOG_DIR=logs
+# =============================================================================
 
-# Python Path (if needed)
-PYTHONPATH=.
+# Reframe Razorpay Amounts
+REFRAME_RAZORPAY_DAILY_AMOUNT=9900
+REFRAME_RAZORPAY_MONTH_AMOUNT=99900
+REFRAME_RAZORPAY_YEAR_AMOUNT=799900
 
-# Environment
-ENVIRONMENT=production
+# Reframe Razorpay Plan IDs
+REFRAME_RAZORPAY_PLAN_DAILY=
+REFRAME_RAZORPAY_PLAN_MONTH=
+REFRAME_RAZORPAY_PLAN_YEAR=
+
+# REFRAME - BACKEND VARIABLES (Render)
+# =============================================================================
+# Deploy to: https://dashboard.render.com/web/srv-xxx/env
+
+# Application Configuration
+REFRAME_APP_NAME=Reframe API
+REFRAME_ENVIRONMENT=production
+REFRAME_DEBUG=false
+
+# CORS Configuration
+REFRAME_CORS_ORIGINS=https://reframe.vercel.app,https://www.reframe.vercel.app
+
+# Groq Configuration
+REFRAME_GROQ_DAILY_COST_THRESHOLD=10.0
+REFRAME_GROQ_MONTHLY_COST_THRESHOLD=50.0
+
+# Limits
+REFRAME_FREE_LIMIT=5
+
+# Authentication (JWT validation)
+REFRAME_JWT_ALGORITHM=HS256
+
+# =============================================================================
+# SKETCH2BIM - FRONTEND VARIABLES (Vercel)
+# =============================================================================
+# Deploy to: https://vercel.com/kvshvl/sketch2bim/settings/environment-variables
+
+# NextAuth Configuration
+SKETCH2BIM_AUTH_URL=https://sketch2bim.kvshvl.in
+SKETCH2BIM_NEXTAUTH_URL=https://sketch2bim.kvshvl.in
+SKETCH2BIM_NEXTAUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+SKETCH2BIM_AUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+
+# Google OAuth (Sketch2BIM-specific)
+
+# API Configuration
+SKETCH2BIM_NEXT_PUBLIC_API_URL=https://sketch2bim-backend.onrender.com
+SKETCH2BIM_NEXT_PUBLIC_FREE_LIMIT=5
+
+# =============================================================================
+# SKETCH2BIM - BACKEND VARIABLES (Render)
+# =============================================================================
+# Deploy to: https://dashboard.render.com/web/srv-xxx/env
+
+# Application Configuration
+SKETCH2BIM_APP_NAME=Sketch-to-BIM
+SKETCH2BIM_APP_ENV=production
+SKETCH2BIM_DEBUG=false
+SKETCH2BIM_API_VERSION=v1
+SKETCH2BIM_HOST=0.0.0.0
+SKETCH2BIM_PORT=8000
+SKETCH2BIM_WORKERS=4
+SKETCH2BIM_REQUEST_TIMEOUT_SECONDS=300.0
+
+# CORS Configuration
+SKETCH2BIM_ALLOWED_ORIGINS=https://sketch2bim.kvshvl.in
+SKETCH2BIM_FRONTEND_URL=https://sketch2bim.kvshvl.in
+
+# Database Configuration (Supabase with schema)
+SKETCH2BIM_DATABASE_SCHEMA=sketch2bim_schema
+
+# Authentication
+SKETCH2BIM_SECRET_KEY=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+SKETCH2BIM_JWT_ALGORITHM=HS256
+SKETCH2BIM_JWT_EXPIRATION_HOURS=24
+
+# BunnyCDN Storage
+SKETCH2BIM_BUNNY_STORAGE_ZONE=kvshvl
+SKETCH2BIM_BUNNY_ACCESS_KEY=4026f19d-3836-4442-ba87fe2013c4-4f75-4944
+SKETCH2BIM_BUNNY_CDN_HOSTNAME=kvshvl.b-cdn.net
+SKETCH2BIM_BUNNY_REGION=storage.bunnycdn.com
+SKETCH2BIM_BUNNY_SIGNED_URL_KEY=
+SKETCH2BIM_BUNNY_SIGNED_URL_EXPIRY=604800
+
+# ML Processing Agent
+SKETCH2BIM_ML_AGENT_ENABLED=true
+SKETCH2BIM_ML_AGENT_MAX_RETRIES=2
+SKETCH2BIM_ML_AGENT_PREPROCESSING_THRESHOLD=50.0
+SKETCH2BIM_ML_AGENT_DETECTION_THRESHOLD=30.0
+SKETCH2BIM_ML_AGENT_POST_IFC_THRESHOLD=50.0
+
+# Symbol Detector (Optional - disabled by default)
+SKETCH2BIM_SYMBOL_DETECTOR_ENABLED=false
+SKETCH2BIM_SYMBOL_DETECTOR_MODEL_PATH=
+SKETCH2BIM_SYMBOL_DETECTOR_CLASS_FILE=train/annotations/classes.yaml
+SKETCH2BIM_SYMBOL_DETECTOR_CONFIDENCE=0.45
+SKETCH2BIM_SYMBOL_DETECTOR_DEVICE=auto
+SKETCH2BIM_SYMBOL_DETECTOR_MAX_RESULTS=200
+
+# Rate Limiting
+SKETCH2BIM_RATE_LIMIT_PER_MINUTE=10
+SKETCH2BIM_RATE_LIMIT_PER_HOUR=100
+
+# File Upload
+SKETCH2BIM_MAX_UPLOAD_SIZE_MB=50
+SKETCH2BIM_ALLOWED_EXTENSIONS=png,jpg,jpeg,pdf,dwg
+
+# Trial Tier
+SKETCH2BIM_FREE_CREDITS_LIMIT=0
+
+# Logging
+SKETCH2BIM_LOG_LEVEL=INFO
+SKETCH2BIM_JSON_LOGGING=false
+
+# Monitoring & Alerts
+SKETCH2BIM_DATABASE_LIMIT_MB=500
+SKETCH2BIM_REDIS_LIMIT_COMMANDS_PER_DAY=10000
+SKETCH2BIM_RESOURCE_ALERT_WARNING_THRESHOLD=80
+SKETCH2BIM_RESOURCE_ALERT_CRITICAL_THRESHOLD=95
+SKETCH2BIM_ALERT_EMAIL_ENABLED=true
+SKETCH2BIM_ALERT_EMAIL_RECIPIENTS=admin@sketch2bim.com
+
+# Replicate API (for ML processing)
+SKETCH2BIM_REPLICATE_API_KEY=r8_VFZyzSiGscolfIQKxEKowIYr98YpKes1tAMTV
+SKETCH2BIM_REPLICATE_MODEL_ID=kushalsamant/sketch2bim-processor
+
+# Blender Path
+SKETCH2BIM_BLENDER_PATH=blender
+
+# Legacy Stripe (kept for backward compatibility, not required)
+SKETCH2BIM_STRIPE_SECRET_KEY=sk_live_ywsRrAeVNphfisdV6gICF5Mj00elbZIAEI
+SKETCH2BIM_STRIPE_WEBHOOK_SECRET=whsec_dZTUJE7WCxOpz8il6aKSuaKEPxgc9TPQ
+SKETCH2BIM_STRIPE_PUBLISHABLE_KEY=pk_live_2UDHQxbktN5sOx4URR3p2xBr
+SKETCH2BIM_STRIPE_PRICE_SINGLE=
+SKETCH2BIM_STRIPE_PRICE_PRO=price_1STF6AJlfVCbQ3BNxS9kgLXx
+SKETCH2BIM_STRIPE_PRICE_STUDIO=price_1STF6BJlfVCbQ3BNZFQWsKPV
+
+# IDS Validation (optional)
+SKETCH2BIM_IDS_FILE_PATH=
+
+# =============================================================================
+# NOTES
+# =============================================================================
+#
+# 1. Database Schema Variables:
+#    - ASK Backend: DATABASE_SCHEMA=ask_schema
+#    - Sketch2BIM Backend: DATABASE_SCHEMA=sketch2bim_schema
+#    - Both use the same DATABASE_URL (Supabase postgres database)
+#
+# 2. Google OAuth:
+#    - Each app has its own Google OAuth credentials
+#    - ASK: ASK_GOOGLE_CLIENT_ID / ASK_GOOGLE_SECRET
+#    - Reframe: REFRAME_GOOGLE_CLIENT_ID / REFRAME_GOOGLE_CLIENT_SECRET
+#    - Sketch2BIM: SKETCH2BIM_GOOGLE_CLIENT_ID / SKETCH2BIM_GOOGLE_SECRET
+#
+# 3. Razorpay:
+#    - Shared credentials across all projects
+#    - Plan IDs may differ per project (set in each project's config)
+#
+# 4. Deployment:
+#    - Frontend variables → Set in Vercel
+#    - Backend variables → Set in Render
+#    - Some variables are shared and can be set in both platforms
+#
+# 5. Security:
+#    - Never commit this file to git (should be in .gitignore)
+#    - Use platform environment variables for production
+#    - This file serves as a reference/template
+#
+# =============================================================================
+
+# Shared Google OAuth Client ID (used by all apps via kvshvl.in)
+GOOGLE_CLIENT_ID=620186529337-lrr0bflcuihq2gnsko6vbrnsdv2u3ugu.apps.googleusercontent.com
+# Shared Google OAuth Client Secret (used by all apps via kvshvl.in)
+GOOGLE_CLIENT_SECRET=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

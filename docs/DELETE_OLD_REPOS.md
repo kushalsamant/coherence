@@ -7,6 +7,7 @@ All code has been migrated to the monorepo and all documentation references have
 1. `github.com/kushalsamant/ask`
 2. `github.com/kushalsamant/sketch2bim`
 3. `github.com/kushalsamant/reframe-ai`
+4. `github.com/kushalsamant/kvshvl-design-template`
 
 ## Verification Complete ✅
 

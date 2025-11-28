@@ -6,14 +6,16 @@ This document provides a complete reference for all environment variables used a
 
 ## File Location
 
-All production environment variables are centralized in:
-- **File**: `kushalsamant.github.io/.env.production`
-- **Purpose**: Single source of truth for all production secrets
-- **Scope**: Shared across ASK, Reframe, and Sketch2BIM
+Production environment variables are stored in app-specific files:
+- **ASK**: `ask.env.production`
+- **Reframe**: `reframe.env.production`
+- **Sketch2BIM**: `sketch2bim.env.production`
+
+Each file is located at the repository root and serves as a deployment template with instructions for copying variables to Vercel/Render.
 
 ## Variable Organization
 
-The `.env.production` file is organized into sections:
+Each app-specific `.env.production` file is organized into sections:
 
 1. **Shared Variables** - Used by multiple projects
 2. **ASK - Frontend Variables** - Vercel deployment
