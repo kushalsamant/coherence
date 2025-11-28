@@ -114,7 +114,7 @@ FastAPI Backend (Render)
    - Base settings class (`BaseSettings`)
    - Razorpay configuration (`RazorpaySettings`)
    - Environment variable loading
-   - Shared .env.production support
+   - App-specific .env.production files (ask.env.production, reframe.env.production, sketch2bim.env.production)
 
 ### Frontend Packages (`packages/shared-frontend/`)
 
@@ -181,13 +181,13 @@ kvshvl-platform/
 ## Remaining Tasks
 
 ### ⏳ Testing Required
-- Test ASK backend with shared packages
-- Test Sketch2BIM backend with shared packages
-- Test Reframe backend with shared packages
-- Test Reframe frontend Razorpay migration
-- Verify all authentication flows
-- Verify all subscription checks
-- Verify all payment webhooks
+- [ ] Test ASK backend with shared packages
+- [ ] Test Sketch2BIM backend with shared packages
+- [ ] Test Reframe backend with shared packages
+- [ ] Test Reframe frontend Razorpay migration
+- [ ] Verify all authentication flows
+- [ ] Verify all subscription checks
+- [ ] Verify all payment webhooks
 
 ### ✅ Database Schema Migration
 - ✅ Set up shared Supabase PostgreSQL database (`postgres` database in `kvshvl` project)
@@ -200,9 +200,16 @@ kvshvl-platform/
 ### ✅ Deployment Configuration Updates
 - ✅ Updated Render configs for Supabase (removed Render database references)
 - ✅ Added `DATABASE_SCHEMA` environment variables
-- ⏳ Update Vercel configs if needed (frontend deployments)
+- ✅ Updated root package.json repository URL to monorepo
+- ✅ Environment files organized (ask.env.production, reframe.env.production, sketch2bim.env.production)
 - ⏳ Set `DATABASE_URL` in Render environment variables (manual step - use Supabase connection string)
 - ⏳ Test all deployments (manual testing required)
+
+### ✅ Repository Cleanup
+- ✅ Removed git submodule (template/)
+- ✅ Updated all documentation references to monorepo
+- ✅ Deleted old GitHub repositories (ask, sketch2bim, reframe-ai, kvshvl-design-template)
+- ✅ Package configurations updated
 
 ### ⏳ Further Frontend Migration (Optional)
 - Migrate ASK frontend Razorpay (if applicable)
@@ -243,4 +250,3 @@ kvshvl-platform/
 **Maintainability**: ✅ Improved significantly
 
 The monorepo migration is substantially complete. All three backends now use shared packages, and the frontend migration has begun. The remaining tasks are primarily testing, database schema setup, and deployment configuration updates.
-

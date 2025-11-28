@@ -1,8 +1,13 @@
 # Environment Variables Update Instructions
 
-## Update .env.production
+> **⚠️ Important:** All production environment variables are centralized in `.env.production` files at the repository root:
+> - `ask.env.production`
+> - `sketch2bim.env.production`
+> - `reframe.env.production`
 
-Add the following to the **top** of your `.env.production` file (in the shared section):
+## Update Shared OAuth Variables
+
+Add the following to the **top** of each `.env.production` file (in the shared section):
 
 ```bash
 # =============================================================================
@@ -28,8 +33,19 @@ Find and comment out or remove these old app-specific OAuth variables:
 
 ## Verification
 
-After updating, verify:
+After updating each `.env.production` file, verify:
 1. `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` are in the shared section
-2. Old app-specific OAuth variables are commented out or removed
+2. Old app-specific OAuth variables (e.g., `ASK_GOOGLE_CLIENT_ID`) are commented out or removed
 3. All other environment variables remain unchanged
+
+## Local Development
+
+For local development, create `.env.local` files in app directories (these are gitignored):
+- `apps/ask/api/.env.local`
+- `apps/ask/frontend/.env.local`
+- `apps/sketch2bim/backend/.env.local`
+- `apps/sketch2bim/frontend/.env.local`
+- `apps/reframe/.env.local`
+
+These local files will override values from the centralized `.env.production` files.
 

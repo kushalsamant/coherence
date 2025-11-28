@@ -13,6 +13,9 @@ const GROQ_70B_INPUT_COST_PER_MILLION = 0.59; // $0.59 per 1M input tokens
 const GROQ_70B_OUTPUT_COST_PER_MILLION = 0.79; // $0.79 per 1M output tokens
 
 // Alert thresholds
+// Note: This shared package uses unprefixed variables (GROQ_DAILY_COST_THRESHOLD) for cross-app compatibility.
+// Apps should set prefixed variables (ASK_GROQ_DAILY_COST_THRESHOLD, etc.) in their .env files,
+// but this shared package checks unprefixed variables as a fallback.
 const DAILY_COST_THRESHOLD = parseFloat(process.env.GROQ_DAILY_COST_THRESHOLD || "10.0"); // $10/day
 const MONTHLY_COST_THRESHOLD = parseFloat(process.env.GROQ_MONTHLY_COST_THRESHOLD || "50.0"); // $50/month
 

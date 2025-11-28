@@ -1,6 +1,11 @@
 /**
  * Razorpay client for payment and subscription management
  * Shared across KVSHVL platform applications
+ * 
+ * Note: This shared package uses unprefixed environment variables (RAZORPAY_KEY_ID, etc.)
+ * for cross-app compatibility. Individual apps should set prefixed variables
+ * (ASK_RAZORPAY_KEY_ID, SKETCH2BIM_RAZORPAY_KEY_ID, etc.) in their .env files,
+ * but the code checks unprefixed variables first for shared functionality.
  */
 
 import Razorpay from "razorpay";
@@ -16,6 +21,9 @@ let razorpayInstance: Razorpay | null = null;
  */
 export function getRazorpayClient(): Razorpay {
   if (!razorpayInstance) {
+    // Check unprefixed variables first (shared across all apps)
+    // Apps can set prefixed variables (ASK_RAZORPAY_KEY_ID, etc.) but
+    // this shared package uses unprefixed for compatibility
     const keyId = process.env.RAZORPAY_KEY_ID;
     const keySecret = process.env.RAZORPAY_KEY_SECRET;
 

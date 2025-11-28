@@ -17,8 +17,7 @@
 5. **Razorpay** - Payments (sketch2bim, ask, reframe)
 6. **Groq** - AI inference (ask, reframe)
 7. **BunnyCDN** - File storage/CDN (sketch2bim)
-8. **Resend** - Email (sketch2bim)
-9. **Google OAuth** - Authentication (all 4 projects - FREE)
+8. **Google OAuth** - Authentication (all 4 projects - FREE)
 
 ---
 
@@ -161,22 +160,7 @@
 
 ---
 
-### 7. RESEND (Email Service)
-**Used by:** sketch2bim
-
-**Pricing:**
-- **Free Tier:** 3,000 emails/month, 100 emails/day
-- **Pro Plan:** $20/month (50,000 emails/month)
-
-**Estimated:** 
-- If low usage: **$0/month** (free tier)
-- If high usage: **$20/month**
-
-**Estimated: ~$0/month** (assuming free tier is sufficient)
-
----
-
-### 8. GOOGLE OAUTH
+### 7. GOOGLE OAUTH
 **Used by:** All 4 projects
 
 **Pricing:** **FREE** (unlimited)
@@ -194,7 +178,6 @@
 - Redis (via Render) - $7/month
 - Razorpay (payments) - Variable (2% of revenue)
 - BunnyCDN (file storage/CDN) - $15.50/month
-- Resend (email) - $0/month (free tier)
 - Google OAuth - FREE
 
 **Estimated Monthly Cost:**
@@ -259,7 +242,6 @@
 | Render Redis | $7.00 |
 | Upstash Redis | $2.00 |
 | BunnyCDN | $15.50 |
-| Resend | $0.00 |
 | **Subtotal (Fixed)** | **$74.00/month** |
 
 ### Variable Costs (Usage-Based):

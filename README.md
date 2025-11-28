@@ -83,9 +83,10 @@ Each application deploys independently:
 
 ## Documentation
 
-- [Monorepo Migration Guide](./docs/MIGRATION_GUIDE.md)
-- [Cost Analysis](./docs/COST_ANALYSIS.md)
-- [Migration Status](./docs/MONOREPO_MIGRATION_COMPLETE.md)
+- [Documentation Index](./docs/DOCUMENTATION_INDEX.md) - Complete documentation guide
+- [Monorepo Migration Guide](./docs/MIGRATION_GUIDE.md) - Migration instructions
+- [Migration Status](./docs/MONOREPO_MIGRATION.md) - Current migration status
+- [Cost Analysis](./docs/COST_ANALYSIS.md) - Infrastructure cost analysis
 
 ## License
 

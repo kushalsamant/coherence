@@ -31,6 +31,8 @@ def get_razorpay_client() -> Optional[razorpay.Client]:
         key_secret = settings.razorpay_key_secret if hasattr(settings, 'razorpay_key_secret') else None
     except Exception:
         # Fallback to environment variables
+        # Note: This shared package uses unprefixed variables for cross-app compatibility
+        # Apps should set prefixed variables (ASK_RAZORPAY_KEY_ID, etc.) in their .env files
         import os
         key_id = os.getenv("RAZORPAY_KEY_ID") or os.getenv("LIVE_KEY_ID")
         key_secret = os.getenv("RAZORPAY_KEY_SECRET") or os.getenv("LIVE_KEY_SECRET")
@@ -68,6 +70,7 @@ def verify_webhook_signature(payload: str, signature: str, webhook_secret: Optio
         secret = webhook_secret or (getattr(settings, 'RAZORPAY_WEBHOOK_SECRET', None) if hasattr(settings, 'RAZORPAY_WEBHOOK_SECRET') else None)
     except Exception:
         # Fallback to environment variable
+        # Note: This shared package uses unprefixed variables for cross-app compatibility
         import os
         secret = webhook_secret or os.getenv("RAZORPAY_WEBHOOK_SECRET")
     

@@ -12,6 +12,9 @@ from sqlalchemy import func
 log = logging.getLogger(__name__)
 
 # Alert thresholds (can be overridden via environment)
+# Note: This shared package uses unprefixed variables (GROQ_DAILY_COST_THRESHOLD) for cross-app compatibility.
+# Apps should set prefixed variables (ASK_GROQ_DAILY_COST_THRESHOLD, etc.) in their .env files,
+# but this shared package checks unprefixed variables as a fallback.
 DAILY_COST_THRESHOLD = float(os.getenv('GROQ_DAILY_COST_THRESHOLD', '10.0'))  # $10/day
 MONTHLY_COST_THRESHOLD = float(os.getenv('GROQ_MONTHLY_COST_THRESHOLD', '50.0'))  # $50/month
 DAILY_USAGE_SPIKE_THRESHOLD = 2.0  # 2x daily average

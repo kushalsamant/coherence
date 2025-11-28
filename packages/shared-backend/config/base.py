@@ -41,11 +41,8 @@ def get_settings() -> BaseSettings:
     """Get settings singleton"""
     global _settings
     if _settings is None:
-        # Try to load shared .env.production if available
-        workspace_root = Path(__file__).resolve().parents[4]  # Go up to workspace root
-        shared_env_path = workspace_root / "kushalsamant.github.io" / ".env.production"
-        if shared_env_path.exists():
-            load_dotenv(shared_env_path, override=False)
+        # Note: App-specific .env.production files are loaded by each app's config
+        # This base class relies on system environment variables or .env files
         
         _settings = BaseSettings()
     return _settings

@@ -1,36 +1,548 @@
-# Dependencies
+# =============================================================================
+# Comprehensive .gitignore for kushalsamant.github.io monorepo
+# Covers: Next.js frontends, Python backends, and all apps
+# =============================================================================
+
+# =============================================================================
+# DEPENDENCIES
+# =============================================================================
+
+# Node.js
 node_modules/
 /.pnp
 .pnp.js
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
 
-# Testing
-/coverage
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+__pypackages__/
+
+# =============================================================================
+# BUILD OUTPUTS
+# =============================================================================
 
 # Next.js
 /.next/
 /out/
+.next/
+out/
 
-# Production
+# Production builds
 /build
-
-# Misc
-.DS_Store
-*.pem
-
-# Debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Local env files
-.env*.local
-
-# Vercel
-.vercel
+build/
+dist/
 
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
 
-# Jekyll (no longer used - migrated to Next.js)
+# Jekyll (legacy - migrated to Next.js)
 _site/
+site/
+docs/_build/
+
+# =============================================================================
+# ENVIRONMENT VARIABLES & SECRETS
+# =============================================================================
+
+# All production env files are at repository root:
+# - ask.env.production
+# - reframe.env.production
+# - sketch2bim.env.production
+.env*
+*.env
+*.env.*
+
+# Allow templates (exceptions)
+!ask.env.template
+!*.env.template
+
+# Sensitive credentials
+*.token
+*.key
+api_keys.txt
+secrets.txt
+credentials.json
+client_secret_*.json
+*_secret_*.json
+*.apps.googleusercontent.com.json
+
+# SSL certificates
+*.pem
+*.crt
+*.csr
+*.p12
+*.pfx
+
+# SSH keys
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+known_hosts
+
+# =============================================================================
+# PYTHON DEVELOPMENT
+# =============================================================================
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Scrapy stuff
+.scrapy
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pdm
+.pdm.toml
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# =============================================================================
+# TESTING
+# =============================================================================
+
+# Testing
+/coverage
+coverage/
+
+# Performance testing
+perf_results/
+benchmark_results/
+*.prof
+*.profile
+
+# Load testing
+load_test_results/
+stress_test_results/
+
+# Security testing
+security_scan_results/
+vulnerability_reports/
+
+# Test files (optional - uncomment if you want to ignore test files)
+# test_*.py
+# *_test.py
+# test_results/
+# test_output/
+# test_images/
+# test_logs/
+
+# =============================================================================
+# LOGS & DATA
+# =============================================================================
+
+# Logs
+*.log
+logs/
+execution.log
+debug.log
+error.log
+test.log
+performance.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Research data and databases
+research_data/
+data/
+datasets/
+
+# =============================================================================
+# MACHINE LEARNING & AI MODELS
+# =============================================================================
+
+# Model files and caches
+models/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.onnx
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.gguf
+*.ggml
+
+# Hugging Face cache
+huggingface/
+transformers_cache/
+diffusers_cache/
+
+# TensorFlow
+.tensorboard/
+tensorboard_logs/
+checkpoints/
+saved_models/
+
+# PyTorch
+runs/
+lightning_logs/
+
+# =============================================================================
+# GENERATED CONTENT & OUTPUTS
+# =============================================================================
+
+# Generated images (allow specific directories)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+*.ico
+!assets/img/**/*.png
+!assets/img/**/*.jpg
+!assets/img/**/*.gif
+!public/assets/**/*.png
+!public/assets/**/*.jpg
+!public/assets/**/*.gif
+
+# Generated content directories
+images/
+daily_pdfs/
+captions/
+instagram/
+output/
+results/
+exports/
+backups/
+generated/
+samples/
+outputs/
+
+# Volume and backup files
+volume_*.csv
+backup_*/
+*.backup
+*.old
+*.orig
+*.save
+*.recovery
+*.restore
+
+# Sketch2BIM specific generated files
+*.ifc
+*.dwg
+*.rvt
+
+# =============================================================================
+# DEVELOPMENT TOOLS
+# =============================================================================
+
+# IDEs and editors
+.vscode/
+.idea/
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Emacs
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# =============================================================================
+# OPERATING SYSTEM
+# =============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# =============================================================================
+# DEPLOYMENT & CI/CD
+# =============================================================================
+
+# Vercel
+.vercel
+
+# Deployment files
+deploy/
+deployment/
+*.deploy
+
+# CI/CD
+.github/workflows/*.log
+.gitlab-ci.yml.local
+.travis.yml.local
+
+# Docker
+Dockerfile.local
+docker-compose.override.yml
+.dockerignore
+
+# =============================================================================
+# ARCHIVES & COMPRESSED FILES
+# =============================================================================
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.zipx
+*.tgz
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# =============================================================================
+# MONITORING & ANALYTICS
+# =============================================================================
+
+# Monitoring data
+monitoring/
+metrics/
+analytics/
+telemetry/
+
+# Performance monitoring
+*.perf
+*.trace
+*.dump
+
+# =============================================================================
+# TEMPORARY & CACHE FILES
+# =============================================================================
+
+# Temporary files
+temp/
+tmp/
+.tmp/
+.temp/
+*.tmp
+*.temp
+temp_*
+*_temp
+*_tmp
+
+# Cache directories
+cache/
+
+# =============================================================================
+# SKETCH2BIM SPECIFIC
+# =============================================================================
+
+# Proprietary code - trade secrets (DO NOT COMMIT)
+# These contain competitive advantage and IP
+replicate/
+backend/app/ai/
+IMPLEMENTATION_PRIVATE.md
+SECURITY.md
+
+# Allow only public API wrappers
+!backend/app/replicate_client.py
+
+# Receipts/Invoices (but allow docs)
+*.pdf
+!docs/**/*.pdf
+
+# Python lib (but allow frontend/lib)
+lib/
+lib64/
+!frontend/lib/
+
+# =============================================================================
+# ASK SPECIFIC
+# =============================================================================
+
+# Development and testing files
+prompt.txt
+tree.txt
+
+# =============================================================================
+# ALLOW EXCEPTIONS
+# =============================================================================
+
+# Allow important files even if they match patterns above
+!requirements.txt
+!README.md
+!.gitignore
+!LICENSE
+!main.py
+!*.py
+!install*.py
+!install*.bat
+!install*.sh
+
+# =============================================================================
+# END OF .gitignore
+# =============================================================================

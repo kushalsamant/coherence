@@ -2,14 +2,22 @@
 Razorpay configuration
 """
 
+import os
 from typing import Optional
 from .base import BaseSettings
 
 
 class RazorpaySettings(BaseSettings):
-    """Razorpay payment settings"""
+    """Razorpay payment settings
+    
+    Note: This is a shared base class. Individual apps should extend this
+    and read from prefixed environment variables (e.g., ASK_RAZORPAY_*).
+    This class uses unprefixed variables for shared functionality.
+    """
     
     # Razorpay credentials
+    # Note: Apps should set prefixed variables (ASK_RAZORPAY_KEY_ID, etc.)
+    # but this shared class uses unprefixed for cross-app compatibility
     RAZORPAY_KEY_ID: str = ""
     RAZORPAY_KEY_SECRET: str = ""
     RAZORPAY_WEBHOOK_SECRET: str = ""
@@ -29,14 +37,17 @@ class RazorpaySettings(BaseSettings):
         return self.RAZORPAY_KEY_SECRET or self.LIVE_KEY_SECRET
     
     # Pricing in paise (₹1 = 100 paise)
-    RAZORPAY_WEEK_AMOUNT: int = 129900
-    RAZORPAY_MONTH_AMOUNT: int = 349900
-    RAZORPAY_YEAR_AMOUNT: int = 2999900
+    # Shared across all projects - uses unprefixed variables
+    # Apps can override with prefixed variables in their config
+    RAZORPAY_WEEK_AMOUNT: int = int(os.getenv("RAZORPAY_WEEK_AMOUNT", "129900"))
+    RAZORPAY_MONTH_AMOUNT: int = int(os.getenv("RAZORPAY_MONTH_AMOUNT", "349900"))
+    RAZORPAY_YEAR_AMOUNT: int = int(os.getenv("RAZORPAY_YEAR_AMOUNT", "2999900"))
     
     # Razorpay Plan IDs for subscriptions
-    RAZORPAY_PLAN_WEEK: str = ""
-    RAZORPAY_PLAN_MONTH: str = ""
-    RAZORPAY_PLAN_YEAR: str = ""
+    # Shared across all projects - uses unprefixed variables
+    RAZORPAY_PLAN_WEEK: str = os.getenv("RAZORPAY_PLAN_WEEK", "")
+    RAZORPAY_PLAN_MONTH: str = os.getenv("RAZORPAY_PLAN_MONTH", "")
+    RAZORPAY_PLAN_YEAR: str = os.getenv("RAZORPAY_PLAN_YEAR", "")
     
     class Config:
         case_sensitive = True

@@ -111,7 +111,7 @@ A technical portfolio demonstrating **full-stack AI product development** with p
 - ✅ Secrets management
 
 **Evidence:**
-- `reframe/` - Deployed at reframe.vercel.app
+- `reframe/` - Deployed at reframe.kvshvl.in
 - Config files: `stripe.test.json`, `stripe.production.json`
 - Setup automation: `scripts/setup.ts`
 

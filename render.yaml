@@ -75,7 +75,7 @@ services:
       - key: REFRAME_FREE_LIMIT
         value: "5"
       - key: REFRAME_CORS_ORIGINS
-        value: https://reframe.vercel.app,https://www.reframe.vercel.app
+        value: https://reframe.kvshvl.in,https://www.reframe.kvshvl.in
     healthCheckPath: /health
 
   # Sketch2BIM Backend API
