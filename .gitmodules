@@ -1,0 +1,13 @@
+[submodule "apps/ask"]
+	path = apps/ask
+	url = https://github.com/kushalsamant/kushalsamant.github.io.git
+	branch = main
+[submodule "apps/reframe"]
+	path = apps/reframe
+	url = https://github.com/kushalsamant/kushalsamant.github.io.git
+	branch = main
+[submodule "apps/sketch2bim"]
+	path = apps/sketch2bim
+	url = https://github.com/kushalsamant/kushalsamant.github.io.git
+	branch = main
+
