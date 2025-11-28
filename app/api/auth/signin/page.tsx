@@ -1,10 +1,10 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { signIn } from "next-auth/react";
 
-export default function SignInPage() {
+function SignInContent() {
   const searchParams = useSearchParams();
   const app = searchParams.get("app");
   const returnUrl = searchParams.get("returnUrl") || searchParams.get("callbackUrl");
@@ -33,6 +33,24 @@ export default function SignInPage() {
     }}>
       <p>Redirecting to Google Sign In...</p>
     </div>
+  );
+}
+
+export default function SignInPage() {
+  return (
+    <Suspense fallback={
+      <div style={{ 
+        display: "flex", 
+        justifyContent: "center", 
+        alignItems: "center", 
+        minHeight: "100vh",
+        fontFamily: "Times New Roman, serif"
+      }}>
+        <p>Loading...</p>
+      </div>
+    }>
+      <SignInContent />
+    </Suspense>
   );
 }
 
