@@ -1,0 +1,150 @@
+# Unified Render.com deployment configuration
+# This file combines all backend services from individual app render.yaml files
+# Deploy by connecting this repository to Render and pointing to this file
+
+services:
+  # ASK Backend API
+  - type: web
+    name: ask-backend
+    env: python
+    rootDir: apps/ask
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: API_HOST
+        value: 0.0.0.0
+      - key: ASK_CORS_ORIGINS
+        value: https://ask.kvshvl.in,https://www.ask.kvshvl.in
+      - key: ASK_LOG_CSV_FILE
+        value: log.csv
+      - key: ASK_LOG_DIR
+        value: logs
+      - key: ASK_ENVIRONMENT
+        value: production
+      - key: ASK_DATABASE_URL
+        sync: false
+        # Supabase PostgreSQL connection string
+        # Format: postgresql://postgres.[PROJECT_REF]:[PASSWORD]@aws-[REGION].pooler.supabase.com:6543/postgres
+        # Get from: https://supabase.com/dashboard/project/[PROJECT_REF]/settings/database
+      - key: DATABASE_SCHEMA
+        value: ask_schema
+        # Note: ASK uses the 'ask_schema' schema within the shared Supabase 'postgres' database.
+        # Schema is handled by shared-backend connection utilities.
+      - key: ASK_GROQ_API_KEY
+        sync: false
+      - key: ASK_RAZORPAY_KEY_ID
+        sync: false
+      - key: ASK_RAZORPAY_KEY_SECRET
+        sync: false
+      - key: ASK_RAZORPAY_WEBHOOK_SECRET
+        sync: false
+      - key: RAZORPAY_WEEK_AMOUNT
+        value: "129900"
+      - key: RAZORPAY_MONTH_AMOUNT
+        value: "349900"
+      - key: RAZORPAY_YEAR_AMOUNT
+        value: "2999900"
+      - key: ASK_FRONTEND_URL
+        value: "https://ask.kvshvl.in"
+    healthCheckPath: /health
+
+  # Reframe Backend API
+  - type: web
+    name: reframe-backend
+    env: python
+    rootDir: apps/reframe/backend
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: DEBUG
+        value: false
+      - key: REFRAME_GROQ_API_KEY
+        sync: false
+      - key: REFRAME_UPSTASH_REDIS_REST_URL
+        sync: false
+      - key: REFRAME_UPSTASH_REDIS_REST_TOKEN
+        sync: false
+      - key: REFRAME_NEXTAUTH_SECRET
+        sync: false
+      - key: REFRAME_AUTH_SECRET
+        sync: false
+      - key: JWT_ALGORITHM
+        value: HS256
+      - key: REFRAME_FREE_LIMIT
+        value: "5"
+      - key: REFRAME_CORS_ORIGINS
+        value: https://reframe.vercel.app,https://www.reframe.vercel.app
+    healthCheckPath: /health
+
+  # Sketch2BIM Backend API
+  - type: web
+    name: sketch2bim-backend
+    runtime: python
+    pythonVersion: "3.13"
+    rootDir: apps/sketch2bim/backend
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: DEBUG
+        value: false
+      - key: SKETCH2BIM_DATABASE_URL
+        sync: false
+        # Supabase PostgreSQL connection string (use pooler for connection pooling)
+        # Format: postgresql://postgres.[PROJECT_REF]:[PASSWORD]@aws-[REGION].pooler.supabase.com:6543/postgres
+        # Get from: https://supabase.com/dashboard/project/[PROJECT_REF]/settings/database
+        # Use pooler (port 6543) for better connection management
+      - key: DATABASE_SCHEMA
+        value: sketch2bim_schema
+        # Note: Sketch2BIM uses the 'sketch2bim_schema' schema within the shared Supabase 'postgres' database.
+        # Schema is handled by shared-backend connection utilities.
+      - key: SKETCH2BIM_UPSTASH_REDIS_REST_URL
+        sync: false
+        # Upstash Redis REST API URL
+        # Get from: https://console.upstash.com/redis
+      - key: SKETCH2BIM_UPSTASH_REDIS_REST_TOKEN
+        sync: false
+        # Upstash Redis REST API Token
+        # Get from: https://console.upstash.com/redis
+      - key: SKETCH2BIM_SECRET_KEY
+        generateValue: true
+      - key: SKETCH2BIM_NEXTAUTH_SECRET
+        sync: false
+      # Razorpay Payment Gateway
+      - key: SKETCH2BIM_RAZORPAY_KEY_ID
+        sync: false
+      - key: SKETCH2BIM_RAZORPAY_KEY_SECRET
+        sync: false
+      - key: SKETCH2BIM_RAZORPAY_WEBHOOK_SECRET
+        sync: false
+      - key: RAZORPAY_WEEK_AMOUNT
+        value: "129900"
+      - key: RAZORPAY_MONTH_AMOUNT
+        value: "349900"
+      - key: RAZORPAY_YEAR_AMOUNT
+        value: "2999900"
+      - key: SKETCH2BIM_FRONTEND_URL
+        value: "https://sketch2bim.kvshvl.in"
+      - key: SKETCH2BIM_BUNNY_STORAGE_ZONE
+        sync: false
+      - key: SKETCH2BIM_BUNNY_ACCESS_KEY
+        sync: false
+      - key: SKETCH2BIM_BUNNY_CDN_HOSTNAME
+        sync: false
+      - key: SKETCH2BIM_ALLOWED_ORIGINS
+        value: https://sketch2bim.kvshvl.in
+    healthCheckPath: /health
+
+# Notes:
+# - Using Supabase PostgreSQL (not Render databases)
+# - Database: Shared Supabase project 'kvshvl' with database 'postgres'
+# - Schemas: 'ask_schema' and 'sketch2bim_schema' (set via DATABASE_SCHEMA env var)
+# - Connection strings should be set in Render environment variables from Supabase dashboard
+# - Use Supabase pooler (port 6543) for connection pooling
+# - Using Upstash Redis (not Render Redis) for both Reframe and Sketch2BIM
+# - Upstash Redis credentials: Get from https://console.upstash.com/redis
+# - Upstash free tier: 256MB, 500K commands/month (can upgrade to pay-as-you-go or fixed plan)
+
