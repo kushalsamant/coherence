@@ -2,13 +2,10 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { useState, useEffect } from 'react'
 import ThemeToggle from './ThemeToggle'
-import MobileMenu from './MobileMenu'
 
 export default function AppHeader() {
   const pathname = usePathname()
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   const navLinks = [
     { href: '/getintouch', label: 'Get in Touch' },
@@ -38,18 +35,9 @@ export default function AppHeader() {
               ))}
               <ThemeToggle />
             </nav>
-            <button
-              className="mobile-menu-toggle"
-              onClick={() => setMobileMenuOpen(true)}
-              aria-label="Open menu"
-              aria-expanded={mobileMenuOpen}
-            >
-              <span aria-hidden="true">☰</span>
-            </button>
           </div>
         </div>
       </header>
-      <MobileMenu isOpen={mobileMenuOpen} onClose={() => setMobileMenuOpen(false)} />
     </>
   )
 }

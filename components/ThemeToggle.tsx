@@ -48,19 +48,26 @@ export default function ThemeToggle() {
   }
 
   const getIcon = () => {
+    // Show the action (next theme) instead of current theme
     const effective = getEffectiveTheme()
     if (effective === 'dark') {
-      return 'Dark'
+      return 'Light' // Currently dark, button will switch to light
     }
-    return 'Light'
+    return 'Dark' // Currently light, button will switch to dark
   }
 
   const getLabel = () => {
+    // Show the action (next theme) instead of current theme
     const effective = getEffectiveTheme()
     if (theme === 'system') {
-      return `System (${effective === 'dark' ? 'Dark' : 'Light'})`
+      // In system mode, next is 'light', so show "Light"
+      return 'Light'
     }
-    return theme === 'dark' ? 'Dark' : 'Light'
+    // Show what the button will switch to
+    if (effective === 'dark') {
+      return 'Light' // Currently dark, button will switch to light (via system)
+    }
+    return 'Dark' // Currently light, button will switch to dark
   }
 
   return (

@@ -28,7 +28,7 @@ In 2020, one of his repositories was selected for the <a href="https://youtu.be/
 
 Since 2022, he is listed as an Assistant Professor of Architecture at Dr.&nbsp;D.&nbsp;Y.&nbsp;Patil&nbsp; School&nbsp;of&nbsp;Architecture,&nbsp;Navi&nbsp;Mumbai. He took a sabbatical in 2023.
 
-In 2024, he built a merchandising venture - <a href="https://geometry.printify.com" rel="noopener noreferrer" target="_blank">Geometry</a>. Currently, he is creating the open-source <a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">_ASK_:&nbsp;Daily&nbsp;Research</a> tool - an offline-first AI platform for generating photorealistic Q&A content on research themes including architecture, sustainability, and urban planning.
+In 2024, he built a merchandising venture - <a href="https://geometry.printify.com" rel="noopener noreferrer" target="_blank">Geometry</a>. Currently, he is creating the open-source <a href="https://github.com/kushalsamant/kushalsamant.github.io/tree/main/apps/ask" rel="noopener noreferrer" target="_blank">_ASK_:&nbsp;Daily&nbsp;Research</a> tool - an offline-first AI platform for generating photorealistic Q&A content on research themes including architecture, sustainability, and urban planning.
 
 He has been working in the fields of academic research, app development, architecture, art, banking, blogging, bookmaking, book-writing, clothing, construction, content creation, content writing, curation, design, e-commerce, engineering, film making, food delivery, furniture design, garments, graphic design, hospitality, logistics, lyrics writing, mapping, market research, music, merchandising, manufacturing, open-source architecture, operations, photography, podcasts, product design, sound & production, teaching, telemarketing, venture capital, vlogging, and web design.
 
@@ -181,7 +181,7 @@ Yalgi,&nbsp;Mohit.
 
 These are the projects/ventures I've worked on.
 
-<a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">_ASK_: Daily Research</a>. <br>
+<a href="https://github.com/kushalsamant/kushalsamant.github.io/tree/main/apps/ask" rel="noopener noreferrer" target="_blank">_ASK_: Daily Research</a>. <br>
 <a href="https://geometry.printify.com" rel="noopener noreferrer" target="_blank">Geometry</a>. <br>
 Assistant Professor of Architecture at Dr D.Y. Patil School of Architecture, Navi Mumbai. <br>
 <a href="https://kushalsamant.github.io/projects/yourmailproject_archive.html">Your&nbsp;Mail&nbsp;Project</a>. <br>

@@ -32,7 +32,16 @@ export function applyTheme(theme: 'light' | 'dark'): void {
   if (typeof document === 'undefined') return
   
   const root = document.documentElement
+  
+  // Set data-theme for design template components
   root.setAttribute('data-theme', theme)
+  
+  // Add/remove dark class for Tailwind CSS dark mode compatibility
+  if (theme === 'dark') {
+    root.classList.add('dark')
+  } else {
+    root.classList.remove('dark')
+  }
   
   // Update meta theme-color
   const metaThemeColor = document.querySelector('meta[name="theme-color"]')

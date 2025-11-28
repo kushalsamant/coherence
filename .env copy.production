@@ -1,0 +1,81 @@
+# =============================================================================
+# FRONTEND VARIABLES (Copy to Vercel Environment Variables)
+# =============================================================================
+# Deploy to: https://vercel.com/kvshvl/sketch2bim/settings/environment-variables
+
+AUTH_GOOGLE_ID=620186529337-3e8vnit3kpn5a4q4k9mreceg1f63vd4g.apps.googleusercontent.com
+AUTH_GOOGLE_SECRET=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
+AUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+AUTH_URL=https://sketch2bim.kvshvl.in
+NEXT_PUBLIC_API_URL=https://sketch2bim-backend.onrender.com
+NEXT_PUBLIC_FREE_LIMIT=5
+NEXTAUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+
+# End of Frontend Variables
+# =============================================================================
+
+
+# =============================================================================
+# BACKEND VARIABLES (Copy to Render Environment Variables)
+# =============================================================================
+# Deploy to: https://dashboard.render.com/web/srv-xxx/env
+
+ALLOWED_ORIGINS=https://sketch2bim.kvshvl.in
+APP_ENV=production
+BLENDER_PATH=blender
+BUNNY_ACCESS_KEY=4026f19d-3836-4442-ba87fe2013c4-4f75-4944
+BUNNY_CDN_HOSTNAME=kvshvl.b-cdn.net
+BUNNY_REGION=storage.bunnycdn.com
+BUNNY_STORAGE_ZONE=kvshvl
+DATABASE_URL=postgresql://postgres.twxudlzipbiavnzcitzb:linkeDin99-k@aws-1-ap-southeast-2.pooler.supabase.com:6543/postgres
+DEBUG=false
+FRONTEND_URL=https://sketch2bim.kvshvl.in
+GROQ_API_KEY=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
+REFRAME_GOOGLE_CLIENT_ID=620186529337-0d9u3950ph7j4cl7i8bit6prlrq0elgs.apps.googleusercontent.com
+REFRAME_GOOGLE_CLIENT_SECRET=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
+JSON_LOGGING=false
+LIVE_KEY_ID=rzp_live_RhNUuWRBG7lzR4
+LIVE_KEY_SECRET=7T1MCu1xNjX9G4soT7kuqqdB
+LOG_LEVEL=INFO
+RAZORPAY_MONTH_AMOUNT=349900
+RAZORPAY_PLAN_MONTH=plan_Rha5JNPsk1WmI6
+RAZORPAY_PLAN_WEEK=plan_Rha5Ikcm5JrGqx
+RAZORPAY_PLAN_YEAR=plan_Rha5Jzn1sk8o1X
+RAZORPAY_WEBHOOK_SECRET=bbzTiAtV2LWSt4J
+RAZORPAY_WEEK_AMOUNT=129900
+RAZORPAY_YEAR_AMOUNT=2999900
+REDIS_URL=redis://default:AWdJAAIncDJjZTMyOGIzZTc3ZmU0MjVhYmZmMDJiODgyYjhlY2NmZHAyMjY0NDE@splendid-platypus-26441.upstash.io:6379
+REPLICATE_API_KEY=r8_VFZyzSiGscolfIQKxEKowIYr98YpKes1tAMTV
+REPLICATE_MODEL_ID=kushalsamant/sketch2bim-processor
+RESEND_API_KEY=re_EXWqUYav_AKcCzgFrSSrahYHJHB6majyk
+SECRET_KEY=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+STRIPE_PRICE_PRO=price_1STF6AJlfVCbQ3BNxS9kgLXx
+STRIPE_PRICE_STUDIO=price_1STF6BJlfVCbQ3BNZFQWsKPV
+STRIPE_PUBLISHABLE_KEY=pk_live_2UDHQxbktN5sOx4URR3p2xBr
+STRIPE_SECRET_KEY=sk_live_ywsRrAeVNphfisdV6gICF5Mj00elbZIAEI
+STRIPE_WEBHOOK_SECRET=whsec_dZTUJE7WCxOpz8il6aKSuaKEPxgc9TPQ
+NEXTAUTH_SECRET=lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=
+
+# End of Backend Variables
+# =============================================================================
+
+# ASK Backend Environment Variables
+# For Render deployment
+
+# API Configuration
+API_HOST=0.0.0.0
+API_PORT=8000
+
+# CORS Origins (comma-separated, no spaces)
+CORS_ORIGINS=https://ask.kvshvl.in,https://www.ask.kvshvl.in
+
+# File Paths
+LOG_CSV_FILE=log.csv
+IMAGES_DIR=images
+LOG_DIR=logs
+
+# Python Path (if needed)
+PYTHONPATH=.
+
+# Environment
+ENVIRONMENT=production

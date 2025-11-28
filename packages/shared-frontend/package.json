@@ -1,0 +1,32 @@
+{
+  "name": "@kvshvl/shared-frontend",
+  "version": "1.0.0",
+  "description": "Shared frontend utilities for KVSHVL platform",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "kvshvl",
+    "shared",
+    "frontend",
+    "typescript"
+  ],
+  "author": "Kushal Samant",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "next": "^14.0.0",
+    "razorpay": "^2.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.7.0"
+  }
+}
