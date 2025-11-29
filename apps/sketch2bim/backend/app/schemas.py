@@ -46,7 +46,7 @@ class UserCreate(UserBase):
 
 class UserResponse(UserBase):
     id: int
-    credits: int  # DEPRECATED: No longer used for access control. Kept for backward compatibility.
+    credits: int  # Historical field (no longer used for access control)
     subscription_tier: str
     subscription_status: str
     subscription_expires_at: Optional[datetime] = None

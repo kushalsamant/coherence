@@ -30,11 +30,11 @@ if app_env_path.exists():
 else:
     print(f"⚠️  Warning: sketch2bim.env.production not found at {app_env_path}")
 
-RAZORPAY_KEY_ID = os.getenv('SKETCH2BIM_RAZORPAY_KEY_ID') or os.getenv('RAZORPAY_KEY_ID') or os.getenv('LIVE_KEY_ID')
-RAZORPAY_KEY_SECRET = os.getenv('SKETCH2BIM_RAZORPAY_KEY_SECRET') or os.getenv('RAZORPAY_KEY_SECRET') or os.getenv('LIVE_KEY_SECRET')
+RAZORPAY_KEY_ID = os.getenv('SKETCH2BIM_RAZORPAY_KEY_ID')
+RAZORPAY_KEY_SECRET = os.getenv('SKETCH2BIM_RAZORPAY_KEY_SECRET')
 
 if not RAZORPAY_KEY_ID or not RAZORPAY_KEY_SECRET:
-    print("Error: RAZORPAY_KEY_ID and RAZORPAY_KEY_SECRET must be set")
+    print("Error: SKETCH2BIM_RAZORPAY_KEY_ID and SKETCH2BIM_RAZORPAY_KEY_SECRET must be set")
     sys.exit(1)
 
 # Initialize Razorpay client

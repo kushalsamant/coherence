@@ -1,0 +1,161 @@
+# Deployment Guide: {{APP_DISPLAY_NAME}}
+
+This guide covers deploying {{APP_DISPLAY_NAME}} to production.
+
+## Prerequisites
+
+- Render.com account (or your preferred hosting platform)
+- PostgreSQL database
+- Razorpay account with API keys
+- Domain name configured
+
+## Environment Setup
+
+### 1. Database Setup
+
+Create a PostgreSQL database and note the connection string:
+
+\`\`\`
+postgresql://user:password@host:port/database
+\`\`\`
+
+### 2. Environment Variables
+
+Set the following environment variables in your deployment platform:
+
+#### Application Settings
+- `{{APP_PREFIX}}_APP_NAME` = `{{APP_DISPLAY_NAME}}`
+- `{{APP_PREFIX}}_APP_ENV` = `production`
+- `{{APP_PREFIX}}_DEBUG` = `false`
+
+#### Database
+- `{{APP_PREFIX}}_DATABASE_URL` = Your PostgreSQL connection string
+
+#### Frontend
+- `{{APP_PREFIX}}_FRONTEND_URL` = `https://{{APP_NAME}}.kvshvl.in`
+
+#### CORS
+- `{{APP_PREFIX}}_CORS_ORIGINS` = `https://{{APP_NAME}}.kvshvl.in,https://www.{{APP_NAME}}.kvshvl.in`
+
+#### Razorpay
+- `{{APP_PREFIX}}_RAZORPAY_KEY_ID` = Your Razorpay key ID
+- `{{APP_PREFIX}}_RAZORPAY_KEY_SECRET` = Your Razorpay key secret
+- `{{APP_PREFIX}}_RAZORPAY_WEBHOOK_SECRET` = Your Razorpay webhook secret
+
+#### Pricing
+- `{{APP_PREFIX}}_RAZORPAY_WEEK_AMOUNT` = `129900`
+- `{{APP_PREFIX}}_RAZORPAY_MONTH_AMOUNT` = `349900`
+- `{{APP_PREFIX}}_RAZORPAY_YEAR_AMOUNT` = `2999900`
+
+#### Razorpay Plan IDs
+- `{{APP_PREFIX}}_RAZORPAY_PLAN_WEEK` = `plan_xxxxx`
+- `{{APP_PREFIX}}_RAZORPAY_PLAN_MONTH` = `plan_xxxxx`
+- `{{APP_PREFIX}}_RAZORPAY_PLAN_YEAR` = `plan_xxxxx`
+
+See [Environment Variables Reference](../ENVIRONMENT_VARIABLES.md) for complete list.
+
+## Render.com Deployment
+
+### Frontend (Static Site)
+
+1. Create a new **Static Site** service
+2. Connect to your GitHub repository
+3. Set build command: `cd frontend && npm install && npm run build`
+4. Set publish directory: `frontend/out` (or `.next` for Next.js)
+5. Add environment variables from above
+
+### Backend (Web Service)
+
+1. Create a new **Web Service**
+2. Connect to your GitHub repository
+3. Set build command: `cd backend && pip install -r requirements.txt`
+4. Set start command: `cd backend && python -m app.main`
+5. Add environment variables from above
+6. Enable auto-deploy from main branch
+
+## Database Migrations
+
+Run migrations on first deployment:
+
+\`\`\`bash
+cd backend
+python -m alembic upgrade head
+\`\`\`
+
+Or initialize database schema:
+
+\`\`\`bash
+cd backend
+python -c "from app.database import init_db; init_db()"
+\`\`\`
+
+## Webhook Configuration
+
+### Razorpay Webhooks
+
+Configure Razorpay webhooks to point to:
+
+\`\`\`
+https://{{APP_NAME}}-backend.onrender.com/api/payments/razorpay-webhook
+\`\`\`
+
+Enable the following events:
+- `payment.captured`
+- `subscription.created`
+- `subscription.activated`
+- `subscription.charged`
+- `subscription.cancelled`
+
+## Post-Deployment Checklist
+
+- [ ] Verify frontend is accessible
+- [ ] Verify backend API is responding
+- [ ] Test authentication flow
+- [ ] Test payment checkout flow
+- [ ] Verify webhook endpoint is reachable
+- [ ] Test subscription creation
+- [ ] Verify database connections
+- [ ] Check error logs
+- [ ] Monitor performance metrics
+
+## Monitoring
+
+- Check Render.com dashboard for service status
+- Monitor error logs in Render.com logs
+- Set up uptime monitoring (e.g., UptimeRobot)
+- Monitor database performance
+
+## Troubleshooting
+
+### Common Issues
+
+1. **Database Connection Failed**
+   - Verify DATABASE_URL is correct
+   - Check database is accessible from Render.com IPs
+   - Verify credentials
+
+2. **Webhook Not Receiving Events**
+   - Verify webhook URL is correct
+   - Check webhook secret matches
+   - Verify webhook events are enabled in Razorpay
+
+3. **CORS Errors**
+   - Verify CORS_ORIGINS includes frontend URL
+   - Check frontend URL matches exactly
+
+## Rollback
+
+To rollback to a previous deployment:
+
+1. Go to Render.com dashboard
+2. Select your service
+3. Go to "Deploys" tab
+4. Find previous successful deployment
+5. Click "Rollback"
+
+## Support
+
+For issues, contact:
+- Technical issues: [GitHub Issues](https://github.com/kushalsamant/kushalsamant.github.io/issues)
+- General inquiries: [Get in Touch](https://kvshvl.in/getintouch)
+

@@ -101,9 +101,44 @@ Each application deploys independently:
 - **Sketch2BIM**: Frontend on Vercel, Backend on Render
 - **Reframe**: Next.js app on Vercel
 
+## Platform Standardization
+
+The KVSHVL platform uses standardized components and templates to enable rapid project creation and consistency across applications.
+
+### Shared Components
+
+- **Authentication**: Centralized auth module (`@kvshvl/shared-frontend/auth`)
+- **App Layout**: Unified layout component (`@kushalsamant/design-template`)
+- **Settings Pages**: Reusable settings components (`@kvshvl/shared-frontend/settings`)
+- **Payment Integration**: Shared Razorpay utilities (`@kvshvl/shared-frontend/payments`)
+- **Database Models**: Base User and Payment models (`shared_backend.database.models`)
+- **FastAPI Factory**: Standardized API app creation (`shared_backend.api.factory`)
+
+### Creating New Projects
+
+Use the project generator script to create a new project:
+
+**Linux/macOS:**
+```bash
+./scripts/create-project.sh
+```
+
+**Windows:**
+```powershell
+.\scripts\create-project.ps1
+```
+
+Or manually copy from templates:
+- `templates/nextjs-app/` - Next.js frontend template
+- `templates/fastapi-backend/` - FastAPI backend template
+
+See [Project Starter Guide](./docs/PROJECT_STARTER_GUIDE.md) for detailed instructions.
+
 ## Documentation
 
 - [Documentation Index](./docs/DOCUMENTATION_INDEX.md) - Complete documentation guide
+- [Project Starter Guide](./docs/PROJECT_STARTER_GUIDE.md) - Guide for creating new projects
+- [Shared Components Reference](./docs/SHARED_COMPONENTS_REFERENCE.md) - Reference for shared components
 - [Monorepo Migration Guide](./docs/MIGRATION_GUIDE.md) - Migration instructions
 - [Migration Status](./docs/MONOREPO_MIGRATION.md) - Current migration status
 - [Cost Analysis](./docs/COST_ANALYSIS.md) - Infrastructure cost analysis
@@ -112,6 +147,14 @@ Each application deploys independently:
 - [Environment Variables Reference](./docs/ENVIRONMENT_VARIABLES_REFERENCE.md) - Canonical env var list
 - [API Versioning Strategy](./docs/API_VERSIONING.md) - How APIs are versioned across apps
 - [SLOs](./docs/SLOs.md) - Service-level objectives and alerting hooks
+
+### Documentation Templates
+
+Templates for project documentation are available in `docs/templates/`:
+- `README.md.template` - Project README template
+- `DEPLOYMENT.md.template` - Deployment guide template
+- `ENVIRONMENT_VARIABLES.md.template` - Environment variables reference template
+- `API_DOCUMENTATION.md.template` - API documentation template
 
 ## License
 

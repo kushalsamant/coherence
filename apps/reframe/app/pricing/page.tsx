@@ -105,8 +105,7 @@ export default function PricingPage() {
       try {
         const res = await fetch('/api/user-metadata');
         const data = await res.json();
-        // Check new subscription_tier first, fallback to legacy subscription field
-        const tier = data.subscription_tier || data.subscription;
+        const tier = data.subscription_tier;
         if (tier) {
           setSubscriptionTier(tier);
           setUserPlan(tier === "trial" ? undefined : tier);

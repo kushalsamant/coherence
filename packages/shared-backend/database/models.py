@@ -61,7 +61,7 @@ class BasePayment(Base):
     status = Column(String)  # succeeded|pending|failed
     
     # Product
-    product_type = Column(String)  # single|trial|week|month|year|one_time
+    product_type = Column(String)  # single|trial|week|monthly|yearly|one_time
     credits_added = Column(Integer, default=0)
     
     # Cost tracking

@@ -19,11 +19,11 @@ def get_jwt_secret() -> str:
         HTTPException: If secret is not configured
     """
     settings = get_settings()
-    secret = settings.NEXTAUTH_SECRET or settings.AUTH_SECRET
+    secret = settings.NEXTAUTH_SECRET
     if not secret:
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail="NEXTAUTH_SECRET (or AUTH_SECRET) is not configured",
+            detail="NEXTAUTH_SECRET is not configured",
         )
     return secret
 

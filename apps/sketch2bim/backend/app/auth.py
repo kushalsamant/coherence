@@ -114,20 +114,6 @@ def require_active_subscription():
     return check_subscription
 
 
-# Keep require_credits for backward compatibility (deprecated)
-def require_credits(min_credits: int = 1):
-    """
-    DEPRECATED: Use require_active_subscription() instead.
-    Kept for backward compatibility only.
-    """
-    def check_credits(user: User = Depends(get_current_user)):
-        if not has_active_subscription(user):
-            raise HTTPException(
-                status_code=status.HTTP_402_PAYMENT_REQUIRED,
-                detail="Active subscription required. Please upgrade to continue."
-            )
-        return user
-    return check_credits
 
 
 def is_admin(user: User = Depends(get_current_user)) -> User:

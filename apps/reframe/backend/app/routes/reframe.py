@@ -71,9 +71,7 @@ async def reframe(
     # Validate tone parameter
     selected_tone = request.tone or "conversational"
     
-    # Legacy: Check subscription field for backward compatibility
-    legacy_subscription = metadata.get("subscription")
-    if not can_user_access_tone(selected_tone, subscription_tier or legacy_subscription):
+    if not can_user_access_tone(selected_tone, subscription_tier):
         raise HTTPException(
             status_code=status.HTTP_403_FORBIDDEN,
             detail="Premium tone! Upgrade to unlock Enthusiastic, Empathetic, and Witty tones.",

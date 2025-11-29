@@ -52,9 +52,6 @@ export async function GET() {
         autoRenew: metadata?.subscription_auto_renew || false,
         razorpaySubscriptionId: metadata?.razorpay_subscription_id || null,
         razorpayCustomerId: metadata?.razorpay_customer_id || null,
-        // Legacy fields
-        legacyTier: metadata?.subscription || null,
-        legacyStartDate: metadata?.subscriptionStartDate || null,
       },
       usage: {
         freeTierUsage: parseInt(usageTotal || "0", 10),

@@ -22,19 +22,15 @@ class RazorpaySettings(BaseSettings):
     RAZORPAY_KEY_SECRET: str = ""
     RAZORPAY_WEBHOOK_SECRET: str = ""
     
-    # Legacy aliases (for backward compatibility)
-    LIVE_KEY_ID: str = ""
-    LIVE_KEY_SECRET: str = ""
-    
     @property
     def razorpay_key_id(self) -> str:
-        """Get Razorpay key ID, checking both variable names"""
-        return self.RAZORPAY_KEY_ID or self.LIVE_KEY_ID
+        """Get Razorpay key ID"""
+        return self.RAZORPAY_KEY_ID
     
     @property
     def razorpay_key_secret(self) -> str:
-        """Get Razorpay key secret, checking both variable names"""
-        return self.RAZORPAY_KEY_SECRET or self.LIVE_KEY_SECRET
+        """Get Razorpay key secret"""
+        return self.RAZORPAY_KEY_SECRET
     
     # Pricing in paise (₹1 = 100 paise)
     # Shared across all projects - uses unprefixed variables

@@ -201,29 +201,6 @@ def get_cost_metrics(
     }
 
 
-@router.post("/users/{user_id}/credits")
-def modify_user_credits(
-    user_id: int,
-    credits: int,
-    admin: User = Depends(is_admin),
-    db: Session = Depends(get_db)
-):
-    """
-    Modify user credits (admin only)
-    
-    DEPRECATED: Credits are no longer used for access control.
-    This endpoint is kept for backward compatibility only.
-    Access is now controlled by subscription status.
-    """
-    user = db.query(User).filter(User.id == user_id).first()
-    
-    if not user:
-        return {"error": "User not found"}
-    
-    user.credits = credits
-    db.commit()
-    
-    return {"message": f"User {user_id} credits set to {credits}"}
 
 
 @router.post("/users/{user_id}/toggle-active")

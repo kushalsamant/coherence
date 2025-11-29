@@ -70,8 +70,7 @@ class BaseSettings(PydanticBaseSettings):
     
     # Authentication
     AUTH_URL: str = os.getenv("AUTH_URL", "http://localhost:3000")
-    AUTH_SECRET: str = os.getenv("AUTH_SECRET", "")
-    NEXTAUTH_SECRET: str = get_env_with_fallback("NEXTAUTH_SECRET", "AUTH_SECRET", "")
+    NEXTAUTH_SECRET: str = os.getenv("NEXTAUTH_SECRET", "")
     JWT_ALGORITHM: str = os.getenv("JWT_ALGORITHM", "HS256")
     
     # Admin emails (can be overridden)

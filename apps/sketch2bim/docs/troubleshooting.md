@@ -218,7 +218,7 @@ psql $DATABASE_URL
 3. Check for Python version compatibility issues
 4. Verify all dependencies are listed in `requirements.txt`
 5. Check for syntax errors in code
-6. Verify Dockerfile (if using) is correct
+6. Verify Render service is configured as Python Web Service (not Docker)
 
 ### Vercel Build Fails
 
@@ -258,8 +258,7 @@ psql $DATABASE_URL
    - `SKETCH2BIM_GOOGLE_SECRET`
 3. Verify OAuth redirect URI in Google Console matches:
    - `https://sketch2bim.kvshvl.in/api/auth/callback/google`
-4. Check `AUTH_SECRET` is set and matches between frontend and backend
-5. Verify `NEXTAUTH_SECRET` matches `AUTH_SECRET`
+4. Check `SKETCH2BIM_NEXTAUTH_SECRET` is set and matches between frontend and backend
 
 ### Session Not Persisting
 
@@ -268,7 +267,7 @@ psql $DATABASE_URL
 - Session expires too quickly
 
 **Solutions:**
-1. Check `AUTH_SECRET` is set correctly
+1. Check `SKETCH2BIM_NEXTAUTH_SECRET` is set correctly
 2. Verify cookies are being set (check browser dev tools)
 3. Check for CORS issues preventing cookie setting
 4. Verify `AUTH_URL` is correct

@@ -1,0 +1,131 @@
+# {{APP_DISPLAY_NAME}}
+
+{{APP_DESCRIPTION}}
+
+## Overview
+
+This application is part of the KVSHVL platform ecosystem, providing {{APP_DESCRIPTION}}.
+
+## Features
+
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+
+## Tech Stack
+
+### Frontend
+- **Framework**: Next.js 16
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS / Design System
+- **Authentication**: Centralized auth via kvshvl.in
+
+### Backend
+- **Framework**: FastAPI
+- **Language**: Python 3.11+
+- **Database**: PostgreSQL / SQLite (development)
+- **ORM**: SQLAlchemy
+
+## Quick Start
+
+### Prerequisites
+
+- Node.js 18+ (for frontend)
+- Python 3.11+ (for backend)
+- PostgreSQL (for production) or SQLite (for development)
+
+### Frontend Setup
+
+\`\`\`bash
+cd frontend
+npm install
+npm run dev
+\`\`\`
+
+The frontend will be available at `http://localhost:3000`
+
+### Backend Setup
+
+\`\`\`bash
+cd backend
+pip install -r requirements.txt
+python -m app.main
+\`\`\`
+
+The backend API will be available at `http://localhost:8000`
+
+## Environment Variables
+
+See `../../{{APP_NAME}}.env.production` for production environment variables.
+
+For local development, create a `.env.local` file in the frontend directory and `.env` in the backend directory.
+
+### Required Environment Variables
+
+- `{{APP_PREFIX}}_DATABASE_URL` - Database connection string
+- `{{APP_PREFIX}}_RAZORPAY_KEY_ID` - Razorpay API key ID
+- `{{APP_PREFIX}}_RAZORPAY_KEY_SECRET` - Razorpay API key secret
+- `{{APP_PREFIX}}_FRONTEND_URL` - Frontend URL
+- `{{APP_PREFIX}}_CORS_ORIGINS` - Allowed CORS origins
+
+See [Environment Variables Reference](../ENVIRONMENT_VARIABLES.md) for complete list.
+
+## Project Structure
+
+\`\`\`
+{{APP_NAME}}/
+├── frontend/          # Next.js frontend application
+│   ├── app/          # Next.js app directory
+│   ├── components/   # React components
+│   ├── lib/          # Utility functions
+│   └── auth.ts       # Authentication configuration
+├── backend/          # FastAPI backend application
+│   ├── app/
+│   │   ├── main.py   # FastAPI application
+│   │   ├── config.py # Configuration settings
+│   │   ├── models.py # Database models
+│   │   └── routes/   # API routes
+│   └── requirements.txt
+└── README.md         # This file
+\`\`\`
+
+## Development
+
+### Running Tests
+
+\`\`\`bash
+# Frontend tests
+cd frontend
+npm test
+
+# Backend tests
+cd backend
+pytest
+\`\`\`
+
+### Code Style
+
+- Frontend: ESLint + Prettier
+- Backend: Black + Ruff
+
+## Deployment
+
+See [Deployment Guide](../DEPLOYMENT.md) for deployment instructions.
+
+## Documentation
+
+- [API Documentation](../API_DOCUMENTATION.md)
+- [Environment Variables](../ENVIRONMENT_VARIABLES.md)
+- [Shared Components](../SHARED_COMPONENTS_REFERENCE.md)
+
+## Contributing
+
+1. Create a feature branch
+2. Make your changes
+3. Write/update tests
+4. Submit a pull request
+
+## License
+
+Copyright © {{YEAR}} Architect Kushal Dhananjay Samant. Licensed under the Architect's Act, 1972 of India.
+

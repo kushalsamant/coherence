@@ -20,9 +20,9 @@ export async function POST(req: NextRequest) {
     }
 
     // Encode JWT token from session
-    const secret = process.env.REFRAME_NEXTAUTH_SECRET || process.env.NEXTAUTH_SECRET || process.env.REFRAME_AUTH_SECRET || process.env.AUTH_SECRET;
+    const secret = process.env.REFRAME_NEXTAUTH_SECRET;
     if (!secret) {
-      return NextResponse.json({ error: "NEXTAUTH_SECRET not configured" }, { status: 500 });
+      return NextResponse.json({ error: "REFRAME_NEXTAUTH_SECRET not configured" }, { status: 500 });
     }
 
     // Create JWT token payload from session

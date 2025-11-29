@@ -27,8 +27,8 @@ export async function GET(req: Request) {
     }
 
     // Validate Razorpay configuration
-    const razorpayKeyId = process.env.REFRAME_RAZORPAY_KEY_ID || process.env.RAZORPAY_KEY_ID;
-    const razorpayKeySecret = process.env.REFRAME_RAZORPAY_KEY_SECRET || process.env.RAZORPAY_KEY_SECRET;
+    const razorpayKeyId = process.env.REFRAME_RAZORPAY_KEY_ID;
+    const razorpayKeySecret = process.env.REFRAME_RAZORPAY_KEY_SECRET;
     if (!razorpayKeyId || !razorpayKeySecret) {
       console.error("❌ Razorpay credentials not configured");
       return NextResponse.json(
@@ -132,7 +132,7 @@ export async function GET(req: Request) {
           plan_id: planId,
           amount: subscription.plan.amount,
           currency: subscription.plan.currency,
-          key_id: process.env.RAZORPAY_KEY_ID,
+          key_id: process.env.REFRAME_RAZORPAY_KEY_ID,
           name: "Reframe",
           description: `${tierKey.charAt(0).toUpperCase() + tierKey.slice(1)} subscription (auto-renews)`,
           prefill: {
@@ -188,7 +188,7 @@ export async function GET(req: Request) {
           order_id: order.id,
           amount: order.amount,
           currency: order.currency,
-          key_id: process.env.RAZORPAY_KEY_ID,
+          key_id: process.env.REFRAME_RAZORPAY_KEY_ID,
           name: "Reframe",
           description: `${tierKey.charAt(0).toUpperCase() + tierKey.slice(1)} access (one-time)`,
           prefill: {

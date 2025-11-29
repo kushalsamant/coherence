@@ -7,9 +7,6 @@ export interface UserMetadata {
   razorpay_subscription_id?: string;
   razorpay_customer_id?: string;
   email?: string;
-  // Legacy fields for backward compatibility
-  subscription?: 'monthly' | 'yearly';
-  subscriptionStartDate?: string;
 }
 
 // Consent Data

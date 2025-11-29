@@ -29,11 +29,11 @@ if (fs.existsSync(appEnvPath)) {
   console.log("Loaded environment from: reframe.env.production");
 }
 
-const RAZORPAY_KEY_ID = process.env.REFRAME_RAZORPAY_KEY_ID || process.env.RAZORPAY_KEY_ID || process.env.LIVE_KEY_ID;
-const RAZORPAY_KEY_SECRET = process.env.REFRAME_RAZORPAY_KEY_SECRET || process.env.RAZORPAY_KEY_SECRET || process.env.LIVE_KEY_SECRET;
+const RAZORPAY_KEY_ID = process.env.REFRAME_RAZORPAY_KEY_ID;
+const RAZORPAY_KEY_SECRET = process.env.REFRAME_RAZORPAY_KEY_SECRET;
 
 if (!RAZORPAY_KEY_ID || !RAZORPAY_KEY_SECRET) {
-  console.error("Error: RAZORPAY_KEY_ID and RAZORPAY_KEY_SECRET must be set");
+  console.error("Error: REFRAME_RAZORPAY_KEY_ID and REFRAME_RAZORPAY_KEY_SECRET must be set");
   console.error("They should be in: reframe.env.production");
   process.exit(1);
 }
