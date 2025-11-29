@@ -3,8 +3,10 @@ import { verifyWebhookSignature } from "@/lib/razorpay";
 import { getUserMetadata, setUserMetadata, updateSubscription, removeSubscription } from "@/lib/user-metadata";
 import { calculateExpiry, ensureSubscriptionStatus } from "@/lib/subscription";
 import {
+  getRazorpayWeekAmount,
   getRazorpayMonthlyAmount,
   getRazorpayYearlyAmount,
+  getRazorpayPlanWeek,
   getRazorpayPlanMonthly,
   getRazorpayPlanYearly,
 } from "@/lib/app-config";
@@ -13,13 +15,16 @@ export const runtime = "nodejs";
 export const dynamic = 'force-dynamic';
 
 // Map Razorpay amounts to tiers (in paise, ₹1 = 100 paise)
-const AMOUNT_TO_TIER: Record<number, "monthly" | "yearly"> = {
-  [getRazorpayMonthlyAmount()]: "monthly",  // ₹999 = 99900 paise
-  [getRazorpayYearlyAmount()]: "yearly",  // ₹7,999 = 799900 paise
+// Unified pricing shared across all apps (ASK, Reframe, Sketch2BIM)
+const AMOUNT_TO_TIER: Record<number, "week" | "monthly" | "yearly"> = {
+  [getRazorpayWeekAmount()]: "week",  // ₹1,299 = 129900 paise
+  [getRazorpayMonthlyAmount()]: "monthly",  // ₹3,499 = 349900 paise
+  [getRazorpayYearlyAmount()]: "yearly",  // ₹29,999 = 2999900 paise
 };
 
-// Map Razorpay plan IDs to tiers
-const PLAN_TO_TIER: Record<string, "monthly" | "yearly"> = {
+// Map Razorpay plan IDs to tiers (shared plan IDs across all apps)
+const PLAN_TO_TIER: Record<string, "week" | "monthly" | "yearly"> = {
+  [getRazorpayPlanWeek()]: "week",
   [getRazorpayPlanMonthly()]: "monthly",
   [getRazorpayPlanYearly()]: "yearly",
 };
@@ -87,12 +92,12 @@ export async function POST(req: Request) {
         if (paymentType === "one_time") {
           // One-time subscription purchase
           const subscriptionTier = tier || AMOUNT_TO_TIER[amount];
-          if (subscriptionTier && ["monthly", "yearly"].includes(subscriptionTier)) {
+          if (subscriptionTier && ["week", "monthly", "yearly"].includes(subscriptionTier)) {
             const expiry = calculateExpiry(subscriptionTier);
             if (expiry) {
               await updateSubscription(
                 userId,
-                subscriptionTier as "monthly" | "yearly",
+                subscriptionTier as "week" | "monthly" | "yearly",
                 expiry,
                 false // one-time payment, no auto-renew
               );
@@ -139,7 +144,7 @@ export async function POST(req: Request) {
           if (expiry) {
             await updateSubscription(
               activatedUserId,
-              subscriptionTier as "monthly" | "yearly",
+              subscriptionTier as "week" | "monthly" | "yearly",
               expiry,
               true, // auto-renew enabled
               activatedSub.id,

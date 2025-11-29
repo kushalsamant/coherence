@@ -66,10 +66,19 @@ ASK is an online SaaS research tool that automatically generates comprehensive q
 - **Backend**: FastAPI, Python 3.8+ (hosted on Render)
 - **Database**: PostgreSQL (via Render)
 - **Caching**: Redis (via Render or Upstash)
-- **Payments**: Razorpay (unified payment gateway)
+- **Payments**: Razorpay (unified payment gateway with unified pricing across all apps)
 - **AI**: Groq API (Llama 3.1 70B)
 - **Storage**: CSV-based logging (with PostgreSQL for user/subscription data)
 - **Authentication**: Google OAuth (NextAuth)
+
+## 💰 Pricing
+
+**Unified Pricing (shared across ASK, Reframe, and Sketch2BIM):**
+- **Week:** ₹1,299 - 7-day access with unlimited research sessions
+- **Month:** ₹3,499 - 30-day access with unlimited research sessions
+- **Year:** ₹29,999 - 365-day access with unlimited research sessions (33% savings vs monthly)
+
+All three apps (ASK, Reframe, Sketch2BIM) use the same pricing structure for consistency. See [`docs/ENVIRONMENT_VARIABLES_REFERENCE.md`](../../docs/ENVIRONMENT_VARIABLES_REFERENCE.md#pricing--plans) for complete pricing details.
 
 ## 🚀 Quick Start
 
@@ -203,6 +212,9 @@ ASK_RAZORPAY_KEY_ID=rzp_test_...
 ASK_RAZORPAY_KEY_SECRET=...
 ASK_RAZORPAY_WEBHOOK_SECRET=whsec_...
 # Pricing amounts (shared across all projects: ASK, Sketch2BIM, Reframe)
+# Unified Pricing: Week: ₹1,299, Month: ₹3,499, Year: ₹29,999
+# All three apps (ASK, Reframe, Sketch2BIM) use the same pricing structure
+# See docs/ENVIRONMENT_VARIABLES_REFERENCE.md for complete pricing details
 ASK_RAZORPAY_WEEK_AMOUNT=129900
 ASK_RAZORPAY_MONTH_AMOUNT=349900
 ASK_RAZORPAY_YEAR_AMOUNT=2999900

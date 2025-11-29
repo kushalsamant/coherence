@@ -177,11 +177,12 @@ Each app requires its own prefixed environment variables:
 | `SKETCH2BIM_DATABASE_PASSWORD_OVERRIDE` | Password override (optional) | - |
 | `SKETCH2BIM_DATABASE_URL_OVERRIDE` | URL override (optional) | - |
 
-#### Redis
+#### Redis / Upstash
 | Variable | Description | Example |
 |----------|-------------|---------|
-| `SKETCH2BIM_REDIS_URL` | **REQUIRED** - Redis connection string (from Render Redis service) | (auto-linked) |
-| `SKETCH2BIM_REDIS_LIMIT_COMMANDS_PER_DAY` | Daily command limit | `10000` |
+| `SKETCH2BIM_UPSTASH_REDIS_REST_URL` | **REQUIRED** - Upstash Redis REST URL | `https://...` |
+| `SKETCH2BIM_UPSTASH_REDIS_REST_TOKEN` | **REQUIRED** - Upstash Redis REST token | (token) |
+| `SKETCH2BIM_REDIS_LIMIT_COMMANDS_PER_DAY` | Daily command limit (safety cap) | `10000` |
 
 #### Razorpay
 | Variable | Description | Example |

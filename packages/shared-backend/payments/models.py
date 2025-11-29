@@ -17,8 +17,8 @@ class PaymentModel:
     # Common fields (apps should implement these in their SQLAlchemy models)
     # id = Column(Integer, primary_key=True, index=True)
     # user_id = Column(Integer, ForeignKey("users.id"), nullable=False)
-    # stripe_payment_intent_id = Column(String, unique=True, index=True)  # Stores Razorpay payment_id
-    # stripe_checkout_session_id = Column(String, unique=True, index=True)  # Stores Razorpay order_id or subscription_id
+    # razorpay_payment_id = Column(String, unique=True, index=True)  # Razorpay payment_id
+    # razorpay_order_id = Column(String, unique=True, index=True)  # Razorpay order_id or subscription_id
     # amount = Column(Integer)  # in paise
     # currency = Column(String, default="INR")
     # status = Column(String)  # succeeded|pending|failed

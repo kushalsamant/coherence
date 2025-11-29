@@ -4,7 +4,7 @@ FastAPI Backend Server for ASK Research Tool
 Provides REST API endpoints for Q&A pairs, themes, and content generation
 """
 
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
@@ -74,8 +74,55 @@ async def health_check():
             "status": "healthy",
             "service": settings.APP_NAME,
             "version": "1.0.0",
-            "environment": settings.APP_ENV
-        }
+            "environment": settings.APP_ENV,
+        },
+    )
+
+
+def _build_error_response(
+    message: str,
+    status_code: int,
+    error_code: str,
+) -> JSONResponse:
+    """
+    Build a structured error response.
+
+    This mirrors the minimal pattern used in Sketch2BIM:
+    { "success": false, "error": { "code", "message" } }
+    """
+    payload = {
+        "success": False,
+        "error": {
+            "code": error_code,
+            "message": message,
+        },
+    }
+    return JSONResponse(status_code=status_code, content=payload)
+
+
+@app.exception_handler(HTTPException)
+async def http_exception_handler(request: Request, exc: HTTPException) -> JSONResponse:
+    """
+    Standardize HTTPException responses to a common error envelope.
+    """
+    message = exc.detail if isinstance(exc.detail, str) else "HTTP error"
+    return _build_error_response(
+        message=message,
+        status_code=exc.status_code,
+        error_code="HTTP_ERROR",
+    )
+
+
+@app.exception_handler(Exception)
+async def unhandled_exception_handler(request: Request, exc: Exception) -> JSONResponse:
+    """
+    Fallback handler for uncaught exceptions.
+    """
+    # Avoid leaking internals to clients; details stay in logs.
+    return _build_error_response(
+        message="Internal server error",
+        status_code=500,
+        error_code="INTERNAL_SERVER_ERROR",
     )
 
 

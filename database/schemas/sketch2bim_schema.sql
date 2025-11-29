@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS users (
     credits INTEGER DEFAULT 0,
     subscription_tier VARCHAR DEFAULT 'trial',
     subscription_status VARCHAR DEFAULT 'inactive',
-    stripe_customer_id VARCHAR UNIQUE,
+    razorpay_customer_id VARCHAR UNIQUE,
     subscription_expires_at TIMESTAMP,
     razorpay_subscription_id VARCHAR,
     subscription_auto_renew BOOLEAN DEFAULT FALSE,
@@ -24,14 +24,14 @@ CREATE TABLE IF NOT EXISTS users (
 
 CREATE INDEX IF NOT EXISTS idx_users_email ON users(email);
 CREATE INDEX IF NOT EXISTS idx_users_google_id ON users(google_id);
-CREATE INDEX IF NOT EXISTS idx_users_stripe_customer_id ON users(stripe_customer_id);
+CREATE INDEX IF NOT EXISTS idx_users_razorpay_customer_id ON users(razorpay_customer_id);
 
 -- Payments table
 CREATE TABLE IF NOT EXISTS payments (
     id SERIAL PRIMARY KEY,
     user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
-    stripe_payment_intent_id VARCHAR UNIQUE,
-    stripe_checkout_session_id VARCHAR UNIQUE,
+    razorpay_payment_id VARCHAR UNIQUE,
+    razorpay_order_id VARCHAR UNIQUE,
     amount INTEGER,
     currency VARCHAR DEFAULT 'INR',
     status VARCHAR,
@@ -43,8 +43,8 @@ CREATE TABLE IF NOT EXISTS payments (
 );
 
 CREATE INDEX IF NOT EXISTS idx_payments_user_id ON payments(user_id);
-CREATE INDEX IF NOT EXISTS idx_payments_stripe_payment_intent_id ON payments(stripe_payment_intent_id);
-CREATE INDEX IF NOT EXISTS idx_payments_stripe_checkout_session_id ON payments(stripe_checkout_session_id);
+CREATE INDEX IF NOT EXISTS idx_payments_razorpay_payment_id ON payments(razorpay_payment_id);
+CREATE INDEX IF NOT EXISTS idx_payments_razorpay_order_id ON payments(razorpay_order_id);
 
 -- Jobs table (Sketch2BIM specific)
 CREATE TABLE IF NOT EXISTS jobs (

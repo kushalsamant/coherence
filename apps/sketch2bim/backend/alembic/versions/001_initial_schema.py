@@ -29,7 +29,7 @@ def upgrade() -> None:
         sa.Column('credits', sa.Integer(), nullable=True, server_default='5'),
         sa.Column('subscription_tier', sa.String(), nullable=True, server_default='trial'),
         sa.Column('subscription_status', sa.String(), nullable=True, server_default='inactive'),
-        sa.Column('stripe_customer_id', sa.String(), nullable=True),
+        sa.Column('razorpay_customer_id', sa.String(), nullable=True),
         sa.Column('created_at', sa.DateTime(), nullable=True),
         sa.Column('updated_at', sa.DateTime(), nullable=True),
         sa.Column('last_login', sa.DateTime(), nullable=True),
@@ -38,7 +38,7 @@ def upgrade() -> None:
     )
     op.create_index(op.f('ix_users_email'), 'users', ['email'], unique=True)
     op.create_index(op.f('ix_users_google_id'), 'users', ['google_id'], unique=True)
-    op.create_index(op.f('ix_users_stripe_customer_id'), 'users', ['stripe_customer_id'], unique=True)
+    op.create_index(op.f('ix_users_razorpay_customer_id'), 'users', ['razorpay_customer_id'], unique=True)
 
     # Create jobs table
     op.create_table(
@@ -96,8 +96,8 @@ def upgrade() -> None:
         'payments',
         sa.Column('id', sa.Integer(), nullable=False),
         sa.Column('user_id', sa.Integer(), nullable=False),
-        sa.Column('stripe_payment_intent_id', sa.String(), nullable=True),
-        sa.Column('stripe_checkout_session_id', sa.String(), nullable=True),
+        sa.Column('razorpay_payment_id', sa.String(), nullable=True),
+        sa.Column('razorpay_order_id', sa.String(), nullable=True),
         sa.Column('amount', sa.Integer(), nullable=True),
         sa.Column('currency', sa.String(), nullable=True, server_default='usd'),
         sa.Column('status', sa.String(), nullable=True),
@@ -108,8 +108,8 @@ def upgrade() -> None:
         sa.ForeignKeyConstraint(['user_id'], ['users.id'], ),
         sa.PrimaryKeyConstraint('id')
     )
-    op.create_index(op.f('ix_payments_stripe_payment_intent_id'), 'payments', ['stripe_payment_intent_id'], unique=True)
-    op.create_index(op.f('ix_payments_stripe_checkout_session_id'), 'payments', ['stripe_checkout_session_id'], unique=True)
+    op.create_index(op.f('ix_payments_razorpay_payment_id'), 'payments', ['razorpay_payment_id'], unique=True)
+    op.create_index(op.f('ix_payments_razorpay_order_id'), 'payments', ['razorpay_order_id'], unique=True)
 
     # Create project_versions table
     op.create_table(
@@ -133,7 +133,7 @@ def upgrade() -> None:
         sa.Column('id', sa.Integer(), nullable=False),
         sa.Column('name', sa.String(), nullable=False),
         sa.Column('slug', sa.String(), nullable=True),
-        sa.Column('stripe_customer_id', sa.String(), nullable=True),
+        sa.Column('razorpay_customer_id', sa.String(), nullable=True),
         sa.Column('subscription_tier', sa.String(), nullable=True, server_default='trial'),
         sa.Column('shared_credits', sa.Integer(), nullable=True, server_default='0'),
         sa.Column('created_at', sa.DateTime(), nullable=True),
@@ -141,7 +141,7 @@ def upgrade() -> None:
         sa.PrimaryKeyConstraint('id')
     )
     op.create_index(op.f('ix_organizations_slug'), 'organizations', ['slug'], unique=True)
-    op.create_index(op.f('ix_organizations_stripe_customer_id'), 'organizations', ['stripe_customer_id'], unique=True)
+    op.create_index(op.f('ix_organizations_razorpay_customer_id'), 'organizations', ['razorpay_customer_id'], unique=True)
 
     # Create organization_members table
     op.create_table(

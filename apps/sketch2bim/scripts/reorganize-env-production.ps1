@@ -128,7 +128,7 @@ $backendKeys = @(
     'NEXTAUTH_SECRET',
     'JWT_ALGORITHM',
     'JWT_EXPIRATION_HOURS',
-    # Razorpay Payment Gateway (replaced Stripe)
+    # Razorpay Payment Gateway
     'RAZORPAY_KEY_ID',
     'RAZORPAY_KEY_SECRET',
     'RAZORPAY_WEBHOOK_SECRET',
@@ -143,13 +143,6 @@ $backendKeys = @(
     # Alternative Razorpay key names (LIVE_KEY_ID, LIVE_KEY_SECRET)
     'LIVE_KEY_ID',
     'LIVE_KEY_SECRET',
-    # Legacy Stripe (kept for backward compatibility detection)
-    'STRIPE_SECRET_KEY',
-    'STRIPE_PUBLISHABLE_KEY',
-    'STRIPE_WEBHOOK_SECRET',
-    'STRIPE_PRICE_PRO',
-    'STRIPE_PRICE_STUDIO',
-    'STRIPE_PRICE_SINGLE',
     # Storage
     'BUNNY_STORAGE_ZONE',
     'BUNNY_ACCESS_KEY',

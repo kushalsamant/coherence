@@ -27,7 +27,7 @@ class BaseUser(Base):
     # Subscription
     subscription_tier = Column(String, default="trial")
     subscription_status = Column(String, default="inactive")
-    stripe_customer_id = Column(String, unique=True, index=True)  # Reused for Razorpay customer ID
+    razorpay_customer_id = Column(String, unique=True, index=True)  # Razorpay customer ID
     subscription_expires_at = Column(DateTime)
     
     # Razorpay subscription tracking
@@ -51,9 +51,9 @@ class BasePayment(Base):
     id = Column(Integer, primary_key=True, index=True)
     user_id = Column(Integer, ForeignKey("users.id"), nullable=False)
     
-    # Razorpay details (reusing Stripe field names for backward compatibility)
-    stripe_payment_intent_id = Column(String, unique=True, index=True)  # Stores Razorpay payment_id
-    stripe_checkout_session_id = Column(String, unique=True, index=True)  # Stores Razorpay order_id or subscription_id
+    # Razorpay details
+    razorpay_payment_id = Column(String, unique=True, index=True)  # Razorpay payment_id
+    razorpay_order_id = Column(String, unique=True, index=True)  # Razorpay order_id or subscription_id
     
     # Payment details
     amount = Column(Integer)  # in paise (₹1 = 100 paise)

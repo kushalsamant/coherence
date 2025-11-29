@@ -14,9 +14,8 @@ from sqlalchemy import func
 log = logging.getLogger(__name__)
 
 # Alert thresholds (can be overridden via environment)
-DAILY_COST_THRESHOLD = float(__import__('os').getenv('GROQ_DAILY_COST_THRESHOLD', '10.0'))  # $10/day
 MONTHLY_COST_THRESHOLD = float(__import__('os').getenv('GROQ_MONTHLY_COST_THRESHOLD', '50.0'))  # $50/month
-DAILY_USAGE_SPIKE_THRESHOLD = 2.0  # 2x daily average
+DAILY_USAGE_SPIKE_THRESHOLD = 2.0  # 2x daily average (requests)
 
 
 class GroqUsageAlert:
@@ -169,19 +168,6 @@ def check_groq_usage_alerts(db: Session) -> List[GroqUsageAlert]:
     alerts = []
     
     try:
-        # Check daily cost
-        daily_usage = get_daily_usage(db)
-        daily_cost = daily_usage["total_cost_usd"]
-        
-        if daily_cost > DAILY_COST_THRESHOLD:
-            alerts.append(GroqUsageAlert(
-                level="critical" if daily_cost > DAILY_COST_THRESHOLD * 2 else "warning",
-                message=f"Daily Groq cost (${daily_cost:.2f}) exceeds threshold (${DAILY_COST_THRESHOLD:.2f})",
-                current_value=daily_cost,
-                threshold=DAILY_COST_THRESHOLD,
-                details=daily_usage
-            ))
-        
         # Check monthly cost
         monthly_usage = get_monthly_usage(db)
         monthly_cost = monthly_usage["total_cost_usd"]

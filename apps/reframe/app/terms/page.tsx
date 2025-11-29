@@ -103,7 +103,18 @@ export default function Terms() {
             </div>
 
             <div>
-              <h4 className="font-semibold">Monthly Pro (₹999 INR/month)</h4>
+              <h4 className="font-semibold">Week Pro (₹1,299 INR/week)</h4>
+              <ul className="list-disc pl-6 text-sm space-y-1">
+                <li>Unlimited requests</li>
+                <li>All 6 tones unlocked</li>
+                <li>Age targeting included</li>
+                <li>10,000 words per request</li>
+                <li>7-day access</li>
+              </ul>
+            </div>
+
+            <div>
+              <h4 className="font-semibold">Monthly Pro (₹3,499 INR/month)</h4>
               <ul className="list-disc pl-6 text-sm space-y-1">
                 <li>Unlimited requests</li>
                 <li>All 6 tones unlocked</li>
@@ -114,7 +125,7 @@ export default function Terms() {
             </div>
 
             <div>
-              <h4 className="font-semibold">Yearly Pro (₹7,999 INR/year)</h4>
+              <h4 className="font-semibold">Yearly Pro (₹29,999 INR/year)</h4>
               <ul className="list-disc pl-6 text-sm space-y-1">
                 <li>Unlimited requests</li>
                 <li>All 6 tones unlocked</li>

@@ -17,6 +17,26 @@ kvshvl-platform/
 └── database/              # Database migrations and schemas
 ```
 
+## Platform Architecture (High Level)
+
+- **Applications**
+  - `apps/ask`: *ASK: Daily Research* – content Q&A + platform admin dashboard.
+  - `apps/sketch2bim`: Sketch-to-BIM conversion backend + Next.js frontend.
+  - `apps/reframe`: Text reframing service (backend + frontend).
+- **Shared code**
+  - `packages/shared-backend`: auth, payments (Razorpay), subscription helpers, cost tracking, and configuration utilities.
+  - `packages/shared-frontend`: shared auth/payment helpers for the frontends.
+  - `packages/design-system`: UI component library used by the Next.js apps.
+- **Cost tracking**
+  - **ASK / Sketch2BIM**: store detailed cost data in Postgres (Supabase) using app-specific schemas (`ask_schema`, `sketch2bim_schema`).
+  - **Reframe**: tracks Groq usage and cost aggregates in Upstash Redis.
+  - Shared Razorpay plan IDs and pricing are documented in `docs/ENVIRONMENT_VARIABLES_REFERENCE.md` and wired via `render.yaml`.
+- **Admin dashboard**
+  - Implemented in `apps/ask/frontend` under `/admin/platform-dashboard`.
+  - Talks to ASK backend feasibility and monitoring endpoints:
+    - `/api/feasibility/platform/*` for platform-wide economics.
+    - `/api/monitoring/*` for cost, usage, and alert summaries.
+
 ## Getting Started
 
 ### Prerequisites
@@ -87,6 +107,11 @@ Each application deploys independently:
 - [Monorepo Migration Guide](./docs/MIGRATION_GUIDE.md) - Migration instructions
 - [Migration Status](./docs/MONOREPO_MIGRATION.md) - Current migration status
 - [Cost Analysis](./docs/COST_ANALYSIS.md) - Infrastructure cost analysis
+- [Deployment Configuration Guide](./DEPLOYMENT_CONFIGURATION_GUIDE.md) - Vercel/Render and OAuth config
+- [Deployment Checklist](./docs/DEPLOYMENT_CHECKLIST.md) - End-to-end deployment steps
+- [Environment Variables Reference](./docs/ENVIRONMENT_VARIABLES_REFERENCE.md) - Canonical env var list
+- [API Versioning Strategy](./docs/API_VERSIONING.md) - How APIs are versioned across apps
+- [SLOs](./docs/SLOs.md) - Service-level objectives and alerting hooks
 
 ## License
 

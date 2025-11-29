@@ -423,10 +423,11 @@
    - **ASK:** Daily research automation (time-saving)
    - **Sketch2BIM:** Architectural conversion (niche but valuable)
 
-2. **Competitive Pricing:** Your prices are competitive:
-   - Reframe: ₹99-3,499/month (vs competitors at ₹500-5,000/month)
-   - ASK: ₹1,299-3,499/month (vs similar tools at ₹2,000-10,000/month)
-   - Sketch2BIM: ₹1,299-3,499/month (vs enterprise tools at ₹50,000+/month)
+2. **Competitive Pricing:** All three apps use unified pricing (Week: ₹1,299, Month: ₹3,499, Year: ₹29,999):
+   - **All Apps:** Week: ₹1,299, Month: ₹3,499, Year: ₹29,999 (unified pricing model)
+   - **vs Competitors:** More affordable than premium AI tools (₹4,000-15,000/month)
+   - **vs Enterprise Tools:** Significantly more affordable than enterprise solutions (₹50,000+/month)
+   - **Value Proposition:** Single pricing structure across all products simplifies customer understanding and enables easy cross-selling
 
 3. **Low Customer Acquisition Cost Potential:**
    - With only 6-9 customers needed to break even, even expensive marketing ($100-200/customer) is viable

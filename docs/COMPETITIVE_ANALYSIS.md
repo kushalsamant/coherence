@@ -263,16 +263,18 @@ Reframe adjusts content tone using AI, offering multiple tone options for rewrit
 
 | Platform | Pricing | Notes |
 |----------|---------|-------|
-| **Reframe** | ₹99/day, ₹999/month, ₹7,999/year (estimated) | Specialized tone reframing |
+| **Reframe** | Week: ₹1,299, Month: ₹3,499, Year: ₹29,999 (unified with ASK & Sketch2BIM) | Specialized tone reframing |
 | Grammarly | $12-30/month (~₹1,000-2,500/month) | Writing assistant |
 | Wordtune | $10-15/month (~₹830-1,250/month) | Writing assistant |
 | Jasper AI | $49-125/month (~₹4,100-10,400/month) | AI writing tool |
 | Copy.ai | $36-186/month (~₹3,000-15,500/month) | AI copywriting |
 
-**Reframe Pricing Analysis:**
-- **Day:** ₹99/day = ₹2,970/month (if used daily)
-- **Month:** ₹999/month (best value for regular use)
-- **Year:** ₹7,999/year = ₹667/month (33% savings vs monthly)
+**Reframe Pricing Analysis (Unified Across All Apps):**
+- **Week:** ₹1,299/week - Perfect for short-term projects
+- **Month:** ₹3,499/month - Best value for regular use
+- **Year:** ₹29,999/year = ₹2,500/month (33% savings vs monthly, best value)
+
+**Note:** Reframe, ASK, and Sketch2BIM all share the same unified pricing structure, making it easy for customers to understand and compare across products.
 
 **Competitive Position:**
 - **More affordable** than Jasper AI and Copy.ai

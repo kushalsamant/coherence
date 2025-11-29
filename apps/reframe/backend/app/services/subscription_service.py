@@ -9,13 +9,13 @@ from datetime import datetime, timedelta
 # Subscription tier durations in days
 SUBSCRIPTION_DURATIONS = {
     "trial": 7,
-    "week": 1,
+    "week": 7,  # Fixed: was incorrectly set to 1 day, should be 7 days
     "monthly": 30,
     "yearly": 365,
 }
 
 # Paid subscription tiers
-PAID_TIERS = {"monthly", "yearly"}
+PAID_TIERS = {"week", "monthly", "yearly"}  # Fixed: added "week" tier
 
 
 def calculate_expiry(tier: str, reference_date: Optional[datetime] = None) -> Optional[str]:

@@ -34,7 +34,8 @@ class Settings(BaseSettings):
     ALLOWED_ORIGINS: str = "http://localhost:3000"
     
     @property
-    def allowed_origins_list(self) -> List[str]:
+    def cors_origins_list(self) -> List[str]:
+        """Return allowed CORS origins as a list (naming aligned with other apps)."""
         return [origin.strip() for origin in self.ALLOWED_ORIGINS.split(",")]
     
     # Database
@@ -106,7 +107,7 @@ class Settings(BaseSettings):
     JWT_EXPIRATION_HOURS: int = 24
     NEXTAUTH_SECRET: str = os.getenv("SKETCH2BIM_NEXTAUTH_SECRET", os.getenv("NEXTAUTH_SECRET", ""))
     
-    # Payments - Razorpay (replaced Stripe)
+    # Payments - Razorpay
     # Supports both RAZORPAY_KEY_ID and LIVE_KEY_ID for backward compatibility
     RAZORPAY_KEY_ID: str = os.getenv("SKETCH2BIM_RAZORPAY_KEY_ID", os.getenv("RAZORPAY_KEY_ID", ""))
     RAZORPAY_KEY_SECRET: str = os.getenv("SKETCH2BIM_RAZORPAY_KEY_SECRET", os.getenv("RAZORPAY_KEY_SECRET", ""))
@@ -141,13 +142,6 @@ class Settings(BaseSettings):
     RAZORPAY_PLAN_WEEK: str = get_env_with_fallback("SKETCH2BIM_RAZORPAY_PLAN_WEEK", "RAZORPAY_PLAN_WEEK", "")
     RAZORPAY_PLAN_MONTH: str = get_env_with_fallback("SKETCH2BIM_RAZORPAY_PLAN_MONTH", "RAZORPAY_PLAN_MONTH", "")
     RAZORPAY_PLAN_YEAR: str = get_env_with_fallback("SKETCH2BIM_RAZORPAY_PLAN_YEAR", "RAZORPAY_PLAN_YEAR", "")
-    
-    # Legacy Stripe fields (kept for backward compatibility, not required)
-    STRIPE_SECRET_KEY: str = ""
-    STRIPE_WEBHOOK_SECRET: str = ""
-    STRIPE_PRICE_SINGLE: str = ""
-    STRIPE_PRICE_PRO: str = ""
-    STRIPE_PRICE_STUDIO: str = ""
     
     # BunnyCDN
     BUNNY_STORAGE_ZONE: str = os.getenv("SKETCH2BIM_BUNNY_STORAGE_ZONE", os.getenv("BUNNY_STORAGE_ZONE", ""))

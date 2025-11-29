@@ -18,6 +18,15 @@ Convert hand-drawn architectural sketches into editable BIM files using computer
 
 All project types generate IFC and DWG files. Revit can import IFC files natively. SketchUp files are exported as OBJ format.
 
+## Pricing
+
+**Unified Pricing (shared across ASK, Reframe, and Sketch2BIM):**
+- **Week:** ₹1,299 - 7-day access with unlimited conversions
+- **Month:** ₹3,499 - 30-day access with unlimited conversions
+- **Year:** ₹29,999 - 365-day access with unlimited conversions (33% savings vs monthly)
+
+All three apps (ASK, Reframe, Sketch2BIM) use the same pricing structure for consistency. See [`docs/ENVIRONMENT_VARIABLES_REFERENCE.md`](../../docs/ENVIRONMENT_VARIABLES_REFERENCE.md#pricing--plans) for complete pricing details.
+
 ## Documentation
 
 Additional documentation is available in the `/docs` directory:
@@ -105,7 +114,7 @@ User → Next.js frontend (Vercel)
 - **Frontend:** Next.js App Router, Tailwind CSS, TypeScript
 - **Backend:** FastAPI, SQLAlchemy, Pydantic
 - **Authentication:** NextAuth (Google OAuth)
-- **Payments:** Razorpay Checkout + webhooks
+- **Payments:** Razorpay Checkout + webhooks (unified pricing: Week: ₹1,299, Month: ₹3,499, Year: ₹29,999 - shared across ASK, Reframe, and Sketch2BIM)
 - **Storage:** BunnyCDN (signed URLs)
 - **Processing:** Computer vision (OpenCV) for sketch reading + Pure Python IfcOpenShell for BIM generation (no Blender, no external processing service required)
 

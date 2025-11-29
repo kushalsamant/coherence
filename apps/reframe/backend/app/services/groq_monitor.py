@@ -12,8 +12,7 @@ from .redis_service import get_redis_service
 GROQ_INPUT_COST_PER_MILLION = 0.05  # $0.05 per 1M input tokens
 GROQ_OUTPUT_COST_PER_MILLION = 0.08  # $0.08 per 1M output tokens
 
-# Alert thresholds
-DAILY_COST_THRESHOLD = float(os.getenv("REFRAME_GROQ_DAILY_COST_THRESHOLD", os.getenv("GROQ_DAILY_COST_THRESHOLD", "10.0")))  # $10/day
+# Alert thresholds (monthly only)
 MONTHLY_COST_THRESHOLD = float(os.getenv("REFRAME_GROQ_MONTHLY_COST_THRESHOLD", os.getenv("GROQ_MONTHLY_COST_THRESHOLD", "50.0")))  # $50/month
 
 
@@ -82,21 +81,8 @@ async def _check_and_alert(redis, date_key: str, month_key: str) -> None:
         daily_key = f"groq:usage:daily:{date_key}"
         monthly_key = f"groq:usage:monthly:{month_key}"
         
-        daily_cost_str = await redis.get(f"{daily_key}:cost")
         monthly_cost_str = await redis.get(f"{monthly_key}:cost")
-        
-        daily_cost = float(daily_cost_str) if daily_cost_str else 0.0
         monthly_cost = float(monthly_cost_str) if monthly_cost_str else 0.0
-        
-        # Check daily threshold
-        if daily_cost > DAILY_COST_THRESHOLD:
-            alert_key = f"groq:alert:daily:{date_key}"
-            already_alerted = await redis.get(alert_key)
-            
-            if not already_alerted:
-                print(f"[GROQ ALERT] Daily cost (${daily_cost:.2f}) exceeds threshold (${DAILY_COST_THRESHOLD})")
-                await redis.set(alert_key, "1")
-                await redis.expire(alert_key, 24 * 60 * 60)  # Alert once per day
         
         # Check monthly threshold
         if monthly_cost > MONTHLY_COST_THRESHOLD:

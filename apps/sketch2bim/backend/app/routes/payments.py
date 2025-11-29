@@ -128,11 +128,10 @@ async def razorpay_webhook(
             processing_fee = int(amount * 0.02)  # 2% fee in paise
             
             # Record payment
-            # Note: Using stripe_* field names for backward compatibility, but storing Razorpay data
             payment = Payment(
                 user_id=user.id,
-                stripe_checkout_session_id=order_id,  # Stores Razorpay order_id
-                stripe_payment_intent_id=payment_id,  # Stores Razorpay payment_id
+                razorpay_order_id=order_id,  # Razorpay order_id
+                razorpay_payment_id=payment_id,  # Razorpay payment_id
                 amount=amount,  # in paise (₹1 = 100 paise)
                 currency=currency.lower() or "inr",
                 status="succeeded",
@@ -163,7 +162,7 @@ async def razorpay_webhook(
                 pass
         
         if not user and customer_id:
-            user = db.query(User).filter(User.stripe_customer_id == customer_id).first()
+            user = db.query(User).filter(User.razorpay_customer_id == customer_id).first()
         
         if user:
             user.razorpay_subscription_id = subscription_id
@@ -195,7 +194,7 @@ async def razorpay_webhook(
                 pass
         
         if not user and customer_id:
-            user = db.query(User).filter(User.stripe_customer_id == customer_id).first()
+            user = db.query(User).filter(User.razorpay_customer_id == customer_id).first()
         
         if user and tier:
             user.razorpay_subscription_id = subscription_id
@@ -233,11 +232,10 @@ async def razorpay_webhook(
             processing_fee = int(amount * 0.02)  # 2% fee in paise
             
             # Record payment
-            # Note: Using stripe_* field names for backward compatibility, but storing Razorpay data
             payment = Payment(
                 user_id=user.id,
-                stripe_checkout_session_id=subscription_id,  # Stores Razorpay subscription_id
-                stripe_payment_intent_id=payment_id,  # Stores Razorpay payment_id
+                razorpay_order_id=subscription_id,  # Razorpay subscription_id
+                razorpay_payment_id=payment_id,  # Razorpay payment_id
                 amount=amount,  # in paise
                 currency="inr",
                 status="succeeded",
@@ -260,7 +258,7 @@ async def razorpay_webhook(
             user = db.query(User).filter(User.razorpay_subscription_id == subscription_id).first()
         
         if not user and customer_id:
-            user = db.query(User).filter(User.stripe_customer_id == customer_id).first()
+            user = db.query(User).filter(User.razorpay_customer_id == customer_id).first()
         
         if user:
             # Don't downgrade immediately - let them use until period ends
@@ -315,8 +313,7 @@ async def create_checkout_session(
                 )
             
             # Create customer if doesn't exist
-            # Note: stripe_customer_id field is reused to store Razorpay customer ID for backward compatibility
-            customer_id = user.stripe_customer_id
+            customer_id = user.razorpay_customer_id
             if not customer_id:
                 customer = razorpay_client.customer.create({
                     "name": user.name or user.email.split("@")[0],
@@ -324,7 +321,7 @@ async def create_checkout_session(
                     "contact": None
                 })
                 customer_id = customer["id"]
-                user.stripe_customer_id = customer_id
+                user.razorpay_customer_id = customer_id
                 db.commit()
             
             # Create subscription

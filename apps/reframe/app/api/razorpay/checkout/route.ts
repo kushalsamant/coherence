@@ -3,8 +3,10 @@ import { getRazorpayClient } from "@/lib/razorpay";
 import { auth } from "@/auth";
 import { getUserMetadata, initializeUserTrial } from "@/lib/user-metadata";
 import {
+  getRazorpayWeekAmount,
   getRazorpayMonthlyAmount,
   getRazorpayYearlyAmount,
+  getRazorpayPlanWeek,
   getRazorpayPlanMonthly,
   getRazorpayPlanYearly,
 } from "@/lib/app-config";
@@ -47,6 +49,15 @@ export async function GET(req: Request) {
     const paymentType = (searchParams.get("payment_type") || "one_time") as "one_time" | "subscription";
     
     const tierKey = priceId.toLowerCase();
+    
+    // Validate tier is supported
+    const supportedTiers = ["week", "monthly", "yearly"];
+    if (!supportedTiers.includes(tierKey)) {
+      return NextResponse.json(
+        { error: `Invalid tier. Supported tiers: ${supportedTiers.join(", ")}` },
+        { status: 400 }
+      );
+    }
     const baseUrl = process.env.REFRAME_AUTH_URL || process.env.AUTH_URL || process.env.REFRAME_NEXT_PUBLIC_SITE_URL || process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
     const successUrl = `${baseUrl}/?checkout=success`;
     const cancelUrl = `${baseUrl}/pricing?checkout=canceled`;
@@ -60,6 +71,7 @@ export async function GET(req: Request) {
     if (paymentType === "subscription") {
       // Create subscription using Plan ID
       const planMap: Record<string, string> = {
+        week: getRazorpayPlanWeek(),
         monthly: getRazorpayPlanMonthly(),
         yearly: getRazorpayPlanYearly(),
       };
@@ -144,6 +156,7 @@ export async function GET(req: Request) {
     } else {
       // Create one-time order
       const tierMap: Record<string, number> = {
+        week: getRazorpayWeekAmount(),
         monthly: getRazorpayMonthlyAmount(),
         yearly: getRazorpayYearlyAmount(),
       };

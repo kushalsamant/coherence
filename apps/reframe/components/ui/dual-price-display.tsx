@@ -1,9 +1,10 @@
 "use client";
 
-// Pricing configuration
+// Pricing configuration - unified across all apps (ASK, Reframe, Sketch2BIM)
 const PRICING: Record<string, { amount: number; currency: string; symbol: string; interval?: string }> = {
-  monthly: { amount: 999, currency: "INR", symbol: "₹", interval: "month" },
-  yearly: { amount: 7999, currency: "INR", symbol: "₹", interval: "year" },
+  week: { amount: 1299, currency: "INR", symbol: "₹", interval: "week" },
+  monthly: { amount: 3499, currency: "INR", symbol: "₹", interval: "month" },
+  yearly: { amount: 29999, currency: "INR", symbol: "₹", interval: "year" },
 };
 
 function getDisplayPrice(priceKey: string) {

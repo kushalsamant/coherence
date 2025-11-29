@@ -13,7 +13,7 @@ Transform AI-generated text with authentic human voices using Groq's Llama 3.1 8
 - **54 Unique Voices** - 6 tones × 9 generations = tailored content for any audience
 - **10,000 Words/Request** - Fixed limit, simple and generous
 - **Google OAuth** - Simple sign-in, no email verification needed
-- **INR Pricing** - ₹999-₹7,999 with live USD/EUR/GBP conversions
+- **INR Pricing** - ₹1,299-₹29,999 with live USD/EUR/GBP conversions (unified across all apps)
 - **Flexible Payment** - Monthly or yearly subscriptions
 - **Usage Tracking** - Redis-powered rate limiting
 - **Cost Efficient** - Groq inference 500x cheaper than OpenAI
@@ -158,8 +158,11 @@ Visit [http://localhost:3000](http://localhost:3000)
 
 ### Subscriptions
 - **Free:** ₹0 - 5 requests total, 3 tones
-- **Monthly:** ₹999/month - Unlimited, all tones
-- **Yearly:** ₹7,999/year - Unlimited, save 33%
+- **Week:** ₹1,299/week - Unlimited, all tones, 7-day access
+- **Monthly:** ₹3,499/month - Unlimited, all tones
+- **Yearly:** ₹29,999/year - Unlimited, save 33%
+
+**Note:** Pricing is unified across all apps (ASK, Reframe, Sketch2BIM) - same weekly, monthly, and yearly rates.
 
 ---
 
@@ -284,12 +287,13 @@ reframe/
 
 ### Pricing Configuration
 
-Pricing is configured in `app/api/create-checkout/route.ts`:
+Pricing is unified across all apps (ASK, Reframe, Sketch2BIM) and configured via environment variables:
 
-- **Monthly:** ₹999/month
-- **Yearly:** ₹7,999/year
+- **Week:** ₹1,299/week (129900 paise)
+- **Monthly:** ₹3,499/month (349900 paise)
+- **Yearly:** ₹29,999/year (2999900 paise)
 
-For subscription plans, create them in Razorpay dashboard and set plan IDs in environment variables.
+All apps use the same Razorpay plan IDs. Plan IDs should be set in environment variables (see `reframe.env.production`).
 
 ---
 

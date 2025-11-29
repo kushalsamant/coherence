@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useSession } from 'next-auth/react';
 import { useRouter } from 'next/navigation';
 import { Card } from '@kushalsamant/design-template';
-import { getPlatformConsolidated, getPlatformUnitEconomics, getPlatformScenarios, checkAdminAccess } from '@/lib/platform-api';
+import { getPlatformConsolidated, getPlatformUnitEconomics, getPlatformScenarios, checkAdminAccess, getAlerts } from '@/lib/platform-api';
 import PlatformOverviewCards from '@/components/platform-dashboard/PlatformOverviewCards';
 import ProjectBreakdownCards from '@/components/platform-dashboard/ProjectBreakdownCards';
 import CostBreakdownChart from '@/components/platform-dashboard/CostBreakdownChart';
@@ -24,6 +24,7 @@ export default function PlatformDashboard() {
   const [isAdmin, setIsAdmin] = useState<boolean | null>(null);
   const [days, setDays] = useState(30);
   const [project, setProject] = useState<string | null>(null);
+  const [alerts, setAlerts] = useState<any | null>(null);
   
   // Data state
   const [consolidated, setConsolidated] = useState<any>(null);
@@ -75,15 +76,17 @@ export default function PlatformDashboard() {
         setLoading(true);
         setError(null);
 
-        const [consolidatedData, unitEconData, scenariosData] = await Promise.all([
+        const [consolidatedData, unitEconData, scenariosData, alertsData] = await Promise.all([
           getPlatformConsolidated(days),
           getPlatformUnitEconomics(project || undefined, days),
           getPlatformScenarios(project || undefined),
+          getAlerts(),
         ]);
 
         setConsolidated(consolidatedData);
         setUnitEconomics(unitEconData);
         setScenarios(scenariosData);
+        setAlerts(alertsData);
       } catch (err: any) {
         console.error('Failed to fetch dashboard data:', err);
         setError(err.message || 'Failed to load dashboard data');
@@ -161,6 +164,41 @@ export default function PlatformDashboard() {
         </p>
       </div>
 
+      {/* Alerts panel */}
+      {alerts && alerts.count > 0 && (
+        <div className="mb-6">
+          <Card className="p-4 border-amber-500/60 bg-amber-50 dark:bg-amber-950/20">
+            <div className="flex items-start justify-between gap-4">
+              <div>
+                <h2 className="text-lg font-semibold mb-1">Active Alerts</h2>
+                <p className="text-sm text-muted-foreground mb-3">
+                  Groq usage and cost alerts surfaced from backend monitors.
+                </p>
+                <ul className="space-y-1 text-sm">
+                  {alerts.alerts.slice(0, 5).map((alert: any, idx: number) => (
+                    <li key={idx} className="flex items-start gap-2">
+                      <span
+                        className={`mt-1 h-2 w-2 rounded-full ${
+                          alert.level === 'critical' ? 'bg-red-500' : 'bg-amber-500'
+                        }`}
+                      />
+                      <span>
+                        <span className="font-medium capitalize">{alert.level}</span>: {alert.message}
+                      </span>
+                    </li>
+                  ))}
+                  {alerts.count > 5 && (
+                    <li className="text-xs text-muted-foreground">
+                      +{alerts.count - 5} more alert(s) in the last evaluation window.
+                    </li>
+                  )}
+                </ul>
+              </div>
+            </div>
+          </Card>
+        </div>
+      )}
+
       {/* Controls */}
       <div className="mb-6 flex flex-wrap gap-4 items-center">
         <div className="flex items-center gap-2">
@@ -218,6 +256,37 @@ export default function PlatformDashboard() {
             <RevenueChart data={consolidated} />
           </>
         )}
+      </div>
+
+      {/* Raw data links */}
+      <div className="mt-4 text-xs text-muted-foreground">
+        <span>Raw data endpoints:&nbsp;</span>
+        <a
+          href={`${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'}/api/feasibility/platform/consolidated?days=${days}`}
+          target="_blank"
+          rel="noreferrer"
+          className="underline hover:text-primary"
+        >
+          consolidated
+        </a>
+        <span> · </span>
+        <a
+          href={`${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'}/api/feasibility/platform/unit-economics?days=${days}${project ? `&project=${project}` : ''}`}
+          target="_blank"
+          rel="noreferrer"
+          className="underline hover:text-primary"
+        >
+          unit economics
+        </a>
+        <span> · </span>
+        <a
+          href={`${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'}/api/monitoring/summary`}
+          target="_blank"
+          rel="noreferrer"
+          className="underline hover:text-primary"
+        >
+          monitoring summary
+        </a>
       </div>
 
       {/* Unit Economics */}

@@ -7,12 +7,14 @@ import { useSession } from "next-auth/react";
 import { Check } from "lucide-react";
 import { useEffect, useState } from "react";
 import Link from "next/link";
-// Pricing configuration - using Razorpay
-// Monthly: ₹999 = 99900 paise
-// Yearly: ₹7,999 = 799900 paise
+// Pricing configuration - unified across all apps (ASK, Reframe, Sketch2BIM)
+// Week: ₹1,299 = 129900 paise
+// Monthly: ₹3,499 = 349900 paise
+// Yearly: ₹29,999 = 2999900 paise
 const PRICING = {
-  monthly: { amount: 999, currency: "INR", symbol: "₹", interval: "month" },
-  yearly: { amount: 7999, currency: "INR", symbol: "₹", interval: "year" },
+  week: { amount: 1299, currency: "INR", symbol: "₹", interval: "week" },
+  monthly: { amount: 3499, currency: "INR", symbol: "₹", interval: "month" },
+  yearly: { amount: 29999, currency: "INR", symbol: "₹", interval: "year" },
 };
 
 function getAllDisplayPrices() {
@@ -43,6 +45,19 @@ const PRICING_TIERS: PricingTier[] = [
     ],
     cta: "Start exploring",
     plan: "monthly",
+  },
+  {
+    name: "Week Pro",
+    priceDetail: "per week",
+    requests: "Unlimited",
+    features: [
+      "Unlimited requests",
+      "All 6 tones unlocked",
+      "All character limits unlocked",
+      "7-day access",
+    ],
+    cta: "Perfect for short projects",
+    plan: "week",
   },
   {
     name: "Monthly Pro",
@@ -278,6 +293,7 @@ export default function PricingPage() {
                   <tr className="border-b">
                     <th className="text-left py-3 px-4">Feature</th>
                     <th className="text-center py-3 px-4">Free</th>
+                    <th className="text-center py-3 px-4">Week</th>
                     <th className="text-center py-3 px-4">Monthly</th>
                     <th className="text-center py-3 px-4 bg-primary/5">Yearly</th>
                   </tr>
@@ -287,16 +303,19 @@ export default function PricingPage() {
                     <td className="py-3 px-4">Requests</td>
                     <td className="text-center py-3 px-4">5 total</td>
                     <td className="text-center py-3 px-4">Unlimited</td>
+                    <td className="text-center py-3 px-4">Unlimited</td>
                     <td className="text-center py-3 px-4 bg-primary/5">Unlimited</td>
                   </tr>
                   <tr className="border-b">
                     <td className="py-3 px-4">Available Tones</td>
                     <td className="text-center py-3 px-4">3 tones</td>
                     <td className="text-center py-3 px-4">All 6</td>
+                    <td className="text-center py-3 px-4">All 6</td>
                     <td className="text-center py-3 px-4 bg-primary/5">All 6</td>
                   </tr>
                   <tr className="border-b">
                     <td className="py-3 px-4">Age Targeting</td>
+                    <td className="text-center py-3 px-4">✅</td>
                     <td className="text-center py-3 px-4">✅</td>
                     <td className="text-center py-3 px-4">✅</td>
                     <td className="text-center py-3 px-4 bg-primary/5">✅</td>
@@ -305,10 +324,12 @@ export default function PricingPage() {
                     <td className="py-3 px-4">Words per Request</td>
                     <td className="text-center py-3 px-4">10,000</td>
                     <td className="text-center py-3 px-4">10,000</td>
+                    <td className="text-center py-3 px-4">10,000</td>
                     <td className="text-center py-3 px-4 bg-primary/5">10,000</td>
                   </tr>
                   <tr className="border-b">
                     <td className="py-3 px-4">Priority Support</td>
+                    <td className="text-center py-3 px-4">-</td>
                     <td className="text-center py-3 px-4">-</td>
                     <td className="text-center py-3 px-4">✅</td>
                     <td className="text-center py-3 px-4 bg-primary/5">✅</td>
@@ -317,14 +338,16 @@ export default function PricingPage() {
                     <td className="py-3 px-4">Early Access</td>
                     <td className="text-center py-3 px-4">-</td>
                     <td className="text-center py-3 px-4">-</td>
+                    <td className="text-center py-3 px-4">-</td>
                     <td className="text-center py-3 px-4 bg-primary/5">✅</td>
                   </tr>
                   <tr>
                     <td className="py-3 px-4 font-semibold">Cost</td>
                     <td className="text-center py-3 px-4">₹0</td>
-                    <td className="text-center py-3 px-4">₹999/mo (₹33/day)</td>
+                    <td className="text-center py-3 px-4">₹1,299/week</td>
+                    <td className="text-center py-3 px-4">₹3,499/mo (₹117/day)</td>
                     <td className="text-center py-3 px-4 bg-primary/5 font-bold text-primary">
-                      ₹7,999/yr (₹22/day)
+                      ₹29,999/yr (₹82/day)
                     </td>
                   </tr>
                 </tbody>

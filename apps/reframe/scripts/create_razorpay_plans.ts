@@ -45,16 +45,32 @@ const razorpay = new Razorpay({
 });
 
 // Plan definitions for Reframe
-// Monthly: ₹999 = 99900 paise  
-// Yearly: ₹7,999 = 799900 paise
+// Unified pricing shared across all apps (ASK, Reframe, Sketch2BIM)
+// Week: ₹1,299 = 129900 paise
+// Monthly: ₹3,499 = 349900 paise
+// Yearly: ₹29,999 = 2999900 paise
 const PLANS = [
+  {
+    period: "weekly" as const,
+    interval: 1,
+    item: {
+      name: "Week Pro - Reframe",
+      description: "7-day unlimited access to Reframe AI",
+      amount: 129900, // ₹1,299 in paise
+      currency: "INR",
+    },
+    notes: {
+      tier: "week",
+      app: "reframe",
+    },
+  },
   {
     period: "monthly" as const,
     interval: 1,
     item: {
       name: "Monthly Pro - Reframe",
       description: "30-day unlimited access to Reframe AI",
-      amount: 99900, // ₹999 in paise
+      amount: 349900, // ₹3,499 in paise
       currency: "INR",
     },
     notes: {
@@ -68,7 +84,7 @@ const PLANS = [
     item: {
       name: "Yearly Pro - Reframe",
       description: "365-day unlimited access to Reframe AI",
-      amount: 799900, // ₹7,999 in paise
+      amount: 2999900, // ₹29,999 in paise
       currency: "INR",
     },
     notes: {
@@ -130,7 +146,9 @@ async function checkExistingPlans(): Promise<Record<string, string>> {
     if (plans.items) {
       for (const plan of plans.items) {
         const itemName = plan.item?.name || "";
-        if (itemName.includes("Monthly Pro - Reframe")) {
+        if (itemName.includes("Week Pro - Reframe")) {
+          existing.week = plan.id;
+        } else if (itemName.includes("Monthly Pro - Reframe")) {
           existing.monthly = plan.id;
         } else if (itemName.includes("Yearly Pro - Reframe")) {
           existing.yearly = plan.id;
@@ -192,14 +210,16 @@ async function main() {
     process.exit(1);
   }
 
-  for (const tier of ["monthly", "yearly"]) {
+  for (const tier of ["week", "monthly", "yearly"]) {
     if (createdPlans[tier]) {
-      const envVarName = tier === "monthly" ? "RAZORPAY_PLAN_MONTH" : 
-                        "RAZORPAY_PLAN_YEAR";
+      const envVarName = tier === "week" ? "REFRAME_RAZORPAY_PLAN_WEEK" :
+                        tier === "monthly" ? "REFRAME_RAZORPAY_PLAN_MONTH" : 
+                        "REFRAME_RAZORPAY_PLAN_YEAR";
       console.log(`${envVarName}=${createdPlans[tier]}`);
     } else {
-      const envVarName = tier === "monthly" ? "RAZORPAY_PLAN_MONTH" : 
-                        "RAZORPAY_PLAN_YEAR";
+      const envVarName = tier === "week" ? "REFRAME_RAZORPAY_PLAN_WEEK" :
+                        tier === "monthly" ? "REFRAME_RAZORPAY_PLAN_MONTH" : 
+                        "REFRAME_RAZORPAY_PLAN_YEAR";
       console.log(`${envVarName}=  # MISSING - create manually`);
     }
   }
@@ -207,18 +227,19 @@ async function main() {
   console.log("\n" + "=".repeat(60));
   console.log("Copy these to your reframe.env.production:");
   console.log("=".repeat(60));
-  for (const tier of ["monthly", "yearly"]) {
+  for (const tier of ["week", "monthly", "yearly"]) {
     if (createdPlans[tier]) {
-      const envVarName = tier === "monthly" ? "RAZORPAY_PLAN_MONTH" : 
-                        "RAZORPAY_PLAN_YEAR";
+      const envVarName = tier === "week" ? "REFRAME_RAZORPAY_PLAN_WEEK" :
+                        tier === "monthly" ? "REFRAME_RAZORPAY_PLAN_MONTH" : 
+                        "REFRAME_RAZORPAY_PLAN_YEAR";
       console.log(`${envVarName}=${createdPlans[tier]}`);
     }
   }
 
-  if (Object.keys(createdPlans).length === 2) {
+  if (Object.keys(createdPlans).length === 3) {
     console.log("\n✅ All plans created successfully!");
   } else {
-    console.log(`\n⚠️  Only ${Object.keys(createdPlans).length}/2 plans created. Please create the missing ones manually.`);
+    console.log(`\n⚠️  Only ${Object.keys(createdPlans).length}/3 plans created. Please create the missing ones manually.`);
   }
 }
 

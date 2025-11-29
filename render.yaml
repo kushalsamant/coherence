@@ -61,8 +61,6 @@ services:
         value: "https://api.groq.com/openai/v1"
       - key: ASK_GROQ_MODEL
         value: "llama-3.1-70b-versatile"
-      - key: ASK_GROQ_DAILY_COST_THRESHOLD
-        value: "10.0"
       - key: ASK_GROQ_MONTHLY_COST_THRESHOLD
         value: "50.0"
       
@@ -122,8 +120,6 @@ services:
       # Groq API Configuration
       - key: REFRAME_GROQ_API_KEY
         sync: false
-      - key: REFRAME_GROQ_DAILY_COST_THRESHOLD
-        value: "10.0"
       - key: REFRAME_GROQ_MONTHLY_COST_THRESHOLD
         value: "50.0"
       
@@ -307,20 +303,6 @@ services:
         value: "80"
       - key: SKETCH2BIM_RESOURCE_ALERT_CRITICAL_THRESHOLD
         value: "95"
-      
-      # Legacy Stripe (for backward compatibility, if needed)
-      - key: SKETCH2BIM_STRIPE_PUBLISHABLE_KEY
-        sync: false
-      - key: SKETCH2BIM_STRIPE_SECRET_KEY
-        sync: false
-      - key: SKETCH2BIM_STRIPE_WEBHOOK_SECRET
-        sync: false
-      - key: SKETCH2BIM_STRIPE_PRICE_PRO
-        sync: false
-      - key: SKETCH2BIM_STRIPE_PRICE_STUDIO
-        sync: false
-      - key: SKETCH2BIM_STRIPE_PRICE_SINGLE
-        sync: false
       
       # Admin Access
       - key: SKETCH2BIM_ADMIN_EMAILS

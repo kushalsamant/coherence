@@ -20,7 +20,7 @@ class User(Base):
     credits = Column(Integer, default=0)  # Start with 0 credits - unlimited during trial, then must upgrade
     subscription_tier = Column(String, default="trial")  # trial|week|month|year
     subscription_status = Column(String, default="inactive")  # inactive|active|cancelled
-    stripe_customer_id = Column(String, unique=True, index=True)  # Reused to store Razorpay customer ID
+    razorpay_customer_id = Column(String, unique=True, index=True)  # Razorpay customer ID
     subscription_expires_at = Column(DateTime)
     
     # Razorpay subscription tracking
@@ -47,9 +47,9 @@ class Payment(Base):
     id = Column(Integer, primary_key=True, index=True)
     user_id = Column(Integer, ForeignKey("users.id"), nullable=False)
     
-    # Razorpay details (reusing Stripe field names for backward compatibility)
-    stripe_payment_intent_id = Column(String, unique=True, index=True)  # Stores Razorpay payment_id
-    stripe_checkout_session_id = Column(String, unique=True, index=True)  # Stores Razorpay order_id or subscription_id
+    # Razorpay details
+    razorpay_payment_id = Column(String, unique=True, index=True)  # Razorpay payment_id
+    razorpay_order_id = Column(String, unique=True, index=True)  # Razorpay order_id or subscription_id
     
     # Payment details
     amount = Column(Integer)  # in paise (₹1 = 100 paise)
@@ -71,7 +71,7 @@ class Payment(Base):
     user = relationship("User", back_populates="payments")
     
     def __repr__(self):
-        return f"<Payment {self.stripe_payment_intent_id}>"
+        return f"<Payment {self.razorpay_payment_id}>"
 
 
 class GroqUsage(Base):
