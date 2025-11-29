@@ -81,7 +81,7 @@ PLANS = [
             "currency": "INR"
         },
         "notes": {
-            "tier": "month"
+            "tier": "monthly"
         }
     },
     {
@@ -94,7 +94,7 @@ PLANS = [
             "currency": "INR"
         },
         "notes": {
-            "tier": "year"
+            "tier": "yearly"
         }
     }
 ]
@@ -141,9 +141,9 @@ def check_existing_plans():
                 if 'Week Pass' in item_name:
                     existing['week'] = plan['id']
                 elif 'Month Subscription' in item_name:
-                    existing['month'] = plan['id']
+                    existing['monthly'] = plan['id']
                 elif 'Year Subscription' in item_name:
-                    existing['year'] = plan['id']
+                    existing['yearly'] = plan['id']
         return existing
     except Exception as e:
         print(f"⚠️  Could not check existing plans: {e}")
@@ -190,7 +190,7 @@ def main():
         print("3. Try creating plans manually in Razorpay Dashboard")
         return
     
-    for tier in ['week', 'month', 'year']:
+    for tier in ['week', 'monthly', 'yearly']:
         if tier in created_plans:
             print(f"RAZORPAY_PLAN_{tier.upper()}={created_plans[tier]}")
         else:
@@ -199,7 +199,7 @@ def main():
     print("\n" + "=" * 60)
     print("Copy these to your Render environment variables:")
     print("=" * 60)
-    for tier in ['week', 'month', 'year']:
+    for tier in ['week', 'monthly', 'yearly']:
         if tier in created_plans:
             print(f"RAZORPAY_PLAN_{tier.upper()}={created_plans[tier]}")
     

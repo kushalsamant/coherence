@@ -23,8 +23,8 @@ class JobStatus(str, Enum):
 class SubscriptionTier(str, Enum):
     TRIAL = "trial"
     WEEK = "week"
-    MONTH = "month"
-    YEAR = "year"
+    MONTHLY = "monthly"
+    YEARLY = "yearly"
 
 
 class ProjectType(str, Enum):

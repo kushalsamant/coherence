@@ -39,9 +39,9 @@ export default function CreditsDisplay() {
         return 'text-gray-600';
       case 'week':
         return 'text-blue-600';
-      case 'month':
+      case 'monthly':
         return 'text-purple-600';
-      case 'year':
+      case 'yearly':
         return 'text-green-600';
       default:
         return 'text-gray-600';
@@ -54,9 +54,9 @@ export default function CreditsDisplay() {
         return '🆓 Trial';
       case 'week':
         return '📅 Week Access';
-      case 'month':
+      case 'monthly':
         return '📦 Monthly';
-      case 'year':
+      case 'yearly':
         return '💎 Yearly';
       default:
         return tier;
@@ -66,7 +66,7 @@ export default function CreditsDisplay() {
   const isTrial = user.subscription_tier === 'trial';
   const isActiveTrial = isTrial && user.subscription_status === 'active' && 
     (user.subscription_expires_at ? new Date(user.subscription_expires_at) > new Date() : false);
-  const isPaidTier = !isTrial && ['week', 'month', 'year'].includes(user.subscription_tier);
+  const isPaidTier = !isTrial && ['week', 'monthly', 'yearly'].includes(user.subscription_tier);
   const isActivePaid = isPaidTier && user.subscription_status === 'active' && 
     (user.subscription_expires_at ? new Date(user.subscription_expires_at) > new Date() : false);
   

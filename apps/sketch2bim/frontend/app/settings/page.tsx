@@ -51,9 +51,9 @@ export default function SettingsPage() {
         return '🆓 Trial';
       case 'week':
         return '📅 Week Access';
-      case 'month':
+      case 'monthly':
         return '📦 Monthly';
-      case 'year':
+      case 'yearly':
         return '💎 Yearly';
       default:
         return tier;
@@ -66,9 +66,9 @@ export default function SettingsPage() {
         return 'bg-gray-100 text-gray-800';
       case 'week':
         return 'bg-blue-100 text-blue-800';
-      case 'month':
+      case 'monthly':
         return 'bg-purple-100 text-purple-800';
-      case 'year':
+      case 'yearly':
         return 'bg-green-100 text-green-800';
       default:
         return 'bg-gray-100 text-gray-800';

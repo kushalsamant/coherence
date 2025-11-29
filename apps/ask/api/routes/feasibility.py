@@ -260,7 +260,7 @@ async def get_platform_unit_economics(
                 # Calculate average revenue per user (assuming equal distribution)
                 # In reality, would need tier breakdown
                 from shared_backend.feasibility.feasibility_service import PRICING_TIERS, calculate_revenue_per_user_after_fees
-                avg_revenue_per_user = calculate_revenue_per_user_after_fees("month")  # Default to month tier
+                avg_revenue_per_user = calculate_revenue_per_user_after_fees("monthly")  # Default to monthly tier
                 
                 unit_econ = calculate_unit_economics(
                     project_name=proj_name,
@@ -313,7 +313,7 @@ async def get_platform_break_even(
         variable_cost_per_user = total_variable_costs / len(ask_users) if ask_users else 0.0
         
         # Revenue per user (month tier as default)
-        revenue_per_user = calculate_revenue_per_user_after_fees("month")
+        revenue_per_user = calculate_revenue_per_user_after_fees("monthly")
         
         # Shared infrastructure costs
         shared_costs = allocate_shared_infrastructure_costs(
@@ -358,7 +358,7 @@ async def get_platform_projections(
             calculate_profitability_projections
         )
         
-        revenue_per_user = calculate_revenue_per_user_after_fees("month")
+        revenue_per_user = calculate_revenue_per_user_after_fees("monthly")
         
         # Estimate cost per user
         ask_costs = _get_ask_costs(db, days=30)
@@ -413,7 +413,7 @@ async def get_platform_scenarios(
             analyze_scenarios
         )
         
-        revenue_per_user = calculate_revenue_per_user_after_fees("month")
+        revenue_per_user = calculate_revenue_per_user_after_fees("monthly")
         
         # Estimate costs
         ask_costs = _get_ask_costs(db, days=30)

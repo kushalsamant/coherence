@@ -13,8 +13,8 @@ import Link from "next/link";
 // Yearly: ₹29,999 = 2999900 paise
 const PRICING = {
   week: { amount: 1299, currency: "INR", symbol: "₹", interval: "week" },
-  monthly: { amount: 3499, currency: "INR", symbol: "₹", interval: "month" },
-  yearly: { amount: 29999, currency: "INR", symbol: "₹", interval: "year" },
+  monthly: { amount: 3499, currency: "INR", symbol: "₹", interval: "monthly" },
+  yearly: { amount: 29999, currency: "INR", symbol: "₹", interval: "yearly" },
 };
 
 function getAllDisplayPrices() {

@@ -184,24 +184,10 @@ export async function getMonthlyUsageRedis(
  */
 async function checkAndAlert(redis: any, dateKey: string, monthKey: string): Promise<void> {
   try {
-    const dailyKey = `groq:usage:daily:${dateKey}`;
     const monthlyKey = `groq:usage:monthly:${monthKey}`;
-    
-    const dailyCost = parseFloat((await redis.get(`${dailyKey}:cost`)) || "0");
     const monthlyCost = parseFloat((await redis.get(`${monthlyKey}:cost`)) || "0");
     
-    // Check daily threshold
-    if (dailyCost > DAILY_COST_THRESHOLD) {
-      const alertKey = `groq:alert:daily:${dateKey}`;
-      const alreadyAlerted = await redis.get(alertKey);
-      
-      if (!alreadyAlerted) {
-        console.warn(`[GROQ ALERT] Daily cost ($${dailyCost.toFixed(2)}) exceeds threshold ($${DAILY_COST_THRESHOLD})`);
-        await redis.set(alertKey, "1", { EX: 24 * 60 * 60 }); // Alert once per day
-      }
-    }
-    
-    // Check monthly threshold
+    // Check monthly threshold only
     if (monthlyCost > MONTHLY_COST_THRESHOLD) {
       const alertKey = `groq:alert:monthly:${monthKey}`;
       const alreadyAlerted = await redis.get(alertKey);

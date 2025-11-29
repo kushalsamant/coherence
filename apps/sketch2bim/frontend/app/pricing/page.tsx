@@ -67,7 +67,7 @@ function PricingContent() {
       return;
     }
 
-    const paidTiers = ['week', 'month', 'year'];
+    const paidTiers = ['week', 'monthly', 'yearly'];
     if (!paidTiers.includes(tier)) {
       alert('Invalid subscription tier');
       return;
@@ -170,7 +170,7 @@ function PricingContent() {
       description: 'Ongoing coursework or client production.',
       features: sharedFeatures,
       cta: 'Subscribe Monthly',
-      tier: 'month',
+      tier: 'monthly',
       popular: true
     },
     {
@@ -180,7 +180,7 @@ function PricingContent() {
       description: 'Best value for power users.',
       features: sharedFeatures,
       cta: 'Subscribe Yearly',
-      tier: 'year',
+      tier: 'yearly',
       popular: false
     }
   ];

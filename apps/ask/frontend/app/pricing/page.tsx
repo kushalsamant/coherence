@@ -41,7 +41,7 @@ function PricingContent() {
       return
     }
 
-    const paidTiers = ['week', 'month', 'year']
+    const paidTiers = ['week', 'monthly', 'yearly']
     if (!paidTiers.includes(tier)) {
       alert('Invalid subscription tier')
       return
@@ -142,7 +142,7 @@ function PricingContent() {
         '30-day access',
         'Priority support'
       ],
-      tier: 'month',
+      tier: 'monthly',
       cta: 'Subscribe',
       variant: 'primary' as const
     },
@@ -158,7 +158,7 @@ function PricingContent() {
         'Priority support',
         'Save 33% vs monthly'
       ],
-      tier: 'year',
+      tier: 'yearly',
       cta: 'Subscribe',
       variant: 'primary' as const
     }
