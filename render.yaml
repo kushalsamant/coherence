@@ -1,106 +1,212 @@
 # Unified Render.com deployment configuration
 # This file combines all backend services from individual app render.yaml files
 # Deploy by connecting this repository to Render and pointing to this file
+# Follows Render Blueprint specification: https://render.com/docs/blueprint-spec
 
 services:
   # ASK Backend API
   - type: web
     name: ask-backend
-    env: python
+    runtime: python
     rootDir: apps/ask
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
     envVars:
-      - key: API_HOST
-        value: 0.0.0.0
+      # Application Configuration
+      - key: ASK_API_HOST
+        value: "0.0.0.0"
+      - key: ASK_API_PORT
+        value: "8000"
+      - key: ASK_APP_NAME
+        value: "ASK: Daily Research"
       - key: ASK_CORS_ORIGINS
-        value: https://ask.kvshvl.in,https://www.ask.kvshvl.in
-      - key: ASK_LOG_CSV_FILE
-        value: log.csv
-      - key: ASK_LOG_DIR
-        value: logs
+        value: "https://ask.kvshvl.in,https://www.ask.kvshvl.in"
+      - key: ASK_DEBUG
+        value: "false"
       - key: ASK_ENVIRONMENT
-        value: production
+        value: "production"
+      - key: ASK_FRONTEND_URL
+        value: "https://ask.kvshvl.in"
+      - key: ASK_LOG_CSV_FILE
+        value: "log.csv"
+      - key: ASK_LOG_DIR
+        value: "logs"
+      - key: ASK_LOG_LEVEL
+        value: "INFO"
+      - key: ASK_PYTHONPATH
+        value: "."
+      - key: ASK_JWT_ALGORITHM
+        value: "HS256"
+      
+      # Database Configuration
       - key: ASK_DATABASE_URL
         sync: false
         # Supabase PostgreSQL connection string
         # Format: postgresql://postgres.[PROJECT_REF]:[PASSWORD]@aws-[REGION].pooler.supabase.com:6543/postgres
         # Get from: https://supabase.com/dashboard/project/[PROJECT_REF]/settings/database
-      - key: DATABASE_SCHEMA
-        value: ask_schema
+      - key: ASK_DATABASE_URL_OVERRIDE
+        sync: false
+      - key: ASK_DATABASE_PASSWORD_OVERRIDE
+        sync: false
+      - key: ASK_DATABASE_SCHEMA
+        value: "ask_schema"
         # Note: ASK uses the 'ask_schema' schema within the shared Supabase 'postgres' database.
         # Schema is handled by shared-backend connection utilities.
+      
+      # Groq API Configuration
       - key: ASK_GROQ_API_KEY
         sync: false
+      - key: ASK_GROQ_API_BASE
+        value: "https://api.groq.com/openai/v1"
+      - key: ASK_GROQ_MODEL
+        value: "llama-3.1-70b-versatile"
+      - key: ASK_GROQ_DAILY_COST_THRESHOLD
+        value: "10.0"
+      - key: ASK_GROQ_MONTHLY_COST_THRESHOLD
+        value: "50.0"
+      
+      # Razorpay Payment Gateway
       - key: ASK_RAZORPAY_KEY_ID
         sync: false
       - key: ASK_RAZORPAY_KEY_SECRET
         sync: false
       - key: ASK_RAZORPAY_WEBHOOK_SECRET
         sync: false
-      - key: RAZORPAY_WEEK_AMOUNT
+      - key: ASK_RAZORPAY_WEEK_AMOUNT
         value: "129900"
-      - key: RAZORPAY_MONTH_AMOUNT
+      - key: ASK_RAZORPAY_MONTH_AMOUNT
         value: "349900"
-      - key: RAZORPAY_YEAR_AMOUNT
+      - key: ASK_RAZORPAY_YEAR_AMOUNT
         value: "2999900"
-      - key: ASK_FRONTEND_URL
-        value: "https://ask.kvshvl.in"
-    healthCheckPath: /health
+      - key: ASK_RAZORPAY_PLAN_WEEK
+        value: "plan_Rha5Ikcm5JrGqx"
+      - key: ASK_RAZORPAY_PLAN_MONTH
+        value: "plan_Rha5JNPsk1WmI6"
+      - key: ASK_RAZORPAY_PLAN_YEAR
+        value: "plan_Rha5Jzn1sk8o1X"
+      
+      # Upstash Redis
+      - key: ASK_UPSTASH_REDIS_REST_URL
+        sync: false
+      - key: ASK_UPSTASH_REDIS_REST_TOKEN
+        sync: false
+      
+      # Admin Access
+      - key: ASK_ADMIN_EMAILS
+        value: "writetokushaldsamant@gmail.com,kushaldsamant@gmail.com,samant.kushal@gmail.com,yourmailproject@gmail.com"
 
   # Reframe Backend API
   - type: web
     name: reframe-backend
-    env: python
+    runtime: python
     rootDir: apps/reframe/backend
     buildCommand: pip install --upgrade pip && pip install -r requirements.txt
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
     envVars:
-      - key: ENVIRONMENT
-        value: production
-      - key: DEBUG
-        value: false
+      # Application Configuration
+      - key: REFRAME_APP_NAME
+        value: "Reframe API"
+      - key: REFRAME_ENVIRONMENT
+        value: "production"
+      - key: REFRAME_DEBUG
+        value: "false"
+      - key: REFRAME_CORS_ORIGINS
+        value: "https://reframe.kvshvl.in,https://www.reframe.kvshvl.in"
+      - key: REFRAME_FREE_LIMIT
+        value: "5"
+      - key: REFRAME_JWT_ALGORITHM
+        value: "HS256"
+      
+      # Groq API Configuration
       - key: REFRAME_GROQ_API_KEY
         sync: false
+      - key: REFRAME_GROQ_DAILY_COST_THRESHOLD
+        value: "10.0"
+      - key: REFRAME_GROQ_MONTHLY_COST_THRESHOLD
+        value: "50.0"
+      
+      # Upstash Redis
       - key: REFRAME_UPSTASH_REDIS_REST_URL
         sync: false
       - key: REFRAME_UPSTASH_REDIS_REST_TOKEN
         sync: false
+      
+      # Authentication (for compatibility)
       - key: REFRAME_NEXTAUTH_SECRET
         sync: false
       - key: REFRAME_AUTH_SECRET
         sync: false
-      - key: JWT_ALGORITHM
-        value: HS256
-      - key: REFRAME_FREE_LIMIT
-        value: "5"
-      - key: REFRAME_CORS_ORIGINS
-        value: https://reframe.kvshvl.in,https://www.reframe.kvshvl.in
-    healthCheckPath: /health
+      
+      # Admin Access
+      - key: REFRAME_ADMIN_EMAILS
+        value: "writetokushaldsamant@gmail.com,kushaldsamant@gmail.com,samant.kushal@gmail.com,yourmailproject@gmail.com"
 
   # Sketch2BIM Backend API
   - type: web
     name: sketch2bim-backend
     runtime: python
-    pythonVersion: "3.13"
     rootDir: apps/sketch2bim/backend
     buildCommand: pip install --upgrade pip && pip install -r requirements.txt
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
     envVars:
-      - key: APP_ENV
-        value: production
-      - key: DEBUG
-        value: false
+      # Application Configuration
+      - key: SKETCH2BIM_APP_NAME
+        value: "Sketch-to-BIM"
+      - key: SKETCH2BIM_APP_ENV
+        value: "production"
+      - key: SKETCH2BIM_API_VERSION
+        value: "v1"
+      - key: SKETCH2BIM_DEBUG
+        value: "false"
+      - key: SKETCH2BIM_HOST
+        value: "0.0.0.0"
+      - key: SKETCH2BIM_PORT
+        value: "8000"
+      - key: SKETCH2BIM_WORKERS
+        value: "4"
+      - key: SKETCH2BIM_FRONTEND_URL
+        value: "https://sketch2bim.kvshvl.in"
+      - key: SKETCH2BIM_ALLOWED_ORIGINS
+        value: "https://sketch2bim.kvshvl.in"
+      - key: SKETCH2BIM_ALLOWED_EXTENSIONS
+        value: "png,jpg,jpeg,pdf,dwg"
+      - key: SKETCH2BIM_MAX_UPLOAD_SIZE_MB
+        value: "50"
+      - key: SKETCH2BIM_REQUEST_TIMEOUT_SECONDS
+        value: "300.0"
+      - key: SKETCH2BIM_LOG_LEVEL
+        value: "INFO"
+      - key: SKETCH2BIM_JSON_LOGGING
+        value: "false"
+      - key: SKETCH2BIM_JWT_ALGORITHM
+        value: "HS256"
+      - key: SKETCH2BIM_JWT_EXPIRATION_HOURS
+        value: "24"
+      - key: SKETCH2BIM_FREE_CREDITS_LIMIT
+        value: "0"
+      
+      # Database Configuration
       - key: SKETCH2BIM_DATABASE_URL
         sync: false
         # Supabase PostgreSQL connection string (use pooler for connection pooling)
         # Format: postgresql://postgres.[PROJECT_REF]:[PASSWORD]@aws-[REGION].pooler.supabase.com:6543/postgres
         # Get from: https://supabase.com/dashboard/project/[PROJECT_REF]/settings/database
         # Use pooler (port 6543) for better connection management
-      - key: DATABASE_SCHEMA
-        value: sketch2bim_schema
+      - key: SKETCH2BIM_DATABASE_URL_OVERRIDE
+        sync: false
+      - key: SKETCH2BIM_DATABASE_PASSWORD_OVERRIDE
+        sync: false
+      - key: SKETCH2BIM_DATABASE_SCHEMA
+        value: "sketch2bim_schema"
         # Note: Sketch2BIM uses the 'sketch2bim_schema' schema within the shared Supabase 'postgres' database.
         # Schema is handled by shared-backend connection utilities.
+      - key: SKETCH2BIM_DATABASE_LIMIT_MB
+        value: "500"
+      
+      # Upstash Redis
       - key: SKETCH2BIM_UPSTASH_REDIS_REST_URL
         sync: false
         # Upstash Redis REST API URL
@@ -109,10 +215,15 @@ services:
         sync: false
         # Upstash Redis REST API Token
         # Get from: https://console.upstash.com/redis
+      - key: SKETCH2BIM_REDIS_LIMIT_COMMANDS_PER_DAY
+        value: "10000"
+      
+      # Secrets
       - key: SKETCH2BIM_SECRET_KEY
         generateValue: true
       - key: SKETCH2BIM_NEXTAUTH_SECRET
         sync: false
+      
       # Razorpay Payment Gateway
       - key: SKETCH2BIM_RAZORPAY_KEY_ID
         sync: false
@@ -120,23 +231,100 @@ services:
         sync: false
       - key: SKETCH2BIM_RAZORPAY_WEBHOOK_SECRET
         sync: false
-      - key: RAZORPAY_WEEK_AMOUNT
+      - key: SKETCH2BIM_RAZORPAY_WEEK_AMOUNT
         value: "129900"
-      - key: RAZORPAY_MONTH_AMOUNT
+      - key: SKETCH2BIM_RAZORPAY_MONTH_AMOUNT
         value: "349900"
-      - key: RAZORPAY_YEAR_AMOUNT
+      - key: SKETCH2BIM_RAZORPAY_YEAR_AMOUNT
         value: "2999900"
-      - key: SKETCH2BIM_FRONTEND_URL
-        value: "https://sketch2bim.kvshvl.in"
+      - key: SKETCH2BIM_RAZORPAY_PLAN_WEEK
+        value: "plan_Rha5Ikcm5JrGqx"
+      - key: SKETCH2BIM_RAZORPAY_PLAN_MONTH
+        value: "plan_Rha5JNPsk1WmI6"
+      - key: SKETCH2BIM_RAZORPAY_PLAN_YEAR
+        value: "plan_Rha5Jzn1sk8o1X"
+      
+      # BunnyCDN Storage
       - key: SKETCH2BIM_BUNNY_STORAGE_ZONE
         sync: false
       - key: SKETCH2BIM_BUNNY_ACCESS_KEY
         sync: false
       - key: SKETCH2BIM_BUNNY_CDN_HOSTNAME
         sync: false
-      - key: SKETCH2BIM_ALLOWED_ORIGINS
-        value: https://sketch2bim.kvshvl.in
-    healthCheckPath: /health
+      - key: SKETCH2BIM_BUNNY_REGION
+        value: "storage.bunnycdn.com"
+      - key: SKETCH2BIM_BUNNY_SIGNED_URL_EXPIRY
+        value: "604800"
+      - key: SKETCH2BIM_BUNNY_SIGNED_URL_KEY
+        sync: false
+      
+      # ML/Processing Configuration
+      - key: SKETCH2BIM_GROQ_API_KEY
+        sync: false
+      - key: SKETCH2BIM_REPLICATE_API_KEY
+        sync: false
+      - key: SKETCH2BIM_REPLICATE_MODEL_ID
+        value: "kushalsamant/sketch2bim-processor"
+      - key: SKETCH2BIM_ML_AGENT_ENABLED
+        value: "true"
+      - key: SKETCH2BIM_ML_AGENT_MAX_RETRIES
+        value: "2"
+      - key: SKETCH2BIM_ML_AGENT_DETECTION_THRESHOLD
+        value: "30.0"
+      - key: SKETCH2BIM_ML_AGENT_PREPROCESSING_THRESHOLD
+        value: "50.0"
+      - key: SKETCH2BIM_ML_AGENT_POST_IFC_THRESHOLD
+        value: "50.0"
+      - key: SKETCH2BIM_SYMBOL_DETECTOR_ENABLED
+        value: "false"
+      - key: SKETCH2BIM_SYMBOL_DETECTOR_CONFIDENCE
+        value: "0.45"
+      - key: SKETCH2BIM_SYMBOL_DETECTOR_MAX_RESULTS
+        value: "200"
+      - key: SKETCH2BIM_SYMBOL_DETECTOR_DEVICE
+        value: "auto"
+      - key: SKETCH2BIM_BLENDER_PATH
+        value: "blender"
+      - key: SKETCH2BIM_IDS_FILE_PATH
+        sync: false
+      - key: SKETCH2BIM_SYMBOL_DETECTOR_CLASS_FILE
+        value: "train/annotations/classes.yaml"
+      - key: SKETCH2BIM_SYMBOL_DETECTOR_MODEL_PATH
+        sync: false
+      
+      # Rate Limiting
+      - key: SKETCH2BIM_RATE_LIMIT_PER_MINUTE
+        value: "10"
+      - key: SKETCH2BIM_RATE_LIMIT_PER_HOUR
+        value: "100"
+      
+      # Monitoring & Alerts
+      - key: SKETCH2BIM_ALERT_EMAIL_ENABLED
+        value: "true"
+      - key: SKETCH2BIM_ALERT_EMAIL_RECIPIENTS
+        value: "admin@sketch2bim.com"
+      - key: SKETCH2BIM_RESOURCE_ALERT_WARNING_THRESHOLD
+        value: "80"
+      - key: SKETCH2BIM_RESOURCE_ALERT_CRITICAL_THRESHOLD
+        value: "95"
+      
+      # Legacy Stripe (for backward compatibility, if needed)
+      - key: SKETCH2BIM_STRIPE_PUBLISHABLE_KEY
+        sync: false
+      - key: SKETCH2BIM_STRIPE_SECRET_KEY
+        sync: false
+      - key: SKETCH2BIM_STRIPE_WEBHOOK_SECRET
+        sync: false
+      - key: SKETCH2BIM_STRIPE_PRICE_PRO
+        sync: false
+      - key: SKETCH2BIM_STRIPE_PRICE_STUDIO
+        sync: false
+      - key: SKETCH2BIM_STRIPE_PRICE_SINGLE
+        sync: false
+      
+      # Admin Access
+      - key: SKETCH2BIM_ADMIN_EMAILS
+        value: "writetokushaldsamant@gmail.com,kushaldsamant@gmail.com,samant.kushal@gmail.com,yourmailproject@gmail.com"
 
 # Notes:
 # - Using Supabase PostgreSQL (not Render databases)
@@ -144,7 +332,8 @@ services:
 # - Schemas: 'ask_schema' and 'sketch2bim_schema' (set via DATABASE_SCHEMA env var)
 # - Connection strings should be set in Render environment variables from Supabase dashboard
 # - Use Supabase pooler (port 6543) for connection pooling
-# - Using Upstash Redis (not Render Redis) for both Reframe and Sketch2BIM
+# - Using Upstash Redis (not Render Redis) for all services
 # - Upstash Redis credentials: Get from https://console.upstash.com/redis
 # - Upstash free tier: 256MB, 500K commands/month (can upgrade to pay-as-you-go or fixed plan)
-
+# - All secrets use sync: false to prompt for values in Render Dashboard
+# - ADMIN_EMAILS configured for all services with app-specific prefixes

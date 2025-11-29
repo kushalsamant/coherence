@@ -69,7 +69,6 @@ This guide provides step-by-step instructions for configuring Vercel and Render 
    - `ASK_AUTH_SECRET` = `lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=`
    - `ASK_AUTH_URL` = `https://ask.kvshvl.in`
    - `ASK_BACKEND_URL` = `https://ask-api.onrender.com`
-   - `ASK_GROQ_API_BASE` = `https://api.groq.com/openai/v1`
    - `ASK_NEXT_PUBLIC_API_URL` = `https://ask-api.onrender.com`
    - `ASK_NEXTAUTH_SECRET` = `lFGHiDWlnSC1yn1F95VgqttX0WZ2s4o+Ybsm9ELw564=`
    - `ASK_NEXTAUTH_URL` = `https://ask.kvshvl.in`
@@ -304,6 +303,24 @@ This guide provides step-by-step instructions for configuring Vercel and Render 
 
 - **Vercel:** Usually completes in 1-3 minutes
 - **Render:** Usually completes in 2-5 minutes per service
+
+### Step 5.1a: Automated Verification (Optional)
+
+Run the deployment verification script to check health endpoints:
+
+```powershell
+.\scripts\verify-deployment.ps1
+```
+
+For verbose output:
+```powershell
+.\scripts\verify-deployment.ps1 -Verbose
+```
+
+This script checks:
+- All backend health endpoints
+- Environment file existence
+- Provides summary of deployment status
 
 ### Step 5.2: Test Authentication Flow
 
