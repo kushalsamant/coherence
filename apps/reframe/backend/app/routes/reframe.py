@@ -24,7 +24,10 @@ import os
 
 router = APIRouter()
 
-FREE_LIMIT = int(os.getenv("REFRAME_FREE_LIMIT", os.getenv("FREE_LIMIT", "5")))
+from ..config import get_settings
+
+settings = get_settings()
+FREE_LIMIT = settings.FREE_LIMIT
 
 
 @router.post("/api/reframe", response_model=ReframeResponse)

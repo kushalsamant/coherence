@@ -19,7 +19,7 @@ from .monitoring.metrics import get_metrics, get_metrics_content_type
 from .utils.logging import configure_logging
 configure_logging(
     log_level=settings.LOG_LEVEL,
-    json_format=os.getenv("SKETCH2BIM_JSON_LOGGING", os.getenv("JSON_LOGGING", "false")).lower() == "true"
+    json_format=os.getenv("SKETCH2BIM_JSON_LOGGING", "false").lower() == "true"
 )
 
 

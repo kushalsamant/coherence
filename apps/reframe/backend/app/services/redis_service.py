@@ -12,8 +12,8 @@ class RedisService:
     """Upstash Redis REST API client"""
     
     def __init__(self):
-        self.url = os.getenv("REFRAME_UPSTASH_REDIS_REST_URL", os.getenv("UPSTASH_REDIS_REST_URL"))
-        self.token = os.getenv("REFRAME_UPSTASH_REDIS_REST_TOKEN", os.getenv("UPSTASH_REDIS_REST_TOKEN"))
+        self.url = os.getenv("REFRAME_UPSTASH_REDIS_REST_URL")
+        self.token = os.getenv("REFRAME_UPSTASH_REDIS_REST_TOKEN")
         if not self.url or not self.token:
             raise ValueError("UPSTASH_REDIS_REST_URL and UPSTASH_REDIS_REST_TOKEN must be set")
         

@@ -13,8 +13,8 @@ from sqlalchemy.orm import Session
 log = logging.getLogger(__name__)
 
 # Groq API configuration
-GROQ_API_KEY = os.getenv('ASK_GROQ_API_KEY', os.getenv('GROQ_API_KEY'))
-GROQ_MODEL = os.getenv('ASK_GROQ_MODEL', os.getenv('GROQ_MODEL', 'llama-3.1-70b-versatile'))
+GROQ_API_KEY = os.getenv('ASK_GROQ_API_KEY', '')
+GROQ_MODEL = os.getenv('ASK_GROQ_MODEL', 'llama-3.1-70b-versatile')
 
 # Groq pricing (Llama 3.1 70B Versatile)
 GROQ_INPUT_COST_PER_MILLION = 0.59  # $0.59 per 1M input tokens

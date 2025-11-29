@@ -15,7 +15,7 @@ from api.services.csv_service import (
 router = APIRouter()
 
 # Get API base URL from environment or use default
-API_BASE_URL = os.getenv('ASK_API_BASE_URL', os.getenv('API_BASE_URL', os.getenv('ASK_BACKEND_URL', os.getenv('BACKEND_URL', 'http://localhost:8000'))))
+API_BASE_URL = os.getenv('ASK_API_BASE_URL', os.getenv('ASK_BACKEND_URL', 'http://localhost:8000'))
 
 
 def get_image_url(filename: Optional[str]) -> Optional[str]:

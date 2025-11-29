@@ -18,7 +18,7 @@ class User(Base):
     
     # Credits
     credits = Column(Integer, default=0)  # Start with 0 credits - unlimited during trial, then must upgrade
-    subscription_tier = Column(String, default="trial")  # trial|week|month|year
+    subscription_tier = Column(String, default="trial")  # trial|week|monthly|yearly
     subscription_status = Column(String, default="inactive")  # inactive|active|cancelled
     razorpay_customer_id = Column(String, unique=True, index=True)  # Razorpay customer ID
     subscription_expires_at = Column(DateTime)
@@ -117,7 +117,7 @@ class Payment(Base):
     status = Column(String)  # succeeded|pending|failed
     
     # Product
-    product_type = Column(String)  # single|trial|week|month|year|one_time
+    product_type = Column(String)  # single|trial|week|monthly|yearly|one_time
     credits_added = Column(Integer, default=0)
     
     # Cost tracking

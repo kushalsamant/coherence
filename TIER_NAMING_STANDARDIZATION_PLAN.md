@@ -1,153 +1,213 @@
-# Tier Naming Standardization Plan - HIGH PRIORITY
+# Tier Naming Standardization Plan - Standardize to "monthly"/"yearly"
 
-## Problem
+## Decision
 
-Reframe uses `"monthly"` and `"yearly"` tier names while ASK and Sketch2BIM use `"month"` and `"year"`. This creates:
-- Cross-app integration complexity
-- Potential bugs when sharing code
-- Confusion in documentation
+**Standard:** Use `"monthly"` and `"yearly"` tier names across all applications (matching Reframe's current naming).
 
-## Solution
+**Action Required:** Update ASK and Sketch2BIM to change from `"month"`/`"year"` to `"monthly"`/`"yearly"`.
 
-Standardize Reframe to use `"month"` and `"year"` to match ASK/Sketch2BIM pattern.
+## Progress Status
 
-## Files That Need Changes
+### ✅ COMPLETED - Backend Core Logic
 
-### 1. Core Subscription Logic (CRITICAL)
+1. ✅ **ASK Subscription Utils** (`apps/ask/api/utils/subscription.py`)
+   - Updated SUBSCRIPTION_DURATIONS to use "monthly"/"yearly"
+   - Added backwards compatibility for "month"/"year"
+   - Added normalize_tier() function
 
-**File:** `apps/reframe/lib/subscription.ts`
-- Line 12: Change `monthly: 30,` to `month: 30,`
-- Line 13: Change `yearly: 365,` to `year: 365,`
-- Line 17: Change `["daily", "week", "monthly", "yearly"]` to `["daily", "week", "month", "year"]`
-- Line 21: Update comment to reflect new tier names
+2. ✅ **Sketch2BIM Subscription Utils** (`apps/sketch2bim/backend/app/utils/subscription.py`)
+   - Updated SUBSCRIPTION_DURATIONS to use "monthly"/"yearly"
+   - Added backwards compatibility for "month"/"year"
+   - Added normalize_tier() function
 
-### 2. Backend Subscription Service
+3. ✅ **Shared Backend Subscription Utils** (`packages/shared-backend/subscription/utils.py`)
+   - Updated SUBSCRIPTION_DURATIONS to use "monthly"/"yearly"
+   - Added backwards compatibility for "month"/"year"
+   - Added normalize_tier() function
 
-**File:** `apps/reframe/backend/app/services/subscription_service.py`
-- Line 13: Change `"monthly": 30,` to `"month": 30,`
-- Line 14: Change `"yearly": 365,` to `"year": 365,`
-- Line 18: Change `{"week", "monthly", "yearly"}` to `{"week", "month", "year"}`
+### ✅ COMPLETED - Payment Processing Routes
 
-### 3. Payment Processing Routes (CRITICAL)
+4. ✅ **ASK Payment Routes** (`apps/ask/api/routes/payments.py`)
+   - Updated AMOUNT_TO_TIER to use "monthly"/"yearly"
+   - Updated PLAN_TO_TIER to use "monthly"/"yearly"
+   - Updated checkout route with backwards compatibility
+   - Updated docstrings
 
-**File:** `apps/reframe/app/api/razorpay/checkout/route.ts`
-- Line 19: Update comment to use "month"/"year"
-- Line 48: Change default from `"monthly"` to `"month"`
-- Line 54: Change `["week", "monthly", "yearly"]` to `["week", "month", "year"]`
-- Line 75: Change `monthly: getRazorpayPlanMonthly(),` to `month: getRazorpayPlanMonthly(),`
-- Line 76: Change `yearly: getRazorpayPlanYearly(),` to `year: getRazorpayPlanYearly(),`
-- Line 160: Change `monthly: getRazorpayMonthlyAmount(),` to `month: getRazorpayMonthlyAmount(),`
-- Line 161: Change `yearly: getRazorpayYearlyAmount(),` to `year: getRazorpayYearlyAmount(),`
+5. ✅ **Sketch2BIM Payment Routes** (`apps/sketch2bim/backend/app/routes/payments.py`)
+   - Updated AMOUNT_TO_TIER to use "monthly"/"yearly"
+   - Updated PLAN_TO_TIER to use "monthly"/"yearly"
+   - Updated checkout route with backwards compatibility
+   - Updated docstrings
 
-**File:** `apps/reframe/app/api/razorpay-webhook/route.ts`
-- Line 19: Change type from `"week" | "monthly" | "yearly"` to `"week" | "month" | "year"`
-- Line 21: Change `"monthly"` to `"month"`
-- Line 22: Change `"yearly"` to `"year"`
-- Line 26: Change type from `"week" | "monthly" | "yearly"` to `"week" | "month" | "year"`
-- Line 28: Change `"monthly"` to `"month"`
-- Line 29: Change `"yearly"` to `"year"`
-- Line 95: Change `["week", "monthly", "yearly"]` to `["week", "month", "year"]`
-- Line 100: Change type annotation to `"week" | "month" | "year"`
-- Line 139: Change default from `"monthly"` to `"month"`
-- Line 147: Change type annotation to `"week" | "month" | "year"`
+### ✅ COMPLETED - Database Models & Config
 
-### 4. Type Definitions (CRITICAL)
+6. ✅ **ASK Database Models** (`apps/ask/api/models_db.py`)
+   - Updated comments to reflect "monthly"/"yearly" (backwards compatible)
 
-**File:** `apps/reframe/types/index.ts`
-- Line 3: Change `'trial' | 'week' | 'monthly' | 'yearly'` to `'trial' | 'week' | 'month' | 'year'`
-- Line 11: Update legacy subscription type if still needed
+7. ✅ **Sketch2BIM Database Models** (`apps/sketch2bim/backend/app/models.py`)
+   - Updated comments to reflect "monthly"/"yearly" (backwards compatible)
 
-### 5. Frontend Components
+8. ✅ **Shared Backend Feasibility Service** (`packages/shared-backend/feasibility/feasibility_service.py`)
+   - Updated PRICING_TIERS to use "monthly"/"yearly" with backwards compatibility
 
-**File:** `apps/reframe/components/ui/dual-price-display.tsx`
-- Line 6: Change key from `monthly:` to `month:`
-- Line 7: Change key from `yearly:` to `year:`
+9. ✅ **Sketch2BIM Config** (`apps/sketch2bim/backend/app/config.py`)
+   - Updated comments to use "Monthly"/"Yearly"
 
-**File:** `apps/reframe/app/pricing/page.tsx`
-- Line 16: Change `monthly:` to `month:`
-- Line 17: Change `yearly:` to `year:`
-- Line 30: Change type from `"monthly" | "yearly"` to `"month" | "year"`
-- Update all PRICING_TIERS to use "month"/"year"
+### ⏳ PENDING - Frontend Components
 
-**File:** `apps/reframe/app/page.tsx`
-- Lines 43-49: Update tier checks from `"monthly"/"yearly"` to `"month"/"year"`
+10. ⏳ **ASK Frontend Pricing Page** (`apps/ask/frontend/app/pricing/page.tsx`)
+    - Line 44: Change `['week', 'month', 'year']` to `['week', 'monthly', 'yearly']` (with backwards compatibility)
+    - Line 145: Change `tier: 'month'` to `tier: 'monthly'`
+    - Line 161: Change `tier: 'year'` to `tier: 'yearly'`
+    - Update pricing plan display names if needed
 
-**File:** `apps/reframe/app/settings/page.tsx`
-- Update any tier comparisons to use "month"/"year"
+11. ⏳ **Sketch2BIM Frontend Pricing Page** (`apps/sketch2bim/frontend/app/pricing/page.tsx`)
+    - Line 70: Change `['week', 'month', 'year']` to `['week', 'monthly', 'yearly']` (with backwards compatibility)
+    - Line 173: Change `tier: 'month'` to `tier: 'monthly'`
+    - Line 183: Change `tier: 'year'` to `tier: 'yearly'`
+    - Update pricing plan display names if needed
 
-### 6. Scripts
+12. ⏳ **Sketch2BIM Settings Page** (`apps/sketch2bim/frontend/app/settings/page.tsx`)
+    - Line 71-72: Update tier color cases from `'month'`/`'year'` to `'monthly'`/`'yearly'` (with backwards compatibility)
 
-**File:** `apps/reframe/scripts/create_razorpay_plans.ts`
-- Update tier references from "monthly"/"yearly" to "month"/"year"
-- Update environment variable mappings
+13. ⏳ **Sketch2BIM Payment History Page** (`apps/sketch2bim/frontend/app/settings/payments/page.tsx`)
+    - Lines 90-93: Update getProductTypeLabel() to handle "monthly"/"yearly" (with backwards compatibility)
+    - Line 102: Update getCreditsLabel() check to include "monthly"/"yearly"
 
-### 7. Documentation
+14. ⏳ **Sketch2BIM CreditsDisplay Component** (`apps/sketch2bim/frontend/components/CreditsDisplay.tsx`)
+    - Lines 42-45: Update getTierColor() cases from `'month'`/`'year'` to `'monthly'`/`'yearly'` (with backwards compatibility)
+    - Lines 57-60: Update getTierBadge() cases from `'month'`/`'year'` to `'monthly'`/`'yearly'` (with backwards compatibility)
+    - Line 69: Update paid tier check to include "monthly"/"yearly"
 
-**File:** `apps/reframe/readme.md`
-- Update all references from "monthly"/"yearly" to "month"/"year"
+### ⏳ PENDING - Backend Schemas & Scripts
 
-**File:** `apps/reframe/app/terms/page.tsx`
-- Update pricing descriptions to use "month"/"year" terminology
+15. ⏳ **Sketch2BIM Schemas** (`apps/sketch2bim/backend/app/schemas.py`)
+    - Line 26: Change `MONTH = "month"` to `MONTHLY = "monthly"`
+    - Line 27: Change `YEAR = "year"` to `YEARLY = "yearly"`
+    - Keep backwards compatibility if this enum is used in validation
 
-### 8. Backend Services
+16. ⏳ **Sketch2BIM Razorpay Plans Script** (`apps/sketch2bim/scripts/create_razorpay_plans.py`)
+    - Line 84: Change `"tier": "month"` to `"tier": "monthly"`
+    - Line 97: Change `"tier": "year"` to `"tier": "yearly"`
+    - Lines 143-146: Update check_existing_plans() to handle both old and new tier names
+    - Lines 193-197: Update output to use "monthly"/"yearly" but note backwards compatibility
 
-**File:** `apps/reframe/backend/app/services/cost_service.py`
-- Update any tier references in comments
+### ✅ VERIFIED - Reframe (Already Uses "monthly"/"yearly")
 
-**File:** `apps/reframe/backend/app/services/groq_monitor.py`
-- Update comments if they reference tiers
+- ✅ Reframe subscription utilities
+- ✅ Reframe payment routes
+- ✅ Reframe frontend components
+- ✅ Reframe type definitions
+- ✅ Reframe scripts
 
-## IMPORTANT CONSIDERATIONS
+No changes needed for Reframe - it already uses the correct naming.
 
-### Database/User Metadata
+## Remaining Files That Need Updates
 
-⚠️ **CRITICAL**: Existing users in production may have `"monthly"` or `"yearly"` stored in their metadata. You need:
+### Critical Frontend Files (Payment Flow)
 
-1. **Migration Strategy**: Decide how to handle existing user data
-   - Option A: Keep both "monthly"/"yearly" and "month"/"year" as valid for backwards compatibility
-   - Option B: Migrate all existing user metadata from "monthly"/"yearly" to "month"/"year"
-   - Option C: Accept both and normalize on read
+1. **ASK Frontend Pricing Page** (`apps/ask/frontend/app/pricing/page.tsx`)
+   - Update tier validation array
+   - Update pricing plan tier values
 
-2. **Environment Variables**: The environment variable names use "MONTH"/"YEAR":
-   - `REFRAME_RAZORPAY_PLAN_MONTH` (already correct)
-   - `REFRAME_RAZORPAY_PLAN_YEAR` (already correct)
-   - These map to config functions that can be used with either naming
+2. **Sketch2BIM Frontend Pricing Page** (`apps/sketch2bim/frontend/app/pricing/page.tsx`)
+   - Update tier validation array
+   - Update pricing plan tier values
 
-### Testing Requirements
+### Frontend Display Components
 
-After making changes, you must test:
-1. Checkout flows for all three tiers (week/month/year)
-2. Webhook processing for all tiers
-3. Subscription status checks
-4. User metadata reading/writing
-5. Pricing page display
+3. **Sketch2BIM Settings Page** (`apps/sketch2bim/frontend/app/settings/page.tsx`)
+   - Update tier color/styling logic
 
-## Implementation Order
+4. **Sketch2BIM Payment History** (`apps/sketch2bim/frontend/app/settings/payments/page.tsx`)
+   - Update product type label display
+   - Update credits label logic
 
-1. **Phase 1: Core Logic** (Backend subscription utilities)
-2. **Phase 2: Payment Routes** (Checkout and webhook handlers)
-3. **Phase 3: Type Definitions** (Update TypeScript types)
-4. **Phase 4: Frontend Components** (UI updates)
-5. **Phase 5: Documentation** (Readmes and user-facing text)
-6. **Phase 6: Migration** (Handle existing user data if needed)
+5. **Sketch2BIM CreditsDisplay** (`apps/sketch2bim/frontend/components/CreditsDisplay.tsx`)
+   - Update tier badge display
+   - Update tier color logic
 
-## Risk Assessment
+### Backend Schemas
 
-**HIGH RISK AREAS:**
-- Payment processing routes (could break checkout)
-- Webhook handlers (could fail to process payments)
-- Subscription status checks (could deny access incorrectly)
+6. **Sketch2BIM Schemas Enum** (`apps/sketch2bim/backend/app/schemas.py`)
+   - Update SubscriptionTier enum values
+   - Ensure backwards compatibility if used in validation
 
-**MEDIUM RISK AREAS:**
-- Frontend display (cosmetic, won't break functionality)
-- Documentation (informational only)
+### Scripts
 
-## Recommendation
+7. **Sketch2BIM Razorpay Plans Script** (`apps/sketch2bim/scripts/create_razorpay_plans.py`)
+   - Update tier values in plan notes
+   - Update plan checking logic
 
-Given the high priority status, I recommend:
-1. Start with core subscription logic (lib/subscription.ts, backend service)
-2. Update payment routes carefully with extensive testing
-3. Update frontend components
-4. Add backwards compatibility layer if needed for existing users
-5. Update documentation last
+## Backwards Compatibility Strategy
 
+**Implemented in Backend:**
+- All SUBSCRIPTION_DURATIONS dictionaries include both old and new formats
+- normalize_tier() functions convert old to new format when needed
+- Payment routes accept both formats in their tier mappings
+
+**Required in Frontend:**
+- Frontend validation should accept both formats OR normalize before sending
+- Display components should handle both formats gracefully
+- Product type labels should handle both formats
+
+## Important Considerations
+
+### Existing User Data
+
+⚠️ **CRITICAL**: Existing users in production may have `"month"` or `"year"` stored in their subscription_tier field.
+
+**Solution Implemented:**
+- Backend normalization functions handle conversion
+- Payment routes accept both formats
+- Subscription utilities accept both formats
+
+**Frontend Considerations:**
+- Frontend should either:
+  - Accept both formats in validation
+  - Normalize before sending to backend
+  - Display both formats correctly
+
+### Environment Variables
+
+**Note:** Environment variable names remain the same (they use MONTH/YEAR in the name, not in the value):
+- `RAZORPAY_MONTH_AMOUNT` (amount value, not tier name)
+- `RAZORPAY_YEAR_AMOUNT` (amount value, not tier name)
+
+These don't need to change - only the tier name strings used in code need updating.
+
+## Testing Requirements
+
+After completing all changes, test:
+1. ✅ Backend: Checkout flows for all three tiers (week/monthly/yearly) - Backend accepts both formats
+2. ✅ Backend: Webhook processing for all tiers - Handles both formats
+3. ⏳ Frontend: Pricing page tier validation and display
+4. ⏳ Frontend: Checkout flow from pricing page
+5. ⏳ Frontend: Settings page tier display
+6. ⏳ Frontend: Payment history product type labels
+
+## Implementation Priority
+
+### High Priority (Blocks Functionality)
+
+1. ⏳ Frontend pricing pages (tier validation must accept both or normalize)
+2. ⏳ Frontend checkout flows (must send correct tier names)
+
+### Medium Priority (Display Only)
+
+3. ⏳ Settings pages (cosmetic tier display)
+4. ⏳ Payment history labels (cosmetic)
+5. ⏳ CreditsDisplay component (cosmetic)
+
+### Low Priority (Validation/Enums)
+
+6. ⏳ Backend schemas enum (may affect validation if used strictly)
+7. ⏳ Script tier notes (for plan creation, not runtime)
+
+## Summary
+
+**Completed:** ✅ Backend core logic, payment routes, database models, shared services
+**Remaining:** ⏳ Frontend components, backend schemas enum, scripts
+
+**Total Files Updated:** 9 backend files ✅
+**Total Files Remaining:** 7 files (5 frontend, 1 schema, 1 script) ⏳

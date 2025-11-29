@@ -11,11 +11,11 @@ from sqlalchemy.orm import Session
 SUBSCRIPTION_DURATIONS = {
     "trial": timedelta(days=7),
     "week": timedelta(days=7),
-    "month": timedelta(days=30),
-    "year": timedelta(days=365),
+    "monthly": timedelta(days=30),
+    "yearly": timedelta(days=365),
 }
 
-PAID_TIERS = {"week", "month", "year"}
+PAID_TIERS = {"week", "monthly", "yearly"}
 
 
 def calculate_expiry(tier: str, reference: Optional[datetime] = None) -> Optional[datetime]:
@@ -23,7 +23,7 @@ def calculate_expiry(tier: str, reference: Optional[datetime] = None) -> Optiona
     Return expiry datetime for a tier.
     
     Args:
-        tier: Subscription tier (trial, week, month, year)
+        tier: Subscription tier (trial, week, monthly, yearly)
         reference: Reference datetime (defaults to now)
         
     Returns:
@@ -46,6 +46,8 @@ def is_paid_tier(tier: Optional[str]) -> bool:
     Returns:
         True if tier is a paid tier
     """
+    if not tier:
+        return False
     return tier in PAID_TIERS
 
 

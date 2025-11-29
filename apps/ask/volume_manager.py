@@ -13,7 +13,7 @@ from typing import Tuple
 log = logging.getLogger(__name__)
 
 # Environment variables
-LOG_CSV_FILE = os.getenv('ASK_LOG_CSV_FILE', os.getenv('LOG_CSV_FILE', 'log.csv'))
+LOG_CSV_FILE = os.getenv('ASK_LOG_CSV_FILE', 'log.csv')
 QA_PAIRS_PER_VOLUME = int(os.getenv('QA_PAIRS_PER_VOLUME', '100'))
 DEFAULT_VOLUME_NUMBER = int(os.getenv('IMAGE_VOLUME_NUMBER', '1'))
 

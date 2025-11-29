@@ -21,9 +21,9 @@ class Settings(BaseSettings):
     
     # Application (override base)
     APP_NAME: str = "ASK: Daily Research"
-    
-    # Database
-    DATABASE_URL: str = os.getenv("ASK_DATABASE_URL", os.getenv("DATABASE_URL", "sqlite:///./ask.db"))
+
+    # Database (prefixed only; falls back to local sqlite if not set)
+    DATABASE_URL: str = os.getenv("ASK_DATABASE_URL", "sqlite:///./ask.db")
     DATABASE_URL_OVERRIDE: str = os.getenv("ASK_DATABASE_URL_OVERRIDE", "")
     DATABASE_PASSWORD_OVERRIDE: str = os.getenv("ASK_DATABASE_PASSWORD_OVERRIDE", "")
     
@@ -75,10 +75,10 @@ class Settings(BaseSettings):
         
         return base_url
     
-    # Payments - Razorpay
-    RAZORPAY_KEY_ID: str = os.getenv("ASK_RAZORPAY_KEY_ID", os.getenv("RAZORPAY_KEY_ID", ""))
-    RAZORPAY_KEY_SECRET: str = os.getenv("ASK_RAZORPAY_KEY_SECRET", os.getenv("RAZORPAY_KEY_SECRET", ""))
-    RAZORPAY_WEBHOOK_SECRET: str = os.getenv("ASK_RAZORPAY_WEBHOOK_SECRET", os.getenv("RAZORPAY_WEBHOOK_SECRET", ""))
+    # Payments - Razorpay (prefixed only; unprefixed RAZORPAY_* no longer used)
+    RAZORPAY_KEY_ID: str = os.getenv("ASK_RAZORPAY_KEY_ID", "")
+    RAZORPAY_KEY_SECRET: str = os.getenv("ASK_RAZORPAY_KEY_SECRET", "")
+    RAZORPAY_WEBHOOK_SECRET: str = os.getenv("ASK_RAZORPAY_WEBHOOK_SECRET", "")
     
     # Legacy aliases (for backward compatibility)
     LIVE_KEY_ID: str = os.getenv("LIVE_KEY_ID", "")
@@ -95,20 +95,33 @@ class Settings(BaseSettings):
         return self.RAZORPAY_KEY_SECRET or self.LIVE_KEY_SECRET
     
     # Pricing in paise (₹1 = 100 paise)
-    # Shared across all projects - check prefixed first, then unprefixed, then default
-    RAZORPAY_WEEK_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_WEEK_AMOUNT", "RAZORPAY_WEEK_AMOUNT", 129900)
-    RAZORPAY_MONTH_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_MONTH_AMOUNT", "RAZORPAY_MONTH_AMOUNT", 349900)
-    RAZORPAY_YEAR_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_YEAR_AMOUNT", "RAZORPAY_YEAR_AMOUNT", 2999900)
+    # Shared across all projects - prefixed variables only, with hard defaults
+    RAZORPAY_WEEK_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_WEEK_AMOUNT", "ASK_RAZORPAY_WEEK_AMOUNT", 129900)
+    RAZORPAY_MONTH_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_MONTH_AMOUNT", "ASK_RAZORPAY_MONTH_AMOUNT", 349900)
+    RAZORPAY_YEAR_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_YEAR_AMOUNT", "ASK_RAZORPAY_YEAR_AMOUNT", 2999900)
     
     # Razorpay Plan IDs for subscriptions (created via scripts/create_razorpay_plans.py)
-    # Shared across all projects - check prefixed first, then unprefixed, then default
-    RAZORPAY_PLAN_WEEK: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_WEEK", "RAZORPAY_PLAN_WEEK", "")
-    RAZORPAY_PLAN_MONTH: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_MONTH", "RAZORPAY_PLAN_MONTH", "")
-    RAZORPAY_PLAN_YEAR: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_YEAR", "RAZORPAY_PLAN_YEAR", "")
-    
-    # Frontend URL
-    FRONTEND_URL: str = os.getenv("ASK_FRONTEND_URL", os.getenv("FRONTEND_URL", "http://localhost:3000"))
-    
+    # Shared across all projects - prefixed variables only
+    RAZORPAY_PLAN_WEEK: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_WEEK", "ASK_RAZORPAY_PLAN_WEEK", "")
+    RAZORPAY_PLAN_MONTH: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_MONTH", "ASK_RAZORPAY_PLAN_MONTH", "")
+    RAZORPAY_PLAN_YEAR: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_YEAR", "ASK_RAZORPAY_PLAN_YEAR", "")
+
+    # Frontend URL (prefixed only; defaults to localhost for development)
+    FRONTEND_URL: str = os.getenv("ASK_FRONTEND_URL", "http://localhost:3000")
+
+    # CORS
+    CORS_ORIGINS: str = os.getenv(
+        "ASK_CORS_ORIGINS",
+        "http://localhost:3000,http://localhost:3001,https://ask.kvshvl.in,https://www.ask.kvshvl.in",
+    )
+
+    @property
+    def cors_origins_list(self) -> list[str]:
+        """Get CORS origins as a list."""
+        if not self.CORS_ORIGINS:
+            return ["http://localhost:3000"]
+        return [origin.strip() for origin in self.CORS_ORIGINS.split(",")]
+
     class Config:
         # Environment variables loaded from ask.env.production
         # via load_dotenv() call above (before this class is initialized)

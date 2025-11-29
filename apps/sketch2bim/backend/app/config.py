@@ -31,18 +31,25 @@ class Settings(BaseSettings):
     REQUEST_TIMEOUT_SECONDS: float = 300.0  # 5 minutes default timeout
     
     # CORS
-    ALLOWED_ORIGINS: str = "http://localhost:3000"
-    
+    # Prefer prefixed CORS_ORIGINS; SKETCH2BIM_ALLOWED_ORIGINS is supported as a legacy alias.
+    CORS_ORIGINS: str = os.getenv(
+        "SKETCH2BIM_CORS_ORIGINS",
+        os.getenv("SKETCH2BIM_ALLOWED_ORIGINS", "http://localhost:3000"),
+    )
+
     @property
     def cors_origins_list(self) -> List[str]:
-        """Return allowed CORS origins as a list (naming aligned with other apps)."""
-        return [origin.strip() for origin in self.ALLOWED_ORIGINS.split(",")]
+        """Return allowed CORS origins as a list."""
+        if not self.CORS_ORIGINS:
+            return ["http://localhost:3000"]
+        return [origin.strip() for origin in self.CORS_ORIGINS.split(",")]
     
     # Database
     # Supabase provides DATABASE_URL automatically when Supabase Postgres is configured
-    DATABASE_URL: str = os.getenv("SKETCH2BIM_DATABASE_URL", os.getenv("DATABASE_URL", "postgresql://postgres:password@localhost:5432/sketch2bim"))
-    DATABASE_URL_OVERRIDE: str = os.getenv("SKETCH2BIM_DATABASE_URL_OVERRIDE", os.getenv("DATABASE_URL_OVERRIDE", ""))
-    DATABASE_PASSWORD_OVERRIDE: str = os.getenv("SKETCH2BIM_DATABASE_PASSWORD_OVERRIDE", os.getenv("DATABASE_PASSWORD_OVERRIDE", ""))
+    # Use only prefixed env vars; fall back to local Postgres for development.
+    DATABASE_URL: str = os.getenv("SKETCH2BIM_DATABASE_URL", "postgresql://postgres:password@localhost:5432/sketch2bim")
+    DATABASE_URL_OVERRIDE: str = os.getenv("SKETCH2BIM_DATABASE_URL_OVERRIDE", "")
+    DATABASE_PASSWORD_OVERRIDE: str = os.getenv("SKETCH2BIM_DATABASE_PASSWORD_OVERRIDE", "")
 
     @property
     def database_url(self) -> str:
@@ -97,21 +104,22 @@ class Settings(BaseSettings):
     
     # Redis
     # Upstash provides REDIS_URL automatically when Upstash Redis is configured
-    REDIS_URL: str = os.getenv("SKETCH2BIM_REDIS_URL", os.getenv("REDIS_URL", "redis://localhost:6379/0"))
-    UPSTASH_REDIS_REST_URL: str = os.getenv("SKETCH2BIM_UPSTASH_REDIS_REST_URL", os.getenv("UPSTASH_REDIS_REST_URL", ""))
-    UPSTASH_REDIS_REST_TOKEN: str = os.getenv("SKETCH2BIM_UPSTASH_REDIS_REST_TOKEN", os.getenv("UPSTASH_REDIS_REST_TOKEN", ""))
+    # Use only prefixed env vars; fall back to local Redis if not set.
+    REDIS_URL: str = os.getenv("SKETCH2BIM_REDIS_URL", "redis://localhost:6379/0")
+    UPSTASH_REDIS_REST_URL: str = os.getenv("SKETCH2BIM_UPSTASH_REDIS_REST_URL", "")
+    UPSTASH_REDIS_REST_TOKEN: str = os.getenv("SKETCH2BIM_UPSTASH_REDIS_REST_TOKEN", "")
     
-    # Authentication
-    SECRET_KEY: str = os.getenv("SKETCH2BIM_SECRET_KEY", os.getenv("SECRET_KEY", ""))
+    # Authentication - prefixed envs only
+    SECRET_KEY: str = os.getenv("SKETCH2BIM_SECRET_KEY", "")
     JWT_ALGORITHM: str = "HS256"
     JWT_EXPIRATION_HOURS: int = 24
-    NEXTAUTH_SECRET: str = os.getenv("SKETCH2BIM_NEXTAUTH_SECRET", os.getenv("NEXTAUTH_SECRET", ""))
+    NEXTAUTH_SECRET: str = os.getenv("SKETCH2BIM_NEXTAUTH_SECRET", "")
     
     # Payments - Razorpay
-    # Supports both RAZORPAY_KEY_ID and LIVE_KEY_ID for backward compatibility
-    RAZORPAY_KEY_ID: str = os.getenv("SKETCH2BIM_RAZORPAY_KEY_ID", os.getenv("RAZORPAY_KEY_ID", ""))
-    RAZORPAY_KEY_SECRET: str = os.getenv("SKETCH2BIM_RAZORPAY_KEY_SECRET", os.getenv("RAZORPAY_KEY_SECRET", ""))
-    RAZORPAY_WEBHOOK_SECRET: str = os.getenv("SKETCH2BIM_RAZORPAY_WEBHOOK_SECRET", os.getenv("RAZORPAY_WEBHOOK_SECRET", ""))
+    # Prefixed envs only; unprefixed RAZORPAY_* will no longer be read here.
+    RAZORPAY_KEY_ID: str = os.getenv("SKETCH2BIM_RAZORPAY_KEY_ID", "")
+    RAZORPAY_KEY_SECRET: str = os.getenv("SKETCH2BIM_RAZORPAY_KEY_SECRET", "")
+    RAZORPAY_WEBHOOK_SECRET: str = os.getenv("SKETCH2BIM_RAZORPAY_WEBHOOK_SECRET", "")
     
     # Legacy aliases (for backward compatibility)
     LIVE_KEY_ID: str = os.getenv("LIVE_KEY_ID", "")
@@ -130,8 +138,8 @@ class Settings(BaseSettings):
     # Pricing in paise (₹1 = 100 paise)
     # Trial tier handled separately (free)
     # Week: ₹1,299/week = 129900 paise
-    # Month: ₹3,499/month = 349900 paise
-    # Year: ₹29,999/year = 2999900 paise
+    # Monthly: ₹3,499/month = 349900 paise
+    # Yearly: ₹29,999/year = 2999900 paise
     # Shared across all projects - check prefixed first, then unprefixed, then default
     RAZORPAY_WEEK_AMOUNT: int = get_env_int_with_fallback("SKETCH2BIM_RAZORPAY_WEEK_AMOUNT", "RAZORPAY_WEEK_AMOUNT", 129900)
     RAZORPAY_MONTH_AMOUNT: int = get_env_int_with_fallback("SKETCH2BIM_RAZORPAY_MONTH_AMOUNT", "RAZORPAY_MONTH_AMOUNT", 349900)
@@ -143,10 +151,10 @@ class Settings(BaseSettings):
     RAZORPAY_PLAN_MONTH: str = get_env_with_fallback("SKETCH2BIM_RAZORPAY_PLAN_MONTH", "RAZORPAY_PLAN_MONTH", "")
     RAZORPAY_PLAN_YEAR: str = get_env_with_fallback("SKETCH2BIM_RAZORPAY_PLAN_YEAR", "RAZORPAY_PLAN_YEAR", "")
     
-    # BunnyCDN
-    BUNNY_STORAGE_ZONE: str = os.getenv("SKETCH2BIM_BUNNY_STORAGE_ZONE", os.getenv("BUNNY_STORAGE_ZONE", ""))
-    BUNNY_ACCESS_KEY: str = os.getenv("SKETCH2BIM_BUNNY_ACCESS_KEY", os.getenv("BUNNY_ACCESS_KEY", ""))
-    BUNNY_CDN_HOSTNAME: str = os.getenv("SKETCH2BIM_BUNNY_CDN_HOSTNAME", os.getenv("BUNNY_CDN_HOSTNAME", ""))
+    # BunnyCDN - prefixed envs only
+    BUNNY_STORAGE_ZONE: str = os.getenv("SKETCH2BIM_BUNNY_STORAGE_ZONE", "")
+    BUNNY_ACCESS_KEY: str = os.getenv("SKETCH2BIM_BUNNY_ACCESS_KEY", "")
+    BUNNY_CDN_HOSTNAME: str = os.getenv("SKETCH2BIM_BUNNY_CDN_HOSTNAME", "")
     BUNNY_REGION: str = "storage.bunnycdn.com"
     BUNNY_SIGNED_URL_KEY: str = ""
     BUNNY_SIGNED_URL_EXPIRY: int = 604800  # 7 days

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Platform Dashboard (`/admin/platform-dashboard`) provides comprehensive business feasibility analysis for the KVSHVL platform (ASK, Sketch2BIM, and Reframe). Access is restricted to admin users only.
+The Platform Dashboard (`/admin`) provides comprehensive business feasibility analysis for the KVSHVL platform (ASK, Sketch2BIM, and Reframe). Access is restricted to admin users only.
 
 ## Backend Configuration
 
@@ -33,7 +33,7 @@ The dashboard requires:
 
 ### Accessing the Dashboard
 
-1. Navigate to: `https://ask.kvshvl.in/admin/platform-dashboard` (or your domain)
+1. Navigate to: `https://kvshvl.in/admin`
 2. Sign in if not already authenticated
 3. If you're an admin, you'll see the dashboard
 4. If you're not an admin, you'll see an "Access Denied" message
@@ -126,7 +126,7 @@ ASK_ADMIN_EMAILS=admin1@example.com,admin2@example.com,admin3@example.com
 
 After setting up admin access:
 
-1. **Test the dashboard** - Access `/admin/platform-dashboard` and verify it loads
+1. **Test the dashboard** - Access `/admin` and verify it loads
 2. **Review metrics** - Check that cost and revenue data is displaying correctly
 3. **Generate reports** - Use the report endpoint to generate feasibility reports
 4. **Monitor access** - Check backend logs for any unauthorized access attempts

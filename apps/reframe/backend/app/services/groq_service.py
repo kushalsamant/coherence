@@ -17,7 +17,7 @@ def get_groq_client() -> Groq:
     """Get Groq client instance (lazy initialization)"""
     global _groq_client
     if _groq_client is None:
-        api_key = os.getenv("REFRAME_GROQ_API_KEY", os.getenv("GROQ_API_KEY"))
+        api_key = os.getenv("REFRAME_GROQ_API_KEY", "")
         if not api_key:
             raise ValueError("GROQ_API_KEY environment variable is not set")
         _groq_client = Groq(api_key=api_key)

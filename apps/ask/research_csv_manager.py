@@ -34,7 +34,7 @@ from functools import lru_cache
 log = logging.getLogger(__name__)
 
 # Environment variables
-LOG_CSV_FILE = os.getenv('ASK_LOG_CSV_FILE', os.getenv('LOG_CSV_FILE', 'log.csv'))
+LOG_CSV_FILE = os.getenv('ASK_LOG_CSV_FILE', 'log.csv')
 
 # Configuration constants
 CSV_HEADERS = [

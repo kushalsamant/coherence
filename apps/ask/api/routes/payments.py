@@ -72,11 +72,11 @@ async def razorpay_webhook(
     
     event_type = event.get("event")
     
-    # Map Razorpay amounts to tiers
+    # Map Razorpay amounts to tiers (using "monthly"/"yearly" standard)
     AMOUNT_TO_TIER = {
         settings.RAZORPAY_WEEK_AMOUNT: "week",
-        settings.RAZORPAY_MONTH_AMOUNT: "month",
-        settings.RAZORPAY_YEAR_AMOUNT: "year",
+        settings.RAZORPAY_MONTH_AMOUNT: "monthly",
+        settings.RAZORPAY_YEAR_AMOUNT: "yearly",
     }
     
     # Handle one-time payment captured
@@ -175,11 +175,11 @@ async def razorpay_webhook(
         notes = subscription_data.get("notes", {})
         user_id = notes.get("user_id")
         
-        # Determine tier from plan_id
+        # Determine tier from plan_id (using "monthly"/"yearly" standard)
         plan_to_tier = {
             settings.RAZORPAY_PLAN_WEEK: "week",
-            settings.RAZORPAY_PLAN_MONTH: "month",
-            settings.RAZORPAY_PLAN_YEAR: "year",
+            settings.RAZORPAY_PLAN_MONTH: "monthly",
+            settings.RAZORPAY_PLAN_YEAR: "yearly",
         }
         tier = plan_to_tier.get(plan_data.get("id"))
         
@@ -277,7 +277,7 @@ async def create_checkout_session(
     Create Razorpay order or subscription for checkout
     
     Args:
-        price_id: Tier name ('week', 'month', 'year')
+        price_id: Tier name ('week', 'monthly', 'yearly')
         payment_type: 'one_time' for one-time payment, 'subscription' for recurring
         user: Current user
         db: Database session
@@ -297,8 +297,8 @@ async def create_checkout_session(
             # Create subscription using Plan ID
             plan_map = {
                 "week": settings.RAZORPAY_PLAN_WEEK,
-                "month": settings.RAZORPAY_PLAN_MONTH,
-                "year": settings.RAZORPAY_PLAN_YEAR,
+                "monthly": settings.RAZORPAY_PLAN_MONTH,
+                "yearly": settings.RAZORPAY_PLAN_YEAR,
             }
             
             plan_id = plan_map.get(tier_key)
@@ -358,8 +358,8 @@ async def create_checkout_session(
             # Create one-time order
             tier_map = {
                 "week": settings.RAZORPAY_WEEK_AMOUNT,
-                "month": settings.RAZORPAY_MONTH_AMOUNT,
-                "year": settings.RAZORPAY_YEAR_AMOUNT,
+                "monthly": settings.RAZORPAY_MONTH_AMOUNT,
+                "yearly": settings.RAZORPAY_YEAR_AMOUNT,
             }
             
             amount = tier_map.get(tier_key)

@@ -41,7 +41,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler(f"{os.getenv('ASK_LOG_DIR', os.getenv('LOG_DIR', 'logs'))}/execution.log")
+        logging.FileHandler(f"{os.getenv('ASK_LOG_DIR', 'logs')}/execution.log")
     ]
 )
 log = logging.getLogger()

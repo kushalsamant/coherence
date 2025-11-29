@@ -11,7 +11,7 @@ from api.models import QAPair
 
 log = logging.getLogger(__name__)
 
-LOG_CSV_FILE = os.getenv('ASK_LOG_CSV_FILE', os.getenv('LOG_CSV_FILE', 'log.csv'))
+LOG_CSV_FILE = os.getenv('ASK_LOG_CSV_FILE', 'log.csv')
 
 
 def get_csv_path() -> Path:

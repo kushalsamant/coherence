@@ -12,8 +12,8 @@ from .redis_service import get_redis_service
 GROQ_INPUT_COST_PER_MILLION = 0.05  # $0.05 per 1M input tokens
 GROQ_OUTPUT_COST_PER_MILLION = 0.08  # $0.08 per 1M output tokens
 
-# Alert thresholds (monthly only)
-MONTHLY_COST_THRESHOLD = float(os.getenv("REFRAME_GROQ_MONTHLY_COST_THRESHOLD", os.getenv("GROQ_MONTHLY_COST_THRESHOLD", "50.0")))  # $50/month
+# Alert thresholds (monthly only) - prefixed env only, with default
+MONTHLY_COST_THRESHOLD = float(os.getenv("REFRAME_GROQ_MONTHLY_COST_THRESHOLD", "50.0"))  # $50/month
 
 
 def calculate_groq_cost(input_tokens: int, output_tokens: int) -> float:

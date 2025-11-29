@@ -11,11 +11,11 @@ from decimal import Decimal
 log = logging.getLogger(__name__)
 
 # Pricing structure (in paise, ₹1 = 100 paise)
-# Shared across all projects
+# Shared across all projects - using "monthly"/"yearly" standard
 PRICING_TIERS = {
     "week": 129900,  # ₹1,299/week
-    "month": 349900,  # ₹3,499/month
-    "year": 2999900,  # ₹29,999/year
+    "monthly": 349900,  # ₹3,499/month
+    "yearly": 2999900,  # ₹29,999/year
 }
 
 # Razorpay fee percentage
@@ -30,7 +30,7 @@ def calculate_revenue_per_user_after_fees(tier: str) -> float:
     Calculate revenue per user after Razorpay fees.
     
     Args:
-        tier: Subscription tier (week, month, year)
+        tier: Subscription tier (week, monthly, yearly)
         
     Returns:
         Revenue in paise (after fees)
