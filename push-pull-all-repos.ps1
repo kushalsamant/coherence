@@ -1,5 +1,5 @@
 # push-pull-all-repos.ps1
-# Script to pull and push all git repositories (main repo + submodules)
+# Script to pull and push the main git repository
 
 Write-Host "🔄 Syncing all repositories..." -ForegroundColor Cyan
 Write-Host ""
@@ -71,29 +71,6 @@ Write-Host "━━━━━━━━━━━━━━━━━━━━━━�
 Write-Host "MAIN REPOSITORY" -ForegroundColor Cyan
 Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Cyan
 Sync-Repo -RepoPath $rootDir -RepoName "Main Repository ($(Split-Path -Leaf $rootDir))"
-
-# Sync all submodules
-Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Cyan
-Write-Host "SUBMODULES" -ForegroundColor Cyan
-Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Cyan
-
-# Get all submodules
-$submoduleStatus = git submodule status
-if ($submoduleStatus) {
-    $submoduleLines = $submoduleStatus -split "`n" | Where-Object { $_ -match '^\s*\S+\s+(\S+)' }
-    foreach ($line in $submoduleLines) {
-        if ($line -match '^\s*\S+\s+(\S+)') {
-            $submodulePath = $matches[1]
-            $fullSubmodulePath = Join-Path $rootDir $submodulePath
-            if (Test-Path $fullSubmodulePath) {
-                Sync-Repo -RepoPath $fullSubmodulePath -RepoName "Submodule: $submodulePath"
-            }
-        }
-    }
-} else {
-    Write-Host "No submodules found" -ForegroundColor Gray
-    Write-Host ""
-}
 
 Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Cyan
 Write-Host "✅ All repositories synced!" -ForegroundColor Green

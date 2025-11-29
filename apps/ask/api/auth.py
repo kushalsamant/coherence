@@ -2,6 +2,7 @@
 Authentication dependencies for FastAPI
 Handles user authentication via NextAuth JWT tokens
 """
+import logging
 from datetime import datetime
 from typing import Optional
 
@@ -12,6 +13,8 @@ from sqlalchemy.orm import Session
 from .config import settings
 from .database import get_db
 from .models_db import User
+
+log = logging.getLogger(__name__)
 from shared_backend.auth.jwt import decode_nextauth_jwt
 from shared_backend.subscription.utils import (
     calculate_expiry,
@@ -118,3 +121,29 @@ def require_active_subscription():
     
     return checker
 
+
+def require_admin():
+    """
+    Dependency to ensure the user is an admin.
+    Checks against ADMIN_EMAILS environment variable (comma-separated list).
+    """
+    def checker(user: User = Depends(get_current_user)) -> User:
+        admin_emails = settings.ADMIN_EMAILS or ""
+        admin_email_list = [email.strip().lower() for email in admin_emails.split(",") if email.strip()]
+        
+        if not admin_email_list:
+            log.warning("ADMIN_EMAILS not configured. Admin access denied.")
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail="Admin access not configured. Contact administrator.",
+            )
+        
+        if user.email.lower() not in admin_email_list:
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail="Admin access required. You do not have permission to access this resource.",
+            )
+        
+        return user
+    
+    return checker

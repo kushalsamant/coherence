@@ -8,11 +8,9 @@ import { Check } from "lucide-react";
 import { useEffect, useState } from "react";
 import Link from "next/link";
 // Pricing configuration - using Razorpay
-// Daily: ₹99 = 9900 paise
 // Monthly: ₹999 = 99900 paise
 // Yearly: ₹7,999 = 799900 paise
 const PRICING = {
-  daily: { amount: 99, currency: "INR", symbol: "₹", interval: "day" },
   monthly: { amount: 999, currency: "INR", symbol: "₹", interval: "month" },
   yearly: { amount: 7999, currency: "INR", symbol: "₹", interval: "year" },
 };
@@ -27,7 +25,7 @@ type PricingTier = {
   requests: string;
   features: string[];
   cta: string;
-  plan: "daily" | "monthly" | "yearly";
+  plan: "monthly" | "yearly";
   highlight?: boolean;
   badge?: string;
 };
@@ -45,19 +43,6 @@ const PRICING_TIERS: PricingTier[] = [
     ],
     cta: "Start exploring",
     plan: "monthly",
-  },
-  {
-    name: "Daily Pass",
-    priceDetail: "per day",
-    requests: "Unlimited for 24 hours",
-    features: [
-      "All 6 tones unlocked",
-      "Age targeting included",
-      "10,000 words per request",
-      "Perfect for urgent deadlines",
-    ],
-    cta: "Power through your deadline",
-    plan: "daily",
   },
   {
     name: "Monthly Pro",
@@ -201,12 +186,12 @@ export default function PricingPage() {
         <div className="text-center mb-8">
           <h2 className="text-3xl font-bold mb-2">Subscription Plans</h2>
           <p className="text-lg text-muted-foreground">
-            Recurring plans with unlimited access - daily, monthly, or yearly
+            Recurring plans with unlimited access - monthly or yearly
           </p>
         </div>
 
         {/* Pricing Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
           {PRICING_TIERS.map((tier) => {
             const isFree = tier.name === "Free";
             const isCurrentPlan = 
@@ -293,7 +278,6 @@ export default function PricingPage() {
                   <tr className="border-b">
                     <th className="text-left py-3 px-4">Feature</th>
                     <th className="text-center py-3 px-4">Free</th>
-                    <th className="text-center py-3 px-4">Daily Pass</th>
                     <th className="text-center py-3 px-4">Monthly</th>
                     <th className="text-center py-3 px-4 bg-primary/5">Yearly</th>
                   </tr>
@@ -302,7 +286,6 @@ export default function PricingPage() {
                   <tr className="border-b">
                     <td className="py-3 px-4">Requests</td>
                     <td className="text-center py-3 px-4">5 total</td>
-                    <td className="text-center py-3 px-4">Unlimited (24h)</td>
                     <td className="text-center py-3 px-4">Unlimited</td>
                     <td className="text-center py-3 px-4 bg-primary/5">Unlimited</td>
                   </tr>
@@ -310,12 +293,10 @@ export default function PricingPage() {
                     <td className="py-3 px-4">Available Tones</td>
                     <td className="text-center py-3 px-4">3 tones</td>
                     <td className="text-center py-3 px-4">All 6</td>
-                    <td className="text-center py-3 px-4">All 6</td>
                     <td className="text-center py-3 px-4 bg-primary/5">All 6</td>
                   </tr>
                   <tr className="border-b">
                     <td className="py-3 px-4">Age Targeting</td>
-                    <td className="text-center py-3 px-4">✅</td>
                     <td className="text-center py-3 px-4">✅</td>
                     <td className="text-center py-3 px-4">✅</td>
                     <td className="text-center py-3 px-4 bg-primary/5">✅</td>
@@ -324,12 +305,10 @@ export default function PricingPage() {
                     <td className="py-3 px-4">Words per Request</td>
                     <td className="text-center py-3 px-4">10,000</td>
                     <td className="text-center py-3 px-4">10,000</td>
-                    <td className="text-center py-3 px-4">10,000</td>
                     <td className="text-center py-3 px-4 bg-primary/5">10,000</td>
                   </tr>
                   <tr className="border-b">
                     <td className="py-3 px-4">Priority Support</td>
-                    <td className="text-center py-3 px-4">-</td>
                     <td className="text-center py-3 px-4">-</td>
                     <td className="text-center py-3 px-4">✅</td>
                     <td className="text-center py-3 px-4 bg-primary/5">✅</td>
@@ -338,13 +317,11 @@ export default function PricingPage() {
                     <td className="py-3 px-4">Early Access</td>
                     <td className="text-center py-3 px-4">-</td>
                     <td className="text-center py-3 px-4">-</td>
-                    <td className="text-center py-3 px-4">-</td>
                     <td className="text-center py-3 px-4 bg-primary/5">✅</td>
                   </tr>
                   <tr>
                     <td className="py-3 px-4 font-semibold">Cost</td>
                     <td className="text-center py-3 px-4">₹0</td>
-                    <td className="text-center py-3 px-4">₹99/day</td>
                     <td className="text-center py-3 px-4">₹999/mo (₹33/day)</td>
                     <td className="text-center py-3 px-4 bg-primary/5 font-bold text-primary">
                       ₹7,999/yr (₹22/day)

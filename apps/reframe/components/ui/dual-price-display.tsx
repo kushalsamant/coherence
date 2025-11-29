@@ -1,13 +1,9 @@
 "use client";
 
 // Pricing configuration
-const PRICING: Record<string, { amount: number; currency: string; symbol: string; interval?: string; credits?: number }> = {
-  daily: { amount: 349, currency: "INR", symbol: "₹", interval: "week" },
+const PRICING: Record<string, { amount: number; currency: string; symbol: string; interval?: string }> = {
   monthly: { amount: 999, currency: "INR", symbol: "₹", interval: "month" },
   yearly: { amount: 7999, currency: "INR", symbol: "₹", interval: "year" },
-  credit_10: { amount: 299, currency: "INR", symbol: "₹", credits: 10 },
-  credit_30: { amount: 699, currency: "INR", symbol: "₹", credits: 30 },
-  credit_100: { amount: 1799, currency: "INR", symbol: "₹", credits: 100 },
 };
 
 function getDisplayPrice(priceKey: string) {

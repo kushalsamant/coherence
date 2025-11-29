@@ -98,19 +98,24 @@ app.add_middleware(RequestSizeMiddleware, max_size=settings.max_upload_size_byte
 def root():
     """Root endpoint"""
     return {
-        "name": settings.APP_NAME,
-        "version": settings.API_VERSION,
-        "status": "running"
+        "message": settings.APP_NAME,
+        "version": settings.API_VERSION
     }
 
 
 @app.get("/health")
 def health_check():
     """Health check endpoint"""
-    return {
-        "status": "healthy",
-        "environment": settings.APP_ENV
-    }
+    from fastapi.responses import JSONResponse
+    return JSONResponse(
+        status_code=200,
+        content={
+            "status": "healthy",
+            "service": settings.APP_NAME,
+            "version": settings.API_VERSION,
+            "environment": settings.APP_ENV
+        }
+    )
 
 
 @app.get("/metrics")

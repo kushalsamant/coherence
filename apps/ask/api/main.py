@@ -9,10 +9,12 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pathlib import Path
-import os
 
 # Import routes
 from api.routes import qa_pairs, themes, generate, stats, payments
+from api.config import get_settings
+
+settings = get_settings()
 
 # Create FastAPI app
 app = FastAPI(
@@ -22,23 +24,9 @@ app = FastAPI(
 )
 
 # CORS middleware configuration
-# Read CORS origins from environment variable or use defaults
-cors_origins_env = os.getenv('ASK_CORS_ORIGINS', os.getenv('CORS_ORIGINS', ''))
-if cors_origins_env:
-    # Split comma-separated origins
-    cors_origins = [origin.strip() for origin in cors_origins_env.split(',')]
-else:
-    # Default origins for development
-    cors_origins = [
-        "http://localhost:3000",
-        "http://localhost:3001",
-        "https://ask.kvshvl.in",
-        "https://www.ask.kvshvl.in",
-    ]
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=cors_origins,
+    allow_origins=settings.cors_origins_list,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -58,6 +46,13 @@ try:
 except ImportError:
     pass  # Monitoring routes optional
 
+# Platform feasibility analysis routes (require authentication)
+try:
+    from api.routes import feasibility
+    app.include_router(feasibility.router, prefix="/api/feasibility", tags=["feasibility"])
+except ImportError:
+    pass  # Feasibility routes optional
+
 # Mount static files for images
 images_dir = Path(__file__).parent.parent / "images"
 if images_dir.exists():
@@ -67,7 +62,7 @@ if images_dir.exists():
 @app.get("/")
 async def root():
     """Root endpoint"""
-    return {"message": "ASK Research Tool API", "version": "1.0.0"}
+    return {"message": settings.APP_NAME, "version": "1.0.0"}
 
 
 @app.get("/health")
@@ -77,8 +72,9 @@ async def health_check():
         status_code=200,
         content={
             "status": "healthy",
-            "service": "ASK Research Tool API",
-            "version": "1.0.0"
+            "service": settings.APP_NAME,
+            "version": "1.0.0",
+            "environment": settings.APP_ENV
         }
     )
 

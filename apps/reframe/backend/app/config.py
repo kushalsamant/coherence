@@ -5,7 +5,7 @@ Extends shared BaseSettings with Reframe-specific fields
 import os
 from pathlib import Path
 from dotenv import load_dotenv
-from shared_backend.config.base import BaseSettings
+from shared_backend.config.base import BaseSettings, get_env_int_with_fallback
 
 # Load app-specific production environment if available (fallback for local/CI)
 WORKSPACE_ROOT = Path(__file__).resolve().parents[3]
@@ -28,7 +28,7 @@ class Settings(BaseSettings):
     GROQ_API_KEY: str = os.getenv("REFRAME_GROQ_API_KEY", os.getenv("GROQ_API_KEY", ""))
     
     # Limits
-    FREE_LIMIT: int = int(os.getenv("REFRAME_FREE_LIMIT", os.getenv("FREE_LIMIT", "5")))
+    FREE_LIMIT: int = get_env_int_with_fallback("REFRAME_FREE_LIMIT", "FREE_LIMIT", 5)
     
     # CORS
     CORS_ORIGINS: str = os.getenv(
@@ -42,6 +42,9 @@ class Settings(BaseSettings):
         if not self.CORS_ORIGINS:
             return ["http://localhost:3000"]
         return [origin.strip() for origin in self.CORS_ORIGINS.split(",")]
+    
+    # Admin Access
+    ADMIN_EMAILS: str = os.getenv("REFRAME_ADMIN_EMAILS", os.getenv("ADMIN_EMAILS", ""))
     
     class Config:
         case_sensitive = True

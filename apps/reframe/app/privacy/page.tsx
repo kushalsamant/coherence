@@ -57,7 +57,7 @@ export default function Privacy() {
 
           <h3 className="text-xl font-semibold mb-2 mt-4">2.2 Payment Information</h3>
           <p className="mb-3">
-            When you purchase a subscription or credit pack:
+            When you purchase a subscription:
           </p>
           <ul className="list-disc pl-6 mb-3 space-y-1">
             <li>Payment information is processed directly by <a href="https://razorpay.com" target="_blank" rel="noopener noreferrer" className="text-primary underline hover:no-underline">Razorpay</a></li>
@@ -152,7 +152,6 @@ export default function Privacy() {
             <li><strong>Usage counters:</strong> Stored temporarily:
               <ul className="list-circle pl-6 mt-1 space-y-1">
                 <li>Free tier: 24 hours (daily limit tracking)</li>
-                <li>Weekly tier: 7 days (weekly limit tracking)</li>
                 <li>Pro tiers: No usage counting (unlimited)</li>
               </ul>
             </li>

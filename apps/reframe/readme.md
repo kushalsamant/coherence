@@ -13,8 +13,8 @@ Transform AI-generated text with authentic human voices using Groq's Llama 3.1 8
 - **54 Unique Voices** - 6 tones × 9 generations = tailored content for any audience
 - **10,000 Words/Request** - Fixed limit, simple and generous
 - **Google OAuth** - Simple sign-in, no email verification needed
-- **INR Pricing** - ₹99-₹7,999 with live USD/EUR/GBP conversions
-- **Flexible Payment** - Daily passes, credit packs, or subscriptions
+- **INR Pricing** - ₹999-₹7,999 with live USD/EUR/GBP conversions
+- **Flexible Payment** - Monthly or yearly subscriptions
 - **Usage Tracking** - Redis-powered rate limiting
 - **Cost Efficient** - Groq inference 500x cheaper than OpenAI
 
@@ -157,17 +157,9 @@ Visit [http://localhost:3000](http://localhost:3000)
 ## Current Pricing (INR Only)
 
 ### Subscriptions
-- **Free:** ₹0 - 3 requests/day, 3 tones
-- **Weekly:** ₹349/week - 50 requests/week, all tones
+- **Free:** ₹0 - 5 requests total, 3 tones
 - **Monthly:** ₹999/month - Unlimited, all tones
 - **Yearly:** ₹7,999/year - Unlimited, save 33%
-
-### Credit Packs (One-Time)
-- **Starter:** ₹299 - 10 credits
-- **Standard:** ₹699 - 30 credits  
-- **Premium:** ₹1,799 - 100 credits
-
-*Credits never expire. 1 credit = 1 request with any tone/limit.*
 
 ---
 
@@ -294,10 +286,8 @@ reframe/
 
 Pricing is configured in `app/api/create-checkout/route.ts`:
 
-- **Daily/Weekly:** ₹349/week
 - **Monthly:** ₹999/month
 - **Yearly:** ₹7,999/year
-- **Credit Packs:** ₹299 (10), ₹699 (30), ₹1,799 (100)
 
 For subscription plans, create them in Razorpay dashboard and set plan IDs in environment variables.
 

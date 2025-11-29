@@ -1,6 +1,6 @@
 // User Metadata
 export interface UserMetadata {
-  subscription_tier?: 'trial' | 'daily' | 'week' | 'monthly' | 'yearly';
+  subscription_tier?: 'trial' | 'week' | 'monthly' | 'yearly';
   subscription_status?: 'inactive' | 'active' | 'cancelled' | 'expired';
   subscription_expires_at?: string; // ISO timestamp
   subscription_auto_renew?: boolean;
@@ -8,7 +8,7 @@ export interface UserMetadata {
   razorpay_customer_id?: string;
   email?: string;
   // Legacy fields for backward compatibility
-  subscription?: 'daily' | 'monthly' | 'yearly';
+  subscription?: 'monthly' | 'yearly';
   subscriptionStartDate?: string;
 }
 

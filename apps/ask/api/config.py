@@ -7,7 +7,7 @@ import os
 from pathlib import Path
 from urllib.parse import quote_plus, urlparse, urlunparse
 from dotenv import load_dotenv
-from shared_backend.config.base import BaseSettings
+from shared_backend.config.base import BaseSettings, get_env_with_fallback, get_env_int_with_fallback
 
 # Load app-specific .env.production from repo root
 BASE_DIR = Path(__file__).resolve().parents[2]  # Go up from api/config.py to ask/
@@ -96,15 +96,15 @@ class Settings(BaseSettings):
     
     # Pricing in paise (₹1 = 100 paise)
     # Shared across all projects - check prefixed first, then unprefixed, then default
-    RAZORPAY_WEEK_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_WEEK_AMOUNT") or os.getenv("RAZORPAY_WEEK_AMOUNT", "129900"))
-    RAZORPAY_MONTH_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_MONTH_AMOUNT") or os.getenv("RAZORPAY_MONTH_AMOUNT", "349900"))
-    RAZORPAY_YEAR_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_YEAR_AMOUNT") or os.getenv("RAZORPAY_YEAR_AMOUNT", "2999900"))
+    RAZORPAY_WEEK_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_WEEK_AMOUNT", "RAZORPAY_WEEK_AMOUNT", 129900)
+    RAZORPAY_MONTH_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_MONTH_AMOUNT", "RAZORPAY_MONTH_AMOUNT", 349900)
+    RAZORPAY_YEAR_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_YEAR_AMOUNT", "RAZORPAY_YEAR_AMOUNT", 2999900)
     
     # Razorpay Plan IDs for subscriptions (created via scripts/create_razorpay_plans.py)
     # Shared across all projects - check prefixed first, then unprefixed, then default
-    RAZORPAY_PLAN_WEEK: str = os.getenv("ASK_RAZORPAY_PLAN_WEEK") or os.getenv("RAZORPAY_PLAN_WEEK", "")
-    RAZORPAY_PLAN_MONTH: str = os.getenv("ASK_RAZORPAY_PLAN_MONTH") or os.getenv("RAZORPAY_PLAN_MONTH", "")
-    RAZORPAY_PLAN_YEAR: str = os.getenv("ASK_RAZORPAY_PLAN_YEAR") or os.getenv("RAZORPAY_PLAN_YEAR", "")
+    RAZORPAY_PLAN_WEEK: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_WEEK", "RAZORPAY_PLAN_WEEK", "")
+    RAZORPAY_PLAN_MONTH: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_MONTH", "RAZORPAY_PLAN_MONTH", "")
+    RAZORPAY_PLAN_YEAR: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_YEAR", "RAZORPAY_PLAN_YEAR", "")
     
     # Frontend URL
     FRONTEND_URL: str = os.getenv("ASK_FRONTEND_URL", os.getenv("FRONTEND_URL", "http://localhost:3000"))

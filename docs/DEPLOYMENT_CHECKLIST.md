@@ -181,6 +181,7 @@ Complete deployment checklist for all applications in the monorepo.
   - [ ] ASK backend health endpoint responds
   - [ ] Sketch2BIM backend health endpoint responds
   - [ ] Reframe backend health endpoint responds
+  - [ ] Run automated verification: `.\scripts\verify-deployment.ps1`
 
 - [ ] **Authentication**
   - [ ] Sign in works on all frontends

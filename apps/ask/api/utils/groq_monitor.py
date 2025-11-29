@@ -4,6 +4,8 @@ Tracks usage and sends alerts when thresholds are exceeded
 """
 
 import logging
+import os
+import httpx
 from typing import Dict, List, Optional
 from datetime import datetime, timedelta
 from sqlalchemy.orm import Session
@@ -241,11 +243,118 @@ def send_groq_alert(alert: GroqUsageAlert) -> bool:
         log.warning(f"Groq Usage Alert [{alert.level.upper()}]: {alert.message}")
         log.warning(f"Current: {alert.current_value}, Threshold: {alert.threshold}")
         
-        # TODO: Add email/Slack notification here if needed
-        # For now, just log the alert
+        # Send notifications if configured
+        notification_sent = False
+        
+        # Email notification (optional)
+        email_enabled = os.getenv("ASK_ALERT_EMAIL_ENABLED", "").lower() == "true"
+        if email_enabled:
+            email_recipients = os.getenv("ASK_ALERT_EMAIL_RECIPIENTS", "")
+            if email_recipients:
+                try:
+                    _send_email_notification(alert, email_recipients)
+                    notification_sent = True
+                except Exception as e:
+                    log.error(f"Failed to send email notification: {e}")
+        
+        # Slack notification (optional)
+        slack_enabled = os.getenv("ASK_ALERT_SLACK_ENABLED", "").lower() == "true"
+        if slack_enabled:
+            slack_webhook_url = os.getenv("ASK_ALERT_SLACK_WEBHOOK_URL", "")
+            if slack_webhook_url:
+                try:
+                    _send_slack_notification(alert, slack_webhook_url)
+                    notification_sent = True
+                except Exception as e:
+                    log.error(f"Failed to send Slack notification: {e}")
+        
+        if not notification_sent:
+            log.info("No notification channels configured. Alerts are only logged.")
         
         return True
     except Exception as e:
         log.error(f"Failed to send Groq alert: {e}")
+        return False
+
+
+def _send_email_notification(alert: GroqUsageAlert, recipients: str) -> bool:
+    """
+    Send email notification for Groq usage alert.
+    
+    Args:
+        alert: GroqUsageAlert object
+        recipients: Comma-separated list of email addresses
+        
+    Returns:
+        True if email was sent successfully
+    """
+    try:
+        # For now, log the email that would be sent
+        # In production, integrate with email service (SendGrid, SES, etc.)
+        log.info(f"Email notification would be sent to: {recipients}")
+        log.info(f"Subject: Groq Usage Alert - {alert.level.upper()}")
+        log.info(f"Body: {alert.message}\nCurrent: ${alert.current_value:.2f}, Threshold: ${alert.threshold:.2f}")
+        
+        # TODO: Implement actual email sending using your preferred email service
+        # Example with SendGrid:
+        # import sendgrid
+        # sg = sendgrid.SendGridAPIClient(api_key=os.getenv('SENDGRID_API_KEY'))
+        # message = sendgrid.Mail(...)
+        # sg.send(message)
+        
+        return True
+    except Exception as e:
+        log.error(f"Failed to send email notification: {e}")
+        return False
+
+
+def _send_slack_notification(alert: GroqUsageAlert, webhook_url: str) -> bool:
+    """
+    Send Slack notification for Groq usage alert.
+    
+    Args:
+        alert: GroqUsageAlert object
+        webhook_url: Slack webhook URL
+        
+    Returns:
+        True if notification was sent successfully
+    """
+    try:
+        # Format Slack message
+        color = "warning" if alert.level == "warning" else "danger"
+        payload = {
+            "attachments": [
+                {
+                    "color": color,
+                    "title": f"Groq Usage Alert - {alert.level.upper()}",
+                    "text": alert.message,
+                    "fields": [
+                        {
+                            "title": "Current Value",
+                            "value": f"${alert.current_value:.2f}",
+                            "short": True
+                        },
+                        {
+                            "title": "Threshold",
+                            "value": f"${alert.threshold:.2f}",
+                            "short": True
+                        }
+                    ],
+                    "footer": "ASK Groq Monitor",
+                    "ts": int(datetime.utcnow().timestamp())
+                }
+            ]
+        }
+        
+        # Send to Slack webhook
+        timeout = httpx.Timeout(10.0, connect=5.0)
+        with httpx.Client(timeout=timeout) as client:
+            response = client.post(webhook_url, json=payload)
+            response.raise_for_status()
+            log.info(f"Slack notification sent successfully")
+            return True
+            
+    except Exception as e:
+        log.error(f"Failed to send Slack notification: {e}")
         return False
 

@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "vercel-build": "git submodule update --init --recursive || true && next build",
+    "vercel-build": "next build",
     "start": "next start",
     "lint": "next lint",
     "setup": "tsx scripts/setup.ts",

@@ -13,6 +13,62 @@ Variables are organized by:
 - **Frontend** (Vercel) - Variables needed by Next.js frontend
 - **Backend** (Render) - Variables needed by FastAPI backend
 
+## Pricing & Plans
+
+**All applications (ASK, Reframe, and Sketch2BIM) use the same unified pricing structure and Razorpay plan IDs.**
+
+### Unified Pricing (INR)
+
+| Plan | Amount (INR) | Amount (Paise) | Description |
+|------|--------------|----------------|-------------|
+| **Week** | ₹1,299 | `129900` | 7-day access |
+| **Month** | ₹3,499 | `349900` | 30-day access |
+| **Year** | ₹29,999 | `2999900` | 365-day access (33% savings vs monthly) |
+
+**Note:** All amounts are stored in paise (₹1 = 100 paise) in environment variables.
+
+### Unified Razorpay Plan IDs
+
+All three applications share the same Razorpay subscription plan IDs:
+
+| Plan | Plan ID | Environment Variable |
+|------|---------|---------------------|
+| **Week** | `plan_Rha5Ikcm5JrGqx` | `*_RAZORPAY_PLAN_WEEK` |
+| **Month** | `plan_Rha5JNPsk1WmI6` | `*_RAZORPAY_PLAN_MONTH` |
+| **Year** | `plan_Rha5Jzn1sk8o1X` | `*_RAZORPAY_PLAN_YEAR` |
+
+Where `*` is the app prefix: `ASK_`, `REFRAME_`, or `SKETCH2BIM_`.
+
+### Environment Variables per App
+
+Each app requires its own prefixed environment variables:
+
+**ASK:**
+- `ASK_RAZORPAY_WEEK_AMOUNT=129900`
+- `ASK_RAZORPAY_MONTH_AMOUNT=349900`
+- `ASK_RAZORPAY_YEAR_AMOUNT=2999900`
+- `ASK_RAZORPAY_PLAN_WEEK=plan_Rha5Ikcm5JrGqx`
+- `ASK_RAZORPAY_PLAN_MONTH=plan_Rha5JNPsk1WmI6`
+- `ASK_RAZORPAY_PLAN_YEAR=plan_Rha5Jzn1sk8o1X`
+
+**Reframe:**
+- `REFRAME_RAZORPAY_WEEK_AMOUNT=129900`
+- `REFRAME_RAZORPAY_MONTH_AMOUNT=349900`
+- `REFRAME_RAZORPAY_YEAR_AMOUNT=2999900`
+- `REFRAME_RAZORPAY_PLAN_WEEK=plan_Rha5Ikcm5JrGqx`
+- `REFRAME_RAZORPAY_PLAN_MONTH=plan_Rha5JNPsk1WmI6`
+- `REFRAME_RAZORPAY_PLAN_YEAR=plan_Rha5Jzn1sk8o1X`
+
+**Sketch2BIM:**
+- `SKETCH2BIM_RAZORPAY_WEEK_AMOUNT=129900`
+- `SKETCH2BIM_RAZORPAY_MONTH_AMOUNT=349900`
+- `SKETCH2BIM_RAZORPAY_YEAR_AMOUNT=2999900`
+- `SKETCH2BIM_RAZORPAY_PLAN_WEEK=plan_Rha5Ikcm5JrGqx`
+- `SKETCH2BIM_RAZORPAY_PLAN_MONTH=plan_Rha5JNPsk1WmI6`
+- `SKETCH2BIM_RAZORPAY_PLAN_YEAR=plan_Rha5Jzn1sk8o1X`
+
+**Source of Truth:** The canonical pricing and plan IDs are defined in `render.yaml` and should be referenced there for any updates.
+
 ## ASK Application
 
 ### Frontend Variables (Vercel)
@@ -24,7 +80,6 @@ Variables are organized by:
 | `ASK_AUTH_SECRET` | Authentication secret | (generated) |
 | `ASK_AUTH_URL` | Frontend auth URL | `https://ask.kvshvl.in` |
 | `ASK_BACKEND_URL` | Backend API URL | `https://ask-api.onrender.com` |
-| `ASK_GROQ_API_BASE` | Groq API base URL | `https://api.groq.com/openai/v1` |
 | `ASK_NEXT_PUBLIC_API_URL` | Public API URL | `https://ask-api.onrender.com` |
 | `ASK_NEXTAUTH_SECRET` | NextAuth secret | (generated) |
 | `ASK_NEXTAUTH_URL` | NextAuth callback URL | `https://ask.kvshvl.in` |
@@ -195,11 +250,9 @@ Variables are organized by:
 | `REFRAME_RAZORPAY_KEY_ID` | Razorpay key ID | `rzp_live_...` |
 | `REFRAME_RAZORPAY_KEY_SECRET` | Razorpay key secret | (secret) |
 | `REFRAME_RAZORPAY_WEBHOOK_SECRET` | Webhook secret | (secret) |
-| `REFRAME_RAZORPAY_DAILY_AMOUNT` | Daily plan amount | `9900` |
 | `REFRAME_RAZORPAY_WEEK_AMOUNT` | Week plan amount | `129900` |
 | `REFRAME_RAZORPAY_MONTH_AMOUNT` | Month plan amount | `349900` |
 | `REFRAME_RAZORPAY_YEAR_AMOUNT` | Year plan amount | `2999900` |
-| `REFRAME_RAZORPAY_PLAN_DAILY` | Daily plan ID | - |
 | `REFRAME_RAZORPAY_PLAN_WEEK` | Week plan ID | `plan_Rha5Ikcm5JrGqx` |
 | `REFRAME_RAZORPAY_PLAN_MONTH` | Month plan ID | `plan_Rha5JNPsk1WmI6` |
 | `REFRAME_RAZORPAY_PLAN_YEAR` | Year plan ID | `plan_Rha5Jzn1sk8o1X` |
@@ -237,17 +290,12 @@ Variables are organized by:
 
 ## Shared Variables
 
-These variables are shared across applications:
+See the [Pricing & Plans](#pricing--plans) section above for complete details on unified pricing and Razorpay plan IDs shared across all applications.
 
-### Razorpay Plan IDs
-- Week: `plan_Rha5Ikcm5JrGqx`
-- Month: `plan_Rha5JNPsk1WmI6`
-- Year: `plan_Rha5Jzn1sk8o1X`
-
-### Razorpay Amounts (in paise)
-- Week: `129900` (₹1,299)
-- Month: `349900` (₹3,499)
-- Year: `2999900` (₹29,999)
+**Summary:**
+- All apps use the same weekly (₹1,299), monthly (₹3,499), and yearly (₹29,999) pricing
+- All apps use the same Razorpay plan IDs for subscription management
+- Each app has its own prefixed environment variables but uses identical values
 
 ## Getting Values
 

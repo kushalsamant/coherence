@@ -75,7 +75,6 @@ export function ExportDataModal({ isOpen, onClose, userId }: ExportDataModalProp
             <li>Account information (email, ID, created date)</li>
             <li>Subscription details and tier</li>
             <li>Usage statistics and history</li>
-            <li>Credit balance</li>
             <li>Consent records</li>
             <li>Payment history (last 12 months)</li>
           </ul>

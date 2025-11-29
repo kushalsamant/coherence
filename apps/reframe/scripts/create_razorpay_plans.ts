@@ -45,24 +45,9 @@ const razorpay = new Razorpay({
 });
 
 // Plan definitions for Reframe
-// Daily: ₹99 = 9900 paise
 // Monthly: ₹999 = 99900 paise  
 // Yearly: ₹7,999 = 799900 paise
 const PLANS = [
-  {
-    period: "daily" as const,
-    interval: 1,
-    item: {
-      name: "Daily Pass - Reframe",
-      description: "24-hour access to Reframe AI with all tones",
-      amount: 9900, // ₹99 in paise
-      currency: "INR",
-    },
-    notes: {
-      tier: "daily",
-      app: "reframe",
-    },
-  },
   {
     period: "monthly" as const,
     interval: 1,
@@ -94,7 +79,7 @@ const PLANS = [
 ];
 
 interface PlanData {
-  period: "daily" | "weekly" | "monthly" | "yearly";
+  period: "weekly" | "monthly" | "yearly";
   interval: number;
   item: {
     name: string;
@@ -145,9 +130,7 @@ async function checkExistingPlans(): Promise<Record<string, string>> {
     if (plans.items) {
       for (const plan of plans.items) {
         const itemName = plan.item?.name || "";
-        if (itemName.includes("Daily Pass - Reframe")) {
-          existing.daily = plan.id;
-        } else if (itemName.includes("Monthly Pro - Reframe")) {
+        if (itemName.includes("Monthly Pro - Reframe")) {
           existing.monthly = plan.id;
         } else if (itemName.includes("Yearly Pro - Reframe")) {
           existing.yearly = plan.id;
@@ -209,15 +192,13 @@ async function main() {
     process.exit(1);
   }
 
-  for (const tier of ["daily", "monthly", "yearly"]) {
+  for (const tier of ["monthly", "yearly"]) {
     if (createdPlans[tier]) {
-      const envVarName = tier === "daily" ? "RAZORPAY_PLAN_DAILY" : 
-                        tier === "monthly" ? "RAZORPAY_PLAN_MONTH" : 
+      const envVarName = tier === "monthly" ? "RAZORPAY_PLAN_MONTH" : 
                         "RAZORPAY_PLAN_YEAR";
       console.log(`${envVarName}=${createdPlans[tier]}`);
     } else {
-      const envVarName = tier === "daily" ? "RAZORPAY_PLAN_DAILY" : 
-                        tier === "monthly" ? "RAZORPAY_PLAN_MONTH" : 
+      const envVarName = tier === "monthly" ? "RAZORPAY_PLAN_MONTH" : 
                         "RAZORPAY_PLAN_YEAR";
       console.log(`${envVarName}=  # MISSING - create manually`);
     }
@@ -226,19 +207,18 @@ async function main() {
   console.log("\n" + "=".repeat(60));
   console.log("Copy these to your reframe.env.production:");
   console.log("=".repeat(60));
-  for (const tier of ["daily", "monthly", "yearly"]) {
+  for (const tier of ["monthly", "yearly"]) {
     if (createdPlans[tier]) {
-      const envVarName = tier === "daily" ? "RAZORPAY_PLAN_DAILY" : 
-                        tier === "monthly" ? "RAZORPAY_PLAN_MONTH" : 
+      const envVarName = tier === "monthly" ? "RAZORPAY_PLAN_MONTH" : 
                         "RAZORPAY_PLAN_YEAR";
       console.log(`${envVarName}=${createdPlans[tier]}`);
     }
   }
 
-  if (Object.keys(createdPlans).length === 3) {
+  if (Object.keys(createdPlans).length === 2) {
     console.log("\n✅ All plans created successfully!");
   } else {
-    console.log(`\n⚠️  Only ${Object.keys(createdPlans).length}/3 plans created. Please create the missing ones manually.`);
+    console.log(`\n⚠️  Only ${Object.keys(createdPlans).length}/2 plans created. Please create the missing ones manually.`);
   }
 }
 

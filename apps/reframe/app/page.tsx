@@ -40,12 +40,11 @@ function HomeContent() {
   const isLoaded = status !== "loading";
   const isSignedIn = !!session?.user;
   const user = session?.user;
-  const isPro = subscriptionTier === "monthly" || subscriptionTier === "yearly" || subscriptionTier === "daily";
+  const isPro = subscriptionTier === "monthly" || subscriptionTier === "yearly";
   const isFreeLimit = !hasActiveSubscription && usage >= 5;
   
   const getUserPlanDisplay = () => {
     if (!subscriptionTier || subscriptionTier === "trial") return "Free / Trial";
-    if (subscriptionTier === "daily") return "Daily Pass";
     if (subscriptionTier === "monthly") return "Monthly Pro";
     if (subscriptionTier === "yearly") return "Yearly Pro";
     return "Free";
@@ -53,7 +52,7 @@ function HomeContent() {
   
   const getUserUsageDisplay = () => {
     if (hasActiveSubscription && (isPro || subscriptionTier === "trial")) {
-      return subscriptionTier === "daily" ? "Unlimited for 24h" : "Unlimited";
+      return "Unlimited";
     }
     return `${usage}/5 used (free tier)`;
   };
@@ -213,7 +212,7 @@ function HomeContent() {
                     </div>
                   </div>
                   <p className="text-amber-800 text-sm">
-                    You&apos;ve used all 5 free requests. Upgrade for unlimited access or buy credit packs!
+                    You&apos;ve used all 5 free requests. Upgrade for unlimited access!
                   </p>
                   <Button asChild size="lg" className="bg-primary hover:bg-primary/90 font-semibold">
                     <a href="/pricing">

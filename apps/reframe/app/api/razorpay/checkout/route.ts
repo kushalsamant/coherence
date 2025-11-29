@@ -3,10 +3,8 @@ import { getRazorpayClient } from "@/lib/razorpay";
 import { auth } from "@/auth";
 import { getUserMetadata, initializeUserTrial } from "@/lib/user-metadata";
 import {
-  getRazorpayDailyAmount,
   getRazorpayMonthlyAmount,
   getRazorpayYearlyAmount,
-  getRazorpayPlanDaily,
   getRazorpayPlanMonthly,
   getRazorpayPlanYearly,
 } from "@/lib/app-config";
@@ -16,7 +14,7 @@ export const dynamic = 'force-dynamic';
 /**
  * Create Razorpay order or subscription for checkout
  * 
- * @param price_id - Tier name ('daily', 'monthly', 'yearly')
+ * @param price_id - Tier name ('monthly', 'yearly')
  * @param payment_type - 'one_time' for one-time payment, 'subscription' for recurring
  */
 export async function GET(req: Request) {
@@ -62,7 +60,6 @@ export async function GET(req: Request) {
     if (paymentType === "subscription") {
       // Create subscription using Plan ID
       const planMap: Record<string, string> = {
-        daily: getRazorpayPlanDaily(),
         monthly: getRazorpayPlanMonthly(),
         yearly: getRazorpayPlanYearly(),
       };
@@ -147,7 +144,6 @@ export async function GET(req: Request) {
     } else {
       // Create one-time order
       const tierMap: Record<string, number> = {
-        daily: getRazorpayDailyAmount(),
         monthly: getRazorpayMonthlyAmount(),
         yearly: getRazorpayYearlyAmount(),
       };

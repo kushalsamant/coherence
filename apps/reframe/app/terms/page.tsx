@@ -103,16 +103,6 @@ export default function Terms() {
             </div>
 
             <div>
-              <h4 className="font-semibold">Daily Pass (₹99 INR one-time)</h4>
-              <ul className="list-disc pl-6 text-sm space-y-1">
-                <li>Unlimited requests for 24 hours</li>
-                <li>All 6 tones unlocked</li>
-                <li>Age targeting included</li>
-                <li>10,000 words per request</li>
-              </ul>
-            </div>
-
-            <div>
               <h4 className="font-semibold">Monthly Pro (₹999 INR/month)</h4>
               <ul className="list-disc pl-6 text-sm space-y-1">
                 <li>Unlimited requests</li>
@@ -135,22 +125,11 @@ export default function Terms() {
                 <li>33% savings compared to monthly</li>
               </ul>
             </div>
-
-            <div>
-              <h4 className="font-semibold">Credit Packs (One-Time Purchase)</h4>
-              <ul className="list-disc pl-6 text-sm space-y-1">
-                <li>10-Credit Pack: ₹299 INR (₹29.90 per request)</li>
-                <li>30-Credit Pack: ₹699 INR (₹23.30 per request)</li>
-                <li>100-Credit Pack: ₹1,799 INR (₹17.99 per request)</li>
-                <li>Credits never expire</li>
-                <li>All 6 tones and age targeting unlocked</li>
-              </ul>
-            </div>
           </div>
 
           <h3 className="text-xl font-semibold mb-2 mt-4">4.2 Payment Processing</h3>
           <p className="mb-3">
-            All payments are processed securely through Razorpay. By subscribing or purchasing credits, you agree to:
+            All payments are processed securely through Razorpay. By subscribing, you agree to:
           </p>
           <ul className="list-disc pl-6 mb-3 space-y-1">
             <li>Provide accurate payment information</li>
@@ -170,8 +149,6 @@ export default function Terms() {
           <ul className="list-disc pl-6 mb-3 space-y-2">
             <li><strong>Subscriptions:</strong> If you cancel within 7 days of initial purchase and have used fewer than 5 requests, 
             you may request a full refund. After 7 days, subscription fees are non-refundable, but you can cancel to prevent future charges.</li>
-            <li><strong>Credit Packs:</strong> Credit packs are non-refundable once purchased, as credits never expire and provide 
-            permanent access to premium features.</li>
             <li><strong>Pro-rated refunds:</strong> We do not offer pro-rated refunds for partial billing periods.</li>
           </ul>
           <p className="mb-3">

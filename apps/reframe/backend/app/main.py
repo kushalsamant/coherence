@@ -44,7 +44,8 @@ async def health_check():
         content={
             "status": "healthy",
             "service": settings.APP_NAME,
-            "version": "1.0.0"
+            "version": "1.0.0",
+            "environment": settings.APP_ENV
         }
     )
 

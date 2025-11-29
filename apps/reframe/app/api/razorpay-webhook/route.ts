@@ -3,10 +3,8 @@ import { verifyWebhookSignature } from "@/lib/razorpay";
 import { getUserMetadata, setUserMetadata, updateSubscription, removeSubscription } from "@/lib/user-metadata";
 import { calculateExpiry, ensureSubscriptionStatus } from "@/lib/subscription";
 import {
-  getRazorpayDailyAmount,
   getRazorpayMonthlyAmount,
   getRazorpayYearlyAmount,
-  getRazorpayPlanDaily,
   getRazorpayPlanMonthly,
   getRazorpayPlanYearly,
 } from "@/lib/app-config";
@@ -15,15 +13,13 @@ export const runtime = "nodejs";
 export const dynamic = 'force-dynamic';
 
 // Map Razorpay amounts to tiers (in paise, ₹1 = 100 paise)
-const AMOUNT_TO_TIER: Record<number, "daily" | "monthly" | "yearly"> = {
-  [getRazorpayDailyAmount()]: "daily",    // ₹99 = 9900 paise
+const AMOUNT_TO_TIER: Record<number, "monthly" | "yearly"> = {
   [getRazorpayMonthlyAmount()]: "monthly",  // ₹999 = 99900 paise
   [getRazorpayYearlyAmount()]: "yearly",  // ₹7,999 = 799900 paise
 };
 
 // Map Razorpay plan IDs to tiers
-const PLAN_TO_TIER: Record<string, "daily" | "monthly" | "yearly"> = {
-  [getRazorpayPlanDaily()]: "daily",
+const PLAN_TO_TIER: Record<string, "monthly" | "yearly"> = {
   [getRazorpayPlanMonthly()]: "monthly",
   [getRazorpayPlanYearly()]: "yearly",
 };
@@ -70,25 +66,33 @@ export async function POST(req: Request) {
         const dateKey = now.toISOString().split('T')[0]; // YYYY-MM-DD
         const monthKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`; // YYYY-MM
         
-        // Track daily fees
+        // Track daily payment metrics in Redis
+        // Keys: payment:fees:daily:{YYYY-MM-DD}, payment:revenue:daily:{YYYY-MM-DD}, payment:count:daily:{YYYY-MM-DD}
+        // Data retention: 30 days for daily keys, 90 days for monthly keys
         await redis.incrBy(`payment:fees:daily:${dateKey}`, processingFee);
         await redis.incrBy(`payment:revenue:daily:${dateKey}`, amount);
+        await redis.incr(`payment:count:daily:${dateKey}`); // Increment payment count
         await redis.expire(`payment:fees:daily:${dateKey}`, 30 * 24 * 60 * 60); // 30 days
+        await redis.expire(`payment:revenue:daily:${dateKey}`, 30 * 24 * 60 * 60); // 30 days
+        await redis.expire(`payment:count:daily:${dateKey}`, 30 * 24 * 60 * 60); // 30 days
         
-        // Track monthly fees
+        // Track monthly payment metrics
         await redis.incrBy(`payment:fees:monthly:${monthKey}`, processingFee);
         await redis.incrBy(`payment:revenue:monthly:${monthKey}`, amount);
+        await redis.incr(`payment:count:monthly:${monthKey}`); // Increment payment count
         await redis.expire(`payment:fees:monthly:${monthKey}`, 90 * 24 * 60 * 60); // 90 days
+        await redis.expire(`payment:revenue:monthly:${monthKey}`, 90 * 24 * 60 * 60); // 90 days
+        await redis.expire(`payment:count:monthly:${monthKey}`, 90 * 24 * 60 * 60); // 90 days
 
         if (paymentType === "one_time") {
           // One-time subscription purchase
           const subscriptionTier = tier || AMOUNT_TO_TIER[amount];
-          if (subscriptionTier && ["daily", "monthly", "yearly"].includes(subscriptionTier)) {
+          if (subscriptionTier && ["monthly", "yearly"].includes(subscriptionTier)) {
             const expiry = calculateExpiry(subscriptionTier);
             if (expiry) {
               await updateSubscription(
                 userId,
-                subscriptionTier as "daily" | "monthly" | "yearly",
+                subscriptionTier as "monthly" | "yearly",
                 expiry,
                 false // one-time payment, no auto-renew
               );
@@ -135,7 +139,7 @@ export async function POST(req: Request) {
           if (expiry) {
             await updateSubscription(
               activatedUserId,
-              subscriptionTier as "daily" | "monthly" | "yearly",
+              subscriptionTier as "monthly" | "yearly",
               expiry,
               true, // auto-renew enabled
               activatedSub.id,
@@ -163,12 +167,21 @@ export async function POST(req: Request) {
           const dateKey = now.toISOString().split('T')[0];
           const monthKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
           
+          // Track daily payment metrics (same structure as payment.captured)
           await redis.incrBy(`payment:fees:daily:${dateKey}`, processingFee);
           await redis.incrBy(`payment:revenue:daily:${dateKey}`, chargedAmount);
+          await redis.incr(`payment:count:daily:${dateKey}`); // Increment payment count
+          await redis.expire(`payment:fees:daily:${dateKey}`, 30 * 24 * 60 * 60);
+          await redis.expire(`payment:revenue:daily:${dateKey}`, 30 * 24 * 60 * 60);
+          await redis.expire(`payment:count:daily:${dateKey}`, 30 * 24 * 60 * 60);
+          
+          // Track monthly payment metrics
           await redis.incrBy(`payment:fees:monthly:${monthKey}`, processingFee);
           await redis.incrBy(`payment:revenue:monthly:${monthKey}`, chargedAmount);
-          await redis.expire(`payment:fees:daily:${dateKey}`, 30 * 24 * 60 * 60);
+          await redis.incr(`payment:count:monthly:${monthKey}`); // Increment payment count
           await redis.expire(`payment:fees:monthly:${monthKey}`, 90 * 24 * 60 * 60);
+          await redis.expire(`payment:revenue:monthly:${monthKey}`, 90 * 24 * 60 * 60);
+          await redis.expire(`payment:count:monthly:${monthKey}`, 90 * 24 * 60 * 60);
         }
 
         if (chargedUserId && currentEndCharged) {

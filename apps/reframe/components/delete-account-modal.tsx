@@ -53,7 +53,6 @@ export function DeleteAccountModal({ isOpen, onClose, onConfirm }: DeleteAccount
           <ul className="list-disc pl-5 space-y-1 text-sm text-red-800">
             <li>Your account and all personal data</li>
             <li>All usage history and statistics</li>
-            <li>Any remaining credits (no refunds)</li>
             <li>Active subscriptions will be cancelled</li>
             <li>All consent and authentication records</li>
           </ul>

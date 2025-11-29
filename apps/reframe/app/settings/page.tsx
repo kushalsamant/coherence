@@ -128,7 +128,6 @@ export default function SettingsPage() {
   const getSubscriptionDisplay = () => {
     const tier = metadata?.subscription_tier || metadata?.subscription;
     if (!tier || tier === "trial") return "Free / Trial";
-    if (tier === "daily") return "Daily Pass";
     if (tier === "monthly") return "Monthly Pro";
     if (tier === "yearly") return "Yearly Pro";
     return "Free";
@@ -137,11 +136,10 @@ export default function SettingsPage() {
   const getUserUsageDisplay = () => {
     const tier = metadata?.subscription_tier || metadata?.subscription;
     const isPro = tier === "monthly" || tier === "yearly";
-    const isDaily = tier === "daily";
     const isTrial = tier === "trial";
 
-    if (hasActiveSubscription && (isPro || isDaily)) {
-      return isDaily ? "Unlimited for 24 hours" : "Unlimited (Pro)";
+    if (hasActiveSubscription && isPro) {
+      return "Unlimited (Pro)";
     }
     if (isTrial && hasActiveSubscription) {
       return "Unlimited (Trial)";
