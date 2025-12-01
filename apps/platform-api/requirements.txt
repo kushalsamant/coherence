@@ -1,13 +1,14 @@
 # Unified Platform API Requirements
 # Combines dependencies from all three backend services
 
+# Shared backend package (install from local path)
+# Path is relative to repo root where pip runs from
+-e packages/shared-backend
+
 fastapi>=0.104.0
 uvicorn[standard]>=0.24.0
 python-multipart>=0.0.6
 python-dotenv>=1.0.0
-
-# Shared backend dependencies
-# TODO: Add shared-backend package path once consolidated
 
 # Database
 sqlalchemy>=2.0.0
