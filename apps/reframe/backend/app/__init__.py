@@ -1,4 +1,0 @@
-"""
-Reframe FastAPI Backend
-"""
-
