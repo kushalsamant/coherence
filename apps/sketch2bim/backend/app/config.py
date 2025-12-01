@@ -10,9 +10,10 @@ from pathlib import Path
 from dotenv import load_dotenv
 from shared_backend.config.base import BaseSettings, get_env_with_fallback, get_env_int_with_fallback
 
-# Load app-specific production environment if available (fallback for local/CI)
-WORKSPACE_ROOT = Path(__file__).resolve().parents[3]
-APP_ENV_PATH = WORKSPACE_ROOT / "sketch2bim.env.production"
+# Load unified .env.local from repo root for local development
+# For production, environment variables are set in Render dashboard
+WORKSPACE_ROOT = Path(__file__).resolve().parents[3]  # Repo root
+APP_ENV_PATH = WORKSPACE_ROOT / ".env.local"
 if APP_ENV_PATH.exists():
     load_dotenv(APP_ENV_PATH, override=False)
 
@@ -121,19 +122,15 @@ class Settings(BaseSettings):
     RAZORPAY_KEY_SECRET: str = os.getenv("SKETCH2BIM_RAZORPAY_KEY_SECRET", "")
     RAZORPAY_WEBHOOK_SECRET: str = os.getenv("SKETCH2BIM_RAZORPAY_WEBHOOK_SECRET", "")
     
-    # Legacy aliases (for backward compatibility)
-    LIVE_KEY_ID: str = os.getenv("LIVE_KEY_ID", "")
-    LIVE_KEY_SECRET: str = os.getenv("LIVE_KEY_SECRET", "")
-    
     @property
     def razorpay_key_id(self) -> str:
-        """Get Razorpay key ID, checking both variable names"""
-        return self.RAZORPAY_KEY_ID or self.LIVE_KEY_ID
+        """Get Razorpay key ID"""
+        return self.RAZORPAY_KEY_ID
     
     @property
     def razorpay_key_secret(self) -> str:
-        """Get Razorpay key secret, checking both variable names"""
-        return self.RAZORPAY_KEY_SECRET or self.LIVE_KEY_SECRET
+        """Get Razorpay key secret"""
+        return self.RAZORPAY_KEY_SECRET
     
     # Pricing in paise (₹1 = 100 paise)
     # Trial tier handled separately (free)

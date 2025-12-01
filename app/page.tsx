@@ -36,9 +36,7 @@ export default function Home() {
           
           <div className="grid grid-3">
             <a
-              href="https://sketch2bim.kvshvl.in"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/sketch2bim"
               style={{ display: 'block', textDecoration: 'none', color: 'inherit' }}
             >
               <Card
@@ -58,9 +56,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://ask.kvshvl.in"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/ask"
               style={{ display: 'block', textDecoration: 'none', color: 'inherit' }}
             >
               <Card
@@ -80,9 +76,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://reframe.kvshvl.in"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/reframe"
               style={{ display: 'block', textDecoration: 'none', color: 'inherit' }}
             >
               <Card

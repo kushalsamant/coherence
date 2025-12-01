@@ -102,16 +102,13 @@ def _get_project_data(project_name: str, days: int) -> Dict:
     """
     try:
         # Get backend URLs from environment
+        # Use unified platform API URL with path prefixes
+        platform_api_url = os.getenv("PLATFORM_API_URL", os.getenv("NEXT_PUBLIC_PLATFORM_API_URL", "http://localhost:8000"))
+        
         if project_name == "sketch2bim":
-            backend_url = os.getenv(
-                "SKETCH2BIM_BACKEND_URL",
-                os.getenv("SKETCH2BIM_NEXT_PUBLIC_API_URL", "https://sketch2bim-backend.onrender.com")
-            )
+            backend_url = f"{platform_api_url}/api/sketch2bim"
         elif project_name == "reframe":
-            backend_url = os.getenv(
-                "REFRAME_BACKEND_URL",
-                os.getenv("REFRAME_API_URL", "https://reframe-api.onrender.com")
-            )
+            backend_url = f"{platform_api_url}/api/reframe"
         else:
             log.warning(f"Unknown project: {project_name}")
             return {

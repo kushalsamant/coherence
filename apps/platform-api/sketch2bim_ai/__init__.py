@@ -1,0 +1,2 @@
+"""Sketch processing pipeline package"""
+

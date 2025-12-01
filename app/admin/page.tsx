@@ -270,7 +270,7 @@ export default function RootPlatformDashboard() {
         <span>Raw data endpoints:&nbsp;</span>
         <a
           href={`${
-            process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'
+            process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000'
           }/api/feasibility/platform/consolidated?days=${days}`}
           target="_blank"
           rel="noreferrer"
@@ -281,7 +281,7 @@ export default function RootPlatformDashboard() {
         <span> · </span>
         <a
           href={`${
-            process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'
+            process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000'
           }/api/feasibility/platform/unit-economics?days=${days}${project ? `&project=${project}` : ''}`}
           target="_blank"
           rel="noreferrer"
@@ -291,7 +291,7 @@ export default function RootPlatformDashboard() {
         </a>
         <span> · </span>
         <a
-          href={`${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'}/api/monitoring/summary`}
+          href={`${process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000'}/api/ask/monitoring/summary`}
           target="_blank"
           rel="noreferrer"
           className="underline hover:text-primary"

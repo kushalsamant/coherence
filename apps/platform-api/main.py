@@ -1,0 +1,81 @@
+#!/usr/bin/env python3
+"""
+Unified FastAPI Backend Server for KVSHVL Platform
+Combines ASK, Reframe, and Sketch2BIM backends into a single service
+"""
+
+from fastapi import FastAPI, Request
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
+from pathlib import Path
+import os
+
+# Import app-specific routers
+from routers import ask, reframe, sketch2bim, subscriptions
+
+# Get CORS origins from environment
+CORS_ORIGINS = os.getenv(
+    "PLATFORM_CORS_ORIGINS",
+    "http://localhost:3000,https://kvshvl.in,https://www.kvshvl.in,https://ask.kvshvl.in,https://reframe.kvshvl.in,https://sketch2bim.kvshvl.in"
+).split(",")
+
+# Create FastAPI app
+app = FastAPI(
+    title="KVSHVL Platform API",
+    description="Unified API for KVSHVL platform applications: ASK, Reframe, and Sketch2BIM",
+    version="1.0.0"
+)
+
+# CORS middleware configuration
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=CORS_ORIGINS,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Include app-specific routers with path prefixes
+app.include_router(ask.router, prefix="/api/ask", tags=["ask"])
+app.include_router(reframe.router, prefix="/api/reframe", tags=["reframe"])
+app.include_router(sketch2bim.router, prefix="/api/sketch2bim", tags=["sketch2bim"])
+
+# Unified subscription routes
+app.include_router(subscriptions.router, prefix="/api/subscriptions", tags=["subscriptions"])
+
+
+@app.get("/")
+async def root():
+    """Root endpoint"""
+    return {
+        "message": "KVSHVL Platform API",
+        "version": "1.0.0",
+        "apps": ["ask", "reframe", "sketch2bim"]
+    }
+
+
+@app.get("/health")
+async def health_check():
+    """Health check endpoint"""
+    return JSONResponse(
+        status_code=200,
+        content={
+            "status": "healthy",
+            "service": "KVSHVL Platform API",
+            "version": "1.0.0",
+            "apps": ["ask", "reframe", "sketch2bim"]
+        },
+    )
+
+
+@app.exception_handler(Exception)
+async def global_exception_handler(request: Request, exc: Exception):
+    """Global exception handler"""
+    return JSONResponse(
+        status_code=500,
+        content={
+            "error": "Internal server error",
+            "message": str(exc) if os.getenv("PLATFORM_DEBUG", "false").lower() == "true" else "An error occurred"
+        }
+    )
+

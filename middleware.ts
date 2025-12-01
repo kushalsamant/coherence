@@ -1,0 +1,60 @@
+import { NextResponse } from 'next/server';
+import type { NextRequest } from 'next/server';
+
+// Middleware for unified platform subscription checking
+// Checks subscription status for app routes
+
+export function middleware(request: NextRequest) {
+  const { pathname } = request.nextUrl;
+
+  // Skip middleware for public routes
+  if (
+    pathname.startsWith('/api/auth') ||
+    pathname.startsWith('/api/subscriptions/checkout') ||
+    pathname.startsWith('/api/subscriptions/webhook') ||
+    pathname === '/' ||
+    pathname.startsWith('/subscribe') ||
+    pathname.startsWith('/account') ||
+    pathname.startsWith('/getintouch') ||
+    pathname.startsWith('/history') ||
+    pathname.startsWith('/projects') ||
+    pathname.startsWith('/links') ||
+    pathname.startsWith('/privacypolicy') ||
+    pathname.startsWith('/termsofservice') ||
+    pathname.startsWith('/cancellationrefund')
+  ) {
+    return NextResponse.next();
+  }
+
+  // For app routes (/ask, /reframe, /sketch2bim), check subscription
+  if (
+    pathname.startsWith('/ask') ||
+    pathname.startsWith('/reframe') ||
+    pathname.startsWith('/sketch2bim')
+  ) {
+    // Basic subscription check - will be enhanced with actual API call
+    // For now, allow access - subscription checking happens at API level
+    // TODO: Implement actual subscription status check from API
+    // const API_URL = process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000';
+    // const hasSubscription = await checkSubscriptionFromAPI(session?.user?.id);
+    // if (!hasSubscription && !isPublicRoute(pathname)) {
+    //   return NextResponse.redirect(new URL('/subscribe', request.url));
+    // }
+  }
+
+  return NextResponse.next();
+}
+
+export const config = {
+  matcher: [
+    /*
+     * Match all request paths except for the ones starting with:
+     * - _next/static (static files)
+     * - _next/image (image optimization files)
+     * - favicon.ico (favicon file)
+     * - public folder
+     */
+    '/((?!_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)',
+  ],
+};
+
