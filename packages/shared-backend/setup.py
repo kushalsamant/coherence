@@ -8,24 +8,29 @@ from setuptools import setup
 from pathlib import Path
 
 # Get all subdirectories that are Python packages
-# Convert hyphenated names to underscores for Python imports
 base_dir = Path(__file__).parent
+
+# Build package list manually to handle hyphenated directory names
 packages = ["shared_backend"]
 package_dir_map = {"shared_backend": "."}
 
+# Find all subpackages and map hyphenated directory names
 for item in base_dir.iterdir():
-    if item.is_dir() and item.name != "__pycache__" and (item / "__init__.py").exists():
+    if item.is_dir() and item.name not in ["__pycache__", ".git"] and (item / "__init__.py").exists():
         # Convert hyphen to underscore for Python package name
         pkg_name = item.name.replace("-", "_")
-        packages.append(f"shared_backend.{pkg_name}")
-        package_dir_map[f"shared_backend.{pkg_name}"] = str(item)
+        full_pkg_name = f"shared_backend.{pkg_name}"
+        packages.append(full_pkg_name)
+        # Map subpackage: if directory has hyphen, map the underscore name to the hyphen directory
+        if "-" in item.name:
+            package_dir_map[full_pkg_name] = item.name
 
 setup(
     name="shared-backend",
     version="1.0.0",
     description="Shared backend utilities for KVSHVL platform",
     author="Kushal Samant",
-    # Map directories with hyphens to Python packages with underscores
+    # Map the hyphenated directory name to underscore import name
     package_dir=package_dir_map,
     packages=packages,
     install_requires=[
