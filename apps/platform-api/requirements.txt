@@ -2,8 +2,8 @@
 # Combines dependencies from all three backend services
 
 # Shared backend package (install from local path)
-# Path is relative to repo root where pip runs from
--e packages/shared-backend
+# Note: This is installed separately in build command, but kept here for reference
+# -e ../../packages/shared-backend
 
 fastapi>=0.104.0
 uvicorn[standard]>=0.24.0
