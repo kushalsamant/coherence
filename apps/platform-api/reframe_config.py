@@ -8,9 +8,15 @@ from dotenv import load_dotenv
 from shared_backend.config.base import BaseSettings, get_env_int_with_fallback
 
 # Load app-specific production environment if available (fallback for local/CI)
+# Check Render's secret file location first, then fall back to repo root
+RENDER_SECRET_PATH = Path("/etc/secrets/.env.local")
 WORKSPACE_ROOT = Path(__file__).resolve().parents[3]
 APP_ENV_PATH = WORKSPACE_ROOT / "reframe.env.production"
-if APP_ENV_PATH.exists():
+
+# Load from Render secret file if available (production), otherwise from repo root (local dev)
+if RENDER_SECRET_PATH.exists():
+    load_dotenv(RENDER_SECRET_PATH, override=False)
+elif APP_ENV_PATH.exists():
     load_dotenv(APP_ENV_PATH, override=False)
 
 
