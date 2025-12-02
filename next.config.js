@@ -1,8 +1,5 @@
-// Note: Environment variables are now loaded from app-specific files:
-// - ask.env.production
-// - reframe.env.production
-// - sketch2bim.env.production
-// Each app loads its own file in its next.config.js
+// Note: Environment variables are loaded from root .env.local for local development
+// Production environment variables are configured in Vercel dashboard
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {

@@ -19,9 +19,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 # Import ASK database/auth/models (platform subscriptions use ASK's user table)
-from api.database import get_db
-from api.models_db import User, Payment
-from api.auth import get_current_user
+from database.ask import get_db
+from models.ask import User, Payment
+from auth.ask import get_current_user
 from shared_backend.subscription.utils import (
     calculate_expiry,
     ensure_subscription_status,
@@ -406,7 +406,7 @@ async def razorpay_webhook(
             # Keep subscription_expires_at as is - they paid for the period
             db.commit()
     
-    # Handle one-time payment.captured (for backward compatibility)
+    # Handle one-time payment.captured
     elif event_type == "payment.captured":
         payload_data = event.get("payload", {}).get("payment", {}).get("entity", {})
         payment_id = payload_data.get("id")

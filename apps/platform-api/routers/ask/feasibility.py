@@ -14,8 +14,8 @@ from datetime import datetime, timedelta
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from api.database import get_db
-from api.auth import get_current_user, require_admin
+from database.ask import get_db
+from auth.ask import get_current_user, require_admin
 from shared_backend.feasibility import (
     calculate_unit_economics,
     calculate_break_even,
@@ -67,7 +67,7 @@ def _get_ask_costs(db: Session, days: int) -> Dict:
 def _get_ask_revenue(db: Session, days: int) -> float:
     """Get ASK project revenue in paise"""
     try:
-        from ..models_db import Payment
+        from models.ask import Payment
         
         cutoff_date = datetime.utcnow() - timedelta(days=days)
         payments = db.query(Payment).filter(
@@ -85,7 +85,7 @@ def _get_ask_revenue(db: Session, days: int) -> float:
 def _get_ask_users(db: Session) -> List[str]:
     """Get ASK active user emails/IDs"""
     try:
-        from ..models_db import User
+        from models.ask import User
         
         users = db.query(User).filter(
             User.is_active == True,

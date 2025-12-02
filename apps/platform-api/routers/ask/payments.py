@@ -13,11 +13,11 @@ import logging
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from api.database import get_db
-from api.models_db import User, Payment
-from api.config import settings
+from database.ask import get_db
+from models.ask import User, Payment
+from config.base import settings
 from shared_backend.subscription.utils import calculate_expiry, ensure_subscription_status, is_paid_tier
-from api.auth import get_current_user
+from auth.ask import get_current_user
 
 router = APIRouter()
 log = logging.getLogger(__name__)
@@ -543,7 +543,6 @@ async def add_credits_manual(
     """
     Manually add credits (admin only)
     DEPRECATED: Credits are no longer used for access control.
-    This endpoint is kept for backward compatibility only.
     """
     user = db.query(User).filter(User.id == user_id).first()
     
@@ -551,7 +550,6 @@ async def add_credits_manual(
         raise HTTPException(status_code=404, detail="User not found")
     
     # DEPRECATED: Credits are no longer used for access control.
-    # This endpoint is kept for backward compatibility only.
     # Access is now controlled by subscription status.
     user.credits += credits
     db.commit()

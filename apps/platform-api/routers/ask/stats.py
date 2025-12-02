@@ -6,8 +6,8 @@ from fastapi import APIRouter
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from api.models import Stats, Theme
-from api.services.csv_service import read_qa_pairs, get_all_themes, get_theme_counts
+from models.ask_schemas import Stats, Theme
+from services.ask.csv_service import read_qa_pairs, get_all_themes, get_theme_counts
 
 router = APIRouter()
 

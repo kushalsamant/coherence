@@ -14,12 +14,12 @@ from loguru import logger
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from sketch2bim_database import get_db
-from sketch2bim_auth import get_current_user
-from sketch2bim_models import User, Job, Iteration
-from sketch2bim_schemas import IterationCreate, IterationUpdate, IterationResponse
+from database.sketch2bim import get_db
+from auth.sketch2bim import get_current_user
+from models.sketch2bim import User, Job, Iteration
+from models.sketch2bim_schemas import IterationCreate, IterationUpdate, IterationResponse
 # Utils imported as needed
-from sketch2bim_exceptions import NotFoundError, ValidationError
+from utils.sketch2bim.exceptions import NotFoundError, ValidationError
 
 router = APIRouter(prefix="/iterations", tags=["iterations"])
 

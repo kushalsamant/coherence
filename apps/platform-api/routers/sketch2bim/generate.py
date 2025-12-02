@@ -14,10 +14,10 @@ import time
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from sketch2bim_database import get_db
-from sketch2bim_auth import get_current_user, require_active_subscription
-from sketch2bim_models import User, Job
-from sketch2bim_schemas import (
+from database.sketch2bim import get_db
+from auth.sketch2bim import get_current_user, require_active_subscription
+from models.sketch2bim import User, Job
+from models.sketch2bim_schemas import (
     UploadResponse,
     BatchUploadResponse,
     JobResponse,
@@ -26,16 +26,16 @@ from sketch2bim_schemas import (
     PlanData,
     SymbolSummary,
 )
-from sketch2bim_exceptions import ValidationError, NotFoundError, RateLimitError, ProcessingError
-from sketch2bim_utils import (
+from utils.sketch2bim.exceptions import ValidationError, NotFoundError, RateLimitError, ProcessingError
+from utils.sketch2bim import (
     generate_job_id, is_allowed_file, get_file_extension,
     check_rate_limit, log_job_event, sanitize_filename, validate_upload_file,
     upload_bytes_to_bunny, generate_temp_path, download_from_bunny,
     download_checkpoint, get_checkpoint_remote_path
 )
-from sketch2bim_utils.audit import log_audit_event
-from sketch2bim_monitoring.metrics import record_api_request
-from sketch2bim_config import settings
+from utils.sketch2bim.audit import log_audit_event
+from services.sketch2bim.metrics import record_api_request
+from config.sketch2bim import settings
 
 router = APIRouter(prefix="/generate", tags=["generate"])
 
@@ -96,7 +96,7 @@ def process_sketch_task(user_id: int, sketch_path: str, job_id: str, project_typ
         project_type: Project type (architecture only)
     """
     # Create new database session for background task
-    from ..database import SessionLocal
+    from database.sketch2bim import SessionLocal
     db = SessionLocal()
     
     try:
@@ -188,14 +188,14 @@ def process_sketch_task(user_id: int, sketch_path: str, job_id: str, project_typ
         db.commit()
         
         # Import here to avoid circular imports
-        from ..ai.model_generator import generate_model
-        from ..utils import (
+        from ai.model_generator import generate_model
+        from utils.sketch2bim import (
             upload_to_bunny,
             create_signed_bunny_url,
             generate_remote_path
         )
-        from ..utils.costing import calculate_job_cost
-        from ..monitoring.metrics import record_job
+        from utils.sketch2bim.costing import calculate_job_cost
+        from services.sketch2bim.metrics import record_job
         
         # Get project_type from job
         project_type = job.project_type or "architecture"
@@ -410,7 +410,7 @@ def cleanup_local_files(sketch_path: str, output_dir: Path):
 
 def cleanup_temp_checkpoints(job_id: str, plan_data: Optional[Dict[str, Any]]):
     """Clean up temporary checkpoint files from BunnyCDN after job completion"""
-    from ..utils import delete_from_bunny, get_checkpoint_remote_path
+    from utils.sketch2bim import delete_from_bunny, get_checkpoint_remote_path
     
     if not plan_data or not isinstance(plan_data, dict):
         return
@@ -743,7 +743,7 @@ def get_job_status(
     Get job processing status
     """
     # Validate job ID format
-    from ..utils import validate_job_id
+    from utils.sketch2bim import validate_job_id
     if not validate_job_id(job_id):
         raise ValidationError("Invalid job ID format", field="job_id")
     
@@ -801,7 +801,7 @@ def get_job(
     Get detailed job information
     """
     # Validate job ID format
-    from ..utils import validate_job_id
+    from utils.sketch2bim import validate_job_id
     if not validate_job_id(job_id):
         raise ValidationError("Invalid job ID format", field="job_id")
     
@@ -825,7 +825,7 @@ def get_job_plan_data(
     """
     Retrieve raw plan data (rooms, walls, symbols) for QA tools.
     """
-    from ..utils import validate_job_id
+    from utils.sketch2bim import validate_job_id
     if not validate_job_id(job_id):
         raise ValidationError("Invalid job ID format", field="job_id")
 
@@ -916,7 +916,7 @@ def delete_job(
     
     # Delete from CDN if exists
     if job.ifc_url:
-        from ..utils import delete_from_bunny
+        from utils.sketch2bim import delete_from_bunny
         # Extract remote path from URL
         # This is simplified - implement proper path extraction
         pass

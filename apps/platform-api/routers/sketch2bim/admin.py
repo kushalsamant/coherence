@@ -10,10 +10,10 @@ from datetime import datetime, timedelta
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from sketch2bim_database import get_db
-from sketch2bim_auth import is_admin
-from sketch2bim_models import User, Job, Payment
-from sketch2bim_schemas import AdminStats
+from database.sketch2bim import get_db
+from auth.sketch2bim import is_admin
+from models.sketch2bim import User, Job, Payment
+from models.sketch2bim_schemas import AdminStats
 from sqlalchemy import func, and_
 from fastapi import HTTPException
 

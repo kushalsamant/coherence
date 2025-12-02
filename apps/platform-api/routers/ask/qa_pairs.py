@@ -8,8 +8,8 @@ from typing import Optional, List
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from api.models import QAPairResponse, QAPairListResponse
-from api.services.csv_service import (
+from models.ask_schemas import QAPairResponse, QAPairListResponse
+from services.ask.csv_service import (
     read_qa_pairs,
     get_qa_pair_by_id,
     filter_by_theme
@@ -39,7 +39,7 @@ def convert_to_response(qa_pair, index: int) -> QAPairResponse:
     question_image_url = get_image_url(question_image)
     answer_image_url = get_image_url(answer_image)
     
-    # For backward compatibility, create answer_image_urls list
+    # Create answer_image_urls list
     answer_image_urls = []
     if answer_image_url:
         answer_image_urls.append(answer_image_url)

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 }
 
 export default function ProjectsPage() {
-  const projectsDirectory = path.join(process.cwd(), 'projects')
+  const projectsDirectory = path.join(process.cwd(), 'content', 'projects')
   
   let projects: string[] = []
   if (fs.existsSync(projectsDirectory)) {

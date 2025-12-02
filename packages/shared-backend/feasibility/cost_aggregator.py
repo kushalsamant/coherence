@@ -16,7 +16,7 @@ PROJECTS = ["ask", "sketch2bim", "reframe"]
 # Shared infrastructure cost estimates (monthly, in USD)
 # These should be updated based on actual infrastructure bills
 SHARED_INFRASTRUCTURE_COSTS = {
-    "supabase": 25.0,  # Database hosting (estimated)
+    "upstash_postgres": 25.0,  # Database hosting (Upstash Postgres - estimated)
     "upstash_redis": 10.0,  # Redis/caching (estimated)
     "shared_backend_maintenance": 5.0,  # Development/maintenance overhead
     "monitoring_logging": 5.0,  # Monitoring and logging services

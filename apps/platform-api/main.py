@@ -11,7 +11,10 @@ from pathlib import Path
 import os
 
 # Import app-specific routers
-from routers import ask, reframe, sketch2bim, subscriptions
+from routers.ask import router as ask_router
+from routers.reframe import router as reframe_router
+from routers.sketch2bim import router as sketch2bim_router
+from routers import subscriptions
 
 # Get CORS origins from environment
 CORS_ORIGINS = os.getenv(
@@ -36,9 +39,9 @@ app.add_middleware(
 )
 
 # Include app-specific routers with path prefixes
-app.include_router(ask.router, prefix="/api/ask", tags=["ask"])
-app.include_router(reframe.router, prefix="/api/reframe", tags=["reframe"])
-app.include_router(sketch2bim.router, prefix="/api/sketch2bim", tags=["sketch2bim"])
+app.include_router(ask_router, prefix="/api/ask", tags=["ask"])
+app.include_router(reframe_router, prefix="/api/reframe", tags=["reframe"])
+app.include_router(sketch2bim_router, prefix="/api/sketch2bim", tags=["sketch2bim"])
 
 # Unified subscription routes
 app.include_router(subscriptions.router, prefix="/api/subscriptions", tags=["subscriptions"])

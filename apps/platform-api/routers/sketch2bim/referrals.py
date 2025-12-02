@@ -13,10 +13,10 @@ from loguru import logger
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from sketch2bim_database import get_db
-from sketch2bim_auth import get_current_user
-from sketch2bim_models import User, Referral
-from sketch2bim_exceptions import NotFoundError, ValidationError
+from database.sketch2bim import get_db
+from auth.sketch2bim import get_current_user
+from models.sketch2bim import User, Referral
+from utils.sketch2bim.exceptions import NotFoundError, ValidationError
 
 router = APIRouter(prefix="/referrals", tags=["referrals"])
 
@@ -64,7 +64,7 @@ async def generate_referral(
         db.commit()
     
     # Generate referral URL
-    from ..config import settings
+    from config.sketch2bim import settings
     referral_url = f"{settings.FRONTEND_URL}?ref={referral_code}"
     
     return {
@@ -118,7 +118,7 @@ async def get_referral_code(
     ).first()
     
     if existing:
-        from ..config import settings
+        from config.sketch2bim import settings
         referral_url = f"{settings.FRONTEND_URL}?ref={existing.referral_code}"
         return {
             "referral_code": existing.referral_code,

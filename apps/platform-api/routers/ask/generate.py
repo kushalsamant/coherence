@@ -11,15 +11,15 @@ log = logging.getLogger(__name__)
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from api.models import (
+from models.ask_schemas import (
     GenerateRequest, GenerateResponse,
     GenerateStartRequest, GenerateStartResponse,
     GenerateNextRequest, GenerateNextResponse,
     UpdateKeywordsRequest, UpdateKeywordsResponse,
     GenerationState
 )
-from api.services.generation_service import trigger_generation
-from api.services.chained_generation_service import (
+from services.ask.generation_service import trigger_generation
+from services.ask.chained_generation_service import (
     validate_keywords,
     generate_question_from_keywords,
     generate_answer_from_question,
@@ -29,10 +29,10 @@ from api.services.chained_generation_service import (
     update_keywords,
     add_to_chain
 )
-from api.services.csv_service import read_qa_pairs
-from api.services.groq_service import is_groq_available
+from services.ask.csv_service import read_qa_pairs
+from services.ask.groq_service import is_groq_available
 from routers.ask.qa_pairs import convert_to_response
-from api.database import get_db
+from database.ask import get_db
 from research_csv_manager import log_qa_pair
 
 router = APIRouter()
@@ -298,7 +298,7 @@ async def generate_content(
     background_tasks: BackgroundTasks
 ):
     """
-    Legacy endpoint for content generation (kept for backward compatibility)
+    Legacy endpoint for content generation
     
     Note: Generation runs in the background and may take several minutes
     """

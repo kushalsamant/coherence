@@ -14,11 +14,11 @@ import os
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from sketch2bim_database import get_db
-from sketch2bim_auth import get_current_user, is_admin
-from sketch2bim_models import User, Payment
-from sketch2bim_config import settings
-from sketch2bim_utils.subscription import calculate_expiry, ensure_subscription_status, is_paid_tier
+from database.sketch2bim import get_db
+from auth.sketch2bim import get_current_user, is_admin
+from models.sketch2bim import User, Payment
+from config.sketch2bim import settings
+from utils.sketch2bim.subscription import calculate_expiry, ensure_subscription_status, is_paid_tier
 
 router = APIRouter(prefix="/payments", tags=["payments"])
 
@@ -542,7 +542,7 @@ def get_payment_fees(
         total_fees = sum(p.processing_fee or 0 for p in payments)
         total_revenue = sum(p.amount or 0 for p in payments)
         
-        # Calculate fees if not already stored (for backward compatibility)
+        # Calculate fees if not already stored
         calculated_fees = 0
         for payment in payments:
             if not payment.processing_fee and payment.amount:
@@ -600,7 +600,6 @@ async def add_credits_manual(
         raise HTTPException(status_code=404, detail="User not found")
     
     # DEPRECATED: Credits are no longer used for access control.
-    # This endpoint is kept for backward compatibility only.
     # Access is now controlled by subscription status.
     user.credits += credits
     db.commit()

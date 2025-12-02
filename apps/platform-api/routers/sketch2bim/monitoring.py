@@ -8,13 +8,13 @@ from typing import List, Dict, Any
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from sketch2bim_database import get_db
-from sketch2bim_auth import is_admin
+from database.sketch2bim import get_db
+from auth.sketch2bim import is_admin
 from sketch2bim_models import User
-from sketch2bim_monitoring.database_monitor import get_database_size, get_table_sizes
-from sketch2bim_monitoring.redis_monitor import get_redis_usage, get_redis_info
-from sketch2bim_monitoring.storage_monitor import get_storage_usage
-from sketch2bim_monitoring.alerts import check_resource_limits, ResourceAlert
+from services.sketch2bim.database_monitor import get_database_size, get_table_sizes
+from services.sketch2bim.redis_monitor import get_redis_usage, get_redis_info
+from services.sketch2bim.storage_monitor import get_storage_usage
+from services.sketch2bim.alerts import check_resource_limits, ResourceAlert
 
 router = APIRouter(prefix="/monitoring", tags=["monitoring"])
 
@@ -153,10 +153,10 @@ def get_recommendations(
         recommendations.append({
             "service": "database",
             "priority": "high" if db_info.get("percentage_used", 0) > 95 else "medium",
-            "message": f"Database is {db_info.get('percentage_used', 0):.1f}% full. Consider migrating to self-hosted PostgreSQL or upgrading Supabase plan.",
+            "message": f"Database is {db_info.get('percentage_used', 0):.1f}% full. Consider upgrading Upstash Postgres plan or migrating to self-hosted PostgreSQL.",
             "current_usage": f"{db_info.get('size_mb', 0):.1f}MB / {db_info.get('limit_mb', 0)}MB",
             "options": [
-                "Upgrade Supabase plan",
+                "Upgrade Upstash Postgres plan",
                 "Migrate to self-hosted PostgreSQL (Hetzner, DigitalOcean, Oracle Cloud)",
                 "Archive old job data"
             ]

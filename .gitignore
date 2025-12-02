@@ -316,9 +316,6 @@ lightning_logs/
 *.webp
 *.svg
 *.ico
-!assets/img/**/*.png
-!assets/img/**/*.jpg
-!assets/img/**/*.gif
 !public/assets/**/*.png
 !public/assets/**/*.jpg
 !public/assets/**/*.gif

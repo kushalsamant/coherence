@@ -7,27 +7,27 @@ from typing import Optional
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from reframe_models import ReframeRequest, ReframeResponse, ErrorResponse
-from reframe_auth import get_current_user_id, get_current_user_email
-from reframe_services.user_metadata_service import (
+from models.reframe import ReframeRequest, ReframeResponse, ErrorResponse
+from auth.reframe import get_current_user_id, get_current_user_email
+from services.reframe.user_metadata_service import (
     get_user_metadata,
     initialize_user_trial,
     set_user_metadata,
     get_usage,
     increment_usage,
 )
-from reframe_services.subscription_service import (
+from services.reframe.subscription_service import (
     has_active_subscription,
     ensure_subscription_status,
 )
-from reframe_services.tone_service import can_user_access_tone
-from reframe_services.groq_service import reframe_text
-from reframe_services.groq_monitor import track_groq_usage
+from services.reframe.tone_service import can_user_access_tone
+from services.reframe.groq_service import reframe_text
+from services.reframe.groq_monitor import track_groq_usage
 import os
 
 router = APIRouter()
 
-from reframe_config import get_settings
+from config.reframe import get_settings
 
 settings = get_settings()
 FREE_LIMIT = settings.FREE_LIMIT

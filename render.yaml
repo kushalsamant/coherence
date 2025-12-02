@@ -23,12 +23,20 @@ services:
       - key: PLATFORM_CORS_ORIGINS
         value: "https://kvshvl.in,https://www.kvshvl.in,https://ask.kvshvl.in,https://reframe.kvshvl.in,https://sketch2bim.kvshvl.in"
       
-      # Database Configuration (Shared Supabase)
-      - key: PLATFORM_DATABASE_URL
+      # Database Configuration (Upstash Postgres)
+      # Upstash Postgres uses separate databases (not schemas)
+      # ASK and Sketch2BIM each have their own database connection strings
+      - key: ASK_DATABASE_URL
         sync: false
-        # Supabase PostgreSQL connection string
-        # Format: postgresql://postgres.[PROJECT_REF]:[PASSWORD]@aws-[REGION].pooler.supabase.com:6543/postgres
-        # Get from: https://supabase.com/dashboard/project/[PROJECT_REF]/settings/database
+        # Upstash Postgres connection string for ASK database
+        # Format: postgresql://[USER]:[PASSWORD]@[HOST]:[PORT]/[DATABASE]
+        # Get from: https://console.upstash.com/postgres
+      - key: SKETCH2BIM_DATABASE_URL
+        sync: false
+        # Upstash Postgres connection string for Sketch2BIM database
+        # Format: postgresql://[USER]:[PASSWORD]@[HOST]:[PORT]/[DATABASE]
+        # Get from: https://console.upstash.com/postgres
+      # Legacy schema variables (kept for backward compatibility, not used with Upstash)
       - key: PLATFORM_DATABASE_SCHEMA_ASK
         value: "ask_schema"
       - key: PLATFORM_DATABASE_SCHEMA_SKETCH2BIM
@@ -95,7 +103,7 @@ services:
 
 # Notes:
 # - Single unified backend service replaces 3 separate services
-# - Uses shared Supabase PostgreSQL database with app-specific schemas
+# - Uses Upstash Postgres databases (separate databases for ASK and Sketch2BIM)
 # - Uses shared Upstash Redis for caching
 # - Unified Razorpay configuration for platform-wide subscriptions
 # - App-specific env vars are namespaced (ASK_*, REFRAME_*, SKETCH2BIM_*)

@@ -13,12 +13,12 @@ from loguru import logger
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from sketch2bim_database import get_db
-from sketch2bim_auth import get_current_user, require_active_subscription
-from sketch2bim_models import User, Job, LayoutVariation
-from sketch2bim_schemas import VariationGenerateRequest, VariationResponse
-from sketch2bim_exceptions import NotFoundError, ValidationError
-from sketch2bim_ai.layout_generator import generate_layout_variations
+from database.sketch2bim import get_db
+from auth.sketch2bim import get_current_user, require_active_subscription
+from models.sketch2bim import User, Job, LayoutVariation
+from models.sketch2bim_schemas import VariationGenerateRequest, VariationResponse
+from utils.sketch2bim.exceptions import NotFoundError, ValidationError
+from ai.layout_generator import generate_layout_variations
 
 router = APIRouter(prefix="/variations", tags=["variations"])
 
@@ -171,7 +171,7 @@ def _process_variations(
     """
     Background task to process layout variations
     """
-    from ..database import SessionLocal
+    from database.sketch2bim import SessionLocal
     db = SessionLocal()
     
     try:

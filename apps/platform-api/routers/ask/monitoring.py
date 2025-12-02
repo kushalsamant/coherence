@@ -11,14 +11,14 @@ from datetime import datetime
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from api.database import get_db
+from database.ask import get_db
 try:
-    from api.auth import get_current_user
+    from auth.ask import get_current_user
     AUTH_AVAILABLE = True
 except ImportError:
     # Fallback if auth not fully configured
     AUTH_AVAILABLE = False
-    from api.models_db import User
+    from models.ask import User
     def get_current_user():
         # Simple dependency that returns None if auth not configured
         # In production, this should require proper authentication
@@ -27,13 +27,8 @@ except ImportError:
             user = db.query(User).first()
             return user
         return Depends(_get_user)
-from api.services.groq_service import get_groq_usage_stats
-from api.utils.groq_monitor import (
-    get_daily_usage,
-    get_monthly_usage,
-    check_groq_usage_alerts,
-    GroqUsageAlert
-)
+from services.ask.groq_service import get_groq_usage_stats
+# Note: groq_monitor utilities may need to be moved to services.ask or utils.ask
 try:
     from ..services.cost_service import (
         get_total_costs,

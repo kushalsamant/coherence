@@ -11,12 +11,12 @@ from loguru import logger
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
-from sketch2bim_database import get_db
-from sketch2bim_auth import get_current_user
-from sketch2bim_models import Job
-from sketch2bim_exceptions import NotFoundError
-from sketch2bim_extraction.ifc_extractor import IFCExtractor
-from sketch2bim_extraction.exporter import DataExporter
+from database.sketch2bim import get_db
+from auth.sketch2bim import get_current_user
+from models.sketch2bim import Job
+from utils.sketch2bim.exceptions import NotFoundError
+from services.sketch2bim.ifc_extractor import IFCExtractor
+from services.sketch2bim.exporter import DataExporter
 
 router = APIRouter(prefix="/extraction", tags=["extraction"])
 
