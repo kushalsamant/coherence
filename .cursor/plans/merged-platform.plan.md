@@ -50,32 +50,18 @@
 
 **Priority**: High
 
-**Dependencies**: Phase 1 complete, test on staging first
-
 ### Remaining Tasks
 
-#### 2.1 Stripe to Razorpay Database Migrations
-
-**Note**: Current models already use `razorpay_*` fields. Only needed if production database has `stripe_*` columns.
-
-- [ ] Check production database for `stripe_*` columns
-- [ ] If found, create migration to rename columns
 - [ ] Test migrations on staging database first
+- [ ] Run migrations on production databases
 - [ ] Verify data integrity after migration
-
-#### 2.2 Upstash Postgres Migration
-
 - [ ] Export Supabase backups (ASK and Sketch2BIM schemas and data)
 - [ ] Create two Upstash Postgres databases
-- [ ] Run schema migrations: `cd database/migrations/ask && alembic upgrade head`
-- [ ] Run schema migrations: `cd database/migrations/sketch2bim && alembic upgrade head`
 - [ ] Import data from Supabase backups
 - [ ] Update environment variables with Upstash connection strings
 - [ ] Test locally with Upstash databases
 - [ ] Deploy to production
 - [ ] Monitor for 1 week before deprovisioning Supabase
-
-**Migration System**: ✅ Complete - Unified Alembic system created at `database/migrations/`
 
 **Note**: ⚠️ HIGH RISK - Always test on staging first
 
@@ -87,16 +73,9 @@
 
 **Priority**: Medium
 
-**Remaining**: 15-25 hours
+### Remaining Tasks
 
-### Backend Migration to Shared Components
-
-- [ ] Migrate `apps/platform-api` to use `shared_backend` components consistently
-- [ ] Preserve custom middleware (correlation, timeout, security headers)
-- [ ] Migrate models to extend base models
-- [ ] Test all routes work correctly
-
-### Frontend Migration to Shared Components
+#### 3.4 Frontend Migration to Shared Components
 
 - [ ] Migrate ASK settings page to use shared components
 - [ ] Migrate Sketch2BIM settings page to use shared components
@@ -108,11 +87,158 @@
 
 ---
 
+## Phase 4: Configuration
+
+**Status**: 🟡 **33% Complete**
+
+**Priority**: Medium
+
+### Remaining Tasks
+
+#### 4.1 Environment Variable Verification
+
+- [ ] Verify Render services have all prefixed variables
+- [ ] Verify Vercel projects have all prefixed variables
+- [ ] Remove any unprefixed variables
+- [ ] Verify no `STRIPE_*` variables exist
+- [ ] Verify no `*_GROQ_DAILY_COST_THRESHOLD` variables exist
+- [ ] Update `.env.example` template file to match `.env.local` structure
+- [ ] Update developer documentation
+
+#### 4.2 Backward Compatibility Removal
+
+- [ ] Remove `/add-credits` endpoints (if not needed for admin)
+- [ ] Remove legacy generate endpoint models (if not used)
+- [ ] Remove "backward compatibility" comments from env templates
+- [ ] Update config file comments
+- [ ] Update route comments
+
+---
+
+## Phase 5: Documentation
+
+**Status**: ⏳ **PENDING (0%)**
+
+**Priority**: Low
+
+### Remaining Tasks
+
+#### 5.1 Stripe → Razorpay Documentation
+
+- [ ] Update `docs/DATABASE_MIGRATION_GUIDE.md` - Update SQL examples
+- [ ] Update `docs/repo-skills-CV.md` - Replace Stripe mentions
+- [ ] Update `docs/migrate-to-self-hosted-oracle.md` - Update env var examples
+- [ ] Update `docs/competitive-analysis-HONEST.md` - Update payment processor mentions
+- [ ] Update `docs/termsofservice.md` - Update payment processor references
+- [ ] Update `docs/privacypolicy.md` - Replace Stripe section with Razorpay
+- [ ] Update `docs/cancellationrefund.md` - Update processing timelines
+
+#### 5.2 Cost Monitoring Documentation
+
+- [ ] Update `docs/COST_ANALYSIS.md` - Remove daily threshold references
+- [ ] Update `docs/ENVIRONMENT_VARIABLES_REFERENCE.md` - Remove daily threshold entries
+- [ ] Update `apps/ask/docs/COST_MONITORING_SETUP.md` - Remove daily threshold examples
+
+#### 5.3 Migration Guides
+
+- [ ] Create `docs/migrations/ASK_MIGRATION_GUIDE.md`
+- [ ] Create `docs/migrations/SKETCH2BIM_MIGRATION_GUIDE.md`
+- [ ] Create `docs/migrations/REFRAME_MIGRATION_GUIDE.md`
+
+---
+
+## Phase 6: Testing & Verification
+
+**Status**: ⏳ **PENDING (0%)**
+
+**Priority**: High (must be done after code changes)
+
+### Remaining Tasks
+
+#### 6.1 Pricing Unification Verification
+
+- [ ] Verify checkout routes support all tiers (week/monthly/yearly)
+- [ ] Verify webhook handlers correctly identify all tiers
+- [ ] Verify subscription duration logic includes weekly
+- [ ] Verify Razorpay dashboard shows unified plan IDs
+- [ ] Test end-to-end payment flows for all tiers
+
+#### 6.2 Comprehensive Codebase Scans
+
+- [ ] Search for remaining Stripe references (excluding node_modules, .git, lockfiles)
+- [ ] Categorize: Code, Documentation, Comments, Config
+- [ ] Fix all functional code references
+- [ ] Update documentation
+- [ ] Search for `GROQ_DAILY_COST_THRESHOLD` or `DAILY_COST_THRESHOLD`
+- [ ] Remove from code, update documentation
+
+#### 6.3 Conceptual Verification
+
+**Payment Flow Tests**:
+
+- [ ] Create subscription for each tier (week/monthly/yearly)
+- [ ] Verify webhook receives correct tier information
+- [ ] Verify database records use `razorpay_*` fields (not `stripe_*`)
+- [ ] Verify subscription duration matches tier (7/30/365 days)
+- [ ] Test payment failure scenarios
+- [ ] Test subscription cancellation
+
+**Cost Monitoring Tests**:
+
+- [ ] Verify monthly cost threshold alerts trigger correctly
+- [ ] Verify daily cost threshold alerts do NOT exist
+- [ ] Test cost aggregation across all apps
+- [ ] Verify cost dashboard displays correctly
+
+**Database Migration Tests**:
+
+- [ ] Test migration on fresh database
+- [ ] Test migration on database with existing `stripe_*` columns
+- [ ] Test migration on database already using `razorpay_*` columns
+- [ ] Test rollback (downgrade) procedure
+- [ ] Verify data integrity after migration
+
+**Infrastructure Tests**:
+
+- [ ] Verify all health endpoints respond (`/health`)
+- [ ] Test authentication flow (sign in, sign out)
+- [ ] Verify OAuth redirects work correctly
+- [ ] Test API endpoints with new configuration
+- [ ] Verify environment variables are correctly loaded
+
+---
+
+## Phase 7: Cleanup
+
+**Status**: ⏳ **PENDING (0%)**
+
+**Priority**: Low (after verification period)
+
+### Remaining Tasks
+
+#### 7.1 Dependency Cleanup
+
+- [ ] Remove stripe from package.json files
+- [ ] Remove stripe from requirements.txt files
+- [ ] Regenerate lockfiles
+
+#### 7.2 Script References Verification
+
+- [ ] Check for references to deleted setup.ts scripts
+- [ ] Update package.json scripts
+- [ ] Update documentation
+
+**Note**: Only do this after successful production deployment and verification period
+
+---
+
 ## Risk Assessment
+
+**⚠️ Important**: Review this section before starting any phase implementation.
 
 ### High-Risk Areas
 
-#### Database Migrations (Phase 2)
+#### 1. Database Migrations (Phase 2)
 
 **Risk**: Data loss, production downtime, migration failures
 
@@ -123,23 +249,11 @@
 - Test rollback procedures on staging
 - Schedule during low-traffic periods
 - Monitor database connections and query performance
-- Have rollback plan ready
+- Have rollback plan ready (downgrade migrations)
 
-**Rollback**:
+#### 2. Platform Consolidation (Phase 1)
 
-```bash
-# ASK database
-cd database/migrations/ask
-alembic downgrade -1
-
-# Sketch2BIM database
-cd database/migrations/sketch2bim
-alembic downgrade -1
-```
-
-#### Platform Consolidation (Phase 1)
-
-**Risk**: Service outages, route conflicts, subscription migration issues
+**Risk**: Service outages, route conflicts, import path errors, subscription migration issues
 
 **Mitigation**:
 
@@ -147,71 +261,76 @@ alembic downgrade -1
 - Keep old deployments active during migration (1-2 weeks)
 - Test subdomain rewrites work correctly
 - Verify unified subscription checking works across all apps
-- Monitor for errors and fix incrementally
+- Test authentication flow from all app routes
+- Monitor for import path errors and fix incrementally
+- Test backend route migration thoroughly before production
 
-### Safety Checklist
+#### 3. Code Standardization (Phase 3)
 
-Before starting Phase 2 database migration:
+**Risk**: Breaking changes, shared component bugs affecting multiple apps
 
-- [ ] Full database backup created (both ASK and Sketch2BIM)
-- [ ] Staging environment configured and tested
-- [ ] Rollback procedure tested
-- [ ] Health monitoring configured
-- [ ] Maintenance window scheduled (if needed)
+**Mitigation**:
+
+- Migrate one app at a time
+- Test thoroughly before moving to next app
+- Keep old code as fallback (git branches)
+- Run comprehensive test suites
+
+### Rollback Procedures
+
+#### Database Migrations
+
+```bash
+# Rollback Alembic migration
+cd apps/platform-api
+alembic downgrade -1  # Go back one migration
+
+# Or rollback to specific version
+alembic downgrade <previous_version>
+```
+
+#### Infrastructure Rollback
+
+- Revert environment variables in Render/Vercel dashboards
+- Restore old OAuth configuration if needed
+- Revert code changes via git if necessary
+
+#### Code Changes
+
+- Use feature branches for all changes
+- Keep main branch stable
+- Tag releases before major changes
+- Use git revert for quick rollbacks
 
 ---
 
-## Quick Reference
+## Success Criteria
 
-### Migration Commands
+### Implementation Success Criteria
 
-**ASK database**:
-
-```bash
-cd database/migrations/ask
-alembic upgrade head          # Run migrations
-alembic current               # Check current version
-alembic downgrade -1          # Rollback one migration
-```
-
-**Sketch2BIM database**:
-
-```bash
-cd database/migrations/sketch2bim
-alembic upgrade head          # Run migrations
-alembic current               # Check current version
-alembic downgrade -1          # Rollback one migration
-```
-
-### Environment Variables Required
-
-```bash
-# ASK Database
-ASK_DATABASE_URL=postgresql://user:password@host:5432/ask
-
-# Sketch2BIM Database
-SKETCH2BIM_DATABASE_URL=postgresql://user:password@host:5432/sketch2bim
-
-# Platform
-PLATFORM_RAZORPAY_KEY_ID=...
-PLATFORM_RAZORPAY_KEY_SECRET=...
-PLATFORM_RAZORPAY_WEBHOOK_SECRET=...
-```
+- [ ] All database columns use `razorpay_*` naming (no `stripe_*`)
+- [ ] All code references use `razorpay_*` field names
+- [ ] All documentation mentions Razorpay (not Stripe)
+- [ ] All legal docs reference Razorpay
+- [ ] No daily cost threshold configuration or alerts
+- [ ] Only monthly cost thresholds documented and used
+- [ ] Tier naming standardized to "monthly"/"yearly" across all apps
+- [ ] All apps migrated to shared components
+- [ ] No Stripe dependencies in package files
+- [ ] Environment variables consistent across all environments
+- [ ] All migrations tested and working
+- [ ] Production deployments stable
 
 ---
 
-## Completed Work
+## Notes
 
-- Platform API reorganization (auth/database/config/models consolidated)
-- Legacy backward compatibility files removed
-- Supabase cleanup complete (all references updated to Upstash Postgres)
-- Database system recreated from scratch (unified Alembic migrations at `database/migrations/`)
-- All legacy SQL migrations removed
-- Migration documentation created
-- Design-system package.json updated to support Next 15
-- All code verification complete (no Stripe, no daily thresholds, all imports updated)
-- No linter errors
+- **Platform Consolidation**: The platform has been unified from 4 Vercel projects + 3 Render backends into 1 unified Vercel + 1 unified Render service
+- **Cost Impact**: ~55% reduction (from ~$101/mo to ~$45/mo)
+- **Build Fixed**: Next.js 16 build issues resolved (workspace package + removed submodule command)
+- **Branch Cleanup**: All dependabot branches cleaned up (merged Next.js 16, deleted old PRs)
+- For questions or clarifications, refer to the specific phase sections above
 
 ---
 
-*Last Updated: 2025-12-02 (Database System Recreated - Ready for Migration Execution)*
+*Last Updated: 2025-12-02 (Build fixes and branch cleanup complete)*

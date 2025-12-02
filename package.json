@@ -31,7 +31,7 @@
   "license": "MIT",
   "dependencies": {
     "@auth/upstash-redis-adapter": "^2.11.1",
-    "@kushalsamant/design-template": "workspace:*",
+    "@kushalsamant/design-template": "file:./packages/design-system",
     "@radix-ui/react-slot": "^1.2.3",
     "@radix-ui/react-toast": "^1.2.15",
     "@types/react-syntax-highlighter": "^15.5.11",
