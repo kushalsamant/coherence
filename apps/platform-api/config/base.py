@@ -98,9 +98,9 @@ class Settings(BaseSettings):
         return self.RAZORPAY_KEY_SECRET
     
     # Pricing in paise (₹1 = 100 paise)
-    RAZORPAY_WEEK_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_WEEK_AMOUNT", "129900"))
-    RAZORPAY_MONTH_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_MONTH_AMOUNT", "349900"))
-    RAZORPAY_YEAR_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_YEAR_AMOUNT", "2999900"))
+    RAZORPAY_WEEKLY_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_WEEKLY_AMOUNT", "129900"))
+    RAZORPAY_MONTHLY_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_MONTHLY_AMOUNT", "349900"))
+    RAZORPAY_YEARLY_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_YEARLY_AMOUNT", "2999900"))
     
     # Razorpay Plan IDs for subscriptions (created via scripts/create_razorpay_plans.py)
     RAZORPAY_PLAN_WEEKLY: str = os.getenv("ASK_RAZORPAY_PLAN_WEEKLY", "")

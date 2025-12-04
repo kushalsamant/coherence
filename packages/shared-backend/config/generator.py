@@ -39,9 +39,9 @@ class Settings(BaseSettings):
     
     # Pricing in paise (₹1 = 100 paise)
     # Shared across all projects - prefixed variables only, with hard defaults
-    RAZORPAY_WEEK_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_WEEK_AMOUNT", "RAZORPAY_WEEK_AMOUNT", 129900)
-    RAZORPAY_MONTH_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_MONTH_AMOUNT", "RAZORPAY_MONTH_AMOUNT", 349900)
-    RAZORPAY_YEAR_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_YEAR_AMOUNT", "RAZORPAY_YEAR_AMOUNT", 2999900)
+    RAZORPAY_WEEKLY_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_WEEKLY_AMOUNT", "RAZORPAY_WEEKLY_AMOUNT", 129900)
+    RAZORPAY_MONTHLY_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_MONTHLY_AMOUNT", "RAZORPAY_MONTHLY_AMOUNT", 349900)
+    RAZORPAY_YEARLY_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_YEARLY_AMOUNT", "RAZORPAY_YEARLY_AMOUNT", 2999900)
     
     # Razorpay Plan IDs for subscriptions
     # Shared across all projects - prefixed variables only

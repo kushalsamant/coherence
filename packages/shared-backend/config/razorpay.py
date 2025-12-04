@@ -35,9 +35,9 @@ class RazorpaySettings(BaseSettings):
     # Pricing in paise (₹1 = 100 paise)
     # Shared across all projects - uses unprefixed variables
     # Apps can override with prefixed variables in their config
-    RAZORPAY_WEEK_AMOUNT: int = int(os.getenv("RAZORPAY_WEEK_AMOUNT", "129900"))
-    RAZORPAY_MONTH_AMOUNT: int = int(os.getenv("RAZORPAY_MONTH_AMOUNT", "349900"))
-    RAZORPAY_YEAR_AMOUNT: int = int(os.getenv("RAZORPAY_YEAR_AMOUNT", "2999900"))
+    RAZORPAY_WEEKLY_AMOUNT: int = int(os.getenv("RAZORPAY_WEEKLY_AMOUNT", "129900"))
+    RAZORPAY_MONTHLY_AMOUNT: int = int(os.getenv("RAZORPAY_MONTHLY_AMOUNT", "349900"))
+    RAZORPAY_YEARLY_AMOUNT: int = int(os.getenv("RAZORPAY_YEARLY_AMOUNT", "2999900"))
     
     # Razorpay Plan IDs for subscriptions
     # Shared across all projects - uses unprefixed variables

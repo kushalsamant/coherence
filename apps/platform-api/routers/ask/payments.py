@@ -77,9 +77,9 @@ async def razorpay_webhook(
     
     # Map Razorpay amounts to tiers (using "monthly"/"yearly" standard)
     AMOUNT_TO_TIER = {
-        settings.RAZORPAY_WEEK_AMOUNT: "weekly",
-        settings.RAZORPAY_MONTH_AMOUNT: "monthly",
-        settings.RAZORPAY_YEAR_AMOUNT: "yearly",
+        settings.RAZORPAY_WEEKLY_AMOUNT: "weekly",
+        settings.RAZORPAY_MONTHLY_AMOUNT: "monthly",
+        settings.RAZORPAY_YEARLY_AMOUNT: "yearly",
     }
     
     # Handle one-time payment captured
@@ -360,9 +360,9 @@ async def create_checkout_session(
         else:
             # Create one-time order
             tier_map = {
-                "weekly": settings.RAZORPAY_WEEK_AMOUNT,
-                "monthly": settings.RAZORPAY_MONTH_AMOUNT,
-                "yearly": settings.RAZORPAY_YEAR_AMOUNT,
+                "weekly": settings.RAZORPAY_WEEKLY_AMOUNT,
+                "monthly": settings.RAZORPAY_MONTHLY_AMOUNT,
+                "yearly": settings.RAZORPAY_YEARLY_AMOUNT,
             }
             
             amount = tier_map.get(tier_key)

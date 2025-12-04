@@ -3,10 +3,10 @@ import { getRazorpayClient } from "@/lib/reframe/razorpay";
 import { authFunction as auth } from "@/app/reframe/auth";
 import { getUserMetadata, setUserMetadata, initializeUserTrial } from "@/lib/reframe/user-metadata";
 import {
-  getRazorpayWeekAmount,
+  getRazorpayWeeklyAmount,
   getRazorpayMonthlyAmount,
   getRazorpayYearlyAmount,
-  getRazorpayPlanWeek,
+  getRazorpayPlanWeekly,
   getRazorpayPlanMonthly,
   getRazorpayPlanYearly,
 } from "@/lib/reframe/app-config";
@@ -72,7 +72,7 @@ export async function GET(req: Request) {
     if (paymentType === "subscription") {
       // Create subscription using Plan ID
       const planMap: Record<string, string> = {
-        weekly: getRazorpayPlanWeek(),
+        weekly: getRazorpayPlanWeekly(),
         monthly: getRazorpayPlanMonthly(),
         yearly: getRazorpayPlanYearly(),
       };
@@ -128,7 +128,7 @@ export async function GET(req: Request) {
         const subscription = await razorpay.subscriptions.create(subscriptionData);
         
         // Get the amount based on tier
-        const amount = tierKey === 'weekly' ? getRazorpayWeekAmount() : 
+        const amount = tierKey === 'weekly' ? getRazorpayWeeklyAmount() : 
                        tierKey === 'monthly' ? getRazorpayMonthlyAmount() : 
                        getRazorpayYearlyAmount();
 
@@ -161,7 +161,7 @@ export async function GET(req: Request) {
     } else {
       // Create one-time order
       const tierMap: Record<string, number> = {
-        weekly: getRazorpayWeekAmount(),
+        weekly: getRazorpayWeeklyAmount(),
         monthly: getRazorpayMonthlyAmount(),
         yearly: getRazorpayYearlyAmount(),
       };

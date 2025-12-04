@@ -42,9 +42,9 @@ PLATFORM_RAZORPAY_PLAN_YEARLY = os.getenv("PLATFORM_RAZORPAY_PLAN_YEARLY", "")
 
 # Pricing amounts in paise (₹1 = 100 paise)
 # These should match the plan amounts in Razorpay
-PLATFORM_RAZORPAY_WEEK_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_WEEK_AMOUNT", "129900"))
-PLATFORM_RAZORPAY_MONTH_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_MONTH_AMOUNT", "349900"))
-PLATFORM_RAZORPAY_YEAR_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_YEAR_AMOUNT", "2999900"))
+PLATFORM_RAZORPAY_WEEKLY_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_WEEKLY_AMOUNT", "129900"))
+PLATFORM_RAZORPAY_MONTHLY_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_MONTHLY_AMOUNT", "349900"))
+PLATFORM_RAZORPAY_YEARLY_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_YEARLY_AMOUNT", "2999900"))
 
 # Frontend URL for redirects
 PLATFORM_FRONTEND_URL = os.getenv("PLATFORM_FRONTEND_URL", "https://kvshvl.in")
@@ -307,9 +307,9 @@ async def razorpay_webhook(
     
     # Map Razorpay amounts to tiers
     AMOUNT_TO_TIER = {
-        PLATFORM_RAZORPAY_WEEK_AMOUNT: "weekly",
-        PLATFORM_RAZORPAY_MONTH_AMOUNT: "monthly",
-        PLATFORM_RAZORPAY_YEAR_AMOUNT: "yearly",
+        PLATFORM_RAZORPAY_WEEKLY_AMOUNT: "weekly",
+        PLATFORM_RAZORPAY_MONTHLY_AMOUNT: "monthly",
+        PLATFORM_RAZORPAY_YEARLY_AMOUNT: "yearly",
     }
     
     # Handle subscription.created

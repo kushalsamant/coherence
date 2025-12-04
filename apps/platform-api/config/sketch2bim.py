@@ -140,9 +140,9 @@ class Settings(BaseSettings):
     # Week: ₹1,299/week = 129900 paise
     # Monthly: ₹3,499/month = 349900 paise
     # Yearly: ₹29,999/year = 2999900 paise
-    RAZORPAY_WEEK_AMOUNT: int = int(os.getenv("SKETCH2BIM_RAZORPAY_WEEK_AMOUNT", "129900"))
-    RAZORPAY_MONTH_AMOUNT: int = int(os.getenv("SKETCH2BIM_RAZORPAY_MONTH_AMOUNT", "349900"))
-    RAZORPAY_YEAR_AMOUNT: int = int(os.getenv("SKETCH2BIM_RAZORPAY_YEAR_AMOUNT", "2999900"))
+    RAZORPAY_WEEKLY_AMOUNT: int = int(os.getenv("SKETCH2BIM_RAZORPAY_WEEKLY_AMOUNT", "129900"))
+    RAZORPAY_MONTHLY_AMOUNT: int = int(os.getenv("SKETCH2BIM_RAZORPAY_MONTHLY_AMOUNT", "349900"))
+    RAZORPAY_YEARLY_AMOUNT: int = int(os.getenv("SKETCH2BIM_RAZORPAY_YEARLY_AMOUNT", "2999900"))
     
     # Razorpay Plan IDs for subscriptions (created via scripts/create_razorpay_plans.py)
     RAZORPAY_PLAN_WEEKLY: str = os.getenv("SKETCH2BIM_RAZORPAY_PLAN_WEEKLY", "")

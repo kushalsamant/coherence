@@ -3,10 +3,10 @@ import { verifyWebhookSignature } from "@/lib/reframe/razorpay";
 import { getUserMetadata, setUserMetadata, updateSubscription, removeSubscription } from "@/lib/reframe/user-metadata";
 import { calculateExpiry, ensureSubscriptionStatus } from "@/lib/reframe/subscription";
 import {
-  getRazorpayWeekAmount,
+  getRazorpayWeeklyAmount,
   getRazorpayMonthlyAmount,
   getRazorpayYearlyAmount,
-  getRazorpayPlanWeek,
+  getRazorpayPlanWeekly,
   getRazorpayPlanMonthly,
   getRazorpayPlanYearly,
 } from "@/lib/reframe/app-config";
@@ -18,7 +18,7 @@ export const dynamic = 'force-dynamic';
 // Map Razorpay amounts to tiers (in paise, ₹1 = 100 paise)
 // Unified pricing shared across all apps (ASK, Reframe, Sketch2BIM)
 const AMOUNT_TO_TIER: Record<number, "weekly" | "monthly" | "yearly"> = {
-  [getRazorpayWeekAmount()]: "weekly",  // ₹1,299 = 129900 paise
+  [getRazorpayWeeklyAmount()]: "weekly",  // ₹1,299 = 129900 paise
   [getRazorpayMonthlyAmount()]: "monthly",  // ₹3,499 = 349900 paise
   [getRazorpayYearlyAmount()]: "yearly",  // ₹29,999 = 2999900 paise
 };
