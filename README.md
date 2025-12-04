@@ -1,335 +1,251 @@
 # KVSHVL Platform
 
-**A unified platform for architectural research, AI-powered reframing, and sketch-to-BIM conversion.**
-
-[![Deploy Status](https://img.shields.io/badge/deploy-live-success)](https://kvshvl.in)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-## 🌟 Overview
-
-KVSHVL Platform is a comprehensive web application combining three powerful tools:
-
-- **ASK** - Daily Architectural Research questions and answers
-- **Reframe** - AI-powered text reframing with multiple tones and styles
-- **Sketch2BIM** - Convert architectural sketches to BIM models
-
-## 🏗️ Architecture
-
-### Monorepo Structure
-
-```
-kushalsamant.github.io/
-├── app/                      # Next.js App Router pages
-│   ├── ask/                  # ASK application
-│   ├── reframe/              # Reframe application
-│   ├── sketch2bim/           # Sketch2BIM application
-│   └── api/                  # Unified API routes
-├── components/               # React components
-│   ├── ask/                  # ASK-specific components
-│   ├── reframe/              # Reframe-specific components
-│   ├── sketch2bim/           # Sketch2BIM components
-│   └── shared/               # Shared components
-├── lib/                      # Utility libraries
-├── packages/                 # Workspace packages
-│   ├── design-system/        # @kushalsamant/design-template
-│   ├── shared-frontend/      # @kvshvl/shared-frontend
-│   └── shared-backend/       # Shared Python utilities
-├── apps/                     # Backend applications
-│   └── platform-api/         # Unified FastAPI backend
-├── content/                  # Markdown content
-│   ├── anthology/            # ASK content
-│   └── projects/             # Project documentation
-└── database/                 # Database migrations
-    └── migrations/           # Alembic migrations
-```
-
-### Technology Stack
-
-**Frontend:**
-- Next.js 16 (App Router)
-- React 18
-- TypeScript
-- Tailwind CSS
-- Upstash Redis (session storage)
-
-**Backend:**
-- FastAPI (Python)
-- PostgreSQL (Upstash Postgres)
-- Alembic (migrations)
-- Razorpay (payments)
-
-**AI/ML:**
-- Groq API (LLaMA models)
-- Replicate (Sketch2BIM processing)
-
-**Deployment:**
-- Frontend: Vercel
-- Backend: Render.com
-- CDN: BunnyCDN (assets)
+Unified platform for ASK (Daily Architectural Research), Reframe (Content Reformulation), and Sketch-to-BIM (Sketch-based 3D Modeling).
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 
-- Node.js 18+ 
-- npm 9+
-- Python 3.11+ (for backend development)
-- PostgreSQL (Upstash accounts for production)
+- Node.js >= 18.0.0
+- npm >= 9.0.0
+- Python >= 3.10 (for backend services)
+- PostgreSQL (for ASK and Sketch2BIM databases)
+- Redis (Upstash recommended)
 
-### Local Development Setup
+### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/kushalsamant/kushalsamant.github.io.git
-   cd kushalsamant.github.io
-   ```
+```bash
+# Clone the repository
+git clone https://github.com/kushalsamant/kushalsamant.github.io.git
+cd kushalsamant.github.io
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+# Install dependencies
+npm install
 
-3. **Configure environment variables**
-   ```bash
-   cp platform.env.template .env.local
-   # Edit .env.local with your credentials
-   ```
+# Copy environment template
+cp platform.env.template .env.local
+# Edit .env.local with your actual credentials
 
-4. **Run database migrations**
-   ```bash
-   cd database/migrations/ask
-   alembic upgrade head
-   
-   cd ../sketch2bim
-   alembic upgrade head
-   ```
+# Run development server
+npm run dev
+```
 
-5. **Start development server**
-   ```bash
-   npm run dev
-   ```
+Visit `http://localhost:3000` to see the app.
 
-6. **Visit the application**
-   - Main site: http://localhost:3000
-   - ASK: http://localhost:3000/ask
-   - Reframe: http://localhost:3000/reframe
-   - Sketch2BIM: http://localhost:3000/sketch2bim
+### Production Build
 
-## 📋 Environment Variables
+```bash
+# Build all workspaces and Next.js
+npm run build
 
-See [`platform.env.template`](platform.env.template) for all required environment variables.
+# Start production server
+npm run start
+```
+
+## 📁 Project Structure
+
+```
+kushalsamant.github.io/
+├── app/                      # Next.js 13+ App Router pages
+│   ├── ask/                  # ASK: Daily Architectural Research
+│   ├── reframe/              # Reframe: Content reformulation
+│   ├── sketch2bim/           # Sketch-to-BIM: 3D modeling from sketches
+│   ├── account/              # User account & subscription management
+│   ├── api/                  # API routes (auth, payments, webhooks)
+│   └── subscribe/            # Subscription checkout pages
+├── components/               # React components
+│   ├── ask/                  # ASK-specific components
+│   ├── reframe/              # Reframe-specific components
+│   ├── sketch2bim/           # Sketch2BIM-specific components
+│   ├── platform-dashboard/  # Shared dashboard components
+│   └── shared/               # Shared components (HeaderWrapper)
+├── lib/                      # Shared utilities and libraries
+│   ├── ask/                  # ASK client libraries
+│   ├── reframe/              # Reframe client libraries
+│   ├── sketch2bim/           # Sketch2BIM client libraries
+│   ├── shared/               # Platform-wide shared utilities
+│   ├── auth.ts               # NextAuth configuration
+│   ├── redis.ts              # Redis/Upstash client
+│   ├── logger.ts             # Centralized logging
+│   ├── rate-limit.ts         # Rate limiting utilities
+│   └── validation.ts         # Input validation schemas (Zod)
+├── apps/                     # Backend services
+│   └── platform-api/         # FastAPI backend (Python)
+│       ├── routers/          # API route handlers
+│       ├── models/           # Database models
+│       ├── services/         # Business logic services
+│       └── ai/               # AI/ML services (Sketch2BIM)
+├── packages/                 # Monorepo workspace packages
+│   ├── design-system/        # Shared UI components (@kushalsamant/design-template)
+│   ├── shared-frontend/      # Shared frontend utilities
+│   └── shared-backend/       # Shared Python backend utilities
+├── content/                  # Content files (Markdown)
+│   ├── anthology/            # ASK research articles (300+ files)
+│   └── projects/             # Project case studies
+├── database/                 # Database migrations
+│   └── migrations/           # Alembic migrations
+│       ├── ask/              # ASK database migrations
+│       └── sketch2bim/       # Sketch2BIM database migrations
+├── public/                   # Static assets
+│   ├── assets/               # Images, icons, media
+│   ├── sitemap.xml           # Generated sitemap
+│   └── robots.txt            # SEO crawling instructions
+├── scripts/                  # Build and deployment scripts
+│   ├── generate-sitemap.ts   # Dynamic sitemap generation
+│   ├── platform/             # Platform management scripts
+│   └── deployment/           # Deployment utilities
+├── .github/                  # GitHub configuration
+│   └── dependabot.yml        # Automated dependency updates
+├── next.config.js            # Next.js configuration
+├── render.yaml               # Render.com deployment config
+├── vercel.json               # Vercel deployment config
+└── platform.env.template     # Environment variables template
+```
+
+## 🔧 Technology Stack
+
+### Frontend
+- **Framework**: Next.js 16 (App Router, React 18, TypeScript 5)
+- **Styling**: Tailwind CSS 3
+- **Authentication**: NextAuth.js v5 (Auth.js) with Google OAuth
+- **State Management**: React Context API
+- **3D Rendering**: Three.js + web-ifc (for Sketch2BIM IFC viewer)
+- **UI Components**: Custom design system + Radix UI primitives
+- **Validation**: Zod for type-safe input validation
+
+### Backend
+- **API Framework**: FastAPI (Python 3.10+)
+- **Database**: PostgreSQL 15
+- **ORM**: SQLAlchemy 2.0 with Alembic migrations
+- **Caching**: Redis (Upstash)
+- **AI/ML**: Groq API (llama-3.1-8b-instant)
+- **File Storage**: BunnyCDN (for Sketch2BIM uploads)
+- **Payments**: Razorpay (subscriptions and one-time payments)
+
+### Infrastructure
+- **Hosting**: Vercel (frontend), Render.com (backend API)
+- **CDN**: Vercel Edge Network, BunnyCDN
+- **Monitoring**: Built-in cost tracking and usage monitoring
+- **Security**: CSP, HSTS, rate limiting, input validation
+
+## 🔐 Environment Variables
+
+See `platform.env.template` for a complete list of required environment variables.
 
 ### Core Variables
-
 ```env
 # Authentication
-NEXTAUTH_URL=http://localhost:3000
-NEXTAUTH_SECRET=your-secret-here
-GOOGLE_CLIENT_ID=your-google-client-id
-GOOGLE_CLIENT_SECRET=your-google-client-secret
+AUTH_SECRET=<32-character-secret>
+GOOGLE_CLIENT_ID=<google-oauth-client-id>
+GOOGLE_CLIENT_SECRET=<google-oauth-secret>
 
-# Redis (Upstash)
-UPSTASH_REDIS_REST_URL=your-redis-url
-UPSTASH_REDIS_REST_TOKEN=your-redis-token
+# Redis/Upstash
+UPSTASH_REDIS_REST_URL=<upstash-redis-url>
+UPSTASH_REDIS_REST_TOKEN=<upstash-token>
 
-# Database (Upstash Postgres)
-ASK_DATABASE_URL=postgresql://user:pass@host:port/db
-SKETCH2BIM_DATABASE_URL=postgresql://user:pass@host:port/db
+# Razorpay Payments
+PLATFORM_RAZORPAY_KEY_ID=rzp_live_xxx or rzp_test_xxx
+PLATFORM_RAZORPAY_KEY_SECRET=<secret>
+PLATFORM_RAZORPAY_WEBHOOK_SECRET=<webhook-secret>
 
-# Payments (Razorpay)
-PLATFORM_RAZORPAY_KEY_ID=rzp_test_xxx
-PLATFORM_RAZORPAY_KEY_SECRET=your-secret
-PLATFORM_RAZORPAY_PLAN_WEEK=plan_xxx
-PLATFORM_RAZORPAY_PLAN_MONTH=plan_xxx
-PLATFORM_RAZORPAY_PLAN_YEAR=plan_xxx
+# Database URLs
+ASK_DATABASE_URL=postgresql://user:pass@host:5432/ask
+SKETCH2BIM_DATABASE_URL=postgresql://user:pass@host:5432/sketch2bim
 
-# AI APIs
-REFRAME_GROQ_API_KEY=your-groq-key
-SKETCH2BIM_REPLICATE_API_KEY=your-replicate-key
-```
-
-## 🏃 NPM Scripts
-
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server |
-| `npm run build` | Build for production |
-| `npm run start` | Start production server |
-| `npm run lint` | Run ESLint |
-| `npm run analyze` | Analyze bundle size |
-| `npm run generate:sitemap` | Generate sitemap.xml |
-
-## 🗄️ Database Migrations
-
-### ASK Database
-```bash
-cd database/migrations/ask
-alembic upgrade head        # Apply migrations
-alembic current             # Show current version
-alembic revision -m "msg"   # Create new migration
-```
-
-### Sketch2BIM Database
-```bash
-cd database/migrations/sketch2bim
-alembic upgrade head        # Apply migrations
-alembic current             # Show current version
-```
-
-**Auto-migration:** Set `AUTO_RUN_MIGRATIONS=true` to run migrations on app startup.
-
-## 💳 Payment Integration
-
-The platform uses Razorpay for subscription management.
-
-### Test Mode (Development)
-```env
-PLATFORM_RAZORPAY_KEY_ID=rzp_test_RmnbZXF6kOQine
-PLATFORM_RAZORPAY_PLAN_WEEK=plan_RnZU4WDSvPT6qe
-PLATFORM_RAZORPAY_PLAN_MONTH=plan_Rnaq9KJ0QzgV7Y
-PLATFORM_RAZORPAY_PLAN_YEAR=plan_RnZU5nSKQEiOcC
-```
-
-### Live Mode (Production)
-```env
-PLATFORM_RAZORPAY_KEY_ID=rzp_live_RhNUuWRBG7lzR4
-PLATFORM_RAZORPAY_PLAN_WEEK=plan_Rnb1CCVRIvBK2W
-PLATFORM_RAZORPAY_PLAN_MONTH=plan_Rnb1CsrwHntisk
-PLATFORM_RAZORPAY_PLAN_YEAR=plan_Rnb1DZy2EHhHqT
-```
-
-### Verify Plans
-```bash
-python scripts/platform/create_razorpay_plans.py
-```
-
-## 🚢 Deployment
-
-### Frontend (Vercel)
-
-1. **Connect repository to Vercel**
-2. **Configure environment variables** in Vercel dashboard
-3. **Deploy:** Automatic on push to `main` branch
-
-**Vercel Dashboard:** https://vercel.com/kvshvl/kushalsamant-github-io
-
-### Backend (Render)
-
-1. **Connect repository to Render**
-2. **Point to `render.yaml` blueprint**
-3. **Configure environment variables** in Render dashboard
-4. **Deploy:** Automatic on push to `main` branch
-
-**Configuration:** See [`render.yaml`](render.yaml)
-
-### Domain Configuration
-
-- **Primary:** https://kvshvl.in
-- **ASK:** https://ask.kvshvl.in
-- **Reframe:** https://reframe.kvshvl.in
-- **Sketch2BIM:** https://sketch2bim.kvshvl.in
-
-Domain routing is configured in [`vercel.json`](vercel.json).
-
-## 🧪 Testing
-
-```bash
-# Run all tests
-npm run test:workspaces
-
-# Test Razorpay integration
-python scripts/platform/create_razorpay_plans.py
-
-# Test build
-npm run build
-```
-
-### Test Card (Razorpay)
-```
-Card: 4111 1111 1111 1111
-CVV: Any 3 digits
-Expiry: Any future date
+# API URLs
+NEXT_PUBLIC_PLATFORM_API_URL=https://platform-api.onrender.com
 ```
 
 ## 📦 Workspace Packages
 
-### @kushalsamant/design-template
-Unified design system and component library.
+This is a monorepo using npm workspaces:
 
+- **`@kushalsamant/design-template`**: Shared UI component library
+- **`@kvshvl/shared-frontend`**: Shared frontend utilities
+- **Backend packages**: Shared Python backend utilities
+
+Build all workspaces:
 ```bash
-cd packages/design-system
-npm run build
+npm run build:workspaces
 ```
 
-### @kvshvl/shared-frontend
-Shared frontend utilities (auth, payments, settings).
+## 🧪 Testing
 
 ```bash
-cd packages/shared-frontend
-npm run build
+# Run tests for all workspaces
+npm run test:workspaces
+
+# Run linters
+npm run lint
+npm run lint:workspaces
 ```
 
-### shared-backend
-Shared Python utilities for backend services.
+## 🚢 Deployment
+
+### Vercel (Frontend)
+```bash
+# Deploy to production
+vercel --prod
+
+# Or push to main branch (auto-deploy enabled)
+git push origin main
+```
+
+### Render (Backend API)
+Backend deploys automatically on push to `main` branch. Configuration is in `render.yaml`.
+
+## 📊 Performance & Monitoring
+
+- **Bundle Analyzer**: Run `ANALYZE=true npm run build` to analyze bundle sizes
+- **Image Optimization**: Automatic with Next.js Image component
+- **Code Splitting**: Dynamic imports for heavy components
+- **Sitemap Generation**: Dynamic sitemap generated on build
+- **Rate Limiting**: Redis-backed rate limiting on API routes
+- **Cost Tracking**: Built-in Groq API cost monitoring
+
+## 🔒 Security Features
+
+- **CSP**: Strict Content Security Policy configured
+- **HSTS**: HTTP Strict Transport Security with preload
+- **Rate Limiting**: Per-IP rate limits on auth, payments, API
+- **Input Validation**: Zod schemas for all user inputs
+- **Dependency Scanning**: Dependabot enabled for security updates
+- **CORS**: Origin validation for API requests
+
+## 📝 Scripts
 
 ```bash
-pip install -e packages/shared-backend
+npm run dev              # Start development server
+npm run build            # Build all workspaces + Next.js
+npm run start            # Start production server
+npm run lint             # Run ESLint
+npm run generate:sitemap # Generate sitemap.xml
 ```
-
-## 🔒 Security
-
-- **Authentication:** NextAuth v5 with Google OAuth
-- **Rate Limiting:** Upstash Rate Limit on all API routes
-- **Security Headers:** CSP, HSTS, X-Frame-Options configured
-- **Input Validation:** Zod schemas for TypeScript, Pydantic for Python
-- **Payment Security:** Razorpay webhook signature verification
-
-## 📊 Monitoring
-
-- **Error Tracking:** Logger utility (implement Sentry for production)
-- **Analytics:** Vercel Analytics
-- **Performance:** Lighthouse CI
-- **Uptime:** Monitor via Vercel dashboard
 
 ## 🤝 Contributing
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Run tests and linting
-5. Commit changes (`git commit -m 'Add amazing feature'`)
-6. Push to branch (`git push origin feature/amazing-feature`)
-7. Open a Pull Request
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-### Code Style
+## 📄 License
 
-- **TypeScript:** Follow ESLint rules (`.eslintrc.json`)
-- **Python:** Follow PEP 8 (Black + Ruff)
-- **Commits:** Conventional Commits format
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Kushal Samant**
-- Website: https://kvshvl.in
-- Email: writetokushaldsamant@gmail.com
+MIT License - see LICENSE file for details
 
 ## 🔗 Links
 
-- **Production:** https://kvshvl.in
-- **Razorpay Dashboard:** https://dashboard.razorpay.com
-- **Vercel Dashboard:** https://vercel.com/kvshvl/kushalsamant-github-io
-- **Documentation:** See [`.cursor/plans/merged-platform.plan.md`](.cursor/plans/merged-platform.plan.md)
+- **Production**: https://kvshvl.in
+- **Documentation**: See inline code documentation
+- **Support**: Contact via /getintouch page
 
-## 🎯 Project Status
+## 📮 Contact
 
-**Status:** 🚀 **LIVE & DEPLOYED**  
-**Last Updated:** December 5, 2025  
-**Build:** ✅ Passing  
-**Deployment:** ✅ Automatic via Vercel + Render
+**Kushal Samant**  
+Website: https://kvshvl.in  
+GitHub: [@kushalsamant](https://github.com/kushalsamant)
 
-See [merged-platform.plan.md](.cursor/plans/merged-platform.plan.md) for detailed status and roadmap.
+---
 
+Built with ❤️ using Next.js, FastAPI, and modern web technologies.
