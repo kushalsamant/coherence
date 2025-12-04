@@ -149,6 +149,59 @@
 
 ---
 
+## 📋 Deployment Fix Plan (Reference)
+
+This was the systematic plan created and executed to fix both deployment issues:
+
+### Problem Summary
+
+**Vercel (Frontend):** Build failing because `packages/design-system` is registered as a git submodule but shouldn't be. This prevents the package from being built and causes 45+ "Module not found" errors for `@kushalsamant/design-template`.
+
+**Render (Backend):** Python app failing to start with `ModuleNotFoundError: No module named 'models'` due to incorrect module path configuration.
+
+### Solution Steps Executed
+
+#### 1. Fix Git Submodule Issue (Vercel)
+
+**Step 1: Remove Submodule Registration**
+```bash
+git rm --cached packages/design-system
+git add packages/design-system
+```
+
+**Step 2: Configure Next.js for Monorepo**
+- Added `transpilePackages: ['@kushalsamant/design-template', '@kvshvl/shared-frontend']` to `next.config.js`
+- This enables Next.js to properly transpile workspace packages
+
+**Step 3: Verify Package Configuration**
+- ✓ `@kushalsamant/design-template` points to `file:./packages/design-system`
+- ✓ Build scripts include `build:workspaces` before `next build`
+
+#### 2. Fix Python Module Imports (Render)
+
+**Updated render.yaml PYTHONPATH:**
+- Changed from: `PYTHONPATH=/opt/render/project/src/apps/platform-api:$PYTHONPATH`
+- Changed to: `PYTHONPATH=.:$PYTHONPATH`
+- Rationale: Use relative path instead of absolute path for portability
+
+### Deployment Process
+
+1. ✅ Removed submodule and added as regular files
+2. ✅ Updated next.config.js with transpilePackages
+3. ✅ Updated render.yaml PYTHONPATH
+4. ✅ Committed all changes (commit `ad382f7`)
+5. ✅ Pushed to trigger deployments on both platforms
+6. 🔄 Monitoring deployment results
+
+### Expected Results
+
+- ✅ Vercel: `@kushalsamant/design-template` builds successfully
+- ✅ Vercel: All module imports resolve correctly
+- ✅ Render: Python app starts without `ModuleNotFoundError`
+- ✅ Both platforms: Deployments complete successfully
+
+---
+
 ## Previous Work (Dec 4, 2025, 11:55 PM)
 
 ### Environment Variable Recovery & Validation ✅ COMPLETED
