@@ -45,9 +45,9 @@ class Settings(BaseSettings):
     
     # Razorpay Plan IDs for subscriptions
     # Shared across all projects - prefixed variables only
-    RAZORPAY_PLAN_WEEK: str = get_env_with_fallback("${app_prefix}_RAZORPAY_PLAN_WEEK", "RAZORPAY_PLAN_WEEK", "")
-    RAZORPAY_PLAN_MONTH: str = get_env_with_fallback("${app_prefix}_RAZORPAY_PLAN_MONTH", "RAZORPAY_PLAN_MONTH", "")
-    RAZORPAY_PLAN_YEAR: str = get_env_with_fallback("${app_prefix}_RAZORPAY_PLAN_YEAR", "RAZORPAY_PLAN_YEAR", "")
+    RAZORPAY_PLAN_WEEKLY: str = get_env_with_fallback("${app_prefix}_RAZORPAY_PLAN_WEEKLY", "RAZORPAY_PLAN_WEEKLY", "")
+    RAZORPAY_PLAN_MONTHLY: str = get_env_with_fallback("${app_prefix}_RAZORPAY_PLAN_MONTHLY", "RAZORPAY_PLAN_MONTHLY", "")
+    RAZORPAY_PLAN_YEARLY: str = get_env_with_fallback("${app_prefix}_RAZORPAY_PLAN_YEARLY", "RAZORPAY_PLAN_YEARLY", "")
     
     # Frontend URL (prefixed only; defaults to localhost for development)
     FRONTEND_URL: str = os.getenv("${app_prefix}_FRONTEND_URL", "http://localhost:3000")

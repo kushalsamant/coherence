@@ -58,7 +58,7 @@ export function PaymentHistorySection({
   const getProductTypeLabel = (type: string) => {
     if (formatProductType) return formatProductType(type);
     switch (type) {
-      case "week":
+      case "weekly":
         return "Week Access";
       case "monthly":
         return "Monthly Subscription";

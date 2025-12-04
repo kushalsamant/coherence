@@ -48,7 +48,7 @@ export default function SettingsPage() {
     switch (tier) {
       case 'trial':
         return '🆓 Trial';
-      case 'week':
+      case 'weekly':
         return '📅 Week Access';
       case 'monthly':
         return '📦 Monthly';
@@ -63,7 +63,7 @@ export default function SettingsPage() {
     switch (tier) {
       case 'trial':
         return 'bg-gray-100 text-gray-800';
-      case 'week':
+      case 'weekly':
         return 'bg-blue-100 text-blue-800';
       case 'monthly':
         return 'bg-purple-100 text-purple-800';

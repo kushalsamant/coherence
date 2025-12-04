@@ -59,7 +59,7 @@ function PricingContent() {
       return;
     }
 
-    const paidTiers = ['week', 'monthly', 'yearly'];
+    const paidTiers = ['weekly', 'monthly', 'yearly'];
     if (!paidTiers.includes(tier)) {
       alert('Invalid subscription tier');
       return;
@@ -127,7 +127,7 @@ function PricingContent() {
       description: 'Perfect for crit week or short sprints.',
       features: sharedFeatures,
       cta: 'Buy Week Access',
-      tier: 'week',
+      tier: 'weekly',
       popular: false
     },
     {

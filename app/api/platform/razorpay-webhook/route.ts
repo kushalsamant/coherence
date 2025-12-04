@@ -17,15 +17,15 @@ export const dynamic = 'force-dynamic';
 
 // Map Razorpay amounts to tiers (in paise, ₹1 = 100 paise)
 // Unified pricing shared across all apps (ASK, Reframe, Sketch2BIM)
-const AMOUNT_TO_TIER: Record<number, "week" | "monthly" | "yearly"> = {
-  [getRazorpayWeekAmount()]: "week",  // ₹1,299 = 129900 paise
+const AMOUNT_TO_TIER: Record<number, "weekly" | "monthly" | "yearly"> = {
+  [getRazorpayWeekAmount()]: "weekly",  // ₹1,299 = 129900 paise
   [getRazorpayMonthlyAmount()]: "monthly",  // ₹3,499 = 349900 paise
   [getRazorpayYearlyAmount()]: "yearly",  // ₹29,999 = 2999900 paise
 };
 
 // Map Razorpay plan IDs to tiers (shared plan IDs across all apps)
-const PLAN_TO_TIER: Record<string, "week" | "monthly" | "yearly"> = {
-  [getRazorpayPlanWeek()]: "week",
+const PLAN_TO_TIER: Record<string, "weekly" | "monthly" | "yearly"> = {
+  [getRazorpayPlanWeekly()]: "weekly",
   [getRazorpayPlanMonthly()]: "monthly",
   [getRazorpayPlanYearly()]: "yearly",
 };
@@ -93,12 +93,12 @@ export async function POST(req: Request) {
         if (paymentType === "one_time") {
           // One-time subscription purchase
           const subscriptionTier = tier || AMOUNT_TO_TIER[amount];
-          if (subscriptionTier && ["week", "monthly", "yearly"].includes(subscriptionTier)) {
+          if (subscriptionTier && ["weekly", "monthly", "yearly"].includes(subscriptionTier)) {
             const expiry = calculateExpiry(subscriptionTier);
             if (expiry) {
               await updateSubscription(
                 userId,
-                subscriptionTier as "week" | "monthly" | "yearly",
+                subscriptionTier as "weekly" | "monthly" | "yearly",
                 expiry,
                 false // one-time payment, no auto-renew
               );
@@ -145,7 +145,7 @@ export async function POST(req: Request) {
           if (expiry) {
             await updateSubscription(
               activatedUserId,
-              subscriptionTier as "week" | "monthly" | "yearly",
+              subscriptionTier as "weekly" | "monthly" | "yearly",
               expiry,
               true, // auto-renew enabled
               activatedSub.id,

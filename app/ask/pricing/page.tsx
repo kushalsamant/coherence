@@ -35,7 +35,7 @@ function PricingContent() {
       return
     }
 
-    const paidTiers = ['week', 'monthly', 'yearly']
+    const paidTiers = ['weekly', 'monthly', 'yearly']
     if (!paidTiers.includes(tier)) {
       alert('Invalid subscription tier')
       return
@@ -96,7 +96,7 @@ function PricingContent() {
         'All research tools',
         '7-day access'
       ],
-      tier: 'week',
+      tier: 'weekly',
       cta: 'Subscribe',
       variant: 'primary' as const
     },

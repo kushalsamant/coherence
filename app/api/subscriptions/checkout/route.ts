@@ -14,18 +14,18 @@ const razorpay = new Razorpay({
 
 // Plan configuration
 const PLANS = {
-  week: {
-    plan_id: process.env.RAZORPAY_PLAN_WEEK || process.env.PLATFORM_RAZORPAY_PLAN_WEEK,
+  weekly: {
+    plan_id: process.env.RAZORPAY_PLAN_WEEKLY || process.env.PLATFORM_RAZORPAY_PLAN_WEEKLY,
     amount: 129900, // ₹1,299 in paise
     name: 'Week',
   },
   monthly: {
-    plan_id: process.env.RAZORPAY_PLAN_MONTH || process.env.PLATFORM_RAZORPAY_PLAN_MONTH,
+    plan_id: process.env.RAZORPAY_PLAN_MONTHLY || process.env.PLATFORM_RAZORPAY_PLAN_MONTHLY,
     amount: 349900, // ₹3,499 in paise
     name: 'Month',
   },
   yearly: {
-    plan_id: process.env.RAZORPAY_PLAN_YEAR || process.env.PLATFORM_RAZORPAY_PLAN_YEAR,
+    plan_id: process.env.RAZORPAY_PLAN_YEARLY || process.env.PLATFORM_RAZORPAY_PLAN_YEARLY,
     amount: 2999900, // ₹29,999 in paise
     name: 'Year',
   },
@@ -52,7 +52,7 @@ export async function POST(req: NextRequest) {
     const body = await req.json();
     const { tier } = body;
 
-    if (!tier || !['week', 'monthly', 'yearly'].includes(tier)) {
+    if (!tier || !['weekly', 'monthly', 'yearly'].includes(tier)) {
       return NextResponse.json({ error: 'Invalid tier' }, { status: 400 });
     }
 

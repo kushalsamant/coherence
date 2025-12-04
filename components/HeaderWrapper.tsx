@@ -6,6 +6,7 @@ import { AppHeader } from '@kushalsamant/design-template'
 
 const navLinks = [
   { href: '/history', label: 'History' },
+  { href: '/account', label: 'Account' },
 ]
 
 export default function HeaderWrapper() {

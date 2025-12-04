@@ -84,7 +84,7 @@ export default function PaymentHistoryPage() {
       case 'single':
       case 'one_time':
         return 'Single Conversion';
-      case 'week':
+      case 'weekly':
         return 'Week Access';
       case 'monthly':
         return 'Monthly Access';
@@ -98,7 +98,7 @@ export default function PaymentHistoryPage() {
   };
 
   const getCreditsLabel = (payment: Payment) => {
-    if (['week', 'monthly', 'yearly'].includes(payment.product_type)) {
+    if (['weekly', 'monthly', 'yearly'].includes(payment.product_type)) {
       return 'Unlimited';
     }
     return `${payment.credits_added} ${payment.credits_added === 1 ? 'credit' : 'credits'}`;

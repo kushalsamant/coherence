@@ -103,9 +103,9 @@ class Settings(BaseSettings):
     RAZORPAY_YEAR_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_YEAR_AMOUNT", "2999900"))
     
     # Razorpay Plan IDs for subscriptions (created via scripts/create_razorpay_plans.py)
-    RAZORPAY_PLAN_WEEK: str = os.getenv("ASK_RAZORPAY_PLAN_WEEK", "")
-    RAZORPAY_PLAN_MONTH: str = os.getenv("ASK_RAZORPAY_PLAN_MONTH", "")
-    RAZORPAY_PLAN_YEAR: str = os.getenv("ASK_RAZORPAY_PLAN_YEAR", "")
+    RAZORPAY_PLAN_WEEKLY: str = os.getenv("ASK_RAZORPAY_PLAN_WEEKLY", "")
+    RAZORPAY_PLAN_MONTHLY: str = os.getenv("ASK_RAZORPAY_PLAN_MONTHLY", "")
+    RAZORPAY_PLAN_YEARLY: str = os.getenv("ASK_RAZORPAY_PLAN_YEARLY", "")
 
     # Frontend URL (prefixed only; defaults to localhost for development)
     FRONTEND_URL: str = os.getenv("ASK_FRONTEND_URL", "http://localhost:3000")

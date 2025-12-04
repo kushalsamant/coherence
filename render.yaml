@@ -50,12 +50,12 @@ services:
         sync: false
       - key: PLATFORM_RAZORPAY_WEBHOOK_SECRET
         sync: false
-      - key: PLATFORM_RAZORPAY_PLAN_WEEK
-        value: "plan_Rha5Ikcm5JrGqx"
-      - key: PLATFORM_RAZORPAY_PLAN_MONTH
-        value: "plan_Rha5JNPsk1WmI6"
-      - key: PLATFORM_RAZORPAY_PLAN_YEAR
-        value: "plan_Rha5Jzn1sk8o1X"
+      - key: PLATFORM_RAZORPAY_PLAN_WEEKLY
+        value: "plan_Rnb1CCVRIvBK2W"
+      - key: PLATFORM_RAZORPAY_PLAN_MONTHLY
+        value: "plan_Rnb1CsrwHntisk"
+      - key: PLATFORM_RAZORPAY_PLAN_YEARLY
+        value: "plan_Rnb1DZy2EHhHqT"
       
       # App-specific environment variables (namespaced)
       # ASK Configuration

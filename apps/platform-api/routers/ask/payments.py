@@ -77,7 +77,7 @@ async def razorpay_webhook(
     
     # Map Razorpay amounts to tiers (using "monthly"/"yearly" standard)
     AMOUNT_TO_TIER = {
-        settings.RAZORPAY_WEEK_AMOUNT: "week",
+        settings.RAZORPAY_WEEK_AMOUNT: "weekly",
         settings.RAZORPAY_MONTH_AMOUNT: "monthly",
         settings.RAZORPAY_YEAR_AMOUNT: "yearly",
     }
@@ -180,9 +180,9 @@ async def razorpay_webhook(
         
         # Determine tier from plan_id (using "monthly"/"yearly" standard)
         plan_to_tier = {
-            settings.RAZORPAY_PLAN_WEEK: "week",
-            settings.RAZORPAY_PLAN_MONTH: "monthly",
-            settings.RAZORPAY_PLAN_YEAR: "yearly",
+            settings.RAZORPAY_PLAN_WEEKLY: "weekly",
+            settings.RAZORPAY_PLAN_MONTHLY: "monthly",
+            settings.RAZORPAY_PLAN_YEARLY: "yearly",
         }
         tier = plan_to_tier.get(plan_data.get("id"))
         
@@ -280,7 +280,7 @@ async def create_checkout_session(
     Create Razorpay order or subscription for checkout
     
     Args:
-        price_id: Tier name ('week', 'monthly', 'yearly')
+        price_id: Tier name ('weekly', 'monthly', 'yearly')
         payment_type: 'one_time' for one-time payment, 'subscription' for recurring
         user: Current user
         db: Database session
@@ -299,9 +299,9 @@ async def create_checkout_session(
         if payment_type == "subscription":
             # Create subscription using Plan ID
             plan_map = {
-                "week": settings.RAZORPAY_PLAN_WEEK,
-                "monthly": settings.RAZORPAY_PLAN_MONTH,
-                "yearly": settings.RAZORPAY_PLAN_YEAR,
+                "weekly": settings.RAZORPAY_PLAN_WEEKLY,
+                "monthly": settings.RAZORPAY_PLAN_MONTHLY,
+                "yearly": settings.RAZORPAY_PLAN_YEARLY,
             }
             
             plan_id = plan_map.get(tier_key)
@@ -360,7 +360,7 @@ async def create_checkout_session(
         else:
             # Create one-time order
             tier_map = {
-                "week": settings.RAZORPAY_WEEK_AMOUNT,
+                "weekly": settings.RAZORPAY_WEEK_AMOUNT,
                 "monthly": settings.RAZORPAY_MONTH_AMOUNT,
                 "yearly": settings.RAZORPAY_YEAR_AMOUNT,
             }

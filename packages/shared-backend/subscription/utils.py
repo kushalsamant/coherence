@@ -10,12 +10,12 @@ from sqlalchemy.orm import Session
 
 SUBSCRIPTION_DURATIONS = {
     "trial": timedelta(days=7),
-    "week": timedelta(days=7),
+    "weekly": timedelta(days=7),
     "monthly": timedelta(days=30),
     "yearly": timedelta(days=365),
 }
 
-PAID_TIERS = {"week", "monthly", "yearly"}
+PAID_TIERS = {"weekly", "monthly", "yearly"}
 
 
 def calculate_expiry(tier: str, reference: Optional[datetime] = None) -> Optional[datetime]:
@@ -23,7 +23,7 @@ def calculate_expiry(tier: str, reference: Optional[datetime] = None) -> Optiona
     Return expiry datetime for a tier.
     
     Args:
-        tier: Subscription tier (trial, week, monthly, yearly)
+        tier: Subscription tier (trial, weekly, monthly, yearly)
         reference: Reference datetime (defaults to now)
         
     Returns:

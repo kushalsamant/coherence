@@ -132,9 +132,9 @@ ${AppPrefix}_RAZORPAY_MONTH_AMOUNT=349900
 ${AppPrefix}_RAZORPAY_YEAR_AMOUNT=2999900
 
 # Razorpay Plan IDs
-${AppPrefix}_RAZORPAY_PLAN_WEEK=plan_xxxxx
-${AppPrefix}_RAZORPAY_PLAN_MONTH=plan_xxxxx
-${AppPrefix}_RAZORPAY_PLAN_YEAR=plan_xxxxx
+${AppPrefix}_RAZORPAY_PLAN_WEEKLY=plan_xxxxx
+${AppPrefix}_RAZORPAY_PLAN_MONTHLY=plan_xxxxx
+${AppPrefix}_RAZORPAY_PLAN_YEARLY=plan_xxxxx
 "@
         Set-Content -Path $EnvFile -Value $EnvContent
         Write-Host "Environment file template created at $EnvFile" -ForegroundColor Green

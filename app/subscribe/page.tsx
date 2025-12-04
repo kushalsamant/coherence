@@ -29,7 +29,7 @@ function SubscribeContent() {
   }, [searchParams, router]);
 
   const handleSubscribe = async (tier: string) => {
-    const paidTiers = ['week', 'monthly', 'yearly'];
+    const paidTiers = ['weekly', 'monthly', 'yearly'];
     if (!paidTiers.includes(tier)) {
       alert('Invalid subscription tier');
       return;
@@ -48,7 +48,13 @@ function SubscribeContent() {
       });
 
       if (!response.ok) {
-        throw new Error('Failed to create checkout session');
+        const error = await response.json();
+        if (response.status === 401) {
+          alert('Please sign in first to subscribe. Redirecting to sign-in page...');
+          router.push('/account'); // Will redirect to sign-in
+          return;
+        }
+        throw new Error(error.error || 'Failed to create checkout session');
       }
 
       const orderData = await response.json();
@@ -92,7 +98,7 @@ function SubscribeContent() {
         '7-day access',
         'All features unlocked'
       ],
-      tier: 'week',
+      tier: 'weekly',
       cta: 'Subscribe',
       variant: 'secondary' as const
     },
@@ -143,6 +149,9 @@ function SubscribeContent() {
         </h1>
         <p style={{ fontSize: 'var(--font-size-lg)', color: 'var(--color-text-secondary)' }}>
           One subscription. All apps. Unlimited access.
+        </p>
+        <p style={{ fontSize: 'var(--font-size-sm)', color: 'var(--color-text-secondary)', marginTop: 'var(--space-sm)' }}>
+          <Link href="/account" style={{ textDecoration: 'underline' }}>Sign in</Link> to subscribe
         </p>
       </div>
 

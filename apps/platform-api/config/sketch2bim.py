@@ -145,9 +145,9 @@ class Settings(BaseSettings):
     RAZORPAY_YEAR_AMOUNT: int = int(os.getenv("SKETCH2BIM_RAZORPAY_YEAR_AMOUNT", "2999900"))
     
     # Razorpay Plan IDs for subscriptions (created via scripts/create_razorpay_plans.py)
-    RAZORPAY_PLAN_WEEK: str = os.getenv("SKETCH2BIM_RAZORPAY_PLAN_WEEK", "")
-    RAZORPAY_PLAN_MONTH: str = os.getenv("SKETCH2BIM_RAZORPAY_PLAN_MONTH", "")
-    RAZORPAY_PLAN_YEAR: str = os.getenv("SKETCH2BIM_RAZORPAY_PLAN_YEAR", "")
+    RAZORPAY_PLAN_WEEKLY: str = os.getenv("SKETCH2BIM_RAZORPAY_PLAN_WEEKLY", "")
+    RAZORPAY_PLAN_MONTHLY: str = os.getenv("SKETCH2BIM_RAZORPAY_PLAN_MONTHLY", "")
+    RAZORPAY_PLAN_YEARLY: str = os.getenv("SKETCH2BIM_RAZORPAY_PLAN_YEARLY", "")
     
     # BunnyCDN - prefixed envs only
     BUNNY_STORAGE_ZONE: str = os.getenv("SKETCH2BIM_BUNNY_STORAGE_ZONE", "")

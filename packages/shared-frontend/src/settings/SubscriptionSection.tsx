@@ -42,7 +42,7 @@ export function SubscriptionSection({
     switch (tier) {
       case "trial":
         return "Free / Trial";
-      case "week":
+      case "weekly":
         return "Week Pro";
       case "monthly":
         return "Monthly Pro";
@@ -63,7 +63,7 @@ export function SubscriptionSection({
     switch (t) {
       case "trial":
         return "bg-gray-100 text-gray-800";
-      case "week":
+      case "weekly":
         return "bg-blue-100 text-blue-800";
       case "monthly":
         return "bg-purple-100 text-purple-800";

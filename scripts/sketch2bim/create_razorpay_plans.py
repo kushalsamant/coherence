@@ -62,21 +62,21 @@ PLANS = [
         "period": "weekly",
         "interval": 1,
         "item": {
-            "name": "Week Pass Subscription",
-            "description": "7-day access to Sketch-to-BIM",
+            "name": "Weekly Pass Subscription",
+            "description": "Weekly access to Sketch-to-BIM",
             "amount": 129900,  # ₹1,299 in paise
             "currency": "INR"
         },
         "notes": {
-            "tier": "week"
+            "tier": "weekly"
         }
     },
     {
         "period": "monthly",
         "interval": 1,
         "item": {
-            "name": "Month Subscription",
-            "description": "30-day access to Sketch-to-BIM",
+            "name": "Monthly Subscription",
+            "description": "Monthly access to Sketch-to-BIM",
             "amount": 349900,  # ₹3,499 in paise
             "currency": "INR"
         },
@@ -88,8 +88,8 @@ PLANS = [
         "period": "yearly",
         "interval": 1,
         "item": {
-            "name": "Year Subscription",
-            "description": "365-day access to Sketch-to-BIM",
+            "name": "Yearly Subscription",
+            "description": "Yearly access to Sketch-to-BIM",
             "amount": 2999900,  # ₹29,999 in paise
             "currency": "INR"
         },
@@ -139,7 +139,7 @@ def check_existing_plans():
             for plan in plans['items']:
                 item_name = plan.get('item', {}).get('name', '')
                 if 'Week Pass' in item_name:
-                    existing['week'] = plan['id']
+                    existing['weekly'] = plan['id']
                 elif 'Month Subscription' in item_name:
                     existing['monthly'] = plan['id']
                 elif 'Year Subscription' in item_name:
@@ -190,7 +190,7 @@ def main():
         print("3. Try creating plans manually in Razorpay Dashboard")
         return
     
-    for tier in ['week', 'monthly', 'yearly']:
+    for tier in ['weekly', 'monthly', 'yearly']:
         if tier in created_plans:
             print(f"RAZORPAY_PLAN_{tier.upper()}={created_plans[tier]}")
         else:
@@ -199,7 +199,7 @@ def main():
     print("\n" + "=" * 60)
     print("Copy these to your Render environment variables:")
     print("=" * 60)
-    for tier in ['week', 'monthly', 'yearly']:
+    for tier in ['weekly', 'monthly', 'yearly']:
         if tier in created_plans:
             print(f"RAZORPAY_PLAN_{tier.upper()}={created_plans[tier]}")
     

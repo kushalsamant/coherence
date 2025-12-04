@@ -4,7 +4,7 @@ import { logger } from "@/lib/logger";
 
 // Pricing configuration - unified across all apps (ASK, Reframe, Sketch2BIM)
 const PRICING: Record<string, { amount: number; currency: string; symbol: string; interval?: string }> = {
-  week: { amount: 1299, currency: "INR", symbol: "₹", interval: "week" },
+  weekly: { amount: 1299, currency: "INR", symbol: "₹", interval: "weekly" },
   monthly: { amount: 3499, currency: "INR", symbol: "₹", interval: "monthly" },
   yearly: { amount: 29999, currency: "INR", symbol: "₹", interval: "yearly" },
 };

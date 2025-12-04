@@ -13,7 +13,7 @@ import { logger } from "@/lib/logger";
 // Monthly: ₹3,499 = 349900 paise
 // Yearly: ₹29,999 = 2999900 paise
 const PRICING = {
-  week: { amount: 1299, currency: "INR", symbol: "₹", interval: "week" },
+  weekly: { amount: 1299, currency: "INR", symbol: "₹", interval: "weekly" },
   monthly: { amount: 3499, currency: "INR", symbol: "₹", interval: "monthly" },
   yearly: { amount: 29999, currency: "INR", symbol: "₹", interval: "yearly" },
 };
@@ -28,7 +28,7 @@ type PricingTier = {
   requests: string;
   features: string[];
   cta: string;
-  plan: "week" | "monthly" | "yearly";
+  plan: "weekly" | "monthly" | "yearly";
   highlight?: boolean;
   badge?: string;
 };
@@ -58,7 +58,7 @@ const PRICING_TIERS: PricingTier[] = [
       "7-day access",
     ],
     cta: "Perfect for short projects",
-    plan: "week",
+    plan: "weekly",
   },
   {
     name: "Monthly Pro",

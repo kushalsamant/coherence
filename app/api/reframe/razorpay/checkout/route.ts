@@ -52,7 +52,7 @@ export async function GET(req: Request) {
     const tierKey = priceId.toLowerCase();
     
     // Validate tier is supported
-    const supportedTiers = ["week", "monthly", "yearly"];
+    const supportedTiers = ["weekly", "monthly", "yearly"];
     if (!supportedTiers.includes(tierKey)) {
       return NextResponse.json(
         { error: `Invalid tier. Supported tiers: ${supportedTiers.join(", ")}` },
@@ -72,7 +72,7 @@ export async function GET(req: Request) {
     if (paymentType === "subscription") {
       // Create subscription using Plan ID
       const planMap: Record<string, string> = {
-        week: getRazorpayPlanWeek(),
+        weekly: getRazorpayPlanWeek(),
         monthly: getRazorpayPlanMonthly(),
         yearly: getRazorpayPlanYearly(),
       };
@@ -128,7 +128,7 @@ export async function GET(req: Request) {
         const subscription = await razorpay.subscriptions.create(subscriptionData);
         
         // Get the amount based on tier
-        const amount = tierKey === 'week' ? getRazorpayWeekAmount() : 
+        const amount = tierKey === 'weekly' ? getRazorpayWeekAmount() : 
                        tierKey === 'monthly' ? getRazorpayMonthlyAmount() : 
                        getRazorpayYearlyAmount();
 
@@ -161,7 +161,7 @@ export async function GET(req: Request) {
     } else {
       // Create one-time order
       const tierMap: Record<string, number> = {
-        week: getRazorpayWeekAmount(),
+        weekly: getRazorpayWeekAmount(),
         monthly: getRazorpayMonthlyAmount(),
         yearly: getRazorpayYearlyAmount(),
       };

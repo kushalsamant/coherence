@@ -337,9 +337,9 @@ function Reorganize-EnvProduction {
         'RAZORPAY_MONTH_AMOUNT',
         'RAZORPAY_YEAR_AMOUNT',
         # Razorpay Plan IDs (subscriptions)
-        'RAZORPAY_PLAN_WEEK',
-        'RAZORPAY_PLAN_MONTH',
-        'RAZORPAY_PLAN_YEAR',
+        'RAZORPAY_PLAN_WEEKLY',
+        'RAZORPAY_PLAN_MONTHLY',
+        'RAZORPAY_PLAN_YEARLY',
         # Alternative Razorpay key names (LIVE_KEY_ID, LIVE_KEY_SECRET)
         'LIVE_KEY_ID',
         'LIVE_KEY_SECRET',

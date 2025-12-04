@@ -153,9 +153,9 @@ ${app_prefix}_RAZORPAY_MONTH_AMOUNT=349900
 ${app_prefix}_RAZORPAY_YEAR_AMOUNT=2999900
 
 # Razorpay Plan IDs
-${app_prefix}_RAZORPAY_PLAN_WEEK=plan_xxxxx
-${app_prefix}_RAZORPAY_PLAN_MONTH=plan_xxxxx
-${app_prefix}_RAZORPAY_PLAN_YEAR=plan_xxxxx
+${app_prefix}_RAZORPAY_PLAN_WEEKLY=plan_xxxxx
+${app_prefix}_RAZORPAY_PLAN_MONTHLY=plan_xxxxx
+${app_prefix}_RAZORPAY_PLAN_YEARLY=plan_xxxxx
 EOF
         print_success "Environment file template created at $env_file"
     else

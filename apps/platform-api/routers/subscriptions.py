@@ -36,9 +36,9 @@ log = logging.getLogger(__name__)
 PLATFORM_RAZORPAY_KEY_ID = os.getenv("PLATFORM_RAZORPAY_KEY_ID", "")
 PLATFORM_RAZORPAY_KEY_SECRET = os.getenv("PLATFORM_RAZORPAY_KEY_SECRET", "")
 PLATFORM_RAZORPAY_WEBHOOK_SECRET = os.getenv("PLATFORM_RAZORPAY_WEBHOOK_SECRET", "")
-PLATFORM_RAZORPAY_PLAN_WEEK = os.getenv("PLATFORM_RAZORPAY_PLAN_WEEK", "")
-PLATFORM_RAZORPAY_PLAN_MONTH = os.getenv("PLATFORM_RAZORPAY_PLAN_MONTH", "")
-PLATFORM_RAZORPAY_PLAN_YEAR = os.getenv("PLATFORM_RAZORPAY_PLAN_YEAR", "")
+PLATFORM_RAZORPAY_PLAN_WEEKLY = os.getenv("PLATFORM_RAZORPAY_PLAN_WEEKLY", "")
+PLATFORM_RAZORPAY_PLAN_MONTHLY = os.getenv("PLATFORM_RAZORPAY_PLAN_MONTHLY", "")
+PLATFORM_RAZORPAY_PLAN_YEARLY = os.getenv("PLATFORM_RAZORPAY_PLAN_YEARLY", "")
 
 # Pricing amounts in paise (₹1 = 100 paise)
 # These should match the plan amounts in Razorpay
@@ -104,7 +104,7 @@ async def create_checkout_session(
 ):
     """
     Create Razorpay checkout session for platform subscription
-    Expects JSON body with: {"tier": "week" | "monthly" | "yearly"}
+    Expects JSON body with: {"tier": "weekly" | "monthly" | "yearly"}
     """
     if not razorpay_client:
         raise HTTPException(status_code=500, detail="Razorpay not configured")
@@ -115,10 +115,10 @@ async def create_checkout_session(
     except Exception:
         raise HTTPException(status_code=400, detail="Invalid request body")
     
-    if tier not in ["week", "monthly", "yearly"]:
+    if tier not in ["weekly", "monthly", "yearly"]:
         raise HTTPException(
             status_code=400,
-            detail=f"Invalid tier. Expected one of: week, monthly, yearly. Got: {tier}"
+            detail=f"Invalid tier. Expected one of: weekly, monthly, yearly. Got: {tier}"
         )
     
     base_url = PLATFORM_FRONTEND_URL
@@ -127,9 +127,9 @@ async def create_checkout_session(
     try:
         # Create subscription using Plan ID
         plan_map = {
-            "week": PLATFORM_RAZORPAY_PLAN_WEEK,
-            "monthly": PLATFORM_RAZORPAY_PLAN_MONTH,
-            "yearly": PLATFORM_RAZORPAY_PLAN_YEAR,
+            "weekly": PLATFORM_RAZORPAY_PLAN_WEEKLY,
+            "monthly": PLATFORM_RAZORPAY_PLAN_MONTHLY,
+            "yearly": PLATFORM_RAZORPAY_PLAN_YEARLY,
         }
         
         plan_id = plan_map.get(tier)
@@ -307,7 +307,7 @@ async def razorpay_webhook(
     
     # Map Razorpay amounts to tiers
     AMOUNT_TO_TIER = {
-        PLATFORM_RAZORPAY_WEEK_AMOUNT: "week",
+        PLATFORM_RAZORPAY_WEEK_AMOUNT: "weekly",
         PLATFORM_RAZORPAY_MONTH_AMOUNT: "monthly",
         PLATFORM_RAZORPAY_YEAR_AMOUNT: "yearly",
     }
@@ -331,11 +331,11 @@ async def razorpay_webhook(
         if user:
             # Determine tier from plan_id
             tier = None
-            if plan_id == PLATFORM_RAZORPAY_PLAN_WEEK:
-                tier = "week"
-            elif plan_id == PLATFORM_RAZORPAY_PLAN_MONTH:
+            if plan_id == PLATFORM_RAZORPAY_PLAN_WEEKLY:
+                tier = "weekly"
+            elif plan_id == PLATFORM_RAZORPAY_PLAN_MONTHLY:
                 tier = "monthly"
-            elif plan_id == PLATFORM_RAZORPAY_PLAN_YEAR:
+            elif plan_id == PLATFORM_RAZORPAY_PLAN_YEARLY:
                 tier = "yearly"
             
             if tier:

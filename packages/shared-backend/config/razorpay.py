@@ -41,9 +41,9 @@ class RazorpaySettings(BaseSettings):
     
     # Razorpay Plan IDs for subscriptions
     # Shared across all projects - uses unprefixed variables
-    RAZORPAY_PLAN_WEEK: str = os.getenv("RAZORPAY_PLAN_WEEK", "")
-    RAZORPAY_PLAN_MONTH: str = os.getenv("RAZORPAY_PLAN_MONTH", "")
-    RAZORPAY_PLAN_YEAR: str = os.getenv("RAZORPAY_PLAN_YEAR", "")
+    RAZORPAY_PLAN_WEEKLY: str = os.getenv("RAZORPAY_PLAN_WEEKLY", "")
+    RAZORPAY_PLAN_MONTHLY: str = os.getenv("RAZORPAY_PLAN_MONTHLY", "")
+    RAZORPAY_PLAN_YEARLY: str = os.getenv("RAZORPAY_PLAN_YEARLY", "")
     
     class Config:
         case_sensitive = True

@@ -22,7 +22,7 @@ class PaymentModel:
     # amount = Column(Integer)  # in paise
     # currency = Column(String, default="INR")
     # status = Column(String)  # succeeded|pending|failed
-    # product_type = Column(String)  # single|trial|week|month|year|one_time
+    # product_type = Column(String)  # single|trial|weekly|monthly|yearly|one_time
     # credits_added = Column(Integer, default=0)
     # processing_fee = Column(Integer, default=0)  # Razorpay fee in paise
     # created_at = Column(DateTime, default=datetime.utcnow)

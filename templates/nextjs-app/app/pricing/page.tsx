@@ -63,7 +63,7 @@ function PricingContent() {
         'All features',
         '7-day access'
       ],
-      tier: 'week' as SubscriptionTier,
+      tier: 'weekly' as SubscriptionTier,
       cta: 'Subscribe',
       variant: 'primary' as const
     },

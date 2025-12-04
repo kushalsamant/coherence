@@ -2,7 +2,7 @@
  * Pricing tier type definitions
  */
 
-export type SubscriptionTier = "trial" | "week" | "monthly" | "yearly";
+export type SubscriptionTier = "trial" | "weekly" | "monthly" | "yearly";
 export type PaymentType = "one_time" | "subscription";
 
 export interface PricingTier {
