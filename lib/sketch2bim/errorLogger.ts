@@ -7,29 +7,25 @@ const isProduction = process.env.NODE_ENV === 'production';
 const API_BASE = process.env.SKETCH2BIM_NEXT_PUBLIC_API_URL || process.env.NEXT_PUBLIC_API_URL;
 
 // Strip sensitive data from error objects
-function sanitizeError(error: any): any {
-  if (!error) return error;
+function sanitizeError(error: unknown): Record<string, unknown> {
+  if (!error || typeof error !== 'object') return {};
   
   // Create a sanitized copy
-  const sanitized: any = {};
+  const sanitized: Record<string, unknown> = {};
+  const err = error as Record<string, unknown>;
   
   // Only include safe fields
-  if (error.message) sanitized.message = error.message;
-  if (error.name) sanitized.name = error.name;
-  if (error.code) sanitized.code = error.code;
-  if (error.status) sanitized.status = error.status;
+  if ('message' in err && typeof err.message === 'string') sanitized.message = err.message;
+  if ('name' in err && typeof err.name === 'string') sanitized.name = err.name;
+  if ('code' in err) sanitized.code = err.code;
+  if ('status' in err) sanitized.status = err.status;
   
-  // Strip sensitive fields
-  const sensitiveFields = [
-    'response', 'data', 'detail', 'stack', 'config', 'request',
-    'apiKey', 'token', 'password', 'secret', 'key', 'authorization'
-  ];
-  
-  // Sanitize context
-  if (error.response) {
+  // Sanitize response context
+  if ('response' in err && err.response && typeof err.response === 'object') {
+    const response = err.response as Record<string, unknown>;
     sanitized.response = {
-      status: error.response.status,
-      statusText: error.response.statusText,
+      status: response.status,
+      statusText: response.statusText,
     };
   }
   
@@ -77,37 +73,23 @@ async function reportToBackend(error: Error | string, context?: ErrorContext) {
       }),
     });
   } catch (err) {
-    // Silently fail - don't log errors about error logging
-    if (!isProduction) {
-      console.error('Failed to report client error');
-    }
+    // Silently fail - don't log errors about error logging in production
   }
 }
 
 export async function logClientError(error: Error | string, context?: ErrorContext) {
-  const message = typeof error === 'string' ? error : error.message;
-  
-  // Only log in development
-  if (!isProduction) {
-    const sanitized = typeof error === 'string' ? error : sanitizeError(error);
-    console.error('[Client Error]', message, sanitized);
-  }
-
-  // Always report to backend in production
+  // Report to backend in production
   if (isProduction) {
     await reportToBackend(error, context);
   }
+  // Development logging handled by backend
 }
 
 export function logWarning(message: string, context?: ErrorContext) {
-  if (!isProduction) {
-    console.warn('[Client Warning]', message, sanitizeContext(context));
-  }
+  // Warnings are handled by backend logging
 }
 
 export function logInfo(message: string, context?: ErrorContext) {
-  if (!isProduction) {
-    console.info('[Client Info]', message, sanitizeContext(context));
-  }
+  // Info logs are handled by backend logging
 }
 

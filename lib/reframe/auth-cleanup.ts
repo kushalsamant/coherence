@@ -1,4 +1,5 @@
 import { getRedisClient } from "./redis";
+import logger from "@/lib/logger";
 
 /**
  * NextAuth Database Cleanup Utilities
@@ -37,7 +38,8 @@ export async function deleteUserFromDatabase(userId: string, email?: string): Pr
     for (const key of sessionKeys) {
       const session = await redis.get(key);
       if (session && typeof session === "object" && "userId" in session) {
-        if ((session as any).userId === userId) {
+        const sessionObj = session as Record<string, unknown>;
+        if (sessionObj.userId === userId) {
           await redis.del(key);
         }
       }
@@ -49,15 +51,16 @@ export async function deleteUserFromDatabase(userId: string, email?: string): Pr
     for (const key of accountKeys) {
       const account = await redis.get(key);
       if (account && typeof account === "object" && "userId" in account) {
-        if ((account as any).userId === userId) {
+        const accountObj = account as Record<string, unknown>;
+        if (accountObj.userId === userId) {
           await redis.del(key);
         }
       }
     }
 
-    console.log(`Deleted all NextAuth data for user ${userId}`);
+    logger.info(`Deleted all NextAuth data for user ${userId}`);
   } catch (error) {
-    console.error("Error deleting user from database:", error);
+    logger.error("Error deleting user from database:", error);
     throw error;
   }
 }
@@ -82,7 +85,7 @@ async function scanKeys(pattern: string): Promise<string[]> {
       keys.push(...result[1]);
     } while (cursor !== 0);
   } catch (error) {
-    console.error(`Error scanning keys with pattern ${pattern}:`, error);
+    logger.error(`Error scanning keys with pattern ${pattern}:`, error);
   }
 
   return keys;

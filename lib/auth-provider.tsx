@@ -8,9 +8,11 @@
 import { SessionProvider } from 'next-auth/react';
 import { ReactNode } from 'react';
 
+import { Session } from 'next-auth';
+
 interface AuthProviderProps {
   children: ReactNode;
-  session?: any;
+  session?: Session | null;
 }
 
 export function AuthProvider({ children, session }: AuthProviderProps) {

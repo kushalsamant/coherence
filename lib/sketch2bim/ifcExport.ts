@@ -4,12 +4,15 @@
  * Note: Excel export removed due to security vulnerabilities in xlsx package
  */
 
+import logger from "@/lib/logger";
+import * as WebIFC from 'web-ifc';
+
 interface IfcElement {
   expressID: number;
   type: string;
   name: string;
   globalId?: string;
-  properties?: Record<string, any>;
+  properties?: Record<string, string | number | boolean | null>;
 }
 
 /**
@@ -93,7 +96,7 @@ export function exportToCSV(
  * Extract IFC elements from WebIFC model for export
  */
 export async function extractIfcElements(
-  ifcApi: any,
+  ifcApi: WebIFC.IfcAPI,
   modelID: number
 ): Promise<IfcElement[]> {
   const elements: IfcElement[] = [];
@@ -132,13 +135,15 @@ export async function extractIfcElements(
 
             // Extract properties
             if (element.IsDefinedBy) {
-              element.IsDefinedBy.forEach((rel: any) => {
-                if (rel.RelatingPropertyDefinition) {
-                  const pset = rel.RelatingPropertyDefinition;
+              element.IsDefinedBy.forEach((rel: unknown) => {
+                const relation = rel as {RelatingPropertyDefinition?: {HasProperties?: unknown[]}};
+                if (relation.RelatingPropertyDefinition) {
+                  const pset = relation.RelatingPropertyDefinition;
                   if (pset.HasProperties) {
-                    pset.HasProperties.forEach((prop: any) => {
-                      const propName = prop.Name?.value || '';
-                      let propValue: any = null;
+                    pset.HasProperties.forEach((prop: unknown) => {
+                      const property = prop as {Name?: {value?: string}, NominalValue?: {value?: unknown}, wrappedValue?: unknown};
+                      const propName = property.Name?.value || '';
+                      let propValue: unknown = null;
                       
                       if (prop.NominalValue) {
                         propValue = prop.NominalValue.value;
@@ -159,20 +164,20 @@ export async function extractIfcElements(
           } catch (err) {
             // Skip elements that can't be read
             if (process.env.NODE_ENV === 'development') {
-              console.warn(`Failed to read element ${expressID}`);
+              logger.warn(`Failed to read element ${expressID}`);
             }
           }
         }
       } catch (err) {
         // Skip element types that aren't available
         if (process.env.NODE_ENV === 'development') {
-          console.warn(`Element type ${elementType} not available`);
+          logger.warn(`Element type ${elementType} not available`);
         }
       }
     }
   } catch (error) {
     if (process.env.NODE_ENV === 'development') {
-      console.error('Failed to extract IFC elements');
+      logger.error('Failed to extract IFC elements');
     }
   }
 

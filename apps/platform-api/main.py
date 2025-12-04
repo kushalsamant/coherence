@@ -25,10 +25,33 @@ from routers.sketch2bim import router as sketch2bim_router
 from routers import subscriptions
 
 # Get CORS origins from environment
-CORS_ORIGINS = os.getenv(
+CORS_ORIGINS_RAW = os.getenv(
     "PLATFORM_CORS_ORIGINS",
     "http://localhost:3000,https://kvshvl.in,https://www.kvshvl.in,https://ask.kvshvl.in,https://reframe.kvshvl.in,https://sketch2bim.kvshvl.in"
 ).split(",")
+
+# Validate and clean CORS origins
+def validate_cors_origin(origin: str) -> bool:
+    """Validate that CORS origin is a properly formatted URL"""
+    origin = origin.strip()
+    if not origin:
+        return False
+    # Check if it starts with http:// or https://
+    if not (origin.startswith("http://") or origin.startswith("https://")):
+        return False
+    # Check for localhost or known domains
+    if "localhost" in origin:
+        return True
+    if "kvshvl.in" in origin:
+        return True
+    return False
+
+# Filter and validate CORS origins
+CORS_ORIGINS = [origin.strip() for origin in CORS_ORIGINS_RAW if validate_cors_origin(origin)]
+
+# Log CORS configuration in debug mode
+if os.getenv("PLATFORM_DEBUG", "false").lower() == "true":
+    print(f"Configured CORS origins: {CORS_ORIGINS}")
 
 # Create FastAPI app
 app = FastAPI(
@@ -42,8 +65,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=CORS_ORIGINS,
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
+    allow_headers=["Content-Type", "Authorization", "X-Requested-With"],
 )
 
 # Include app-specific routers with path prefixes

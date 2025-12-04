@@ -8,7 +8,9 @@ import { encode } from "next-auth/jwt";
 import { logger } from "@/lib/logger";
 import type { Session } from "@kvshvl/shared-frontend/auth";
 
-const API_URL = process.env.NEXT_PUBLIC_PLATFORM_API_URL || "http://localhost:8000";
+import { API_CONFIG } from "@/lib/config";
+
+const API_URL = API_CONFIG.PLATFORM_API_URL;
 
 export const dynamic = 'force-dynamic';
 

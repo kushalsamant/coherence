@@ -11,6 +11,7 @@ import {
   getRazorpayPlanYearly,
 } from "@/lib/reframe/app-config";
 import { logger } from "@/lib/logger";
+import { AUTH_CONFIG } from "@/lib/config";
 
 export const dynamic = 'force-dynamic';
 
@@ -59,7 +60,7 @@ export async function GET(req: Request) {
         { status: 400 }
       );
     }
-    const baseUrl = process.env.REFRAME_AUTH_URL || process.env.AUTH_URL || process.env.REFRAME_NEXT_PUBLIC_SITE_URL || process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+    const baseUrl = AUTH_CONFIG.BASE_URL;
     const successUrl = `${baseUrl}/?checkout=success`;
     const cancelUrl = `${baseUrl}/pricing?checkout=canceled`;
 

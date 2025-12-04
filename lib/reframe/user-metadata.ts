@@ -1,4 +1,5 @@
 import { getRedisClient } from "./redis";
+import logger from "@/lib/logger";
 
 /**
  * User Metadata Management Utilities
@@ -38,7 +39,7 @@ export async function getUserMetadata(userId: string): Promise<UserMetadata | nu
     try {
       return JSON.parse(data);
     } catch (e) {
-      console.error("Failed to parse user metadata:", e);
+      logger.error("Failed to parse user metadata:", e);
       return null;
     }
   }
@@ -148,6 +149,6 @@ export async function deleteAllUserData(userId: string): Promise<void> {
   await redis.del(`consent:${userId}`);
   await redis.del(`usage:${userId}:total`); // Free tier lifetime counter
   
-  console.log(`Deleted all Redis data for user ${userId}`);
+  logger.info(`Deleted all Redis data for user ${userId}`);
 }
 

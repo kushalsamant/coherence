@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { logger } from '@/lib/logger';
+import { API_CONFIG } from "@/lib/config";
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
@@ -16,7 +17,7 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    const API_URL = process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000';
+    const API_URL = API_CONFIG.PLATFORM_API_URL;
     
     // Forward webhook to unified backend
     const response = await fetch(`${API_URL}/api/subscriptions/webhook`, {

@@ -3,6 +3,8 @@
  * TypeScript functions to call FastAPI endpoints
  */
 
+import logger from "@/lib/logger";
+
 const API_BASE_URL = process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000';
 
 // Type definitions matching backend models
@@ -81,7 +83,7 @@ async function fetchAPI<T>(endpoint: string, options?: RequestInit): Promise<T> 
 
     return await response.json();
   } catch (error) {
-    console.error(`API Error (${endpoint}):`, error);
+    // Error already thrown, no need to log again
     throw error;
   }
 }
@@ -257,11 +259,20 @@ export async function createCheckoutSession(
   );
 }
 
+interface Subscription {
+  id: string;
+  plan_id: string;
+  status: string;
+  current_start: number;
+  current_end: number;
+  charge_at: number;
+}
+
 export async function getSubscriptions(): Promise<{
-  subscriptions: Array<any>;
+  subscriptions: Subscription[];
   error?: string;
 }> {
-  return fetchAPI<{ subscriptions: Array<any>; error?: string }>('/api/ask/payments/subscriptions', {
+  return fetchAPI<{ subscriptions: Subscription[]; error?: string }>('/api/ask/payments/subscriptions', {
     headers: {
       // Add auth token here when auth is implemented
     },
@@ -270,9 +281,9 @@ export async function getSubscriptions(): Promise<{
 
 export async function cancelSubscription(subscriptionId: string): Promise<{
   status: string;
-  subscription: any;
+  subscription: Subscription;
 }> {
-  return fetchAPI<{ status: string; subscription: any }>(
+  return fetchAPI<{ status: string; subscription: Subscription }>(
     `/api/ask/payments/subscriptions/${subscriptionId}/cancel`,
     {
       method: 'POST',
@@ -285,9 +296,9 @@ export async function cancelSubscription(subscriptionId: string): Promise<{
 
 export async function resumeSubscription(subscriptionId: string): Promise<{
   status: string;
-  subscription: any;
+  subscription: Subscription;
 }> {
-  return fetchAPI<{ status: string; subscription: any }>(
+  return fetchAPI<{ status: string; subscription: Subscription }>(
     `/api/ask/payments/subscriptions/${subscriptionId}/resume`,
     {
       method: 'POST',

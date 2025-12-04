@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { authFunction as auth } from '@/app/ask/auth';
 import { logger } from '@/lib/logger';
+import { API_CONFIG } from "@/lib/config";
 
 export const dynamic = 'force-dynamic';
 
@@ -12,7 +13,7 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
-    const API_URL = process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000';
+    const API_URL = API_CONFIG.PLATFORM_API_URL;
     
     const response = await fetch(`${API_URL}/api/subscriptions/cancel`, {
       method: 'POST',

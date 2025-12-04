@@ -3,6 +3,8 @@
  * Fetches data from all projects (ASK, Sketch2BIM, Reframe)
  */
 
+import logger from "@/lib/logger";
+
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 
 // Type definitions
@@ -86,7 +88,7 @@ export interface ConsolidatedPlatformView {
     total_groq_costs_usd: number;
     total_razorpay_fees_usd: number;
     total_infrastructure_costs_usd: number;
-    project_breakdown: Record<string, any>;
+    project_breakdown: Record<string, unknown>;
   };
   platform_revenue_paise: number;
   platform_margins: MarginAnalysis;
@@ -121,7 +123,7 @@ async function fetchAPI<T>(endpoint: string, options?: RequestInit): Promise<T> 
 
     return await response.json();
   } catch (error) {
-    console.error(`API Error (${endpoint}):`, error);
+    // Error already thrown, no need to log again
     throw error;
   }
 }
@@ -241,15 +243,15 @@ export async function getCrossProjectMetrics(
 
 // Cost and Usage API Functions (from existing monitoring endpoints)
 
-export async function getCosts(days: number = 30): Promise<any> {
+export async function getCosts(days: number = 30): Promise<unknown> {
   return fetchAPI(`/api/monitoring/costs?days=${days}`);
 }
 
-export async function getUsage(days: number = 30): Promise<any> {
+export async function getUsage(days: number = 30): Promise<unknown> {
   return fetchAPI(`/api/monitoring/usage?days=${days}`);
 }
 
-export async function getSummary(): Promise<any> {
+export async function getSummary(): Promise<unknown> {
   return fetchAPI('/api/monitoring/summary');
 }
 
@@ -259,7 +261,7 @@ export async function getAlerts(): Promise<{
     message: string;
     current_value?: number;
     threshold?: number;
-    details?: Record<string, any>;
+    details?: Record<string, unknown>;
     timestamp: string;
   }>;
   count: number;
@@ -275,8 +277,8 @@ export async function checkAdminAccess(): Promise<{ is_admin: boolean; email?: s
     // Try to access an admin-only endpoint to check access
     await fetchAPI('/api/feasibility/platform/consolidated?days=1');
     return { is_admin: true };
-  } catch (error: any) {
-    if (error.message?.includes('403') || error.message?.includes('Admin access')) {
+  } catch (error) {
+    if (error instanceof Error && (error.message?.includes('403') || error.message?.includes('Admin access'))) {
       return { is_admin: false };
     }
     // Re-throw other errors

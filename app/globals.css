@@ -1,5 +1,22 @@
 /* ==========================================================================
-   KVSHVL Design System
+   KVSHVL Design System - Main Stylesheet
+   ==========================================================================
+   
+   STYLING STRATEGY:
+   - This file contains the complete KVSHVL design system (983 lines)
+   - Sub-apps (Reframe, Sketch2BIM) have minimal override files for app-specific styles
+   - app/reframe/globals.css (101 lines) - Tailwind utilities + Reframe-specific components
+   - app/sketch2bim/globals.css (84 lines) - Tailwind utilities + Sketch2BIM-specific components
+   
+   APPROACH:
+   - Main globals.css: Comprehensive design tokens, utilities, and base styles
+   - Sub-app globals.css: Only app-specific overrides and Tailwind base/components/utilities
+   - Source of truth: packages/design-system/styles/globals.css
+   
+   FUTURE IMPROVEMENT:
+   - Consider CSS layers (@layer) to enable sub-apps to extend instead of override
+   - Evaluate migrating to CSS-in-JS or Tailwind plugin architecture
+   
    ========================================================================== */
 
 /* CSS Custom Properties - KVSHVL Design System */

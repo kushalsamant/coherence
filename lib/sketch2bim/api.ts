@@ -19,8 +19,11 @@ const apiClient: AxiosInstance = axios.create({
 apiClient.interceptors.request.use(async (config) => {
   const session = await getSession();
   
-  if (session && (session as any).accessToken) {
-    config.headers.Authorization = `Bearer ${(session as any).accessToken}`;
+  if (session && typeof session === 'object' && 'accessToken' in session) {
+    const sessionObj = session as Record<string, unknown>;
+    if (typeof sessionObj.accessToken === 'string') {
+      config.headers.Authorization = `Bearer ${sessionObj.accessToken}`;
+    }
   }
   
   return config;
@@ -323,11 +326,11 @@ export const api = {
   },
 
   // Layout Variations
-  async generateVariations(jobId: string, numVariations: number = 3, constraints?: any): Promise<Array<{
+  async generateVariations(jobId: string, numVariations: number = 3, constraints?: Record<string, unknown>): Promise<Array<{
     id: string;
     job_id: string;
     variation_number: number;
-    plan_data?: any;
+    plan_data?: Record<string, unknown>;
     confidence?: number;
     ifc_url?: string;
     preview_image_url?: string;

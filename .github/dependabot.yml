@@ -1,15 +1,76 @@
+# GitHub Dependabot Configuration
+# Automated dependency updates and security alerts
+
 version: 2
 updates:
+  # NPM dependencies (frontend)
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "daily"
-      time: "00:00"
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
     open-pull-requests-limit: 10
+    reviewers:
+      - "kushalsamant"
+    assignees:
+      - "kushalsamant"
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
     labels:
       - "dependencies"
-      - "design-template"
-    commit-message:
-      prefix: "chore"
-      include: "scope"
+      - "automated"
+    ignore:
+      # Ignore major version updates for critical packages (manual review)
+      - dependency-name: "next"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "react"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "react-dom"
+        update-types: ["version-update:semver-major"]
 
+  # Design System package
+  - package-ecosystem: "npm"
+    directory: "/packages/design-system"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+      - "design-system"
+
+  # Shared Frontend package
+  - package-ecosystem: "npm"
+    directory: "/packages/shared-frontend"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+      - "shared-frontend"
+
+  # Python dependencies (backend)
+  - package-ecosystem: "pip"
+    directory: "/apps/platform-api"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    open-pull-requests-limit: 10
+    reviewers:
+      - "kushalsamant"
+    commit-message:
+      prefix: "chore(deps)"
+    labels:
+      - "dependencies"
+      - "python"
+      - "backend"
+
+  # GitHub Actions (if any added in future)
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    labels:
+      - "dependencies"
+      - "github-actions"

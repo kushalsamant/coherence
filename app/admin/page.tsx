@@ -5,6 +5,7 @@ import { useSession } from '@/lib/auth-provider'
 import { useRouter } from 'next/navigation'
 import { Card } from '@kushalsamant/design-template'
 import { logger } from '@/lib/logger'
+import { CLIENT_CONFIG } from '@/lib/client-config'
 
 // Root-site platform API client and components
 import {
@@ -270,9 +271,7 @@ export default function RootPlatformDashboard() {
       <div className="mt-4 text-xs text-muted-foreground">
         <span>Raw data endpoints:&nbsp;</span>
         <a
-          href={`${
-            process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000'
-          }/api/feasibility/platform/consolidated?days=${days}`}
+          href={`${CLIENT_CONFIG.API_URL}/api/feasibility/platform/consolidated?days=${days}`}
           target="_blank"
           rel="noreferrer"
           className="underline hover:text-primary"
@@ -281,9 +280,7 @@ export default function RootPlatformDashboard() {
         </a>
         <span> · </span>
         <a
-          href={`${
-            process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000'
-          }/api/feasibility/platform/unit-economics?days=${days}${project ? `&project=${project}` : ''}`}
+          href={`${CLIENT_CONFIG.API_URL}/api/feasibility/platform/unit-economics?days=${days}${project ? `&project=${project}` : ''}`}
           target="_blank"
           rel="noreferrer"
           className="underline hover:text-primary"
@@ -292,7 +289,7 @@ export default function RootPlatformDashboard() {
         </a>
         <span> · </span>
         <a
-          href={`${process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000'}/api/ask/monitoring/summary`}
+          href={`${CLIENT_CONFIG.API_URL}/api/ask/monitoring/summary`}
           target="_blank"
           rel="noreferrer"
           className="underline hover:text-primary"

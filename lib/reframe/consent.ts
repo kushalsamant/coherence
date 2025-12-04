@@ -1,4 +1,5 @@
 import { getRedisClient } from "./redis";
+import logger from "@/lib/logger";
 
 /**
  * Consent Tracking System
@@ -66,7 +67,7 @@ export async function getConsent(userId: string): Promise<ConsentRecord | null> 
     try {
       return JSON.parse(data);
     } catch (e) {
-      console.error("Failed to parse consent record:", e);
+      logger.error("Failed to parse consent record:", e);
       return null;
     }
   }

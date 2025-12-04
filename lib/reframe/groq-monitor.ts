@@ -4,6 +4,8 @@
  */
 
 import { getRedisClient } from "./redis";
+import logger from "@/lib/logger";
+import type { Redis } from "@upstash/redis";
 
 // Groq pricing for llama-3.1-8b-instant (Reframe model)
 const GROQ_INPUT_COST_PER_MILLION = 0.05; // $0.05 per 1M input tokens
@@ -72,7 +74,7 @@ export async function trackGroqUsage(
     // Check for alerts
     await checkAndAlert(redis, dateKey, monthKey);
   } catch (error) {
-    console.error("Failed to track Groq usage:", error);
+    logger.error("Failed to track Groq usage:", error);
     // Don't throw - tracking failure shouldn't break the request
   }
 }
@@ -107,7 +109,7 @@ export async function getDailyUsage(date?: string): Promise<{
       cost: Math.round(cost * 1000000) / 1000000 // Round to 6 decimal places
     };
   } catch (error) {
-    console.error("Failed to get daily usage:", error);
+    logger.error("Failed to get daily usage:", error);
     return {
       date: date || new Date().toISOString().split('T')[0],
       requests: 0,
@@ -154,7 +156,7 @@ export async function getMonthlyUsage(year?: number, month?: number): Promise<{
       cost: Math.round(cost * 1000000) / 1000000
     };
   } catch (error) {
-    console.error("Failed to get monthly usage:", error);
+    logger.error("Failed to get monthly usage:", error);
     const now = new Date();
     return {
       year: year || now.getFullYear(),
@@ -171,7 +173,7 @@ export async function getMonthlyUsage(year?: number, month?: number): Promise<{
 /**
  * Check usage and send alerts if thresholds exceeded
  */
-async function checkAndAlert(redis: any, dateKey: string, monthKey: string): Promise<void> {
+async function checkAndAlert(redis: Redis, dateKey: string, monthKey: string): Promise<void> {
   try {
     const dailyKey = `groq:usage:daily:${dateKey}`;
     const monthlyKey = `groq:usage:monthly:${monthKey}`;
@@ -185,8 +187,8 @@ async function checkAndAlert(redis: any, dateKey: string, monthKey: string): Pro
       const alreadyAlerted = await redis.get(alertKey);
       
       if (!alreadyAlerted) {
-        console.warn(`[GROQ ALERT] Daily cost ($${dailyCost.toFixed(2)}) exceeds threshold ($${DAILY_COST_THRESHOLD})`);
-        await redis.set(alertKey, "1", { EX: 24 * 60 * 60 }); // Alert once per day
+        logger.warn(`[GROQ ALERT] Daily cost ($${dailyCost.toFixed(2)}) exceeds threshold ($${DAILY_COST_THRESHOLD})`);
+        await redis.set(alertKey, "1", { ex: 24 * 60 * 60 }); // Alert once per day
       }
     }
     
@@ -196,12 +198,12 @@ async function checkAndAlert(redis: any, dateKey: string, monthKey: string): Pro
       const alreadyAlerted = await redis.get(alertKey);
       
       if (!alreadyAlerted) {
-        console.warn(`[GROQ ALERT] Monthly cost ($${monthlyCost.toFixed(2)}) exceeds threshold ($${MONTHLY_COST_THRESHOLD})`);
-        await redis.set(alertKey, "1", { EX: 30 * 24 * 60 * 60 }); // Alert once per month
+        logger.warn(`[GROQ ALERT] Monthly cost ($${monthlyCost.toFixed(2)}) exceeds threshold ($${MONTHLY_COST_THRESHOLD})`);
+        await redis.set(alertKey, "1", { ex: 30 * 24 * 60 * 60 }); // Alert once per month
       }
     }
   } catch (error) {
-    console.error("Failed to check alerts:", error);
+    logger.error("Failed to check alerts:", error);
   }
 }
 
@@ -259,7 +261,7 @@ export async function getUsageStats(days: number = 30): Promise<{
       dailyBreakdown: dailyBreakdown.reverse() // Oldest to newest
     };
   } catch (error) {
-    console.error("Failed to get usage stats:", error);
+    logger.error("Failed to get usage stats:", error);
     return {
       periodDays: days,
       totalRequests: 0,

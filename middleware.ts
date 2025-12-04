@@ -3,6 +3,12 @@ import type { NextRequest } from 'next/server';
 
 // Middleware for unified platform subscription checking
 // Checks subscription status for app routes
+//
+// NOTE: Next.js 16 shows deprecation warning for middleware.ts
+// However, this is still the official pattern as of Next.js 16.0.7
+// The "proxy" pattern mentioned in the warning is not yet documented
+// Monitor: https://nextjs.org/docs/messages/middleware-to-proxy
+// TODO: Migrate when official migration path is available
 
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;

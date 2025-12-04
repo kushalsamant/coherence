@@ -5,9 +5,38 @@
 
 import { logger } from '@/lib/logger';
 
+interface RazorpayResponse {
+  razorpay_payment_id: string;
+  razorpay_order_id?: string;
+  razorpay_subscription_id?: string;
+  razorpay_signature: string;
+}
+
+interface RazorpayError {
+  code: string;
+  description: string;
+  source: string;
+  step: string;
+  reason: string;
+  metadata: Record<string, unknown>;
+}
+
+interface RazorpayFailureResponse {
+  error: RazorpayError;
+}
+
+interface RazorpayInstance {
+  open(): void;
+  on(event: string, handler: (response: RazorpayFailureResponse) => void): void;
+}
+
+interface RazorpayConstructor {
+  new(options: Record<string, unknown>): RazorpayInstance;
+}
+
 declare global {
   interface Window {
-    Razorpay: any;
+    Razorpay: RazorpayConstructor;
   }
 }
 
@@ -27,7 +56,7 @@ export interface RazorpayCheckoutOptions {
   theme?: {
     color?: string;
   };
-  handler?: (response: any) => void;
+  handler?: (response: RazorpayResponse) => void;
   modal?: {
     ondismiss?: () => void;
   };
@@ -79,15 +108,15 @@ export function loadRazorpayScript(): Promise<void> {
  */
 export async function openRazorpayCheckout(
   options: RazorpayCheckoutOptions,
-  onSuccess?: (response: any) => void,
-  onFailure?: (response: any) => void,
+  onSuccess?: (response: RazorpayResponse) => void,
+  onFailure?: (response: RazorpayFailureResponse) => void,
   onDismiss?: () => void
 ): Promise<void> {
   // Ensure Razorpay script is loaded
   await loadRazorpayScript();
 
   // Create checkout options
-  const checkoutOptions: any = {
+  const checkoutOptions: Record<string, unknown> = {
     key: options.key_id,
     amount: options.amount,
     currency: options.currency,
@@ -95,7 +124,7 @@ export async function openRazorpayCheckout(
     description: options.description,
     prefill: options.prefill || {},
     theme: options.theme || { color: '#9333EA' },
-    handler: onSuccess || options.handler || function(response: any) {
+    handler: onSuccess || options.handler || function(response: RazorpayResponse) {
       logger.info('Payment successful:', response);
     },
     modal: {
@@ -119,7 +148,7 @@ export async function openRazorpayCheckout(
   if (onFailure) {
     rzp.on('payment.failed', onFailure);
   } else {
-    rzp.on('payment.failed', function(response: any) {
+    rzp.on('payment.failed', function(response: RazorpayFailureResponse) {
       logger.error('Payment failed:', response.error);
       alert(`Payment failed: ${response.error.description || 'Unknown error'}`);
     });
@@ -144,8 +173,8 @@ export async function createAndOpenCheckout(
   apiEndpoint: string,
   tier: string,
   paymentType: 'one_time' | 'subscription' = 'one_time',
-  onSuccess?: (response: any) => void,
-  onFailure?: (response: any) => void,
+  onSuccess?: (response: RazorpayResponse) => void,
+  onFailure?: (response: RazorpayFailureResponse) => void,
   onDismiss?: () => void
 ): Promise<void> {
   try {
@@ -171,8 +200,8 @@ export async function createAndOpenCheckout(
       onFailure,
       onDismiss
     );
-  } catch (error: any) {
-    logger.error('Checkout error:', error);
+  } catch (error) {
+    logger.error('Checkout error:', error instanceof Error ? error : new Error(String(error)));
     throw new Error('Failed to create checkout session. Please try again.');
   }
 }
@@ -195,8 +224,8 @@ export function useRazorpay() {
   const openCheckout = React.useCallback(
     async (
       options: RazorpayCheckoutOptions,
-      onSuccess?: (response: any) => void,
-      onFailure?: (response: any) => void,
+      onSuccess?: (response: RazorpayResponse) => void,
+      onFailure?: (response: RazorpayFailureResponse) => void,
       onDismiss?: () => void
     ) => {
       if (!isLoaded) {
