@@ -1,19 +1,53 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { authFunction as auth } from '@/app/ask/auth'; // Using ASK auth as default - will be unified later
+import { auth } from '@/lib/auth';
 import { logger } from '@/lib/logger';
+import Razorpay from 'razorpay';
 
 // Unified subscription checkout endpoint
-// This replaces app-specific checkout endpoints
 export const dynamic = 'force-dynamic';
+
+// Initialize Razorpay
+const razorpay = new Razorpay({
+  key_id: process.env.RAZORPAY_KEY_ID || process.env.PLATFORM_RAZORPAY_KEY_ID || '',
+  key_secret: process.env.RAZORPAY_KEY_SECRET || process.env.PLATFORM_RAZORPAY_KEY_SECRET || '',
+});
+
+// Plan configuration
+const PLANS = {
+  week: {
+    plan_id: process.env.RAZORPAY_PLAN_WEEK || process.env.PLATFORM_RAZORPAY_PLAN_WEEK,
+    amount: 129900, // ₹1,299 in paise
+    name: 'Week',
+  },
+  monthly: {
+    plan_id: process.env.RAZORPAY_PLAN_MONTH || process.env.PLATFORM_RAZORPAY_PLAN_MONTH,
+    amount: 349900, // ₹3,499 in paise
+    name: 'Month',
+  },
+  yearly: {
+    plan_id: process.env.RAZORPAY_PLAN_YEAR || process.env.PLATFORM_RAZORPAY_PLAN_YEAR,
+    amount: 2999900, // ₹29,999 in paise
+    name: 'Year',
+  },
+};
 
 export async function POST(req: NextRequest) {
   try {
     // Get session to verify authentication
+    // In NextAuth v5 API routes, auth() should work automatically with cookies
     const session = await auth();
     
-    if (!session?.user?.id) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    logger.info('Session check:', { hasSession: !!session, userEmail: session?.user?.email });
+    
+    if (!session?.user?.email) {
+      logger.error('Checkout failed: No authenticated user');
+      return NextResponse.json({ 
+        error: 'Please sign in to subscribe',
+        details: 'Authentication required. Please sign in first.'
+      }, { status: 401 });
     }
+
+    logger.info(`Checkout initiated by: ${session.user.email}`);
 
     const body = await req.json();
     const { tier } = body;
@@ -22,31 +56,43 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Invalid tier' }, { status: 400 });
     }
 
-    // TODO: Call unified backend API to create checkout session
-    // This will be implemented when backend is consolidated
-    // For now, return structure
-    const API_URL = process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000';
+    const plan = PLANS[tier as keyof typeof PLANS];
     
-    const response = await fetch(`${API_URL}/api/subscriptions/checkout`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        user_id: session.user.id,
-        tier,
-      }),
-    });
-
-    if (!response.ok) {
+    if (!plan.plan_id) {
+      logger.error(`Missing plan ID for tier: ${tier}`);
       return NextResponse.json(
-        { error: 'Failed to create checkout session' },
-        { status: response.status }
+        { error: 'Plan configuration missing' },
+        { status: 500 }
       );
     }
 
-    const data = await response.json();
-    return NextResponse.json(data);
+    // Create Razorpay subscription
+    const subscription = await razorpay.subscriptions.create({
+      plan_id: plan.plan_id,
+      customer_notify: 1,
+      total_count: 1,
+      notes: {
+        email: session.user.email,
+        name: session.user.name || 'Unknown',
+        tier: tier,
+      },
+    });
+
+    logger.info(`Created subscription for ${session.user.email}: ${subscription.id}`);
+
+    // Return data for Razorpay checkout
+    return NextResponse.json({
+      subscription_id: subscription.id,
+      key_id: process.env.RAZORPAY_KEY_ID || process.env.PLATFORM_RAZORPAY_KEY_ID,
+      amount: plan.amount,
+      currency: 'INR',
+      name: 'KVSHVL Platform',
+      description: `${plan.name} Subscription`,
+      prefill: {
+        email: session.user.email,
+        name: session.user.name || '',
+      },
+    });
   } catch (error: any) {
     logger.error('Checkout error:', error);
     return NextResponse.json(
