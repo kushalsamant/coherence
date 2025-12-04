@@ -7,80 +7,75 @@
 
 ## 🆕 Recent Work (Dec 4, 2025)
 
-### Vercel Deployment Fix (12:48 AM) ✅ COMPLETED
+### Vercel Deployment Fix Attempts (12:48 AM - 1:10 AM)
+
+#### First Attempt (12:48 AM) ⚠️ PARTIAL FIX
 
 **Issue Discovered:**
 - Vercel build failing with "Module not found" errors for all `@/lib/*` imports
 - Git submodule warning for `packages/design-system`
 - Workspace packages (design-system, shared-frontend) not being built before Next.js build
 
-**Root Cause Analysis:**
-1. `.gitignore` was too broad - excluded `lib/` (Python artifact rule) and `dist/` directories
-2. This caused TypeScript source files in `lib/` directory to NOT be tracked in git
-3. When Vercel cloned the repo, all `@/lib/*` modules were missing (25 files not tracked)
-4. Workspace packages weren't built during Vercel CI, causing import failures
-5. Build script (`vercel-build`) only ran `next build`, skipping workspace package builds
+**Initial Root Cause (Incorrect):**
+1. `.gitignore` was too broad - excluded `lib/` directory ✅ (This was correct)
+2. Build script didn't include workspace builds ✅ (This was correct)
 
 **Actions Taken:**
-1. ✅ Updated `.gitignore` to be more specific:
-   - Changed `lib/` to `**/lib64/` (only Python lib directories)
-   - Changed `dist/` to `packages/*/dist/` (allow workspace builds during CI)
-2. ✅ Added all 25+ `lib/` TypeScript files to git tracking:
-   - `lib/logger.ts`, `lib/api.ts`, `lib/auth.ts`, `lib/auth-provider.tsx`
-   - All subdirectories: `lib/ask/`, `lib/reframe/`, `lib/sketch2bim/`, `lib/shared/`
-3. ✅ Updated `package.json` build scripts:
-   - `"build": "npm run build:workspaces && next build"`
-   - `"vercel-build": "npm run build:workspaces && next build"`
-   - `"build:workspaces": "npm run build --workspaces --if-present"`
-4. ✅ Tested build locally - successful completion in 53s
-5. ✅ Committed and pushed fixes to trigger new Vercel deployment
+1. ✅ Updated `.gitignore` and added `lib/` files to git - **This worked**
+2. ✅ Updated `package.json` build scripts - **This worked**
+3. ✅ Tested build locally - successful
+4. ✅ Committed: `a4d7b22`
 
-**Files Changed:**
-- `.gitignore` - Fixed Python artifact rules
-- `package.json` - Added workspace build step
-- `lib/` directory - 25+ files now tracked in git
-- Commit: `a4d7b22` - "Fix: Add lib/ directory to git and build workspace packages"
-
-**Expected Result:**
-- Vercel build should now succeed
-- All `@/lib/*` imports will resolve correctly
-- Workspace packages build before Next.js build
+**Result:** Still failing with 45+ "Module not found" errors for `@kushalsamant/design-template`
 
 ---
 
-### Render Backend Fix (12:55 AM) ✅ COMPLETED
+#### Second Attempt (1:10 AM) 🔄 IN PROGRESS
 
-**Issue Discovered:**
-- Render backend failing with `ModuleNotFoundError: No module named 'models'`
-- Python import path not configured correctly
-- Every router file using manual `sys.path.insert()` hacks
+**Actual Root Cause Discovered:**
+- `packages/design-system` is registered as a **git submodule** (mode `160000`)
+- Should be regular files, not a submodule
+- Git submodule check fails during Vercel build: "fatal: No url found for submodule path"
+- Only `@kvshvl/shared-frontend` builds; `@kushalsamant/design-template` skipped
+- Missing `transpilePackages` configuration in Next.js
 
-**Root Cause Analysis:**
-1. `render.yaml` had conflicting directory configuration:
-   - `rootDir: apps/platform-api` set the working directory
-   - `startCommand` then tried to `cd apps/platform-api` again (would fail)
-2. Python modules (`models/`, `services/`, `routers/`) not in Python path
-3. Import statements like `from models.ask_schemas import ...` failing
+**Actions In Progress:**
+1. 🔄 Remove git submodule entry for `packages/design-system`
+2. 🔄 Add as regular git files
+3. 🔄 Add `transpilePackages` to `next.config.js`
+4. 🔄 Commit and deploy
+
+---
+
+### Render Backend Fix Attempts (12:55 AM - 1:10 AM)
+
+#### First Attempt (12:55 AM) ⚠️ DIDN'T WORK
+
+**Issue:** `ModuleNotFoundError: No module named 'models'`
+
+**Initial Root Cause (Incorrect):**
+- Thought `rootDir` in render.yaml was conflicting with `cd` command
 
 **Actions Taken:**
-1. ✅ Fixed `render.yaml`:
-   - Removed conflicting `rootDir` directive
-   - Added `PYTHONPATH` to `startCommand` for proper module resolution
-2. ✅ Updated `apps/platform-api/main.py`:
-   - Added proper Python path setup at application startup
-   - Added `sys.path.insert(0, str(app_root))` to ensure module imports work
-3. ✅ Tested configuration logic locally
-4. ✅ Committed and pushed fixes to trigger Render redeployment
+1. ✅ Removed `rootDir` from `render.yaml`
+2. ✅ Added PYTHONPATH with absolute path
+3. ✅ Updated `main.py` with path setup
+4. ✅ Committed: `7f2fe0f`
 
-**Files Changed:**
-- `render.yaml` - Fixed build and start commands
-- `apps/platform-api/main.py` - Added Python path configuration
-- Commit: `7f2fe0f` - "Fix: Resolve Python module import errors in Render backend"
+**Result:** Still failing with same `ModuleNotFoundError`
 
-**Expected Result:**
-- Render backend should start successfully
-- All module imports (`models`, `services`, `routers`) will resolve correctly
-- API endpoints will be accessible
+---
+
+#### Second Attempt (1:10 AM) 🔄 IN PROGRESS
+
+**Actual Root Cause:**
+- PYTHONPATH uses hardcoded absolute path: `/opt/render/project/src/apps/platform-api`
+- Should use relative path: `.` (current directory)
+- After `cd apps/platform-api`, the working directory IS the app root
+
+**Actions In Progress:**
+1. 🔄 Update PYTHONPATH to use relative path
+2. 🔄 Commit and deploy
 
 ---
 

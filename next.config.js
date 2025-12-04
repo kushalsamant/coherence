@@ -10,6 +10,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  // Transpile workspace packages for monorepo support
+  transpilePackages: ['@kushalsamant/design-template', '@kvshvl/shared-frontend'],
   // Skip prerendering for pages with dynamic data (auth, subscriptions)
   skipTrailingSlashRedirect: false,
   experimental: {
