@@ -12,6 +12,12 @@ services:
     startCommand: cd apps/platform-api && python -m uvicorn main:app --host 0.0.0.0 --port $PORT
     healthCheckPath: /health
     envVars:
+      # Python Path Configuration
+      # Set to current directory (after 'cd apps/platform-api')
+      # Allows absolute imports like 'from models.xxx import yyy' to work
+      - key: PYTHONPATH
+        value: "."
+      
       # Application Configuration
       - key: PLATFORM_APP_NAME
         value: "KVSHVL Platform API"
