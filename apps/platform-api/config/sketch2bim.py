@@ -37,10 +37,9 @@ class Settings(BaseSettings):
     REQUEST_TIMEOUT_SECONDS: float = 300.0  # 5 minutes default timeout
     
     # CORS
-    # Prefer prefixed CORS_ORIGINS; SKETCH2BIM_ALLOWED_ORIGINS is supported as a legacy alias
     CORS_ORIGINS: str = os.getenv(
         "SKETCH2BIM_CORS_ORIGINS",
-        os.getenv("SKETCH2BIM_ALLOWED_ORIGINS", "http://localhost:3000"),
+        "http://localhost:3000",
     )
 
     @property
@@ -122,40 +121,33 @@ class Settings(BaseSettings):
     NEXTAUTH_SECRET: str = os.getenv("SKETCH2BIM_NEXTAUTH_SECRET", "")
     
     # Payments - Razorpay
-    # Prefixed envs only; unprefixed RAZORPAY_* will no longer be read here.
     RAZORPAY_KEY_ID: str = os.getenv("SKETCH2BIM_RAZORPAY_KEY_ID", "")
     RAZORPAY_KEY_SECRET: str = os.getenv("SKETCH2BIM_RAZORPAY_KEY_SECRET", "")
     RAZORPAY_WEBHOOK_SECRET: str = os.getenv("SKETCH2BIM_RAZORPAY_WEBHOOK_SECRET", "")
     
-    # Legacy aliases
-    LIVE_KEY_ID: str = os.getenv("LIVE_KEY_ID", "")
-    LIVE_KEY_SECRET: str = os.getenv("LIVE_KEY_SECRET", "")
-    
     @property
     def razorpay_key_id(self) -> str:
-        """Get Razorpay key ID, checking both variable names"""
-        return self.RAZORPAY_KEY_ID or self.LIVE_KEY_ID
+        """Get Razorpay key ID"""
+        return self.RAZORPAY_KEY_ID
     
     @property
     def razorpay_key_secret(self) -> str:
-        """Get Razorpay key secret, checking both variable names"""
-        return self.RAZORPAY_KEY_SECRET or self.LIVE_KEY_SECRET
+        """Get Razorpay key secret"""
+        return self.RAZORPAY_KEY_SECRET
     
     # Pricing in paise (₹1 = 100 paise)
     # Trial tier handled separately (free)
     # Week: ₹1,299/week = 129900 paise
     # Monthly: ₹3,499/month = 349900 paise
     # Yearly: ₹29,999/year = 2999900 paise
-    # Shared across all projects - check prefixed first, then unprefixed, then default
-    RAZORPAY_WEEK_AMOUNT: int = get_env_int_with_fallback("SKETCH2BIM_RAZORPAY_WEEK_AMOUNT", "RAZORPAY_WEEK_AMOUNT", 129900)
-    RAZORPAY_MONTH_AMOUNT: int = get_env_int_with_fallback("SKETCH2BIM_RAZORPAY_MONTH_AMOUNT", "RAZORPAY_MONTH_AMOUNT", 349900)
-    RAZORPAY_YEAR_AMOUNT: int = get_env_int_with_fallback("SKETCH2BIM_RAZORPAY_YEAR_AMOUNT", "RAZORPAY_YEAR_AMOUNT", 2999900)
+    RAZORPAY_WEEK_AMOUNT: int = int(os.getenv("SKETCH2BIM_RAZORPAY_WEEK_AMOUNT", "129900"))
+    RAZORPAY_MONTH_AMOUNT: int = int(os.getenv("SKETCH2BIM_RAZORPAY_MONTH_AMOUNT", "349900"))
+    RAZORPAY_YEAR_AMOUNT: int = int(os.getenv("SKETCH2BIM_RAZORPAY_YEAR_AMOUNT", "2999900"))
     
     # Razorpay Plan IDs for subscriptions (created via scripts/create_razorpay_plans.py)
-    # Shared across all projects - check prefixed first, then unprefixed, then default
-    RAZORPAY_PLAN_WEEK: str = get_env_with_fallback("SKETCH2BIM_RAZORPAY_PLAN_WEEK", "RAZORPAY_PLAN_WEEK", "")
-    RAZORPAY_PLAN_MONTH: str = get_env_with_fallback("SKETCH2BIM_RAZORPAY_PLAN_MONTH", "RAZORPAY_PLAN_MONTH", "")
-    RAZORPAY_PLAN_YEAR: str = get_env_with_fallback("SKETCH2BIM_RAZORPAY_PLAN_YEAR", "RAZORPAY_PLAN_YEAR", "")
+    RAZORPAY_PLAN_WEEK: str = os.getenv("SKETCH2BIM_RAZORPAY_PLAN_WEEK", "")
+    RAZORPAY_PLAN_MONTH: str = os.getenv("SKETCH2BIM_RAZORPAY_PLAN_MONTH", "")
+    RAZORPAY_PLAN_YEAR: str = os.getenv("SKETCH2BIM_RAZORPAY_PLAN_YEAR", "")
     
     # BunnyCDN - prefixed envs only
     BUNNY_STORAGE_ZONE: str = os.getenv("SKETCH2BIM_BUNNY_STORAGE_ZONE", "")
@@ -252,9 +244,9 @@ class Settings(BaseSettings):
             if not value:
                 missing.append(field)
         
-        # Check Razorpay keys separately (supports both variable names)
+        # Check Razorpay keys
         if not self.razorpay_key_id or not self.razorpay_key_secret:
-            missing.append('RAZORPAY_KEY_ID/RAZORPAY_KEY_SECRET (or LIVE_KEY_ID/LIVE_KEY_SECRET)')
+            missing.append('SKETCH2BIM_RAZORPAY_KEY_ID/SKETCH2BIM_RAZORPAY_KEY_SECRET')
         
         return missing
     

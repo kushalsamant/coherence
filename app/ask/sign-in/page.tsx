@@ -1,10 +1,11 @@
 'use client'
 
 import { useState, useEffect, Suspense } from 'react'
-import { signIn, useSession } from 'next-auth/react'
+import { signIn, useSession } from '@/lib/auth-provider'
 import { useRouter, useSearchParams } from 'next/navigation'
 import { Card, Button } from '@kushalsamant/design-template'
 import Link from 'next/link'
+import { logger } from '@/lib/logger'
 
 function SignInContent() {
   const [termsAccepted, setTermsAccepted] = useState(false)
@@ -30,7 +31,7 @@ function SignInContent() {
     try {
       await signIn('google', { callbackUrl: '/' })
     } catch (error) {
-      console.error('Sign in error:', error)
+      logger.error('Sign in error:', error)
       setIsSubmitting(false)
     }
   }

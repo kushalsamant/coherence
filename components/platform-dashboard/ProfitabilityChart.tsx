@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { Card } from '@kushalsamant/design-template';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import { getPlatformProjections } from '@/lib/platform-api';
+import { logger } from '@/lib/logger';
 
 interface ProfitabilityChartProps {
   project: string;
@@ -21,7 +22,7 @@ export default function ProfitabilityChart({ project, days }: ProfitabilityChart
         const result = await getPlatformProjections(project === 'platform' ? undefined : project, 12);
         setData(result.projections);
       } catch (err) {
-        console.error('Failed to fetch projections:', err);
+        logger.error('Failed to fetch projections:', err);
       } finally {
         setLoading(false);
       }

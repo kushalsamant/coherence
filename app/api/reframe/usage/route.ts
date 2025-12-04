@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { getRedisClient } from "@/lib/reframe/redis";
-import { auth } from "@/app/reframe/auth";
+import { authFunction as auth } from "@/app/reframe/auth";
 import { getUserMetadata } from "@/lib/reframe/user-metadata";
 import { hasActiveSubscription, ensureSubscriptionStatus } from "@/lib/reframe/subscription";
 

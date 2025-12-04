@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { auth } from '@/app/ask/auth'; // Using ASK auth as default - will be unified later
+import { authFunction as auth } from '@/app/ask/auth'; // Using ASK auth as default - will be unified later
+import { logger } from '@/lib/logger';
 
 // Unified subscription checkout endpoint
 // This replaces app-specific checkout endpoints
@@ -47,7 +48,7 @@ export async function POST(req: NextRequest) {
     const data = await response.json();
     return NextResponse.json(data);
   } catch (error: any) {
-    console.error('Checkout error:', error);
+    logger.error('Checkout error:', error);
     return NextResponse.json(
       { error: error.message || 'Internal server error' },
       { status: 500 }

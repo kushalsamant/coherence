@@ -10,6 +10,7 @@ import {
   getRazorpayPlanMonthly,
   getRazorpayPlanYearly,
 } from "@/lib/reframe/app-config";
+import { logger } from "@/lib/logger";
 
 export const runtime = "nodejs";
 export const dynamic = 'force-dynamic';
@@ -39,7 +40,7 @@ export async function POST(req: Request) {
 
   // Verify webhook signature
   if (!verifyWebhookSignature(body, signature)) {
-    console.error("Razorpay webhook signature verification failed");
+    logger.error("Platform Razorpay webhook signature verification failed");
     return new NextResponse("Invalid signature", { status: 400 });
   }
 
@@ -59,13 +60,13 @@ export async function POST(req: Request) {
         const tier = notes.tier as string;
 
         if (!userId) {
-          console.error("Missing user_id in payment notes");
+          logger.error("Missing user_id in payment notes");
           break;
         }
 
         // Track payment processing fee (2% of amount)
         const processingFee = Math.floor(amount * 0.02); // 2% fee in paise
-        const { getRedisClient } = await import("@/lib/redis");
+        const { getRedisClient } = await import("@/lib/reframe/redis");
         const redis = getRedisClient();
         const now = new Date();
         const dateKey = now.toISOString().split('T')[0]; // YYYY-MM-DD
@@ -74,16 +75,16 @@ export async function POST(req: Request) {
         // Track daily payment metrics in Redis
         // Keys: payment:fees:daily:{YYYY-MM-DD}, payment:revenue:daily:{YYYY-MM-DD}, payment:count:daily:{YYYY-MM-DD}
         // Data retention: 30 days for daily keys, 90 days for monthly keys
-        await redis.incrBy(`payment:fees:daily:${dateKey}`, processingFee);
-        await redis.incrBy(`payment:revenue:daily:${dateKey}`, amount);
+        await redis.incrby(`payment:fees:daily:${dateKey}`, processingFee);
+        await redis.incrby(`payment:revenue:daily:${dateKey}`, amount);
         await redis.incr(`payment:count:daily:${dateKey}`); // Increment payment count
         await redis.expire(`payment:fees:daily:${dateKey}`, 30 * 24 * 60 * 60); // 30 days
         await redis.expire(`payment:revenue:daily:${dateKey}`, 30 * 24 * 60 * 60); // 30 days
         await redis.expire(`payment:count:daily:${dateKey}`, 30 * 24 * 60 * 60); // 30 days
         
         // Track monthly payment metrics
-        await redis.incrBy(`payment:fees:monthly:${monthKey}`, processingFee);
-        await redis.incrBy(`payment:revenue:monthly:${monthKey}`, amount);
+        await redis.incrby(`payment:fees:monthly:${monthKey}`, processingFee);
+        await redis.incrby(`payment:revenue:monthly:${monthKey}`, amount);
         await redis.incr(`payment:count:monthly:${monthKey}`); // Increment payment count
         await redis.expire(`payment:fees:monthly:${monthKey}`, 90 * 24 * 60 * 60); // 90 days
         await redis.expire(`payment:revenue:monthly:${monthKey}`, 90 * 24 * 60 * 60); // 90 days
@@ -101,7 +102,7 @@ export async function POST(req: Request) {
                 expiry,
                 false // one-time payment, no auto-renew
               );
-              console.log(`User ${userId} purchased ${subscriptionTier} subscription (one-time)`);
+              logger.info(`User ${userId} purchased ${subscriptionTier} subscription (one-time)`);
             }
           }
         }
@@ -150,7 +151,7 @@ export async function POST(req: Request) {
               activatedSub.id,
               activatedSub.customer_id
             );
-            console.log(`User ${activatedUserId} subscription activated: ${subscriptionTier}`);
+            logger.info(`User ${activatedUserId} subscription activated: ${subscriptionTier}`);
           }
         }
         break;
@@ -166,23 +167,23 @@ export async function POST(req: Request) {
         // Track payment processing fee for subscription renewal
         if (chargedAmount > 0) {
           const processingFee = Math.floor(chargedAmount * 0.02); // 2% fee in paise
-          const { getRedisClient } = await import("@/lib/redis");
+          const { getRedisClient } = await import("@/lib/reframe/redis");
           const redis = getRedisClient();
           const now = new Date();
           const dateKey = now.toISOString().split('T')[0];
           const monthKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
           
           // Track daily payment metrics (same structure as payment.captured)
-          await redis.incrBy(`payment:fees:daily:${dateKey}`, processingFee);
-          await redis.incrBy(`payment:revenue:daily:${dateKey}`, chargedAmount);
+          await redis.incrby(`payment:fees:daily:${dateKey}`, processingFee);
+          await redis.incrby(`payment:revenue:daily:${dateKey}`, chargedAmount);
           await redis.incr(`payment:count:daily:${dateKey}`); // Increment payment count
           await redis.expire(`payment:fees:daily:${dateKey}`, 30 * 24 * 60 * 60);
           await redis.expire(`payment:revenue:daily:${dateKey}`, 30 * 24 * 60 * 60);
           await redis.expire(`payment:count:daily:${dateKey}`, 30 * 24 * 60 * 60);
           
           // Track monthly payment metrics
-          await redis.incrBy(`payment:fees:monthly:${monthKey}`, processingFee);
-          await redis.incrBy(`payment:revenue:monthly:${monthKey}`, chargedAmount);
+          await redis.incrby(`payment:fees:monthly:${monthKey}`, processingFee);
+          await redis.incrby(`payment:revenue:monthly:${monthKey}`, chargedAmount);
           await redis.incr(`payment:count:monthly:${monthKey}`); // Increment payment count
           await redis.expire(`payment:fees:monthly:${monthKey}`, 90 * 24 * 60 * 60);
           await redis.expire(`payment:revenue:monthly:${monthKey}`, 90 * 24 * 60 * 60);
@@ -195,7 +196,7 @@ export async function POST(req: Request) {
             metadata.subscription_expires_at = new Date(currentEndCharged * 1000).toISOString();
             metadata.subscription_status = "active";
             await setUserMetadata(chargedUserId, metadata);
-            console.log(`User ${chargedUserId} subscription renewed until ${metadata.subscription_expires_at}`);
+            logger.info(`User ${chargedUserId} subscription renewed until ${metadata.subscription_expires_at}`);
           }
         }
         break;
@@ -215,18 +216,19 @@ export async function POST(req: Request) {
             metadata.subscription_status = "cancelled";
             // Keep subscription_expires_at as is - they paid for the period
             await setUserMetadata(cancelledUserId, metadata);
-            console.log(`User ${cancelledUserId} subscription cancelled (will expire at ${metadata.subscription_expires_at})`);
+            logger.info(`User ${cancelledUserId} subscription cancelled (will expire at ${metadata.subscription_expires_at})`);
           }
         }
         break;
 
       default:
-        console.log(`Unhandled Razorpay event type: ${eventType}`);
+        logger.info(`Unhandled Razorpay event type: ${eventType}`);
     }
   } catch (err: any) {
-    console.error(`Error processing Razorpay webhook:`, err);
+    logger.error(`Error processing Razorpay webhook:`, err);
     return new NextResponse(`Webhook handler error: ${err.message}`, { status: 500 });
   }
 
   return new NextResponse("OK", { status: 200 });
 }
+

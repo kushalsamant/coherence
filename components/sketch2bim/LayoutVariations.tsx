@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { api } from '@/lib/api';
 import Link from 'next/link';
+import { logger } from '@/lib/logger';
 
 interface LayoutVariationsProps {
   jobId: string;
@@ -25,7 +26,7 @@ export default function LayoutVariations({ jobId }: LayoutVariationsProps) {
       setVariations(data);
     } catch (error) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to load variations');
+        logger.error('Failed to load variations');
       }
     } finally {
       setLoading(false);

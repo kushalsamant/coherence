@@ -1,7 +1,7 @@
 'use client'
 
 import { usePathname } from 'next/navigation'
-import { useSession } from 'next-auth/react'
+import { useSession } from '@/lib/auth-provider'
 import Link from 'next/link'
 import { AppHeader, buildStandardNavLinks } from '@kushalsamant/design-template'
 
@@ -13,7 +13,6 @@ export default function HeaderWrapper() {
   const navLinks = buildStandardNavLinks({
     isSignedIn,
     pricingHref: '/pricing',
-    settingsHref: '/settings',
     signInHref: '/api/auth/signin',
     signOutHref: '/api/auth/signout',
   })

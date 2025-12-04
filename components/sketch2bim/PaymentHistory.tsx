@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { api } from '@/lib/api';
 import Link from 'next/link';
+import { logger } from '@/lib/logger';
 
 interface Payment {
   id: number;
@@ -31,7 +32,7 @@ export default function PaymentHistory() {
       setError(null);
     } catch (err: any) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to load payments');
+        logger.error('Failed to load payments');
       }
       setError('Failed to load payment history');
     } finally {

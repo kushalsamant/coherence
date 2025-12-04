@@ -4,6 +4,7 @@ import { useState, useRef, useEffect } from 'react';
 import * as THREE from 'three';
 import IfcViewer from './IfcViewer';
 import { api } from '@/lib/api';
+import { logger } from '@/lib/logger';
 
 interface IfcEditorProps {
   ifc_url: string;
@@ -55,7 +56,7 @@ export default function IfcEditor({ ifc_url, job_id, onSave }: IfcEditorProps) {
       alert('Iteration saved successfully!');
     } catch (error: any) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to save iteration');
+        logger.error('Failed to save iteration');
       }
       // Never expose internal error details
       alert('Failed to save iteration. Please try again.');

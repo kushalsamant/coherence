@@ -1,7 +1,8 @@
 import { NextResponse } from "next/server";
-import { auth } from "@/app/reframe/auth";
+import { authFunction as auth } from "@/app/reframe/auth";
 import { getUserMetadata, deleteAllUserData } from "@/lib/reframe/user-metadata";
 import { deleteUserFromDatabase } from "@/lib/reframe/auth-cleanup";
+import { logger } from "@/lib/logger";
 // Razorpay subscription cancellation handled via webhook
 
 export const dynamic = 'force-dynamic';
@@ -37,7 +38,7 @@ export async function POST(req: Request) {
       message: "Account successfully deleted",
     });
   } catch (error: any) {
-    console.error("Error deleting account:", error);
+    logger.error("Error deleting account:", error);
     return NextResponse.json(
       { error: "Failed to delete account", details: error.message },
       { status: 500 }

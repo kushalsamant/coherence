@@ -8,7 +8,8 @@ import IfcPropertyPanel, { IfcProperty } from './IfcPropertyPanel';
 import IfcObjectTree, { IfcTreeNode } from './IfcObjectTree';
 import { MeasurementManager, Measurement } from './MeasurementTool';
 import SectionPlaneControls, { SectionPlane } from './SectionPlaneControls';
-import { extractIfcElements, exportToCSV, exportToExcel } from '@/lib/ifcExport';
+import { extractIfcElements, exportToCSV } from '@/lib/sketch2bim/ifcExport';
+import { logger } from '@/lib/logger';
 
 interface IfcViewerProps {
   ifc_url: string;
@@ -110,7 +111,7 @@ export default function IfcViewer({ ifc_url }: IfcViewerProps) {
       return root;
     } catch (err) {
       if (process.env.NODE_ENV === 'development') {
-        console.warn('Failed to build object tree');
+        logger.warn('Failed to build object tree');
       }
       return null;
     }
@@ -163,7 +164,7 @@ export default function IfcViewer({ ifc_url }: IfcViewerProps) {
           }
         } catch (err) {
           if (process.env.NODE_ENV === 'development') {
-            console.warn('Failed to get property sets');
+            logger.warn('Failed to get property sets');
           }
         }
 
@@ -176,7 +177,7 @@ export default function IfcViewer({ ifc_url }: IfcViewerProps) {
       return { properties, name: objectName };
     } catch (err) {
       if (process.env.NODE_ENV === 'development') {
-        console.warn('Failed to get object properties');
+        logger.warn('Failed to get object properties');
       }
       return { properties: [], name: 'Unknown' };
     }
@@ -466,7 +467,7 @@ export default function IfcViewer({ ifc_url }: IfcViewerProps) {
           }
         } catch (err) {
           if (process.env.NODE_ENV === 'development') {
-            console.warn('Failed to extract floors from spatial structure');
+            logger.warn('Failed to extract floors from spatial structure');
           }
           // Silently fail - floor extraction is optional
         }
@@ -502,7 +503,7 @@ export default function IfcViewer({ ifc_url }: IfcViewerProps) {
         };
       } catch (err: any) {
         if (process.env.NODE_ENV === 'development') {
-          console.error('IFC viewer error');
+          logger.error('IFC viewer error');
         }
         // Never expose internal error details to users
         const errorMessage = 'Failed to load 3D model';
@@ -788,7 +789,7 @@ export default function IfcViewer({ ifc_url }: IfcViewerProps) {
         }
       }).catch((err) => {
         if (process.env.NODE_ENV === 'development') {
-          console.error('Error attempting to enable fullscreen');
+          logger.error('Error attempting to enable fullscreen');
         }
       });
     } else {
@@ -813,7 +814,7 @@ export default function IfcViewer({ ifc_url }: IfcViewerProps) {
         }
       }).catch((err) => {
         if (process.env.NODE_ENV === 'development') {
-          console.error('Error attempting to exit fullscreen');
+          logger.error('Error attempting to exit fullscreen');
         }
       });
     }
@@ -1355,22 +1356,22 @@ export default function IfcViewer({ ifc_url }: IfcViewerProps) {
                   try {
                     const elements = await extractIfcElements(ifcApiRef.current, modelIDRef.current);
                     if (elements.length > 0) {
-                      exportToExcel(elements, 'ifc_model_export.xlsx');
+                      exportToCSV(elements, 'ifc_model_export.csv');
                     } else {
                       alert('No elements found to export');
                     }
                   } catch (error) {
                     if (process.env.NODE_ENV === 'development') {
-                      console.error('Export failed');
+                      logger.error('Export failed');
                     }
                     alert('Failed to export data. Please try again.');
                   }
                 }
               }}
               className="px-3 py-1.5 rounded text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors"
-              title="Export to Excel/CSV"
+              title="Export to CSV (can be opened in Excel)"
             >
-              Export
+              Export CSV
             </button>
           <button
             onClick={() => {
@@ -1545,13 +1546,13 @@ async function loadIfcGeometry(
         meshes.push(mesh);
       } catch (err) {
         if (process.env.NODE_ENV === 'development') {
-          console.warn('Failed to process geometry');
+          logger.warn('Failed to process geometry');
         }
       }
     }
   } catch (err) {
     if (process.env.NODE_ENV === 'development') {
-      console.error('Failed to load geometry');
+      logger.error('Failed to load geometry');
     }
   }
 

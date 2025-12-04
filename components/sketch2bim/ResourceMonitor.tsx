@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { api } from '@/lib/api';
+import { logger } from '@/lib/logger';
 
 interface ResourceStatus {
   database: {
@@ -59,7 +60,7 @@ export default function ResourceMonitor() {
       setError(null);
     } catch (err: any) {
       setError(err.response?.data?.detail || 'Failed to load monitoring data');
-      console.error('Monitoring error:', err);
+      logger.error('Monitoring error:', err);
     } finally {
       setLoading(false);
     }

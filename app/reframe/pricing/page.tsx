@@ -3,10 +3,11 @@
 import { Button } from "@/components/reframe/ui/button";
 import { Card, CardContent } from "@/components/reframe/ui/card";
 import { DualPriceDisplay } from "@/components/reframe/ui/dual-price-display";
-import { useSession } from "next-auth/react";
+import { useSession } from "@/lib/auth-provider";
 import { Check } from "lucide-react";
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import { logger } from "@/lib/logger";
 // Pricing configuration - unified across all apps (ASK, Reframe, Sketch2BIM)
 // Week: ₹1,299 = 129900 paise
 // Monthly: ₹3,499 = 349900 paise
@@ -27,7 +28,7 @@ type PricingTier = {
   requests: string;
   features: string[];
   cta: string;
-  plan: "monthly" | "yearly";
+  plan: "week" | "monthly" | "yearly";
   highlight?: boolean;
   badge?: string;
 };
@@ -111,7 +112,7 @@ export default function PricingPage() {
           setUserPlan(tier === "trial" ? undefined : tier);
         }
       } catch (e) {
-        console.error("Failed to fetch metadata:", e);
+        logger.error("Failed to fetch metadata:", e);
       }
     };
     fetchMetadata();
@@ -171,7 +172,7 @@ export default function PricingPage() {
         rzp.open();
       }
     } catch (error) {
-      console.error("Failed to create checkout:", error);
+      logger.error("Failed to create checkout:", error);
       alert("Failed to start checkout. Please try again.");
     }
   };

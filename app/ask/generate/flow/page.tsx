@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import { Card, Button } from '@kushalsamant/design-template';
 import { 
@@ -11,7 +11,7 @@ import {
   GenerationState 
 } from '@/lib/ask/api';
 
-export default function GenerationFlowPage() {
+function GenerationFlowContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const sessionId = searchParams.get('session');
@@ -465,6 +465,18 @@ export default function GenerationFlowPage() {
         </div>
       </article>
     </main>
+  );
+}
+
+export default function GenerationFlowPage() {
+  return (
+    <Suspense fallback={
+      <div className="container mx-auto px-4 py-8">
+        <div className="text-center">Loading...</div>
+      </div>
+    }>
+      <GenerationFlowContent />
+    </Suspense>
   );
 }
 

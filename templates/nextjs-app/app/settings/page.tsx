@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { useSession, signOut } from 'next-auth/react'
+import { useSession, signOut } from '@/lib/auth-provider'
 import { useRouter } from 'next/navigation'
 import { SettingsPage as SharedSettingsPage } from '@kvshvl/shared-frontend/settings'
 import type { UserMetadata } from '@kvshvl/shared-frontend/settings'

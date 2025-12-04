@@ -3,8 +3,10 @@
  * Adds JWT token from NextAuth session to requests
  */
 import { NextRequest, NextResponse } from "next/server";
-import { auth } from "@/app/reframe/auth";
+import { authFunction as auth } from "@/app/reframe/auth";
 import { encode } from "next-auth/jwt";
+import { logger } from "@/lib/logger";
+import type { Session } from "@kvshvl/shared-frontend/auth";
 
 const API_URL = process.env.NEXT_PUBLIC_PLATFORM_API_URL || "http://localhost:8000";
 
@@ -13,11 +15,14 @@ export const dynamic = 'force-dynamic';
 export async function POST(req: NextRequest) {
   try {
     // Get session to verify authentication
-    const session = await auth();
+    const session: Session | null = await auth();
     
     if (!session?.user?.id) {
       return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
     }
+
+    // TypeScript type narrowing - session is guaranteed to exist here
+    const user = session.user;
 
     // Encode JWT token from session
     const secret = process.env.REFRAME_NEXTAUTH_SECRET;
@@ -27,9 +32,9 @@ export async function POST(req: NextRequest) {
 
     // Create JWT token payload from session
     const tokenPayload = {
-      sub: session.user.id,
-      email: session.user.email,
-      name: session.user.name,
+      sub: user.id,
+      email: user.email,
+      name: user.name,
       iat: Math.floor(Date.now() / 1000),
       exp: Math.floor(Date.now() / 1000) + (30 * 24 * 60 * 60), // 30 days
     };
@@ -38,6 +43,7 @@ export async function POST(req: NextRequest) {
     const jwtToken = await encode({
       token: tokenPayload,
       secret,
+      salt: "",
     });
 
     // Get request body
@@ -66,7 +72,7 @@ export async function POST(req: NextRequest) {
 
     return NextResponse.json(data);
   } catch (error: any) {
-    console.error("Proxy error:", error);
+    logger.error("Proxy error:", error);
     return NextResponse.json(
       { error: error.message || "Internal server error" },
       { status: 500 }

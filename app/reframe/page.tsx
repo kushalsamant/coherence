@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, Suspense } from "react";
-import { useSession, signOut } from "next-auth/react";
+import { useSession, signOut } from "@/lib/auth-provider";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { Button } from "@/components/reframe/ui/button";
@@ -10,6 +10,7 @@ import { Card, CardContent } from "@/components/reframe/ui/card";
 import { useToast } from "@/components/reframe/ui/use-toast";
 import { TONES, GENERATIONS, type ToneName, type GenerationId } from "@/lib/reframe/tones";
 import { toErrorWithMessage } from "@/lib/reframe/types";
+import { logger } from "@/lib/logger";
 
 type CharacterLimit = {
   name: string;
@@ -81,7 +82,7 @@ function HomeContent() {
           setHasActiveSubscription(usageData.hasActiveSubscription);
         }
       } catch (error) {
-        console.error("Failed to fetch user data:", error);
+        logger.error("Failed to fetch user data:", error);
       }
     };
     fetchUserData();
@@ -108,7 +109,7 @@ function HomeContent() {
           await fetch("/api/consent/record", { method: "POST" });
           sessionStorage.removeItem("pendingConsent");
         } catch (error) {
-          console.error("Failed to record consent:", error);
+          logger.error("Failed to record consent:", error);
         }
       }
     };

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { useSession, signOut } from "next-auth/react";
+import { useSession, signOut } from "@/lib/auth-provider";
 import { useRouter } from "next/navigation";
 import { Button } from "@/components/reframe/ui/button";
 import { Card, CardContent } from "@/components/reframe/ui/card";
@@ -9,7 +9,9 @@ import { useToast } from "@/components/reframe/ui/use-toast";
 import { DeleteAccountModal } from "@/components/reframe/delete-account-modal";
 import { ExportDataModal } from "@/components/reframe/export-data-modal";
 import Link from "next/link";
-import type { UserMetadata, ConsentData } from "@/lib/reframe/types";
+import type { UserMetadata } from "@/lib/reframe/user-metadata";
+import type { ConsentRecord } from "@/lib/reframe/consent";
+import { logger } from "@/lib/logger";
 
 export default function SettingsPage() {
   const { data: session, status } = useSession();
@@ -17,7 +19,7 @@ export default function SettingsPage() {
   const { toast } = useToast();
 
   const [metadata, setMetadata] = useState<UserMetadata | null>(null);
-  const [consent, setConsent] = useState<ConsentData | null>(null);
+  const [consent, setConsent] = useState<ConsentRecord | null>(null);
   const [usage, setUsage] = useState(0);
   const [hasActiveSubscription, setHasActiveSubscription] = useState(false);
   const [loading, setLoading] = useState(true);
@@ -66,12 +68,12 @@ export default function SettingsPage() {
             setConsent(consentData);
           }
         } catch (e) {
-          console.log("No consent data available");
+          logger.info("No consent data available");
         }
 
         setLoading(false);
       } catch (error) {
-        console.error("Error fetching user data:", error);
+        logger.error("Error fetching user data:", error);
         setLoading(false);
       }
     };
@@ -102,7 +104,7 @@ export default function SettingsPage() {
       await signOut({ redirect: false });
       router.push("/");
     } catch (error) {
-      console.error("Delete error:", error);
+      logger.error("Delete error:", error);
       toast({
         variant: "destructive",
         title: "Error",
@@ -116,7 +118,7 @@ export default function SettingsPage() {
       // Razorpay subscription management - redirect to pricing page
       window.location.href = "/pricing";
     } catch (error) {
-      console.error("Portal error:", error);
+      logger.error("Portal error:", error);
       toast({
         variant: "destructive",
         title: "Error",

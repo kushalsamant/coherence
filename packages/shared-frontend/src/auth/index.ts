@@ -4,7 +4,7 @@
  * All OAuth flows are handled at kvshvl.in/api/auth/callback/google
  */
 import { redirect } from "next/navigation";
-import type { AuthConfig } from "./types";
+import type { AuthConfig, Session } from "./types";
 
 /**
  * Get the auth URL (main site URL for authentication)
@@ -46,9 +46,10 @@ export function createAuthFunctions(config: AuthConfig) {
     redirect(`${authUrl}/api/auth/signout`);
   }
 
-  async function auth() {
+  async function auth(): Promise<Session | null> {
     // For apps, we'll handle session validation via API calls to main site
     // or use JWT tokens passed from main site after auth
+    // TODO: Implement proper session validation
     return null;
   }
 
@@ -72,4 +73,4 @@ export function createAuthFunctions(config: AuthConfig) {
 /**
  * Export types
  */
-export type { AuthConfig } from "./types";
+export type { AuthConfig, Session, SessionUser } from "./types";

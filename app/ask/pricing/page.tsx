@@ -5,6 +5,8 @@ import { useRouter, useSearchParams } from 'next/navigation'
 import { createCheckoutSession } from '@/lib/ask/api'
 import { Card, Button } from '@kushalsamant/design-template'
 import Link from 'next/link'
+import { logger } from '@/lib/logger'
+import { loadRazorpayScript, openRazorpayCheckout } from '@/lib/shared/razorpay'
 
 function PricingContent() {
   const router = useRouter()
@@ -12,11 +14,10 @@ function PricingContent() {
   const [checkoutLoading, setCheckoutLoading] = useState<string | null>(null)
 
   useEffect(() => {
-    // Load Razorpay checkout script
-    const script = document.createElement('script')
-    script.src = 'https://checkout.razorpay.com/v1/checkout.js'
-    script.async = true
-    document.body.appendChild(script)
+    // Load Razorpay script using shared utility
+    loadRazorpayScript().catch((err) => {
+      logger.error('Failed to load Razorpay script:', err)
+    })
     
     // Check for checkout success/cancel
     const checkoutStatus = searchParams?.get('checkout')
@@ -25,13 +26,6 @@ function PricingContent() {
       router.push('/')
     } else if (checkoutStatus === 'canceled') {
       alert('Payment canceled.')
-    }
-    
-    return () => {
-      // Cleanup script on unmount
-      if (document.body.contains(script)) {
-        document.body.removeChild(script)
-      }
     }
   }, [searchParams, router])
 
@@ -52,51 +46,26 @@ function PricingContent() {
       // Get Razorpay order/subscription details from backend
       const orderData = await createCheckoutSession(tier, paymentType)
       
-      // Check if Razorpay is loaded
-      if (typeof (window as any).Razorpay === 'undefined') {
-        throw new Error('Razorpay checkout script not loaded. Please refresh the page.')
-      }
-
-      // Create Razorpay checkout options
-      const options: any = {
-        key: orderData.key_id,
-        amount: orderData.amount,
-        currency: orderData.currency,
-        name: orderData.name,
-        description: orderData.description,
-        prefill: orderData.prefill,
-        theme: orderData.theme,
-        handler: function (response: any) {
+      // Open Razorpay checkout using shared utility
+      await openRazorpayCheckout(
+        orderData,
+        (response: any) => {
           // Payment successful
           setCheckoutLoading(null)
           router.push('/?checkout=success')
         },
-        modal: {
-          ondismiss: function() {
-            // Payment cancelled
-            setCheckoutLoading(null)
-          }
+        (response: any) => {
+          // Payment failed
+          setCheckoutLoading(null)
+          alert(`Payment failed: ${response.error.description || 'Unknown error'}`)
+        },
+        () => {
+          // Payment dismissed
+          setCheckoutLoading(null)
         }
-      }
-
-      // For one-time payments, use order_id; for subscriptions, use subscription_id
-      if (paymentType === 'one_time' && orderData.order_id) {
-        options.order_id = orderData.order_id
-      } else if (paymentType === 'subscription' && orderData.subscription_id) {
-        options.subscription_id = orderData.subscription_id
-      }
-
-      // Open Razorpay checkout
-      const rzp = new (window as any).Razorpay(options)
-      rzp.on('payment.failed', function (response: any) {
-        setCheckoutLoading(null)
-        alert(`Payment failed: ${response.error.description || 'Unknown error'}`)
-      })
-      rzp.open()
+      )
     } catch (err: any) {
-      if (process.env.NODE_ENV === 'development') {
-        console.error('Checkout error:', err)
-      }
+      logger.error('Checkout error:', err)
       alert('Failed to create checkout session. Please try again.')
       setCheckoutLoading(null)
     }
@@ -201,16 +170,17 @@ function PricingContent() {
                   <li key={idx} style={{ fontSize: 'var(--font-size-sm)' }}>✓ {feature}</li>
                 ))}
               </ul>
-              <Button 
-                variant={plan.variant} 
-                style={{ width: '100%', marginTop: 'var(--space-md)' }}
-                onClick={() => handleSubscribe(plan.tier)}
-                disabled={checkoutLoading === `${plan.tier}_one_time` || checkoutLoading === `${plan.tier}_subscription`}
-              >
-                {checkoutLoading === `${plan.tier}_one_time` || checkoutLoading === `${plan.tier}_subscription` 
-                  ? 'Processing...' 
-                  : plan.cta}
-              </Button>
+              <div style={{ width: '100%', marginTop: 'var(--space-md)' }}>
+                <Button 
+                  variant={plan.variant} 
+                  onClick={() => handleSubscribe(plan.tier)}
+                  disabled={checkoutLoading === `${plan.tier}_one_time` || checkoutLoading === `${plan.tier}_subscription`}
+                >
+                  {checkoutLoading === `${plan.tier}_one_time` || checkoutLoading === `${plan.tier}_subscription` 
+                    ? 'Processing...' 
+                    : plan.cta}
+                </Button>
+              </div>
             </div>
           </Card>
         ))}

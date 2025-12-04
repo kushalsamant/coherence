@@ -3,6 +3,7 @@
 import { Job } from '@/lib/api';
 import Link from 'next/link';
 import SymbolDetectionPanel from './SymbolDetectionPanel';
+import { logger } from '@/lib/logger';
 
 interface JobCardProps {
   job: Job;
@@ -174,7 +175,7 @@ export default function JobCard({ job, onDelete }: JobCardProps) {
                     window.location.reload();
                   } catch (err) {
                     if (process.env.NODE_ENV === 'development') {
-                      console.error('Failed to approve');
+                      logger.error('Failed to approve');
                     }
                   }
                 }}
@@ -193,7 +194,7 @@ export default function JobCard({ job, onDelete }: JobCardProps) {
                     window.location.reload();
                   } catch (err) {
                     if (process.env.NODE_ENV === 'development') {
-                      console.error('Failed to reject');
+                      logger.error('Failed to reject');
                     }
                   }
                 }}

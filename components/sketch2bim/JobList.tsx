@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { api, Job } from '@/lib/api';
 import JobCard from './JobCard';
+import { logger } from '@/lib/logger';
 
 export default function JobList() {
   const [jobs, setJobs] = useState<Job[]>([]);
@@ -34,7 +35,7 @@ export default function JobList() {
         // Only show error for actual server errors (500+)
         setError('Unable to load jobs. Please try again later.');
         if (process.env.NODE_ENV === 'development') {
-          console.error('Server error loading jobs');
+          logger.error('Server error loading jobs');
         }
       } else {
         // For other errors (network, auth, etc.), prefer showing empty state for first-time users
@@ -80,7 +81,7 @@ export default function JobList() {
     } catch (err) {
       // Silently handle - user will see error if operation fails
       if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to delete job');
+        logger.error('Failed to delete job');
       }
     }
   };

@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { api } from '@/lib/api';
+import { logger } from '@/lib/logger';
 
 export default function UsageStats() {
   const [stats, setStats] = useState<{
@@ -37,7 +38,7 @@ export default function UsageStats() {
       });
     } catch (error) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to load stats');
+        logger.error('Failed to load stats');
       }
     } finally {
       setLoading(false);

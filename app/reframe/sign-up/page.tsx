@@ -1,11 +1,12 @@
 "use client";
 
 import { useState, useEffect, Suspense } from "react";
-import { signIn, useSession } from "next-auth/react";
+import { signIn, useSession } from "@/lib/auth-provider";
 import { Button } from "@/components/reframe/ui/button";
 import { Card, CardContent } from "@/components/reframe/ui/card";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
+import { logger } from "@/lib/logger";
 
 function SignUpContent() {
   const [termsAccepted, setTermsAccepted] = useState(false);
@@ -35,7 +36,7 @@ function SignUpContent() {
       
       await signIn("google", { callbackUrl: "/" });
     } catch (error) {
-      console.error("Sign up error:", error);
+      logger.error("Sign up error:", error);
       setIsSubmitting(false);
     }
   };

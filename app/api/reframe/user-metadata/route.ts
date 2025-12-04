@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
-import { auth } from "@/app/reframe/auth";
+import { authFunction as auth } from "@/app/reframe/auth";
 import { getUserMetadata } from "@/lib/reframe/user-metadata";
+import { logger } from "@/lib/logger";
 
 export const dynamic = 'force-dynamic';
 
@@ -19,7 +20,7 @@ export async function GET(req: Request) {
     const metadata = await getUserMetadata(session.user.id);
     return NextResponse.json(metadata || {});
   } catch (error: any) {
-    console.error("Error fetching user metadata:", error);
+    logger.error("Error fetching user metadata:", error);
     return NextResponse.json({ 
       error: "Failed to fetch metadata",
       subscription: undefined

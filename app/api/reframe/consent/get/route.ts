@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
-import { auth } from "@/app/reframe/auth";
+import { authFunction as auth } from "@/app/reframe/auth";
 import { getConsent } from "@/lib/reframe/consent";
+import { logger } from "@/lib/logger";
 
 export const dynamic = 'force-dynamic';
 
@@ -24,7 +25,7 @@ export async function GET() {
 
     return NextResponse.json(consent);
   } catch (error: any) {
-    console.error("Error fetching consent:", error);
+    logger.error("Error fetching consent:", error);
     return NextResponse.json(
       { error: "Failed to fetch consent" },
       { status: 500 }

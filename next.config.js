@@ -8,6 +8,14 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  // Skip prerendering for pages with dynamic data (auth, subscriptions)
+  skipTrailingSlashRedirect: false,
+  experimental: {
+    // Disable static optimization for pages using auth
+    serverActions: {
+      bodySizeLimit: '2mb',
+    },
+  },
 }
 
 module.exports = nextConfig

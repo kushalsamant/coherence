@@ -98,16 +98,14 @@ class Settings(BaseSettings):
         return self.RAZORPAY_KEY_SECRET
     
     # Pricing in paise (₹1 = 100 paise)
-    # Shared across all projects - prefixed variables only, with hard defaults
-    RAZORPAY_WEEK_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_WEEK_AMOUNT", "ASK_RAZORPAY_WEEK_AMOUNT", 129900)
-    RAZORPAY_MONTH_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_MONTH_AMOUNT", "ASK_RAZORPAY_MONTH_AMOUNT", 349900)
-    RAZORPAY_YEAR_AMOUNT: int = get_env_int_with_fallback("ASK_RAZORPAY_YEAR_AMOUNT", "ASK_RAZORPAY_YEAR_AMOUNT", 2999900)
+    RAZORPAY_WEEK_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_WEEK_AMOUNT", "129900"))
+    RAZORPAY_MONTH_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_MONTH_AMOUNT", "349900"))
+    RAZORPAY_YEAR_AMOUNT: int = int(os.getenv("ASK_RAZORPAY_YEAR_AMOUNT", "2999900"))
     
     # Razorpay Plan IDs for subscriptions (created via scripts/create_razorpay_plans.py)
-    # Shared across all projects - prefixed variables only
-    RAZORPAY_PLAN_WEEK: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_WEEK", "ASK_RAZORPAY_PLAN_WEEK", "")
-    RAZORPAY_PLAN_MONTH: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_MONTH", "ASK_RAZORPAY_PLAN_MONTH", "")
-    RAZORPAY_PLAN_YEAR: str = get_env_with_fallback("ASK_RAZORPAY_PLAN_YEAR", "ASK_RAZORPAY_PLAN_YEAR", "")
+    RAZORPAY_PLAN_WEEK: str = os.getenv("ASK_RAZORPAY_PLAN_WEEK", "")
+    RAZORPAY_PLAN_MONTH: str = os.getenv("ASK_RAZORPAY_PLAN_MONTH", "")
+    RAZORPAY_PLAN_YEAR: str = os.getenv("ASK_RAZORPAY_PLAN_YEAR", "")
 
     # Frontend URL (prefixed only; defaults to localhost for development)
     FRONTEND_URL: str = os.getenv("ASK_FRONTEND_URL", "http://localhost:3000")

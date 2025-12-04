@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Button } from "./ui/button";
+import { logger } from "@/lib/logger";
 
 interface DeleteAccountModalProps {
   isOpen: boolean;
@@ -24,7 +25,7 @@ export function DeleteAccountModal({ isOpen, onClose, onConfirm }: DeleteAccount
       await onConfirm();
       // Modal will close via redirect after deletion
     } catch (error) {
-      console.error("Delete failed:", error);
+      logger.error("Delete failed:", error);
       setIsDeleting(false);
     }
   };

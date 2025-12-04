@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { Card } from '@kushalsamant/design-template';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import { getSharedCosts } from '@/lib/platform-api';
+import { logger } from '@/lib/logger';
 
 export default function SharedCostsChart() {
   const [data, setData] = useState<any>(null);
@@ -17,7 +18,7 @@ export default function SharedCostsChart() {
         const result = await getSharedCosts(allocationMethod);
         setData(result);
       } catch (err) {
-        console.error('Failed to fetch shared costs:', err);
+        logger.error('Failed to fetch shared costs:', err);
       } finally {
         setLoading(false);
       }

@@ -11,3 +11,21 @@ export interface AuthConfig {
   defaultFrontendUrl: string;
 }
 
+/**
+ * Session user type
+ */
+export interface SessionUser {
+  id: string;
+  email: string;
+  name?: string;
+  image?: string;
+}
+
+/**
+ * Session type returned by auth() function
+ */
+export interface Session {
+  user: SessionUser;
+  expires?: string;
+}
+

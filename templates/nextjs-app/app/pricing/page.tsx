@@ -34,7 +34,7 @@ function PricingContent() {
       })
     } catch (err: any) {
       alert('Failed to create checkout session. Please try again.')
-      console.error('Checkout error:', err)
+      logger.error('Checkout error:', err)
     }
   }
 

@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { getThemes, Theme } from '@/lib/ask/api';
 import { GenerationForm } from '@/components/ask/GenerationForm';
+import { logger } from '@/lib/logger';
 
 export default function GeneratePage() {
   const [themes, setThemes] = useState<Theme[]>([]);
@@ -14,7 +15,7 @@ export default function GeneratePage() {
         const data = await getThemes();
         setThemes(data.themes);
       } catch (error) {
-        console.error('Failed to load themes:', error);
+        logger.error('Failed to load themes:', error);
       } finally {
         setLoading(false);
       }

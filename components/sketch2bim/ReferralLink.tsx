@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { api } from '@/lib/api';
+import { logger } from '@/lib/logger';
 
 export default function ReferralLink() {
   const [referralCode, setReferralCode] = useState<string | null>(null);
@@ -30,7 +31,7 @@ export default function ReferralLink() {
       setStats(statsData);
     } catch (error) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to load referral data');
+        logger.error('Failed to load referral data');
       }
     } finally {
       setLoading(false);
@@ -45,7 +46,7 @@ export default function ReferralLink() {
         setTimeout(() => setCopied(false), 2000);
       } catch (error) {
         if (process.env.NODE_ENV === 'development') {
-          console.error('Failed to copy');
+          logger.error('Failed to copy');
         }
       }
     }

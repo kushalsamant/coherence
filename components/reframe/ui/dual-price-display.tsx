@@ -1,5 +1,7 @@
 "use client";
 
+import { logger } from "@/lib/logger";
+
 // Pricing configuration - unified across all apps (ASK, Reframe, Sketch2BIM)
 const PRICING: Record<string, { amount: number; currency: string; symbol: string; interval?: string }> = {
   week: { amount: 1299, currency: "INR", symbol: "₹", interval: "week" },
@@ -43,7 +45,7 @@ export function DualPriceDisplay({
     fetch("/api/exchange-rates")
       .then(res => res.json())
       .then(data => setRates(data))
-      .catch(err => console.error("Failed to fetch exchange rates:", err));
+      .catch(err => logger.error("Failed to fetch exchange rates:", err));
   }, []);
   
   // Calculate conversions

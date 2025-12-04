@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
-import { auth } from "@/app/reframe/auth";
+import { authFunction as auth } from "@/app/reframe/auth";
 import { recordConsent, CURRENT_TERMS_VERSION, CURRENT_PRIVACY_VERSION } from "@/lib/reframe/consent";
+import { logger } from "@/lib/logger";
 
 export const dynamic = 'force-dynamic';
 
@@ -10,6 +11,7 @@ export const dynamic = 'force-dynamic';
  */
 export async function POST(req: Request) {
   const session = await auth();
+  
 
   if (!session?.user?.id) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
@@ -39,7 +41,7 @@ export async function POST(req: Request) {
       privacyVersion: CURRENT_PRIVACY_VERSION
     });
   } catch (error: any) {
-    console.error("Error recording consent:", error);
+    logger.error("Error recording consent:", error);
     return NextResponse.json(
       { error: "Failed to record consent" },
       { status: 500 }

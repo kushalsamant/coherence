@@ -2,7 +2,7 @@
 
 import { useEffect, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
-import { signIn } from "next-auth/react";
+import { signIn } from "@/lib/auth-provider";
 
 function SignInContent() {
   const searchParams = useSearchParams();

@@ -2,6 +2,7 @@
 
 import { useCallback } from 'react';
 import * as WebIFC from 'web-ifc';
+import { logger } from '@/lib/logger';
 
 interface IfcDataExporterProps {
   ifcApi: WebIFC.IfcAPI | null;
@@ -71,14 +72,14 @@ async function extractIfcData(
         }
       } catch (err) {
         if (process.env.NODE_ENV === 'development') {
-          console.warn('Failed to get properties for element');
+          logger.warn('Failed to get properties for element');
         }
       }
 
       data.push(exportItem);
     } catch (err) {
       if (process.env.NODE_ENV === 'development') {
-        console.warn('Failed to process node');
+        logger.warn('Failed to process node');
       }
     }
 
@@ -175,7 +176,7 @@ export default function IfcDataExporter({ ifcApi, modelID, objectTree }: IfcData
       downloadFile(csv, 'ifc-export.csv', 'text/csv');
     } catch (err) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Export failed');
+        logger.error('Export failed');
       }
       alert('Failed to export data. Please try again.');
     }
@@ -195,7 +196,7 @@ export default function IfcDataExporter({ ifcApi, modelID, objectTree }: IfcData
       downloadFile(excel, 'ifc-export.csv', 'text/csv');
     } catch (err) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Export failed');
+        logger.error('Export failed');
       }
       alert('Failed to export data. Please try again.');
     }

@@ -18,7 +18,6 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <AppLayout
-          appName="{{APP_DISPLAY_NAME}}"
           header={<HeaderWrapper />}
           LinkComponent={Link}
         >

@@ -1,11 +1,12 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { useSession } from "next-auth/react";
+import { useSession } from "@/lib/auth-provider";
 import { useRouter } from "next/navigation";
 import { Button } from "@/components/reframe/ui/button";
 import { Card, CardContent } from "@/components/reframe/ui/card";
 import { useToast } from "@/components/reframe/ui/use-toast";
+import { logger } from "@/lib/logger";
 
 export default function AcceptTermsPage() {
   const { data: session, status } = useSession();
@@ -46,7 +47,7 @@ export default function AcceptTermsPage() {
       // Redirect to home
       router.push("/");
     } catch (error) {
-      console.error("Error accepting terms:", error);
+      logger.error("Error accepting terms:", error);
       toast({
         variant: "destructive",
         title: "Error",

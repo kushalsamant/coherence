@@ -2,9 +2,10 @@
 
 import { useEffect, useState, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
-import { useSession } from 'next-auth/react';
+import { useSession } from '@/lib/auth-provider';
 import Link from 'next/link';
 import { api, User } from '@/lib/sketch2bim/api';
+import { logger } from '@/lib/logger';
 
 export default function SettingsPage() {
   const router = useRouter();
@@ -18,9 +19,7 @@ export default function SettingsPage() {
       const data = await api.getCurrentUser();
       setUser(data);
     } catch (err) {
-      if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to load user:', err);
-      }
+      logger.error('Failed to load user:', err);
       // Don't redirect here - session check is done separately
       // This might be a temporary API error, not an auth issue
     } finally {

@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next'
 import { Inter } from 'next/font/google'
 import { ThemeProvider } from '@kushalsamant/design-template'
+import { AuthProvider } from '@/lib/auth-provider'
 import HeaderWrapper from '@/components/HeaderWrapper'
 import FooterWrapper from '@/components/FooterWrapper'
 import '@kushalsamant/design-template/styles/globals.css'
@@ -102,6 +103,7 @@ export default function RootLayout({
         />
       </head>
       <body className={inter.className}>
+        <AuthProvider>
         <ThemeProvider>
           <a href="#main-content" className="skip-link">
             Skip to main content
@@ -110,6 +112,7 @@ export default function RootLayout({
           <main id="main-content">{children}</main>
           <FooterWrapper />
         </ThemeProvider>
+        </AuthProvider>
       </body>
     </html>
   )

@@ -1,9 +1,9 @@
 import { NextResponse } from "next/server";
-import { auth } from "@/app/reframe/auth";
+import { authFunction as auth } from "@/app/reframe/auth";
 import { getUserMetadata } from "@/lib/reframe/user-metadata";
 import { getConsent } from "@/lib/reframe/consent";
 import { getRedisClient } from "@/lib/reframe/redis";
-// Razorpay payment data - handled via webhook, stored in user metadata
+import { logger } from "@/lib/logger";
 
 export const dynamic = 'force-dynamic';
 
@@ -13,13 +13,13 @@ export const dynamic = 'force-dynamic';
  */
 export async function GET() {
   const session = await auth();
-  const redis = getRedisClient();
 
   if (!session?.user?.id || !session?.user?.email) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
   const userId = session.user.id;
+  const redis = getRedisClient();
 
   try {
     // 1. Fetch user metadata from Redis
@@ -54,7 +54,7 @@ export async function GET() {
         razorpayCustomerId: metadata?.razorpay_customer_id || null,
       },
       usage: {
-        freeTierUsage: parseInt(usageTotal || "0", 10),
+        freeTierUsage: parseInt(String(usageTotal || "0"), 10),
       },
       consent: consent
         ? {
@@ -72,11 +72,10 @@ export async function GET() {
 
     return NextResponse.json(exportData);
   } catch (error: any) {
-    console.error("Error exporting user data:", error);
+    logger.error("Error exporting user data:", error);
     return NextResponse.json(
       { error: "Failed to export data" },
       { status: 500 }
     );
   }
 }
-

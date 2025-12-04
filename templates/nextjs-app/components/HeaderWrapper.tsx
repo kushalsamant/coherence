@@ -1,6 +1,6 @@
 'use client'
 
-import { useSession } from 'next-auth/react'
+import { useSession } from '@/lib/auth-provider'
 import Link from 'next/link'
 import { signIn, signOut } from '@/auth'
 

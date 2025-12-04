@@ -33,8 +33,8 @@ class Settings(BaseSettings):
     # Groq - prefixed envs only
     GROQ_API_KEY: str = os.getenv("REFRAME_GROQ_API_KEY", "")
 
-    # Limits - prefixed envs only, with hard default
-    FREE_LIMIT: int = get_env_int_with_fallback("REFRAME_FREE_LIMIT", "REFRAME_FREE_LIMIT", 5)
+    # Limits
+    FREE_LIMIT: int = int(os.getenv("REFRAME_FREE_LIMIT", "5"))
 
     # CORS - prefixed envs only, with default for local + production
     CORS_ORIGINS: str = os.getenv(

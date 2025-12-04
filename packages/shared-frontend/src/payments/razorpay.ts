@@ -9,6 +9,7 @@
  */
 
 import Razorpay from "razorpay";
+// Note: Using console methods in shared package since logger is not available
 
 /**
  * Razorpay client instance (lazy initialization)

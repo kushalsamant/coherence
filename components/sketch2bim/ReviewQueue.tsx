@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { api, Job } from '@/lib/api';
 import JobCard from './JobCard';
+import { logger } from '@/lib/logger';
 
 export default function ReviewQueue() {
   const [jobs, setJobs] = useState<Job[]>([]);
@@ -21,7 +22,7 @@ export default function ReviewQueue() {
       setJobs(reviewJobs);
     } catch (err) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to load review jobs');
+        logger.error('Failed to load review jobs');
       }
     } finally {
       setLoading(false);
@@ -34,7 +35,7 @@ export default function ReviewQueue() {
       setJobs(jobs.filter(job => job.id !== jobId));
     } catch (err) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to delete job');
+        logger.error('Failed to delete job');
       }
     }
   };

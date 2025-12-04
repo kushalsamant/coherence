@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Button } from "./ui/button";
+import { logger } from "@/lib/logger";
 
 interface ExportDataModalProps {
   isOpen: boolean;
@@ -50,7 +51,7 @@ export function ExportDataModal({ isOpen, onClose, userId }: ExportDataModalProp
         onClose();
       }, 1000);
     } catch (err) {
-      console.error("Export error:", err);
+      logger.error("Export error:", err);
       setError("Failed to export data. Please try again.");
     } finally {
       setIsExporting(false);

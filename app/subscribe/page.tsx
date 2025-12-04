@@ -4,6 +4,8 @@ import { Suspense, useEffect, useState } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { Card, Button } from '@kushalsamant/design-template';
 import Link from 'next/link';
+import { logger } from '@/lib/logger';
+import { loadRazorpayScript, openRazorpayCheckout } from '@/lib/shared/razorpay';
 
 function SubscribeContent() {
   const router = useRouter();
@@ -11,11 +13,10 @@ function SubscribeContent() {
   const [checkoutLoading, setCheckoutLoading] = useState<string | null>(null);
 
   useEffect(() => {
-    // Load Razorpay checkout script
-    const script = document.createElement('script');
-    script.src = 'https://checkout.razorpay.com/v1/checkout.js';
-    script.async = true;
-    document.body.appendChild(script);
+    // Load Razorpay script using shared utility
+    loadRazorpayScript().catch((err) => {
+      logger.error('Failed to load Razorpay script:', err);
+    });
     
     // Check for checkout success/cancel
     const checkoutStatus = searchParams?.get('checkout');
@@ -25,12 +26,6 @@ function SubscribeContent() {
     } else if (checkoutStatus === 'canceled') {
       alert('Payment canceled.');
     }
-    
-    return () => {
-      if (document.body.contains(script)) {
-        document.body.removeChild(script);
-      }
-    };
   }, [searchParams, router]);
 
   const handleSubscribe = async (tier: string) => {
@@ -57,43 +52,26 @@ function SubscribeContent() {
 
       const orderData = await response.json();
       
-      // Check if Razorpay is loaded
-      if (typeof (window as any).Razorpay === 'undefined') {
-        throw new Error('Razorpay checkout script not loaded. Please refresh the page.');
-      }
-
-      // Create Razorpay checkout options
-      const options: any = {
-        key: orderData.key_id,
-        amount: orderData.amount,
-        currency: orderData.currency,
-        name: orderData.name,
-        description: orderData.description,
-        subscription_id: orderData.subscription_id,
-        prefill: orderData.prefill,
-        theme: orderData.theme,
-        handler: function (response: any) {
+      // Open Razorpay checkout using shared utility
+      await openRazorpayCheckout(
+        orderData,
+        (response: any) => {
+          // Payment successful
           setCheckoutLoading(null);
           router.push('/subscribe?checkout=success');
         },
-        modal: {
-          ondismiss: function() {
-            setCheckoutLoading(null);
-          }
+        (response: any) => {
+          // Payment failed
+          setCheckoutLoading(null);
+          alert(`Payment failed: ${response.error.description || 'Unknown error'}`);
+        },
+        () => {
+          // Payment dismissed
+          setCheckoutLoading(null);
         }
-      };
-
-      // Open Razorpay checkout
-      const rzp = new (window as any).Razorpay(options);
-      rzp.on('payment.failed', function (response: any) {
-        setCheckoutLoading(null);
-        alert(`Payment failed: ${response.error.description || 'Unknown error'}`);
-      });
-      rzp.open();
+      );
     } catch (err: any) {
-      if (process.env.NODE_ENV === 'development') {
-        console.error('Checkout error:', err);
-      }
+      logger.error('Checkout error:', err);
       alert('Failed to create checkout session. Please try again.');
       setCheckoutLoading(null);
     }

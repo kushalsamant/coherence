@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { getRedisClient } from "@/lib/reframe/redis";
+import { logger } from "@/lib/logger";
 
 export const dynamic = 'force-dynamic';
 
@@ -21,15 +22,15 @@ export async function GET() {
     try {
       const cached = await redis.get(CACHE_KEY);
       if (cached) {
-        console.log("📊 Exchange rates from cache");
+        logger.info("📊 Exchange rates from cache");
         return NextResponse.json(JSON.parse(cached as string));
       }
     } catch (cacheError) {
-      console.warn("⚠️ Redis cache read failed, fetching fresh rates:", cacheError);
+      logger.warn("⚠️ Redis cache read failed, fetching fresh rates:", cacheError);
     }
 
     // Fetch live rates from exchangerate-api.com (INR as base)
-    console.log("🌐 Fetching live exchange rates from API...");
+    logger.info("🌐 Fetching live exchange rates from API...");
     const response = await fetch("https://api.exchangerate-api.com/v4/latest/INR", {
       next: { revalidate: 86400 }, // Cache in Next.js for 24 hours
     });
@@ -51,14 +52,14 @@ export async function GET() {
     // Cache in Redis for 24 hours
     try {
       await redis.set(CACHE_KEY, JSON.stringify(rates), { ex: CACHE_TTL });
-      console.log("✅ Exchange rates cached in Redis for 24 hours");
+      logger.info("✅ Exchange rates cached in Redis for 24 hours");
     } catch (cacheError) {
-      console.warn("⚠️ Redis cache write failed:", cacheError);
+      logger.warn("⚠️ Redis cache write failed:", cacheError);
     }
 
     return NextResponse.json(rates);
   } catch (error) {
-    console.error("❌ Error fetching exchange rates, using fallback:", error);
+    logger.error("❌ Error fetching exchange rates, using fallback:", error);
     
     // Return fallback rates if API fails
     return NextResponse.json({

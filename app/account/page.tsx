@@ -1,10 +1,14 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { useSession } from 'next-auth/react';
+import { useSession } from '@/lib/auth-provider';
 import { Card, Button } from '@kushalsamant/design-template';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import { logger } from '@/lib/logger';
+
+// Disable static generation for this page
+export const dynamic = 'force-dynamic';
 
 interface SubscriptionInfo {
   tier: string | null;
@@ -38,7 +42,7 @@ export default function AccountPage() {
         setSubscription(data);
       }
     } catch (error) {
-      console.error('Failed to load subscription:', error);
+      logger.error('Failed to load subscription:', error);
     } finally {
       setLoading(false);
     }
@@ -61,7 +65,7 @@ export default function AccountPage() {
         alert('Failed to cancel subscription. Please try again.');
       }
     } catch (error) {
-      console.error('Failed to cancel subscription:', error);
+      logger.error('Failed to cancel subscription:', error);
       alert('Failed to cancel subscription. Please try again.');
     }
   };
@@ -79,7 +83,7 @@ export default function AccountPage() {
         alert('Failed to resume subscription. Please try again.');
       }
     } catch (error) {
-      console.error('Failed to resume subscription:', error);
+      logger.error('Failed to resume subscription:', error);
       alert('Failed to resume subscription. Please try again.');
     }
   };

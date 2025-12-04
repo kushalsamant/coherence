@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { getRazorpayClient } from "@/lib/reframe/razorpay";
-import { auth } from "@/app/reframe/auth";
-import { getUserMetadata, initializeUserTrial } from "@/lib/reframe/user-metadata";
+import { authFunction as auth } from "@/app/reframe/auth";
+import { getUserMetadata, setUserMetadata, initializeUserTrial } from "@/lib/reframe/user-metadata";
 import {
   getRazorpayWeekAmount,
   getRazorpayMonthlyAmount,
@@ -10,6 +10,7 @@ import {
   getRazorpayPlanMonthly,
   getRazorpayPlanYearly,
 } from "@/lib/reframe/app-config";
+import { logger } from "@/lib/logger";
 
 export const dynamic = 'force-dynamic';
 
@@ -30,7 +31,7 @@ export async function GET(req: Request) {
     const razorpayKeyId = process.env.REFRAME_RAZORPAY_KEY_ID;
     const razorpayKeySecret = process.env.REFRAME_RAZORPAY_KEY_SECRET;
     if (!razorpayKeyId || !razorpayKeySecret) {
-      console.error("❌ Razorpay credentials not configured");
+      logger.error("❌ Razorpay credentials not configured");
       return NextResponse.json(
         { error: "Razorpay is not configured. Please check environment variables." },
         { status: 500 }
@@ -93,7 +94,6 @@ export async function GET(req: Request) {
           const customer = await razorpay.customers.create({
             name: session.user.name || session.user.email.split("@")[0],
             email: session.user.email,
-            contact: null,
           });
           customerId = customer.id;
           
@@ -101,10 +101,10 @@ export async function GET(req: Request) {
           const metadata = await getUserMetadata(userId);
           if (metadata) {
             metadata.razorpay_customer_id = customerId;
-            await import("@/lib/user-metadata").then(m => m.setUserMetadata(userId, metadata));
+            await setUserMetadata(userId, metadata);
           }
         } catch (error: any) {
-          console.error("Failed to create Razorpay customer:", error);
+          logger.error("Failed to create Razorpay customer:", error);
           return NextResponse.json(
             { error: "Failed to create customer", details: error.message },
             { status: 500 }
@@ -116,7 +116,7 @@ export async function GET(req: Request) {
       try {
         const subscriptionData = {
           plan_id: planId,
-          customer_notify: 1,
+          customer_notify: 1 as 1,
           total_count: 0, // 0 = infinite recurring
           notes: {
             user_id: userId,
@@ -126,12 +126,17 @@ export async function GET(req: Request) {
         };
 
         const subscription = await razorpay.subscriptions.create(subscriptionData);
+        
+        // Get the amount based on tier
+        const amount = tierKey === 'week' ? getRazorpayWeekAmount() : 
+                       tierKey === 'monthly' ? getRazorpayMonthlyAmount() : 
+                       getRazorpayYearlyAmount();
 
         return NextResponse.json({
           subscription_id: subscription.id,
           plan_id: planId,
-          amount: subscription.plan.amount,
-          currency: subscription.plan.currency,
+          amount,
+          currency: 'INR',
           key_id: process.env.REFRAME_RAZORPAY_KEY_ID,
           name: "Reframe",
           description: `${tierKey.charAt(0).toUpperCase() + tierKey.slice(1)} subscription (auto-renews)`,
@@ -147,7 +152,7 @@ export async function GET(req: Request) {
           payment_type: "subscription",
         });
       } catch (error: any) {
-        console.error("❌ Razorpay subscription creation failed:", error);
+        logger.error("❌ Razorpay subscription creation failed:", error);
         return NextResponse.json(
           { error: "Failed to create subscription", details: error.message },
           { status: 500 }
@@ -203,7 +208,7 @@ export async function GET(req: Request) {
           payment_type: "one_time",
         });
       } catch (error: any) {
-        console.error("❌ Razorpay order creation failed:", error);
+        logger.error("❌ Razorpay order creation failed:", error);
         return NextResponse.json(
           { error: "Failed to create checkout session", details: error.message },
           { status: 500 }
@@ -211,7 +216,7 @@ export async function GET(req: Request) {
       }
     }
   } catch (error: any) {
-    console.error("❌ Unexpected error in checkout:", error);
+    logger.error("❌ Unexpected error in checkout:", error);
     return NextResponse.json(
       { error: "An unexpected error occurred", details: error.message },
       { status: 500 }

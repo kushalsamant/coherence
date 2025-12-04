@@ -26,20 +26,15 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // For app routes (/ask, /reframe, /sketch2bim), check subscription
+  // For app routes (/ask, /reframe, /sketch2bim)
+  // Subscription checking is handled at the API level for each request
+  // This allows for more flexible access control and better error handling
   if (
     pathname.startsWith('/ask') ||
     pathname.startsWith('/reframe') ||
     pathname.startsWith('/sketch2bim')
   ) {
-    // Basic subscription check - will be enhanced with actual API call
-    // For now, allow access - subscription checking happens at API level
-    // TODO: Implement actual subscription status check from API
-    // const API_URL = process.env.NEXT_PUBLIC_PLATFORM_API_URL || 'http://localhost:8000';
-    // const hasSubscription = await checkSubscriptionFromAPI(session?.user?.id);
-    // if (!hasSubscription && !isPublicRoute(pathname)) {
-    //   return NextResponse.redirect(new URL('/subscribe', request.url));
-    // }
+    // Allow access - individual API routes handle subscription validation
   }
 
   return NextResponse.next();

@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { api } from '@/lib/api';
 import IfcViewer from './IfcViewer';
+import { logger } from '@/lib/logger';
 
 interface IterationCompareProps {
   jobId: string;
@@ -43,7 +44,7 @@ export default function IterationCompare({ jobId, iteration1Id, iteration2Id }: 
       }
     } catch (error) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to load iterations');
+        logger.error('Failed to load iterations');
       }
     } finally {
       setLoading(false);

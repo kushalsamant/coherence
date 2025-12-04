@@ -36,11 +36,6 @@ services:
         # Upstash Postgres connection string for Sketch2BIM database
         # Format: postgresql://[USER]:[PASSWORD]@[HOST]:[PORT]/[DATABASE]
         # Get from: https://console.upstash.com/postgres
-      # Legacy schema variables (kept for backward compatibility, not used with Upstash)
-      - key: PLATFORM_DATABASE_SCHEMA_ASK
-        value: "ask_schema"
-      - key: PLATFORM_DATABASE_SCHEMA_SKETCH2BIM
-        value: "sketch2bim_schema"
       
       # Upstash Redis (Shared)
       - key: PLATFORM_UPSTASH_REDIS_REST_URL

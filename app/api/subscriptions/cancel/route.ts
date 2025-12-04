@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { auth } from '@/app/ask/auth';
+import { authFunction as auth } from '@/app/ask/auth';
+import { logger } from '@/lib/logger';
 
 export const dynamic = 'force-dynamic';
 
@@ -31,7 +32,7 @@ export async function POST(req: NextRequest) {
     const data = await response.json();
     return NextResponse.json(data);
   } catch (error: any) {
-    console.error('Cancel subscription error:', error);
+    logger.error('Cancel subscription error:', error);
     return NextResponse.json(
       { error: error.message || 'Internal server error' },
       { status: 500 }

@@ -4,10 +4,10 @@
  */
 import { createAuthFunctions } from "@kvshvl/shared-frontend/auth";
 
-const auth = createAuthFunctions({
+const authFunctions = createAuthFunctions({
   appName: "sketch2bim",
   frontendUrlEnvVar: "SKETCH2BIM_FRONTEND_URL",
   defaultFrontendUrl: "https://sketch2bim.kvshvl.in",
 });
 
-export const { signIn, signOut, auth: authFunction, handlers } = auth;
+export const { signIn, signOut, auth, handlers } = authFunctions;

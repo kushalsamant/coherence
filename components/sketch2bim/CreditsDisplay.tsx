@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { api, User } from '@/lib/api';
 import Link from 'next/link';
+import { logger } from '@/lib/logger';
 
 export default function CreditsDisplay() {
   const [user, setUser] = useState<User | null>(null);
@@ -18,7 +19,7 @@ export default function CreditsDisplay() {
       setUser(data);
     } catch (err) {
       if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to load user');
+        logger.error('Failed to load user');
       }
     } finally {
       setLoading(false);

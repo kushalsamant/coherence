@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
+import { logger } from "@/lib/logger";
 
 interface PriceDisplayProps {
   usd: number;
@@ -35,7 +36,7 @@ export function PriceDisplay({ usd, className = "", showCurrency = true }: Price
           setRatesSource("fallback");
         }
       } catch (error) {
-        console.error("Failed to fetch exchange rates:", error);
+        logger.error("Failed to fetch exchange rates:", error);
         setRatesSource("fallback");
       }
     };

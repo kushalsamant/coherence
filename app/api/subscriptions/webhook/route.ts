@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { logger } from '@/lib/logger';
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
@@ -37,7 +38,7 @@ export async function POST(req: NextRequest) {
     const data = await response.json();
     return NextResponse.json(data);
   } catch (error: any) {
-    console.error('Webhook error:', error);
+    logger.error('Webhook error:', error);
     return NextResponse.json(
       { error: error.message || 'Internal server error' },
       { status: 500 }

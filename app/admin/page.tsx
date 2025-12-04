@@ -1,9 +1,10 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { useSession } from 'next-auth/react'
+import { useSession } from '@/lib/auth-provider'
 import { useRouter } from 'next/navigation'
 import { Card } from '@kushalsamant/design-template'
+import { logger } from '@/lib/logger'
 
 // Root-site platform API client and components
 import {
@@ -59,7 +60,7 @@ export default function RootPlatformDashboard() {
             return
           }
         } catch (err: any) {
-          console.error('Failed to check admin access:', err)
+          logger.error('Failed to check admin access:', err)
           if (err.message?.includes('403') || err.message?.includes('Admin')) {
             setIsAdmin(false)
             setError('Access denied. Admin privileges required to view this dashboard.')
@@ -97,7 +98,7 @@ export default function RootPlatformDashboard() {
         setScenarios(scenariosData)
         setAlerts(alertsData)
       } catch (err: any) {
-        console.error('Failed to fetch dashboard data:', err)
+        logger.error('Failed to fetch dashboard data:', err)
         setError(err.message || 'Failed to load dashboard data')
       } finally {
         setLoading(false)

@@ -512,10 +512,11 @@ SECURITY.md
 *.pdf
 !docs/**/*.pdf
 
-# Python lib (but allow frontend/lib)
-lib/
-lib64/
-!frontend/lib/
+# Python lib (but allow frontend/lib and project lib/)
+# Commenting out to allow source code in lib/
+# lib/
+# lib64/
+# !frontend/lib/
 
 # =============================================================================
 # ASK SPECIFIC

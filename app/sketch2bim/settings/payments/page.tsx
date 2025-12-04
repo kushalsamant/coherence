@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { api } from '@/lib/sketch2bim/api';
+import { logger } from '@/lib/logger';
 
 interface Payment {
   id: number;
@@ -32,9 +33,7 @@ export default function PaymentHistoryPage() {
       setPayments(data);
       setError(null);
     } catch (err: any) {
-      if (process.env.NODE_ENV === 'development') {
-        console.error('Failed to load payments');
-      }
+      logger.error('Failed to load payments', err);
       setError('Failed to load payment history');
       // Check status without exposing full error
       const status = err?.response?.status;
