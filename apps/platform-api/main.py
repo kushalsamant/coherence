@@ -4,10 +4,18 @@ Unified FastAPI Backend Server for KVSHVL Platform
 Combines ASK, Reframe, and Sketch2BIM backends into a single service
 """
 
+import sys
+from pathlib import Path
+
+# Add the application root to Python path for module imports
+# This allows imports like "from models.xxx import yyy" to work
+app_root = Path(__file__).parent.resolve()
+if str(app_root) not in sys.path:
+    sys.path.insert(0, str(app_root))
+
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from pathlib import Path
 import os
 
 # Import app-specific routers
