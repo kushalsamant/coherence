@@ -9,9 +9,13 @@ services:
     name: platform-api
     runtime: python
     buildCommand: pip install --upgrade pip && pip install -e ./packages/shared-backend && pip install -r ./apps/platform-api/requirements.txt
-    startCommand: cd apps/platform-api && export PYTHONPATH=$(pwd):$PYTHONPATH && uvicorn main:app --host 0.0.0.0 --port $PORT
+    startCommand: cd apps/platform-api && uvicorn main:app --host 0.0.0.0 --port $PORT
     healthCheckPath: /health
     envVars:
+      # Python Path Configuration
+      - key: PYTHONPATH
+        value: "/opt/render/project/src/apps/platform-api"
+      
       # Application Configuration
       - key: PLATFORM_APP_NAME
         value: "KVSHVL Platform API"
