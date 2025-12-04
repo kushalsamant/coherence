@@ -29,7 +29,7 @@
     "next": "^14.0.0 || ^15.0.0 || ^16.0.0"
   },
   "devDependencies": {
-    "@types/react": "^18.3.3",
+    "@types/react": "^19.2.7",
     "@types/react-dom": "^18.3.0",
     "typescript": "^5.5.3"
   },
