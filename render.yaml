@@ -9,7 +9,7 @@ services:
     name: platform-api
     runtime: python
     buildCommand: pip install --upgrade pip && pip install -e ./packages/shared-backend && pip install -r ./apps/platform-api/requirements.txt
-    startCommand: cd apps/platform-api && PYTHONPATH=.:$PYTHONPATH uvicorn main:app --host 0.0.0.0 --port $PORT
+    startCommand: cd apps/platform-api && PYTHONPATH=/opt/render/project/src/apps/platform-api:$PYTHONPATH uvicorn main:app --host 0.0.0.0 --port $PORT
     healthCheckPath: /health
     envVars:
       # Application Configuration
