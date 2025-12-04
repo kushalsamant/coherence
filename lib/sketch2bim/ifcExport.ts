@@ -119,7 +119,7 @@ export async function extractIfcElements(
 
     for (const elementType of elementTypes) {
       try {
-        const lineIDs = ifcApi.GetLineIDsWithType(modelID, ifcApi.IFC[elementType]);
+        const lineIDs = ifcApi.GetLineIDsWithType(modelID, (ifcApi as WebIFC.IfcAPI & { IFC: Record<string, number> }).IFC[elementType]);
         for (let i = 0; i < lineIDs.size(); i++) {
           const expressID = lineIDs.get(i);
           try {
@@ -145,13 +145,13 @@ export async function extractIfcElements(
                       const propName = property.Name?.value || '';
                       let propValue: unknown = null;
                       
-                      if (prop.NominalValue) {
-                        propValue = prop.NominalValue.value;
-                      } else if (prop.wrappedValue) {
-                        propValue = prop.wrappedValue;
+                      if (property.NominalValue) {
+                        propValue = property.NominalValue.value;
+                      } else if (property.wrappedValue) {
+                        propValue = property.wrappedValue;
                       }
 
-                      if (propName && propValue !== null) {
+                      if (propName && propValue !== null && (typeof propValue === 'string' || typeof propValue === 'number' || typeof propValue === 'boolean')) {
                         ifcElement.properties![propName] = propValue;
                       }
                     });
