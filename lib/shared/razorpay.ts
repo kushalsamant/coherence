@@ -25,6 +25,9 @@ interface RazorpayFailureResponse {
   error: RazorpayError;
 }
 
+// Note: Window.Razorpay type is declared in packages/shared-frontend/src/payments/checkout.ts
+// to avoid duplicate global declarations
+
 interface RazorpayInstance {
   open(): void;
   on(event: string, handler: (response: RazorpayFailureResponse) => void): void;
@@ -32,12 +35,6 @@ interface RazorpayInstance {
 
 interface RazorpayConstructor {
   new(options: Record<string, unknown>): RazorpayInstance;
-}
-
-declare global {
-  interface Window {
-    Razorpay: RazorpayConstructor;
-  }
 }
 
 export interface RazorpayCheckoutOptions {
@@ -146,11 +143,12 @@ export async function openRazorpayCheckout(
   
   // Handle payment failures
   if (onFailure) {
-    rzp.on('payment.failed', onFailure);
+    rzp.on('payment.failed', onFailure as (response: unknown) => void);
   } else {
-    rzp.on('payment.failed', function(response: RazorpayFailureResponse) {
-      logger.error('Payment failed:', response.error);
-      alert(`Payment failed: ${response.error.description || 'Unknown error'}`);
+    rzp.on('payment.failed', function(response: unknown) {
+      const failureResponse = response as RazorpayFailureResponse;
+      logger.error('Payment failed:', failureResponse.error);
+      alert(`Payment failed: ${failureResponse.error.description || 'Unknown error'}`);
     });
   }
 

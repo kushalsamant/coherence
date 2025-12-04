@@ -26,13 +26,9 @@ export const nameSchema = z
 /**
  * Subscription-related schemas
  */
-export const subscriptionTierSchema = z.enum(['week', 'month', 'year', 'weekly', 'monthly', 'yearly'], {
-  errorMap: () => ({ message: 'Invalid subscription tier' }),
-});
+export const subscriptionTierSchema = z.enum(['week', 'month', 'year', 'weekly', 'monthly', 'yearly']);
 
-export const paymentTypeSchema = z.enum(['one_time', 'subscription'], {
-  errorMap: () => ({ message: 'Invalid payment type' }),
-});
+export const paymentTypeSchema = z.enum(['one_time', 'subscription']);
 
 /**
  * Generation/AI request schemas
@@ -90,18 +86,14 @@ export const askGenerationSchema = z.object({
  */
 export const reframeGenerationSchema = z.object({
   content: z.string().min(10, 'Content must be at least 10 characters'),
-  tone: z.enum(['professional', 'casual', 'academic', 'creative'], {
-    errorMap: () => ({ message: 'Invalid tone' }),
-  }).default('professional'),
+  tone: z.enum(['professional', 'casual', 'academic', 'creative']).default('professional'),
 });
 
 /**
  * Sketch2BIM-specific schemas
  */
 export const sketch2bimJobSchema = z.object({
-  project_type: z.enum(['architecture', 'engineering'], {
-    errorMap: () => ({ message: 'Invalid project type' }),
-  }).default('architecture'),
+  project_type: z.enum(['architecture', 'engineering']).default('architecture'),
   detection_confidence: z.coerce.number().min(0).max(1).default(0.5),
 });
 
@@ -144,7 +136,7 @@ export const razorpayWebhookSchema = z.object({
  */
 export const apiRequestSchema = z.object({
   method: z.enum(['GET', 'POST', 'PUT', 'PATCH', 'DELETE']),
-  headers: z.record(z.string()).optional(),
+  headers: z.record(z.string(), z.string()).optional(),
   body: z.unknown().optional(),
 });
 
@@ -156,7 +148,7 @@ export function validateInput<T>(schema: z.ZodSchema<T>, data: unknown): T {
   const result = schema.safeParse(data);
   
   if (!result.success) {
-    const errors = result.error.errors.map(err => ({
+    const errors = result.error.issues.map(err => ({
       field: err.path.join('.'),
       message: err.message,
     }));
@@ -179,7 +171,7 @@ export function safeValidateInput<T>(
   const result = schema.safeParse(data);
   
   if (!result.success) {
-    const errors = result.error.errors.map(err => ({
+    const errors = result.error.issues.map(err => ({
       field: err.path.join('.'),
       message: err.message,
     }));

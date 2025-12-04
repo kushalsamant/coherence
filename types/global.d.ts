@@ -1,52 +1,9 @@
 /**
  * Global TypeScript Type Declarations
  * Platform-wide types and interfaces
+ * 
+ * Note: Razorpay types are defined in @kvshvl/shared-frontend/src/payments/checkout.ts
  */
-
-// Razorpay global types
-declare global {
-  interface Window {
-    Razorpay: RazorpayConstructor;
-  }
-}
-
-interface RazorpayConstructor {
-  new (options: RazorpayOptions): RazorpayInstance;
-}
-
-interface RazorpayInstance {
-  open(): void;
-  on(event: string, handler: (response: unknown) => void): void;
-}
-
-interface RazorpayOptions {
-  key: string;
-  amount?: number;
-  currency?: string;
-  name: string;
-  description?: string;
-  order_id?: string;
-  subscription_id?: string;
-  prefill?: {
-    name?: string;
-    email?: string;
-    contact?: string;
-  };
-  theme?: {
-    color?: string;
-  };
-  handler?: (response: RazorpayResponse) => void;
-  modal?: {
-    ondismiss?: () => void;
-  };
-}
-
-interface RazorpayResponse {
-  razorpay_payment_id: string;
-  razorpay_order_id?: string;
-  razorpay_subscription_id?: string;
-  razorpay_signature: string;
-}
 
 // User session types
 interface UserSession {

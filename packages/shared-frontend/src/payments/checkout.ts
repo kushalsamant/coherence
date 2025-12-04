@@ -4,9 +4,18 @@
 
 import type { SubscriptionTier, PaymentType, CheckoutSessionResponse, RazorpayCheckoutOptions } from "./PricingTier";
 
+interface RazorpayInstance {
+  open(): void;
+  on(event: string, handler: (response: unknown) => void): void;
+}
+
+interface RazorpayConstructor {
+  new (options: RazorpayCheckoutOptions | Record<string, unknown>): RazorpayInstance;
+}
+
 declare global {
   interface Window {
-    Razorpay: any;
+    Razorpay: RazorpayConstructor;
   }
 }
 
