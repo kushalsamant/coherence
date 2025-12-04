@@ -1,26 +1,122 @@
 /**
- * Input Validation Schemas
- * Using Zod for runtime type checking and validation
+ * Input Validation Schemas using Zod
+ * Provides type-safe validation for API requests and user inputs
  */
 
 import { z } from 'zod';
 
-// Common validation schemas
+/**
+ * Common validation patterns
+ */
+export const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+export const UUID_REGEX = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
 
-export const EmailSchema = z.string().email('Invalid email address');
+/**
+ * User-related schemas
+ */
+export const emailSchema = z.string().email('Invalid email address');
 
-export const UserIdSchema = z.string().min(1, 'User ID is required');
+export const userIdSchema = z.string().min(1, 'User ID is required');
 
-export const SubscriptionTierSchema = z.enum(['weekly', 'monthly', 'yearly'], {
-  errorMap: () => ({ message: 'Invalid subscription tier. Must be weekly, monthly, or yearly' }),
+export const nameSchema = z
+  .string()
+  .min(1, 'Name is required')
+  .max(100, 'Name must be less than 100 characters');
+
+/**
+ * Subscription-related schemas
+ */
+export const subscriptionTierSchema = z.enum(['week', 'month', 'year', 'weekly', 'monthly', 'yearly'], {
+  errorMap: () => ({ message: 'Invalid subscription tier' }),
 });
 
-export const PaymentTypeSchema = z.enum(['one_time', 'subscription'], {
-  errorMap: () => ({ message: 'Invalid payment type. Must be one_time or subscription' }),
+export const paymentTypeSchema = z.enum(['one_time', 'subscription'], {
+  errorMap: () => ({ message: 'Invalid payment type' }),
 });
 
-// Razorpay webhook validation
-export const RazorpayWebhookSchema = z.object({
+/**
+ * Generation/AI request schemas
+ */
+export const keywordsSchema = z
+  .string()
+  .min(3, 'Keywords must be at least 3 characters')
+  .max(500, 'Keywords must be less than 500 characters');
+
+export const sessionIdSchema = z.string().uuid('Invalid session ID');
+
+export const themeSchema = z
+  .string()
+  .min(1, 'Theme is required')
+  .max(100, 'Theme must be less than 100 characters');
+
+/**
+ * Pagination schemas
+ */
+export const paginationSchema = z.object({
+  page: z.coerce.number().int().positive().default(1),
+  pageSize: z.coerce.number().int().positive().max(100).default(20),
+});
+
+/**
+ * Date range schemas
+ */
+export const dateRangeSchema = z.object({
+  startDate: z.string().datetime().optional(),
+  endDate: z.string().datetime().optional(),
+  days: z.coerce.number().int().positive().max(365).default(30),
+});
+
+/**
+ * File upload schemas
+ */
+export const fileUploadSchema = z.object({
+  filename: z.string().min(1, 'Filename is required'),
+  filesize: z.number().positive().max(50 * 1024 * 1024, 'File size must be less than 50MB'),
+  mimetype: z.string().min(1, 'MIME type is required'),
+});
+
+/**
+ * ASK-specific schemas
+ */
+export const askGenerationSchema = z.object({
+  keywords: keywordsSchema,
+  session_id: z.string().optional(),
+  theme: themeSchema.optional(),
+  count: z.coerce.number().int().positive().max(10).default(1),
+});
+
+/**
+ * Reframe-specific schemas
+ */
+export const reframeGenerationSchema = z.object({
+  content: z.string().min(10, 'Content must be at least 10 characters'),
+  tone: z.enum(['professional', 'casual', 'academic', 'creative'], {
+    errorMap: () => ({ message: 'Invalid tone' }),
+  }).default('professional'),
+});
+
+/**
+ * Sketch2BIM-specific schemas
+ */
+export const sketch2bimJobSchema = z.object({
+  project_type: z.enum(['architecture', 'engineering'], {
+    errorMap: () => ({ message: 'Invalid project type' }),
+  }).default('architecture'),
+  detection_confidence: z.coerce.number().min(0).max(1).default(0.5),
+});
+
+/**
+ * Checkout/Payment schemas
+ */
+export const checkoutSchema = z.object({
+  tier: subscriptionTierSchema,
+  paymentType: paymentTypeSchema.default('one_time'),
+});
+
+/**
+ * Webhook schemas
+ */
+export const razorpayWebhookSchema = z.object({
   event: z.string(),
   payload: z.object({
     payment: z.object({
@@ -29,11 +125,13 @@ export const RazorpayWebhookSchema = z.object({
         amount: z.number(),
         currency: z.string(),
         status: z.string(),
+        order_id: z.string().optional(),
       }),
     }).optional(),
     subscription: z.object({
       entity: z.object({
         id: z.string(),
+        plan_id: z.string(),
         status: z.string(),
         customer_id: z.string().optional(),
       }),
@@ -41,81 +139,53 @@ export const RazorpayWebhookSchema = z.object({
   }),
 });
 
-// Checkout request validation
-export const CheckoutRequestSchema = z.object({
-  tier: SubscriptionTierSchema,
-  paymentType: PaymentTypeSchema.optional().default('one_time'),
-});
-
-// Reframe request validation
-export const ReframeRequestSchema = z.object({
-  text: z.string().min(1, 'Text is required').max(10000, 'Text too long (max 10,000 characters)'),
-  tone: z.string().optional(),
-  style: z.string().optional(),
-});
-
-// ASK generation request validation
-export const AskGenerationSchema = z.object({
-  theme: z.string().min(1, 'Theme is required'),
-  style: z.string().optional(),
-  includeImage: z.boolean().optional(),
-});
-
-// Sketch2BIM job request validation
-export const Sketch2BIMJobSchema = z.object({
-  sketchUrl: z.string().url('Invalid sketch URL'),
-  options: z.object({
-    buildingType: z.enum(['residential', 'commercial', 'mixed']).optional(),
-    includeStructure: z.boolean().optional(),
-    includeMEP: z.boolean().optional(),
-  }).optional(),
+/**
+ * Generic API request validation
+ */
+export const apiRequestSchema = z.object({
+  method: z.enum(['GET', 'POST', 'PUT', 'PATCH', 'DELETE']),
+  headers: z.record(z.string()).optional(),
+  body: z.unknown().optional(),
 });
 
 /**
- * Validate request body against a schema
- * Returns parsed data or throws validation error
+ * Validation helper function
+ * Returns validated data or throws error with formatted messages
  */
-export async function validateRequestBody<T>(
-  request: Request,
-  schema: z.ZodSchema<T>
-): Promise<T> {
-  const body = await request.json();
-  return schema.parse(body);
-}
-
-/**
- * Validate request body and return validation result
- * Safe version that returns success/error instead of throwing
- */
-export async function safeValidateRequestBody<T>(
-  request: Request,
-  schema: z.ZodSchema<T>
-): Promise<{ success: true; data: T } | { success: false; error: z.ZodError }> {
-  try {
-    const body = await request.json();
-    const data = schema.parse(body);
-    return { success: true, data };
-  } catch (error) {
-    if (error instanceof z.ZodError) {
-      return { success: false, error };
-    }
-    throw error;
-  }
-}
-
-/**
- * Format Zod validation errors for API response
- */
-export function formatValidationError(error: z.ZodError): {
-  message: string;
-  errors: Array<{ path: string; message: string }>;
-} {
-  return {
-    message: 'Validation failed',
-    errors: error.errors.map(err => ({
-      path: err.path.join('.'),
+export function validateInput<T>(schema: z.ZodSchema<T>, data: unknown): T {
+  const result = schema.safeParse(data);
+  
+  if (!result.success) {
+    const errors = result.error.errors.map(err => ({
+      field: err.path.join('.'),
       message: err.message,
-    })),
-  };
+    }));
+    
+    throw new Error(
+      `Validation failed: ${errors.map(e => `${e.field}: ${e.message}`).join(', ')}`
+    );
+  }
+  
+  return result.data;
 }
 
+/**
+ * Validation helper that returns result object instead of throwing
+ */
+export function safeValidateInput<T>(
+  schema: z.ZodSchema<T>,
+  data: unknown
+): { success: true; data: T } | { success: false; errors: Array<{ field: string; message: string }> } {
+  const result = schema.safeParse(data);
+  
+  if (!result.success) {
+    const errors = result.error.errors.map(err => ({
+      field: err.path.join('.'),
+      message: err.message,
+    }));
+    
+    return { success: false, errors };
+  }
+  
+  return { success: true, data: result.data };
+}
