@@ -26,12 +26,11 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
-lib/
-lib64/
+# Python lib directories (but not our TypeScript lib/ directory at root)
+**/lib64/
 parts/
 sdist/
 var/
@@ -64,7 +63,10 @@ out/
 # Production builds
 /build
 build/
-dist/
+# Python dist/ but not our workspace package dist/ directories
+# Workspace packages need their dist/ tracked in git OR built during CI
+# We'll build them during CI, so we still ignore them:
+packages/*/dist/
 
 # TypeScript
 *.tsbuildinfo
