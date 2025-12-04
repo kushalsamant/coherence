@@ -1,6 +1,7 @@
 'use client'
 
 import { usePathname } from 'next/navigation'
+import { useSession } from '@/lib/auth-provider'
 import Link from 'next/link'
 import { AppHeader } from '@kushalsamant/design-template'
 

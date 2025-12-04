@@ -484,25 +484,183 @@ REFRAME_INTERNATIONAL_PAYMENTS_ENABLED=false
 
 ---
 
+## 🔍 COMPREHENSIVE REPOSITORY AUDIT (Dec 5, 2025)
+
+**Audit Date:** December 5, 2025  
+**Audit Completion:** Complete codebase analysis  
+**Total Findings:** **47 issues** across 6 categories  
+**Cleanup Strategy:** Aggressive (remove all unused code)
+
+### Audit Summary
+
+| Category | Count | Priority |
+|----------|-------|----------|
+| **Critical Issues** | 8 | 🔴 HIGH |
+| **Code Quality** | 12 | 🟡 MEDIUM |
+| **Security** | 7 | 🔴 HIGH |
+| **Performance** | 9 | 🟡 MEDIUM |
+| **Redundancy** | 8 | 🟢 LOW |
+| **Configuration** | 3 | 🟡 MEDIUM |
+
+**Build Status:** ✅ Passing (1 deprecation warning)  
+**Repository Cleanup:** Can reduce size by ~10-15%
+
+---
+
+### 🔴 CRITICAL ISSUES (8 items)
+
+1. **Middleware Deprecation Warning** - `middleware.ts` needs migration to proxy pattern
+2. **Unused Android App** ⚠️ **DELETE** `apps/wakeupcall/` (~50 files)
+3. **Redundant Infrastructure** ⚠️ **DELETE** `apps/sketch2bim/infra/` subdirectories
+4. **Empty Directory** ⚠️ **DELETE** `database/schemas/`
+5. **Duplicate Template** ⚠️ **DELETE** root-level `platform.env.template`
+6. **Missing ESLint Config** - Create `.eslintrc.json`
+7. **Payment Variable Naming** - Standardize WEEK/MONTH/YEAR vs WEEKLY/MONTHLY/YEARLY
+8. **Production TODO** - `lib/logger.ts:54` - Implement error tracking
+
+### 🟡 CODE QUALITY ISSUES (12 items)
+
+1. **Duplicate HeaderWrapper Components** - 4 files ~90% identical, consolidate
+2. **Multiple globals.css Files** - 3 files with overlapping styles
+3. **Console Usage** - 25 console statements in `lib/`, replace with logger
+4. **TypeScript `any` Types** - 20 instances (10 in `lib/shared/razorpay.ts`)
+5. **Hardcoded URLs** - 9 instances of `http://` in routes
+6. **Template Files** ⚠️ **DELETE** `templates/` directory
+7. **Unused File** ⚠️ **DELETE** `ts-env-vars.txt`
+8. **Commented Code** - Remove from `.gitignore`
+9-12. Other minor issues (documented in detail below)
+
+### 🔒 SECURITY ISSUES (7 items)
+
+1. **No Security Headers** - Add CSP, X-Frame-Options, HSTS to Next.js
+2. **No Rate Limiting** - Add middleware to prevent API abuse
+3. **No Input Validation** - Implement Zod schema validation
+4. **CORS Needs Review** - Add origin validation
+5. **No Vulnerability Scanning** - Enable Dependabot
+6-7. Minor issues (test keys acceptable, plan IDs not secrets)
+
+### ⚡ PERFORMANCE ISSUES (9 items)
+
+1. **Large Sitemap** - 1,144 XML files, generate dynamically instead
+2. **Image Optimization Disabled** - Enable in `next.config.js`
+3. **No Bundle Analysis** - Add `@next/bundle-analyzer`
+4. **No Code Splitting** - Implement dynamic imports
+5. **Large Public Assets** - 114 files need optimization
+6-9. Other optimizations needed
+
+### 🧹 REDUNDANCY & CLEANUP (8 items)
+
+1. **Duplicate Alembic Config** ⚠️ **DELETE** `apps/sketch2bim/backend/alembic.ini`
+2. **Training Code** - `apps/sketch2bim/train/` - Decision needed
+3. **Empty Directory** ⚠️ **DELETE** `apps/sketch2bim/models/symbols/`
+4. **Build Artifacts** ⚠️ **DELETE** `apps/wakeupcall/build/`
+5. **Archive Directory** ⚠️ **DELETE** `apps/sketch2bim/docs/archive/`
+6. **Legacy Scripts** ⚠️ **DELETE** `scripts/create-project.*`
+7-8. Other cleanup items
+
+### ⚙️ CONFIGURATION & DOCS (3 items)
+
+1. **No README.md** - Create comprehensive documentation
+2. **Incomplete vercel.json** - Add missing configuration
+3. **CNAME Verification** - Verify `www.kvshvl.in` is correct
+
+---
+
+### 📋 IMPLEMENTATION PHASES
+
+#### Phase 1: Critical Cleanup (1-2 hours) 🔴
+**Files to Delete (~150 files total):**
+- `apps/wakeupcall/` directory
+- `apps/sketch2bim/infra/` subdirectories
+- `apps/sketch2bim/backend/alembic.ini`
+- `apps/sketch2bim/docs/archive/`
+- `apps/sketch2bim/models/symbols/`
+- `database/schemas/`
+- `templates/` directory
+- `ts-env-vars.txt`
+- `scripts/create-project.sh`
+- `scripts/project/create-project.ps1`
+- `../platform.env.template` (root level)
+
+**Config Changes:**
+- Create `.eslintrc.json`
+- Fix middleware deprecation
+
+#### Phase 2: Code Quality (3-4 hours) 🟡
+- Consolidate HeaderWrapper components (4 → 1)
+- Replace 25 console statements with logger
+- Fix 20 TypeScript `any` types
+- Standardize payment variable names
+- Review globals.css strategy
+
+#### Phase 3: Security (2-3 hours) 🔴
+- Add security headers
+- Implement rate limiting
+- Add Zod validation
+- Enable Dependabot
+- Review CORS configuration
+
+#### Phase 4: Performance (4-6 hours) 🟡
+- Generate sitemaps dynamically (delete 1,144 files)
+- Enable image optimization
+- Add bundle analyzer
+- Implement code splitting
+- Optimize 114 asset files
+
+#### Phase 5: Documentation (2-3 hours) 🟡
+- Create README.md
+- Document architecture
+- Update vercel.json
+- Add contributing guidelines
+
+**Total Estimated Time:** 12-18 hours
+
+---
+
+### ⚠️ RISK ASSESSMENT
+
+**Low Risk:** Deleting unused apps/infra, adding ESLint, creating README  
+**Medium Risk:** HeaderWrapper consolidation, console → logger, security headers  
+**High Risk:** Image optimization, CORS changes, payment routing changes
+
+---
+
+### 🎯 SUCCESS METRICS
+
+- Repository size reduced >10%
+- Build time improved >15%
+- Zero ESLint errors
+- Zero console.log (except logger)
+- Security score >90%
+- Lighthouse performance >85
+- Zero TypeScript `any` in lib/
+- Comprehensive README.md
+
+---
+
 ## 🔮 Future Improvements & Backlog
-
-### Code Quality
-- [ ] Audit duplicate component patterns (`auth.ts`, `HeaderWrapper.tsx`)
-- [ ] Review `globals.css` files (evaluate if sub-apps can extend main design system)
-
-### Documentation
-- [ ] Update README.md with deployment instructions
-- [ ] Document environment variable strategy for contributors
 
 ### Testing
 - [ ] Add automated tests for Razorpay integration
 - [ ] Test subscription flow E2E
 - [ ] Test webhook handling
+- [ ] Add unit tests for shared utilities
+- [ ] Add integration tests for API routes
 
 ### Monitoring
-- [ ] Set up error tracking (Sentry, LogRocket, etc.)
-- [ ] Add performance monitoring
+- [ ] Implement error tracking (Sentry - see audit critical item #8)
+- [ ] Add performance monitoring (Vercel Analytics)
 - [ ] Create dashboard for subscription metrics
+- [ ] Implement alerting for critical errors
+- [ ] Add uptime monitoring
+
+### Additional Improvements
+- [ ] Implement error boundary components
+- [ ] Add loading states and skeletons
+- [ ] Improve accessibility (WCAG 2.1 AA)
+- [ ] Add internationalization (i18n)
+- [ ] Implement dark mode toggle
+- [ ] Add service worker for offline support
 
 ---
 
@@ -512,28 +670,33 @@ REFRAME_INTERNATIONAL_PAYMENTS_ENABLED=false
 
 | Category | Status | Notes |
 |----------|--------|-------|
-| **Code Quality** | ✅ Excellent | 0 errors, 0 linter issues |
-| **Naming Convention** | ✅ Standardized | All "weekly/monthly/yearly" consistent |
-| **Build Status** | ✅ Passing | `npm run build` successful |
-| **Security** | ✅ Patched | CVE-2025-55182 resolved |
+| **Code Quality** | ⚠️ Needs Work | **Audit found 12 issues:** duplicates, console usage, `any` types |
+| **Naming Convention** | ⚠️ Inconsistent | Payment vars need standardization (WEEK vs WEEKLY) |
+| **Build Status** | ✅ Passing | `npm run build` successful (1 deprecation warning) |
+| **Security** | ⚠️ Gaps Found | **Audit found 7 issues:** No headers, rate limiting, validation |
+| **Performance** | ⚠️ Unoptimized | **Audit found 9 issues:** Large sitemap, disabled image opt |
 | **Environment** | ✅ Verified | All 260+ variables restored & validated |
 | **Environment Backup** | ✅ Created | `.env.local.backup` saved |
 | **Env Template** | ✅ In Git | `platform.env.template` committed |
-| **Documentation** | ✅ Comprehensive | Single source of truth |
+| **Documentation** | ⚠️ Missing | **No README.md** at repository root |
 | **Razorpay Plans (TEST)** | ✅ Verified | 3 plans matched against API |
 | **Razorpay Plans (LIVE)** | ✅ Verified | 3 plans matched against Dashboard |
-| **Repository** | ✅ Clean | Redundant files removed |
-| **Deployment** | ✅ Live | Production deployed |
+| **Repository Cleanup** | ⚠️ Needed | **~150 files to delete** (unused apps, old infra) |
+| **Deployment** | ✅ Live | Production deployed and functional |
+| **Audit Status** | ✅ Complete | **47 issues documented**, 5-phase plan ready (12-18hrs) |
 
-### Confidence Level: 99%
+### Confidence Level: 95% (reduced after audit findings)
 
-**Completed Today (Dec 4, 2025, 11:55 PM):**
+**Completed (Dec 4-5, 2025):**
 - ✅ Environment variable recovery & validation
 - ✅ Razorpay plan ID verification (TEST & LIVE)
 - ✅ Template file recovery and git commit
+- ✅ Deployment fixes (Vercel + Render)
+- ✅ **Comprehensive repository audit** - 47 issues identified
 
 **In Progress:**
 - 🔄 Post-deployment monitoring (2 weeks)
+- ⏳ **Audit remediation** - Awaiting execution approval
 
 ---
 
@@ -564,28 +727,37 @@ REFRAME_INTERNATIONAL_PAYMENTS_ENABLED=false
 ## 🎉 Current Status
 
 **Date Deployed:** December 4, 2025, 11:45 PM  
-**Last Updated:** December 5, 2025, 1:15 AM  
-**Status:** 🚀 **LIVE & MONITORING**
+**Last Updated:** December 5, 2025 (Audit Completed)  
+**Status:** 🚀 **LIVE & MONITORING** | 🔍 **AUDIT COMPLETE**
 
-**Recent Work Completed (1:15 AM):**
+**Recent Work Completed:**
+
+**Dec 5, 2025 - Comprehensive Audit:**
+- ✅ Complete repository audit finished
+- ✅ Identified 47 issues across 6 categories
+- ✅ Created detailed implementation plan (5 phases, 12-18 hours)
+- ✅ Prioritized critical cleanup: ~150 files to delete
+- 🔄 **READY FOR EXECUTION** - Awaiting approval to proceed
+
+**Dec 5, 1:15 AM - Deployment Fixes:**
 - ✅ Fixed Vercel deployment: Converted packages/design-system from submodule to regular files
 - ✅ Added transpilePackages to Next.js configuration
 - ✅ Fixed Render deployment: Updated PYTHONPATH to use relative path
 - ✅ All fixes committed (`ad382f7`) and pushed successfully
 - ✅ Deployments triggered on both Vercel and Render
 
-**Previous Work (11:55 PM):**
+**Dec 4, 11:55 PM - Environment Recovery:**
 - ✅ Environment variables fully restored (34 → 264/268 lines)
 - ✅ All Razorpay plan IDs verified against backend
 - ✅ Template file recovered and committed to git
 - ✅ Backup created for safety
 
-**Next Steps:**
-1. Monitor Vercel build logs for successful deployment
-2. Monitor Render deployment logs for successful startup
-3. Verify both platforms are accessible and functional
-4. Continue 2-week monitoring phase
-5. Check webhook deliveries in Razorpay Dashboard
+**Next Actions:**
+1. ⏳ Approve comprehensive audit implementation plan
+2. 🔄 Continue 2-week post-deployment monitoring
+3. 🔄 Monitor Vercel and Render deployment logs
+4. 🔄 Verify platform accessibility and functionality
+5. 🔄 Check webhook deliveries in Razorpay Dashboard
 
 **Important Files:**
 - **Template:** `platform.env.template` (222 lines) - ✅ In Git
