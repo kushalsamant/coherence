@@ -69,14 +69,15 @@ export default function Home() {
   };
 
   return (
-    <main style={{ padding: 'var(--space-xl) var(--space-md)', maxWidth: 'var(--container-max-width)', margin: '0 auto' }}>
+    <main style={{ padding: 'var(--space-xl) var(--space-md)', maxWidth: 'var(--container-max-width)', margin: '0 auto', textAlign: 'center' }}>
       <article className="fade-in">
         {/* Hero Section */}
         <section className="hero" aria-labelledby="hero-title" style={{ marginBottom: 'var(--space-2xl)' }}>
           <h1 id="hero-title" className="hero-title" style={{ 
             fontSize: 'var(--font-size-4xl)', 
             marginBottom: 'var(--space-lg)',
-            lineHeight: 'var(--line-height-tight)'
+            lineHeight: 'var(--line-height-tight)',
+            textAlign: 'center'
           }}>
             ASK: Daily Research
           </h1>
@@ -84,7 +85,8 @@ export default function Home() {
           <p className="hero-subtitle" style={{ 
             fontSize: 'var(--font-size-xl)', 
             marginBottom: 'var(--space-md)',
-            color: 'var(--color-text-secondary)'
+            color: 'var(--color-text-secondary)',
+            textAlign: 'center'
           }}>
             Generate research Q&A pairs from keywords using AI
           </p>
@@ -94,7 +96,9 @@ export default function Home() {
             lineHeight: 'var(--line-height-relaxed)',
             maxWidth: '65ch',
             color: 'var(--color-text-secondary)',
-            marginBottom: 'var(--space-xl)'
+            marginBottom: 'var(--space-xl)',
+            textAlign: 'center',
+            margin: '0 auto var(--space-xl)'
           }}>
             Enter keywords (1-2 words each, separated by commas) to start generating a chain of research questions and answers.
           </p>
@@ -169,7 +173,7 @@ export default function Home() {
               </div>
               )}
 
-              <div style={{ width: '100%' }}>
+              <div style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>
                 <Button
                   type="submit"
                   variant="primary"
@@ -186,7 +190,7 @@ export default function Home() {
             marginTop: 'var(--space-xl)',
             textAlign: 'center'
           }}>
-            <a href="/browse" style={{ 
+            <a href="/ask/browse" style={{ 
               textDecoration: 'none',
               color: 'var(--color-text-secondary)',
               fontSize: 'var(--font-size-sm)'

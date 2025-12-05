@@ -1,5 +1,5 @@
 """
-Database migration utilities
+Database migration utilities for Sketch2BIM
 Automatically runs Alembic migrations on application startup
 """
 from pathlib import Path

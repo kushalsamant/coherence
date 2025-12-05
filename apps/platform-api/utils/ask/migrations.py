@@ -8,7 +8,7 @@ from alembic.config import Config
 from loguru import logger
 from typing import Optional
 
-from config.base import settings
+from core.config import settings
 
 
 def get_alembic_config() -> Config:
@@ -22,7 +22,7 @@ def get_alembic_config() -> Config:
     # Create Alembic config
     alembic_cfg = Config(str(alembic_ini_path))
     alembic_cfg.set_main_option("script_location", str(alembic_ini_path.parent))
-    alembic_cfg.set_main_option("sqlalchemy.url", settings.database_url)
+    alembic_cfg.set_main_option("sqlalchemy.url", settings.ASK_DATABASE_URL)
     
     return alembic_cfg
 
