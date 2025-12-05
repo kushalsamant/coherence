@@ -9,8 +9,8 @@ services:
     name: platform-api
     runtime: python
     buildCommand: pip install --upgrade pip && pip install -e ./packages/shared-backend && pip install -r ./apps/platform-api/requirements.txt
-    startCommand: cd apps/platform-api && python -m uvicorn main:app --host 0.0.0.0 --port $PORT
-    healthCheckPath: /health
+    startCommand: cd apps/platform-api && gunicorn main:app --workers 4 --worker-class uvicorn.workers.UvicornWorker --bind 0.0.0.0:$PORT --timeout 120 --graceful-timeout 30 --access-logfile - --error-logfile -
+    healthCheckPath: /health/ready
     envVars:
       # Python Path Configuration
       # Set to current directory (after 'cd apps/platform-api')
