@@ -11,7 +11,7 @@ export { default as NewsCard } from './components/NewsCard'
 export { default as ClientGrid } from './components/ClientGrid'
 export { default as AppHeader } from './components/AppHeader'
 export { default as AppFooter } from './components/AppFooter'
-export { default as ThemeToggle } from './components/ThemeToggle'
+// ThemeToggle removed - light theme only
 export { default as ThemeProvider } from './components/ThemeProvider'
 export { default as Section } from './components/Section'
 export { default as LegalPageLayout } from './components/LegalPageLayout'

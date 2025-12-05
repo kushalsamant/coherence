@@ -5,27 +5,23 @@ export type Theme = 'light' | 'dark' | 'system'
 const THEME_STORAGE_KEY = 'kvshvl-theme'
 
 export function getStoredTheme(): Theme {
-  if (typeof window === 'undefined') return 'system'
-  const stored = localStorage.getItem(THEME_STORAGE_KEY) as Theme | null
-  return stored || 'system'
+  // Always return 'light' - dark mode disabled
+  return 'light'
 }
 
 export function setStoredTheme(theme: Theme): void {
-  if (typeof window === 'undefined') return
-  localStorage.setItem(THEME_STORAGE_KEY, theme)
+  // No-op - theme switching disabled
+  return
 }
 
 export function getSystemTheme(): 'light' | 'dark' {
-  if (typeof window === 'undefined') return 'light'
-  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+  // Always return 'light' - dark mode disabled
+  return 'light'
 }
 
 export function getEffectiveTheme(): 'light' | 'dark' {
-  const theme = getStoredTheme()
-  if (theme === 'system') {
-    return getSystemTheme()
-  }
-  return theme
+  // Always return 'light' - dark mode disabled
+  return 'light'
 }
 
 export function applyTheme(theme: 'light' | 'dark'): void {
@@ -33,43 +29,27 @@ export function applyTheme(theme: 'light' | 'dark'): void {
   
   const root = document.documentElement
   
-  // Set data-theme for design template components
-  root.setAttribute('data-theme', theme)
+  // Force light theme - always set to 'light'
+  root.setAttribute('data-theme', 'light')
   
-  // Add/remove dark class for Tailwind CSS dark mode compatibility
-  if (theme === 'dark') {
-    root.classList.add('dark')
-  } else {
-    root.classList.remove('dark')
-  }
+  // Remove dark class - light mode only
+  root.classList.remove('dark')
   
-  // Update meta theme-color
+  // Update meta theme-color - always light
   const metaThemeColor = document.querySelector('meta[name="theme-color"]')
   if (metaThemeColor) {
-    metaThemeColor.setAttribute('content', theme === 'dark' ? '#0a0a0a' : '#ffffff')
+    metaThemeColor.setAttribute('content', '#ffffff')
   }
 }
 
 export function initTheme(): (() => void) | void {
   if (typeof window === 'undefined') return
   
-  const effectiveTheme = getEffectiveTheme()
-  applyTheme(effectiveTheme)
+  // Always apply light theme
+  applyTheme('light')
   
-  // Listen for system theme changes
-  const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)')
-  const handleChange = () => {
-    const stored = getStoredTheme()
-    if (stored === 'system') {
-      applyTheme(getSystemTheme())
-    }
-  }
-  
-  mediaQuery.addEventListener('change', handleChange)
-  
-  // Cleanup function (returned for use in useEffect)
-  return () => {
-    mediaQuery.removeEventListener('change', handleChange)
-  }
+  // No need to listen for system theme changes - light mode only
+  // Return empty cleanup function for compatibility
+  return () => {}
 }
 

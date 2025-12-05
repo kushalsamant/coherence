@@ -39,8 +39,8 @@ class Settings(BaseSettings):
     )
     
     # Database URLs (app-specific, no prefix)
-    ASK_DATABASE_URL: str = Field(..., description="PostgreSQL connection string for ASK database")
-    SKETCH2BIM_DATABASE_URL: str = Field(..., description="PostgreSQL connection string for Sketch2BIM database")
+    ASK_DATABASE_URL: str = Field(default="", description="PostgreSQL connection string for ASK database")
+    SKETCH2BIM_DATABASE_URL: str = Field(default="", description="PostgreSQL connection string for Sketch2BIM database")
     
     # Database Pool Settings
     DATABASE_POOL_SIZE: int = 10

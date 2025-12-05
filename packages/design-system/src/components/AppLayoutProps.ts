@@ -45,9 +45,6 @@ export interface AppLayoutProps {
   /** Custom footer branding component */
   footerBranding?: ReactNode;
   
-  /** Show skip link for accessibility */
-  showSkipLink?: boolean;
-  
   /** Additional providers to wrap content with */
   additionalProviders?: ReactNode[];
   

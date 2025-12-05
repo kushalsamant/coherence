@@ -6,6 +6,7 @@ import { initScrollAnimations } from '../lib/scroll-animations'
 
 export default function ThemeProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
+    // Initialize light theme (forced)
     initTheme()
     const cleanup = initScrollAnimations()
     return cleanup

@@ -1,7 +1,6 @@
 'use client'
 
 import React from 'react'
-import ThemeToggle from './ThemeToggle'
 
 export interface NavLink {
   href: string
@@ -66,7 +65,6 @@ export default function AppHeader({
                 )
                 return <span key={link.href}>{linkContent}</span>
               })}
-              <ThemeToggle />
             </nav>
           </div>
         </div>

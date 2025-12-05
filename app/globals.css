@@ -117,49 +117,6 @@
   --ease-in-out-expo: cubic-bezier(0.87, 0, 0.13, 1);
 }
 
-/* Dark Mode */
-[data-theme="dark"] {
-  --color-background: #0a0a0a;
-  --color-background-secondary: #111111;
-  --color-background-tertiary: #1a1a1a;
-  --color-text: #f9fafb;
-  --color-text-secondary: #d1d5db;
-  --color-text-muted: #9ca3af;
-  --color-border: rgba(255, 255, 255, 0.1);
-  --color-border-light: rgba(255, 255, 255, 0.05);
-  --color-overlay: rgba(0, 0, 0, 0.8);
-  --color-surface: #111111;
-  --color-surface-elevated: #1a1a1a;
-  --color-surface-hover: #1a1a1a;
-  
-  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.3);
-  --shadow-base: 0 1px 3px 0 rgb(0 0 0 / 0.4), 0 1px 2px -1px rgb(0 0 0 / 0.4);
-  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.4), 0 2px 4px -2px rgb(0 0 0 / 0.4);
-  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.4), 0 4px 6px -4px rgb(0 0 0 / 0.4);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --color-background: #0a0a0a;
-    --color-background-secondary: #111111;
-    --color-background-tertiary: #1a1a1a;
-    --color-text: #f9fafb;
-    --color-text-secondary: #d1d5db;
-    --color-text-muted: #9ca3af;
-    --color-border: rgba(255, 255, 255, 0.1);
-    --color-border-light: rgba(255, 255, 255, 0.05);
-    --color-overlay: rgba(0, 0, 0, 0.8);
-    --color-surface: #111111;
-    --color-surface-elevated: #1a1a1a;
-    --color-surface-hover: #1a1a1a;
-    
-    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.3);
-    --shadow-base: 0 1px 3px 0 rgb(0 0 0 / 0.4), 0 1px 2px -1px rgb(0 0 0 / 0.4);
-    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.4), 0 2px 4px -2px rgb(0 0 0 / 0.4);
-    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.4), 0 4px 6px -4px rgb(0 0 0 / 0.4);
-  }
-}
-
 /* Reset and Base Styles */
 *,
 *::before,
@@ -467,16 +424,6 @@ pre code {
   -webkit-backdrop-filter: blur(12px) saturate(180%);
   border-bottom: 1px solid var(--color-border);
   transition: background-color var(--transition-base), border-color var(--transition-base);
-}
-
-[data-theme="dark"] .app-header {
-  background: rgba(10, 10, 10, 0.8);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .app-header {
-    background: rgba(10, 10, 10, 0.8);
-  }
 }
 
 .header-container {
@@ -958,23 +905,6 @@ pre code {
   background: var(--color-surface-hover);
   border-color: var(--color-kvshvl-primary);
   color: var(--color-kvshvl-primary);
-}
-
-/* Skip Link */
-.skip-link {
-  position: absolute;
-  top: -100px;
-  left: 0;
-  background: var(--color-kvshvl-primary);
-  color: white;
-  padding: var(--space-sm) var(--space-md);
-  text-decoration: none;
-  z-index: var(--z-index-fixed);
-  border-radius: 0 0 var(--radius-md) 0;
-}
-
-.skip-link:focus {
-  top: 0;
 }
 
 /* Loading States */

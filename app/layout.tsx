@@ -105,9 +105,6 @@ export default function RootLayout({
       <body className={inter.className}>
         <AuthProvider>
         <ThemeProvider>
-          <a href="#main-content" className="skip-link">
-            Skip to main content
-          </a>
           <HeaderWrapper />
           <main id="main-content">{children}</main>
           <FooterWrapper />

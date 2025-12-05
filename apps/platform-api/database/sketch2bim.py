@@ -10,7 +10,7 @@ from core.config import settings
 
 # Create database engine
 engine = create_engine(
-    settings.database_url,
+    settings.SKETCH2BIM_DATABASE_URL,
     pool_pre_ping=True,
     pool_size=10,
     max_overflow=20,

@@ -967,23 +967,6 @@ pre code {
   color: var(--color-kvshvl-primary);
 }
 
-/* Skip Link */
-.skip-link {
-  position: absolute;
-  top: -100px;
-  left: 0;
-  background: var(--color-kvshvl-primary);
-  color: white;
-  padding: var(--space-sm) var(--space-md);
-  text-decoration: none;
-  z-index: var(--z-index-fixed);
-  border-radius: 0 0 var(--radius-md) 0;
-}
-
-.skip-link:focus {
-  top: 0;
-}
-
 /* Loading States */
 .skeleton {
   background: linear-gradient(
