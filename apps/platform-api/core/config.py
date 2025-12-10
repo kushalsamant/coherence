@@ -2,8 +2,8 @@
 Centralized Configuration Management
 Uses Pydantic Settings for type-safe environment variable handling
 
-Note: Environment variables in Render use PLATFORM_ prefix for platform-wide settings
-and app-specific prefixes (ASK_, REFRAME_, SKETCH2BIM_) for app-specific settings.
+Note: Environment variables use PLATFORM_ prefix for platform-wide settings.
+App-specific settings are now in each app's repository.
 """
 from pydantic_settings import BaseSettings, SettingsConfigDict
 from pydantic import Field, field_validator
@@ -18,11 +18,12 @@ class Settings(BaseSettings):
     
     Environment variable mapping:
     - Platform-wide: PLATFORM_APP_NAME, PLATFORM_ENVIRONMENT, etc.
-    - App-specific: ASK_DATABASE_URL, REFRAME_GROQ_API_KEY, etc.
+    - Platform-wide: PLATFORM_DATABASE_URL, PLATFORM_NEXTAUTH_SECRET, etc.
+    - Note: Sketch2BIM-specific configs are in the sketch2bim repository
     """
     
     # Application Configuration (from PLATFORM_ prefix)
-    APP_NAME: str = Field(default="KVSHVL Platform API", alias="PLATFORM_APP_NAME")
+    APP_NAME: str = Field(default="KVSHVL API", alias="PLATFORM_APP_NAME")
     VERSION: str = "1.0.0"
     ENVIRONMENT: str = Field(default="development", alias="PLATFORM_ENVIRONMENT")
     DEBUG: bool = Field(default=False, alias="PLATFORM_DEBUG")
@@ -34,13 +35,12 @@ class Settings(BaseSettings):
     
     # CORS Configuration (from PLATFORM_ prefix)
     CORS_ORIGINS: str = Field(
-        default="http://localhost:3000,https://kvshvl.in,https://www.kvshvl.in",
+        default="http://localhost:3000,https://kvshvl.in,https://www.kvshvl.in,https://sketch2bim.kvshvl.in",
         alias="PLATFORM_CORS_ORIGINS"
     )
     
-    # Database URLs (app-specific, no prefix)
-    ASK_DATABASE_URL: str = Field(default="", description="PostgreSQL connection string for ASK database")
-    SKETCH2BIM_DATABASE_URL: str = Field(default="", description="PostgreSQL connection string for Sketch2BIM database")
+    # Database URLs (platform-wide, shared database)
+    PLATFORM_DATABASE_URL: str = Field(default="", description="PostgreSQL connection string for platform database (shared by home site and sketch2bim)")
     
     # Database Pool Settings
     DATABASE_POOL_SIZE: int = 10
@@ -68,24 +68,8 @@ class Settings(BaseSettings):
     RAZORPAY_PLAN_MONTHLY: str = Field(default="", alias="PLATFORM_RAZORPAY_PLAN_MONTHLY")
     RAZORPAY_PLAN_YEARLY: str = Field(default="", alias="PLATFORM_RAZORPAY_PLAN_YEARLY")
     
-    # AI Service API Keys (app-specific, no prefix)
-    ASK_GROQ_API_KEY: str = Field(default="", description="Groq API key for ASK")
-    REFRAME_GROQ_API_KEY: str = Field(default="", description="Groq API key for Reframe")
-    SKETCH2BIM_GROQ_API_KEY: str = Field(default="", description="Groq API key for Sketch2BIM")
-    SKETCH2BIM_REPLICATE_API_KEY: str = Field(default="", description="Replicate API key for Sketch2BIM")
-    
-    # Groq API Configuration (app-specific)
-    ASK_GROQ_MODEL: str = "llama-3.1-70b-versatile"
-    ASK_GROQ_API_BASE: str = "https://api.groq.com/openai/v1"
-    
-    # Reframe Configuration (app-specific)
-    REFRAME_FREE_LIMIT: int = 5
-    
-    # Sketch2BIM Storage Configuration (app-specific)
-    SKETCH2BIM_BUNNY_STORAGE_ZONE: str = Field(default="", description="BunnyCDN storage zone")
-    SKETCH2BIM_BUNNY_ACCESS_KEY: str = Field(default="", description="BunnyCDN access key")
-    SKETCH2BIM_BUNNY_CDN_HOSTNAME: str = Field(default="", description="BunnyCDN hostname")
-    SKETCH2BIM_REPLICATE_MODEL_ID: str = "kushalsamant/sketch2bim-processor"
+    # Note: App-specific configuration (e.g., SKETCH2BIM_*) is now in each app's repository
+    # Platform only handles shared infrastructure (auth, payments, database)
     
     # Computed Properties
     @property
@@ -109,8 +93,14 @@ class Settings(BaseSettings):
         return [email.strip().lower() for email in self.ADMIN_EMAILS.split(",") if email.strip()]
     
     # Pydantic V2 configuration
+    # Load backend env file based on environment
+    # Default to .env.local.backend for development, .env.production.backend for production
+    _env_file = ".env.local.backend"
+    if os.getenv("PLATFORM_ENVIRONMENT", "").lower() == "production" or os.getenv("NODE_ENV", "").lower() == "production":
+        _env_file = ".env.production.backend"
+    
     model_config = SettingsConfigDict(
-        env_file=".env",
+        env_file=_env_file,
         env_file_encoding="utf-8",
         case_sensitive=True,
         # Allow both direct names and aliases (for PLATFORM_ prefix)

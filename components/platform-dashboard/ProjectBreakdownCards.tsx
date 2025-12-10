@@ -18,7 +18,7 @@ interface ProjectBreakdownCardsProps {
 }
 
 export default function ProjectBreakdownCards({ data }: ProjectBreakdownCardsProps) {
-  const projects = ['ask', 'sketch2bim', 'reframe'];
+  const projects = ['sketch2bim'];
   const breakdown = data.platform_costs.project_breakdown;
 
   return (

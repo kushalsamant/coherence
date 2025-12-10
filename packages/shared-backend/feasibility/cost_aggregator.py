@@ -1,6 +1,6 @@
 """
 Platform-wide cost aggregation service
-Aggregates costs across ASK, Sketch2BIM, and Reframe projects
+Aggregates costs for Sketch2BIM project
 """
 
 import logging
@@ -11,7 +11,7 @@ from sqlalchemy.orm import Session
 log = logging.getLogger(__name__)
 
 # Project names
-PROJECTS = ["ask", "sketch2bim", "reframe"]
+PROJECTS = ["sketch2bim"]
 
 # Shared infrastructure cost estimates (monthly, in USD)
 # These should be updated based on actual infrastructure bills
@@ -153,7 +153,7 @@ def get_project_costs(
     Get costs for a specific project.
     
     Args:
-        project_name: Name of the project (ask, sketch2bim, reframe)
+        project_name: Name of the project (sketch2bim)
         project_costs_data: Dictionary mapping project names to cost dictionaries
         days: Number of days the costs cover
         

@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "kvshvl-platform"
 version = "1.0.0"
-description = "KVSHVL Platform Monorepo - Unified platform for ASK, Sketch2BIM, and Reframe"
+description = "KVSHVL Platform - Transform hand-drawn sketches into BIM models"
 authors = ["Kushal Samant"]
 readme = "README.md"
 packages = [

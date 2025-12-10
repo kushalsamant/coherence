@@ -2,6 +2,7 @@
 
 import { Card } from '@kushalsamant/design-template';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { CURRENCY_CONFIG } from '@/lib/config';
 
 interface ProjectComparisonChartProps {
   data: {
@@ -21,13 +22,13 @@ interface ProjectComparisonChartProps {
 }
 
 export default function ProjectComparisonChart({ data }: ProjectComparisonChartProps) {
-  const projects = ['ask', 'sketch2bim', 'reframe'];
+  const projects = ['sketch2bim'];
   const breakdown = data.platform_costs.project_breakdown;
 
-  // Calculate revenue per project (assuming equal distribution for now)
-  // In production, this should come from actual project revenue data
-  const revenuePerProject = data.platform_revenue_paise / 3;
-  const revenuePerProjectUsd = (revenuePerProject / 100) * 0.012;
+  // Calculate revenue per project
+  // Convert paise to rupees (divide by 100), then convert INR to USD using configured exchange rate
+  const revenuePerProject = data.platform_revenue_paise;
+  const revenuePerProjectUsd = (revenuePerProject / 100) * CURRENCY_CONFIG.INR_TO_USD;
 
   const chartData = projects.map((project) => {
     const projectData = breakdown[project] || {};

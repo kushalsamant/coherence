@@ -31,7 +31,7 @@ def get_razorpay_client() -> Optional[razorpay.Client]:
         key_secret = settings.razorpay_key_secret if hasattr(settings, 'razorpay_key_secret') else None
     except Exception:
         # Fallback to environment variables
-        # Note: Apps should set prefixed variables (ASK_RAZORPAY_KEY_ID, etc.) in their .env files
+        # Note: Apps should set prefixed variables (SKETCH2BIM_RAZORPAY_KEY_ID, etc.) in their .env files
         # This fallback is for shared package compatibility only
         import os
         key_id = os.getenv("RAZORPAY_KEY_ID")

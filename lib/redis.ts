@@ -1,10 +1,8 @@
 /**
  * Centralized Redis client for KVSHVL Platform
- * Exports redis clients for different apps
+ * Exports redis client for KVSHVL
  */
 
-export * from './reframe/redis';
-
-// Re-export for backward compatibility
-export { getRedisClient } from './reframe/redis';
+// Note: Redis client can be imported from shared utilities if needed
+// For now, Sketch2BIM uses its own Redis configuration
 

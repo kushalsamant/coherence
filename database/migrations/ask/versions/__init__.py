@@ -1,2 +1,0 @@
-"""ASK database migration versions"""
-

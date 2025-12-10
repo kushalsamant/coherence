@@ -11,12 +11,12 @@ class RazorpaySettings(BaseSettings):
     """Razorpay payment settings
     
     Note: This is a shared base class. Individual apps should extend this
-    and read from prefixed environment variables (e.g., ASK_RAZORPAY_*).
+    and read from prefixed environment variables (e.g., SKETCH2BIM_RAZORPAY_*).
     This class uses unprefixed variables for shared functionality.
     """
     
     # Razorpay credentials
-    # Note: Apps should set prefixed variables (ASK_RAZORPAY_KEY_ID, etc.)
+    # Note: Apps should set prefixed variables (SKETCH2BIM_RAZORPAY_KEY_ID, etc.)
     # but this shared class uses unprefixed for cross-app compatibility
     RAZORPAY_KEY_ID: str = ""
     RAZORPAY_KEY_SECRET: str = ""
@@ -35,8 +35,8 @@ class RazorpaySettings(BaseSettings):
     # Pricing in paise (₹1 = 100 paise)
     # Shared across all projects - uses unprefixed variables
     # Apps can override with prefixed variables in their config
-    RAZORPAY_WEEKLY_AMOUNT: int = int(os.getenv("RAZORPAY_WEEKLY_AMOUNT", "129900"))
-    RAZORPAY_MONTHLY_AMOUNT: int = int(os.getenv("RAZORPAY_MONTHLY_AMOUNT", "349900"))
+    RAZORPAY_WEEKLY_AMOUNT: int = int(os.getenv("RAZORPAY_WEEKLY_AMOUNT", "29900"))
+    RAZORPAY_MONTHLY_AMOUNT: int = int(os.getenv("RAZORPAY_MONTHLY_AMOUNT", "299900"))
     RAZORPAY_YEARLY_AMOUNT: int = int(os.getenv("RAZORPAY_YEARLY_AMOUNT", "2999900"))
     
     # Razorpay Plan IDs for subscriptions

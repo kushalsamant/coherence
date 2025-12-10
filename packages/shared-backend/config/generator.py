@@ -39,8 +39,8 @@ class Settings(BaseSettings):
     
     # Pricing in paise (₹1 = 100 paise)
     # Shared across all projects - prefixed variables only, with hard defaults
-    RAZORPAY_WEEKLY_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_WEEKLY_AMOUNT", "RAZORPAY_WEEKLY_AMOUNT", 129900)
-    RAZORPAY_MONTHLY_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_MONTHLY_AMOUNT", "RAZORPAY_MONTHLY_AMOUNT", 349900)
+    RAZORPAY_WEEKLY_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_WEEKLY_AMOUNT", "RAZORPAY_WEEKLY_AMOUNT", 29900)
+    RAZORPAY_MONTHLY_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_MONTHLY_AMOUNT", "RAZORPAY_MONTHLY_AMOUNT", 299900)
     RAZORPAY_YEARLY_AMOUNT: int = get_env_int_with_fallback("${app_prefix}_RAZORPAY_YEARLY_AMOUNT", "RAZORPAY_YEARLY_AMOUNT", 2999900)
     
     # Razorpay Plan IDs for subscriptions
@@ -100,9 +100,9 @@ def generate_settings_class(
     Generate a Settings class configuration file
     
     Args:
-        app_name: Lowercase app name (e.g., "ask", "reframe")
-        app_display_name: Display name for the app (e.g., "ASK: Daily Research")
-        app_prefix: Uppercase prefix for env vars (e.g., "ASK"). If None, auto-generated from app_name
+        app_name: Lowercase app name (e.g., "sketch2bim")
+        app_display_name: Display name for the app (e.g., "Sketch2BIM")
+        app_prefix: Uppercase prefix for env vars (e.g., "SKETCH2BIM"). If None, auto-generated from app_name
         custom_fields: List of custom field definitions, each with:
             - name: Field name
             - type: Field type (str, int, bool, etc.)
@@ -153,7 +153,7 @@ if __name__ == "__main__":
     
     if len(sys.argv) < 3:
         print("Usage: python generator.py <app_name> <app_display_name> [app_prefix]")
-        print("Example: python generator.py ask 'ASK: Daily Research' ASK")
+        print("Example: python generator.py sketch2bim 'Sketch2BIM' SKETCH2BIM")
         sys.exit(1)
     
     app_name = sys.argv[1]

@@ -38,7 +38,8 @@ export function createAuthFunctions(config: AuthConfig) {
   async function signIn() {
     const authUrl = getAuthUrl();
     const currentUrl = getFrontendUrl(config);
-    redirect(`${authUrl}/api/auth/signin?app=${appName}&returnUrl=${encodeURIComponent(currentUrl)}`);
+    // Redirect directly to Google OAuth endpoint, bypassing intermediate signin page
+    redirect(`${authUrl}/api/auth/signin/google?app=${appName}&returnUrl=${encodeURIComponent(currentUrl)}`);
   }
 
   async function signOut() {
@@ -55,10 +56,10 @@ export function createAuthFunctions(config: AuthConfig) {
 
   const handlers = {
     GET: async () => {
-      redirect(`${getAuthUrl()}/api/auth/signin?app=${appName}`);
+      redirect(`${getAuthUrl()}/api/auth/signin/google?app=${appName}`);
     },
     POST: async () => {
-      redirect(`${getAuthUrl()}/api/auth/signin?app=${appName}`);
+      redirect(`${getAuthUrl()}/api/auth/signin/google?app=${appName}`);
     },
   };
 

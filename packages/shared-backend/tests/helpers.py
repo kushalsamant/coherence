@@ -49,7 +49,7 @@ def create_razorpay_webhook_payload(
 
 def create_mock_razorpay_checkout_response(
     order_id: str = "order_test123",
-    amount: int = 129900,
+    amount: int = 29900,
     currency: str = "INR"
 ) -> Dict[str, Any]:
     """

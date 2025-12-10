@@ -1,3 +1,0 @@
-"""
-ASK services package
-"""

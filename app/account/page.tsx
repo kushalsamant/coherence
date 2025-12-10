@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { useSession } from '@/lib/auth-provider';
+import { useAuth } from '@/lib/auth-provider';
 import { Card, Button } from '@kushalsamant/design-template';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
@@ -18,21 +18,28 @@ interface SubscriptionInfo {
 }
 
 export default function AccountPage() {
-  const { data: session, status } = useSession();
+  const { user, session, loading: authLoading, signOut } = useAuth();
   const router = useRouter();
   const [subscription, setSubscription] = useState<SubscriptionInfo | null>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    if (status === 'unauthenticated') {
+    // Wait for auth to load before making decisions
+    if (authLoading) {
+      return;
+    }
+
+    // Only redirect if we're definitely unauthenticated (not just loading)
+    if (!user || !session) {
       router.push('/api/auth/signin');
       return;
     }
 
-    if (status === 'authenticated') {
+    // Load subscription data when authenticated
+    if (user && session) {
       loadSubscription();
     }
-  }, [status, router]);
+  }, [authLoading, user, session, router]);
 
   const loadSubscription = async () => {
     try {
@@ -88,7 +95,17 @@ export default function AccountPage() {
     }
   };
 
-  if (status === 'loading' || loading) {
+  const handleSignOut = async () => {
+    try {
+      await signOut();
+      router.push('/');
+    } catch (error) {
+      logger.error('Failed to sign out:', error);
+      alert('Failed to sign out. Please try again.');
+    }
+  };
+
+  if (authLoading || loading) {
     return (
       <div style={{ padding: 'var(--space-xl)', textAlign: 'center' }}>
         <div>Loading...</div>
@@ -96,7 +113,7 @@ export default function AccountPage() {
     );
   }
 
-  if (!session) {
+  if (!session || !user) {
     return null;
   }
 
@@ -117,11 +134,16 @@ export default function AccountPage() {
           </h2>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 'var(--space-sm)' }}>
             <div>
-              <strong>Email:</strong> {session.user?.email}
+              <strong>Email:</strong> {user.email}
             </div>
             <div>
-              <strong>Name:</strong> {session.user?.name || 'Not provided'}
+              <strong>Name:</strong> {user.user_metadata?.full_name || user.user_metadata?.name || 'Not provided'}
             </div>
+          </div>
+          <div style={{ marginTop: 'var(--space-md)', paddingTop: 'var(--space-md)', borderTop: '1px solid var(--color-border)' }}>
+            <Button variant="secondary" onClick={handleSignOut}>
+              Sign Out
+            </Button>
           </div>
         </div>
       </Card>
@@ -183,20 +205,10 @@ export default function AccountPage() {
             Platform Apps
           </h2>
           <p style={{ marginBottom: 'var(--space-md)', color: 'var(--color-text-secondary)' }}>
-            Your subscription gives you access to all KVSHVL platform apps:
+            Your subscription gives you access to Sketch2BIM:
           </p>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 'var(--space-sm)' }}>
-            <Link href="/ask" style={{ textDecoration: 'none', color: 'inherit' }}>
-              <Button variant="secondary" style={{ width: '100%', justifyContent: 'flex-start' }}>
-                ASK: Daily Research →
-              </Button>
-            </Link>
-            <Link href="/reframe" style={{ textDecoration: 'none', color: 'inherit' }}>
-              <Button variant="secondary" style={{ width: '100%', justifyContent: 'flex-start' }}>
-                Reframe →
-              </Button>
-            </Link>
-            <Link href="/sketch2bim" style={{ textDecoration: 'none', color: 'inherit' }}>
+            <Link href="https://sketch2bim.kvshvl.in" style={{ textDecoration: 'none', color: 'inherit' }}>
               <Button variant="secondary" style={{ width: '100%', justifyContent: 'flex-start' }}>
                 Sketch2BIM →
               </Button>

@@ -22,7 +22,6 @@ export { default as ShippingPage } from './components/legal/ShippingPage'
 export { default as ContactPage } from './components/legal/ContactPage'
 
 // Utilities
-export * from './lib/theme'
 export { initScrollAnimations } from './lib/scroll-animations'
 export { buildStandardNavLinks, type BuildStandardNavLinksOptions } from './lib/build-standard-nav-links'
 

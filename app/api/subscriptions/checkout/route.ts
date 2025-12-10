@@ -16,12 +16,12 @@ const razorpay = new Razorpay({
 const PLANS = {
   weekly: {
     plan_id: process.env.RAZORPAY_PLAN_WEEKLY || process.env.PLATFORM_RAZORPAY_PLAN_WEEKLY,
-    amount: 129900, // ₹1,299 in paise
+    amount: 29900, // ₹299 in paise
     name: 'Week',
   },
   monthly: {
     plan_id: process.env.RAZORPAY_PLAN_MONTHLY || process.env.PLATFORM_RAZORPAY_PLAN_MONTHLY,
-    amount: 349900, // ₹3,499 in paise
+    amount: 299900, // ₹2,999 in paise
     name: 'Month',
   },
   yearly: {
@@ -37,9 +37,9 @@ export async function POST(req: NextRequest) {
     // In NextAuth v5 API routes, auth() should work automatically with cookies
     const session = await auth();
     
-    logger.info('Session check:', { hasSession: !!session, userEmail: session?.user?.email });
+    logger.info('Session check:', { hasSession: !!session, userEmail: session?.email });
     
-    if (!session?.user?.email) {
+    if (!session?.email) {
       logger.error('Checkout failed: No authenticated user');
       return NextResponse.json({ 
         error: 'Please sign in to subscribe',
@@ -47,7 +47,7 @@ export async function POST(req: NextRequest) {
       }, { status: 401 });
     }
 
-    logger.info(`Checkout initiated by: ${session.user.email}`);
+    logger.info(`Checkout initiated by: ${session.email}`);
 
     const body = await req.json();
     const { tier } = body;
@@ -72,13 +72,13 @@ export async function POST(req: NextRequest) {
       customer_notify: 1,
       total_count: 1,
       notes: {
-        email: session.user.email,
-        name: session.user.name || 'Unknown',
+        email: session.email,
+        name: session.user_metadata?.full_name || session.user_metadata?.name || 'Unknown',
         tier: tier,
       },
     });
 
-    logger.info(`Created subscription for ${session.user.email}: ${subscription.id}`);
+    logger.info(`Created subscription for ${session.email}: ${subscription.id}`);
 
     // Return data for Razorpay checkout
     return NextResponse.json({
@@ -89,8 +89,8 @@ export async function POST(req: NextRequest) {
       name: 'KVSHVL Platform',
       description: `${plan.name} Subscription`,
       prefill: {
-        email: session.user.email,
-        name: session.user.name || '',
+        email: session.email,
+        name: session.user_metadata?.full_name || session.user_metadata?.name || '',
       },
     });
   } catch (error: any) {

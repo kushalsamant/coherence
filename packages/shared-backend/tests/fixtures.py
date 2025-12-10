@@ -81,7 +81,7 @@ def test_payment_data(test_user):
         "user_id": test_user.id,
         "razorpay_payment_id": "pay_test123",
         "razorpay_order_id": "order_test123",
-        "amount": 129900,  # ₹1,299 in paise
+        "amount": 29900,  # ₹299 in paise
         "currency": "INR",
         "status": "succeeded",
         "product_type": "monthly",

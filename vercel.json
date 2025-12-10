@@ -50,67 +50,6 @@
       "permanent": true
     }
   ],
-  "rewrites": [
-    {
-      "source": "/:path*",
-      "has": [
-        {
-          "type": "host",
-          "value": "ask.kvshvl.in"
-        }
-      ],
-      "destination": "/ask/:path*"
-    },
-    {
-      "source": "/:path*",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.ask.kvshvl.in"
-        }
-      ],
-      "destination": "/ask/:path*"
-    },
-    {
-      "source": "/:path*",
-      "has": [
-        {
-          "type": "host",
-          "value": "reframe.kvshvl.in"
-        }
-      ],
-      "destination": "/reframe/:path*"
-    },
-    {
-      "source": "/:path*",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.reframe.kvshvl.in"
-        }
-      ],
-      "destination": "/reframe/:path*"
-    },
-    {
-      "source": "/:path*",
-      "has": [
-        {
-          "type": "host",
-          "value": "sketch2bim.kvshvl.in"
-        }
-      ],
-      "destination": "/sketch2bim/:path*"
-    },
-    {
-      "source": "/:path*",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.sketch2bim.kvshvl.in"
-        }
-      ],
-      "destination": "/sketch2bim/:path*"
-    }
-  ]
+  "rewrites": []
 }
 

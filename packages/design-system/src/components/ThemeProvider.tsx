@@ -1,13 +1,16 @@
 'use client'
 
 import React, { useEffect } from 'react'
-import { initTheme } from '../lib/theme'
 import { initScrollAnimations } from '../lib/scroll-animations'
 
 export default function ThemeProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
-    // Initialize light theme (forced)
-    initTheme()
+    // Ensure light theme (no dark mode)
+    if (typeof document !== 'undefined') {
+      document.documentElement.setAttribute('data-theme', 'light')
+      document.documentElement.classList.remove('dark')
+    }
+    
     const cleanup = initScrollAnimations()
     return cleanup
   }, [])

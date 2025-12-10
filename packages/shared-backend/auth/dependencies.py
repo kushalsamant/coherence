@@ -8,7 +8,7 @@ from fastapi import Depends, Header, HTTPException, status
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from sqlalchemy.orm import Session
 
-from .jwt import decode_nextauth_jwt
+from .jwt import decode_jwt_token, decode_supabase_jwt, decode_nextauth_jwt
 try:
     from ..config.base import get_settings
 except ImportError:
@@ -52,8 +52,13 @@ def get_current_user_factory(
         Dependency that returns the current authenticated user.
         """
         token = credentials.credentials
-        payload = decode_nextauth_jwt(token)
-        email: Optional[str] = payload.get("email")
+        # Try Supabase JWT first, then fall back to NextAuth (legacy)
+        try:
+            payload = decode_supabase_jwt(token)
+            email: Optional[str] = payload.get("email") or payload.get("user_metadata", {}).get("email")
+        except HTTPException:
+            payload = decode_nextauth_jwt(token)
+            email: Optional[str] = payload.get("email")
         
         if not email:
             raise HTTPException(
@@ -128,11 +133,15 @@ def get_current_user_optional_factory(
         
         token = authorization.replace("Bearer ", "")
         try:
-            payload = decode_nextauth_jwt(token)
+            # Try Supabase JWT first, then fall back to NextAuth (legacy)
+            try:
+                payload = decode_supabase_jwt(token)
+                email: Optional[str] = payload.get("email") or payload.get("user_metadata", {}).get("email")
+            except HTTPException:
+                payload = decode_nextauth_jwt(token)
+                email: Optional[str] = payload.get("email")
         except HTTPException:
             return None
-        
-        email: Optional[str] = payload.get("email")
         if not email:
             return None
         

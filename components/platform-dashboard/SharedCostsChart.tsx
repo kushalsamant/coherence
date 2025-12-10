@@ -37,16 +37,8 @@ export default function SharedCostsChart() {
 
   const chartData = [
     {
-      name: 'ASK',
-      cost: data.allocations.ask || 0,
-    },
-    {
       name: 'Sketch2BIM',
       cost: data.allocations.sketch2bim || 0,
-    },
-    {
-      name: 'Reframe',
-      cost: data.allocations.reframe || 0,
     },
   ];
 

@@ -2,7 +2,7 @@
   "name": "kvshvl-platform",
   "version": "1.0.0",
   "private": true,
-  "description": "KVSHVL Platform Monorepo - Unified platform for ASK, Sketch2BIM, and Reframe",
+  "description": "KVSHVL Platform - Transform hand-drawn sketches into BIM models",
   "workspaces": [
     "packages/*",
     "apps/*"
@@ -32,11 +32,12 @@
   "author": "Kushal Samant",
   "license": "MIT",
   "dependencies": {
-    "@auth/upstash-redis-adapter": "^2.11.1",
     "@kushalsamant/design-template": "file:./packages/design-system",
     "@kvshvl/shared-frontend": "file:./packages/shared-frontend",
     "@radix-ui/react-slot": "^1.2.3",
     "@radix-ui/react-toast": "^1.2.15",
+    "@supabase/ssr": "^0.5.2",
+    "@supabase/supabase-js": "^2.47.10",
     "@types/react-syntax-highlighter": "^15.5.11",
     "@upstash/ratelimit": "^2.0.7",
     "@upstash/redis": "^1.35.6",
@@ -50,7 +51,6 @@
     "lucide-react": "^0.552.0",
     "micro": "^10.0.1",
     "next": "^16.0.7",
-    "next-auth": "5.0.0-beta.30",
     "razorpay": "^2.9.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -82,6 +82,7 @@
     "tailwindcss": "^3.4.18",
     "tailwindcss-animate": "^1.0.7",
     "tsx": "^4.19.2",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.2",
+    "playwright": "^1.48.0"
   }
 }

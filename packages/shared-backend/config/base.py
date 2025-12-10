@@ -17,7 +17,7 @@ def get_env_with_fallback(prefixed_key: str, unprefixed_key: str, default: str) 
     Empty strings are treated as missing values and trigger fallback.
     
     Args:
-        prefixed_key: The prefixed environment variable name (e.g., "ASK_RAZORPAY_WEEKLY_AMOUNT")
+        prefixed_key: The prefixed environment variable name (e.g., "SKETCH2BIM_RAZORPAY_WEEKLY_AMOUNT")
         unprefixed_key: The unprefixed environment variable name (e.g., "RAZORPAY_WEEKLY_AMOUNT")
         default: Default value to use if both are missing or empty
     
@@ -46,7 +46,7 @@ def get_env_int_with_fallback(prefixed_key: str, unprefixed_key: str, default: i
     Empty strings are treated as missing values and trigger fallback.
     
     Args:
-        prefixed_key: The prefixed environment variable name (e.g., "ASK_RAZORPAY_WEEKLY_AMOUNT")
+        prefixed_key: The prefixed environment variable name (e.g., "SKETCH2BIM_RAZORPAY_WEEKLY_AMOUNT")
         unprefixed_key: The unprefixed environment variable name (e.g., "RAZORPAY_WEEKLY_AMOUNT")
         default: Default integer value to use if both are missing or empty
     

@@ -4,11 +4,11 @@
  * Supports both Redis and database storage
  */
 
-// Groq pricing for llama-3.1-8b-instant (Reframe model)
+// Groq pricing for llama-3.1-8b-instant
 const GROQ_8B_INPUT_COST_PER_MILLION = 0.05; // $0.05 per 1M input tokens
 const GROQ_8B_OUTPUT_COST_PER_MILLION = 0.08; // $0.08 per 1M output tokens
 
-// Groq pricing for llama-3.1-70b-versatile (ASK model)
+// Groq pricing for llama-3.1-70b-versatile
 const GROQ_70B_INPUT_COST_PER_MILLION = 0.59; // $0.59 per 1M input tokens
 const GROQ_70B_OUTPUT_COST_PER_MILLION = 0.79; // $0.79 per 1M output tokens
 
@@ -38,7 +38,7 @@ export function calculateGroqCost(
 }
 
 /**
- * Track Groq API usage in Redis (for Reframe and other Redis-based apps)
+ * Track Groq API usage in Redis (for Sketch2BIM and other Redis-based apps)
  */
 export async function trackGroqUsageRedis(
   getRedisClient: () => any,

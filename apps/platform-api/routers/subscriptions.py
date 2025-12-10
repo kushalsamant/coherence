@@ -1,7 +1,7 @@
 """
 Unified Subscription Router
-Handles platform-wide subscription management for KVSHVL Platform
-Uses platform-wide Razorpay configuration and ASK database for user management
+Handles platform-wide subscription management for all apps
+Uses platform-wide Razorpay configuration and shared platform database for user management
 """
 
 from fastapi import APIRouter, HTTPException, Depends, Header, Request
@@ -18,10 +18,10 @@ import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-# Import ASK database/auth/models (platform subscriptions use ASK's user table)
-from database.ask import get_db
-from models.ask import User, Payment
-from auth.ask import get_current_user
+# Import platform database/auth/models (platform subscriptions use platform's user table)
+from database.platform import get_db
+from models.platform_user import User, Payment
+from auth.platform import get_current_user
 from shared_backend.subscription.utils import (
     calculate_expiry,
     ensure_subscription_status,
@@ -42,8 +42,8 @@ PLATFORM_RAZORPAY_PLAN_YEARLY = os.getenv("PLATFORM_RAZORPAY_PLAN_YEARLY", "")
 
 # Pricing amounts in paise (₹1 = 100 paise)
 # These should match the plan amounts in Razorpay
-PLATFORM_RAZORPAY_WEEKLY_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_WEEKLY_AMOUNT", "129900"))
-PLATFORM_RAZORPAY_MONTHLY_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_MONTHLY_AMOUNT", "349900"))
+PLATFORM_RAZORPAY_WEEKLY_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_WEEKLY_AMOUNT", "29900"))
+PLATFORM_RAZORPAY_MONTHLY_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_MONTHLY_AMOUNT", "299900"))
 PLATFORM_RAZORPAY_YEARLY_AMOUNT = int(os.getenv("PLATFORM_RAZORPAY_YEARLY_AMOUNT", "2999900"))
 
 # Frontend URL for redirects

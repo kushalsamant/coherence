@@ -5,8 +5,7 @@ from fastapi import APIRouter, Depends, status, HTTPException
 from fastapi.responses import JSONResponse
 from sqlalchemy.orm import Session
 from sqlalchemy import text
-from database.ask import get_db as get_ask_db
-from database.sketch2bim import get_db as get_sketch2bim_db
+from database.platform import get_db as get_platform_db
 import os
 
 router = APIRouter(tags=["health"])
@@ -22,9 +21,9 @@ async def health_check():
         status_code=200,
         content={
             "status": "healthy",
-            "service": "KVSHVL Platform API",
+            "service": "Platform API",
             "version": "1.0.0",
-            "apps": ["ask", "reframe", "sketch2bim"]
+            "app": "platform"
         },
     )
 
@@ -40,22 +39,20 @@ async def liveness_probe():
         status_code=200,
         content={
             "status": "alive",
-            "service": "KVSHVL Platform API"
+            "service": "Platform API"
         }
     )
 
 
 @router.get("/health/ready", status_code=status.HTTP_200_OK)
 async def readiness_probe(
-    ask_db: Session = Depends(get_ask_db),
-    sketch2bim_db: Session = Depends(get_sketch2bim_db)
+    platform_db: Session = Depends(get_platform_db)
 ):
     """
     Kubernetes readiness probe
     Indicates if the service is ready to handle requests
     Checks:
-    - Database connectivity (ASK)
-    - Database connectivity (Sketch2BIM)
+    - Database connectivity (Platform)
     - Critical environment variables
     
     Returns 200 if ready, 503 if not ready
@@ -63,26 +60,17 @@ async def readiness_probe(
     checks = {}
     all_healthy = True
     
-    # Check ASK database
+    # Check Platform database
     try:
-        ask_db.execute(text("SELECT 1"))
-        checks["ask_database"] = "ok"
+        platform_db.execute(text("SELECT 1"))
+        checks["platform_database"] = "ok"
     except Exception as e:
-        checks["ask_database"] = f"error: {str(e)}"
-        all_healthy = False
-    
-    # Check Sketch2BIM database
-    try:
-        sketch2bim_db.execute(text("SELECT 1"))
-        checks["sketch2bim_database"] = "ok"
-    except Exception as e:
-        checks["sketch2bim_database"] = f"error: {str(e)}"
+        checks["platform_database"] = f"error: {str(e)}"
         all_healthy = False
     
     # Check critical environment variables
     required_env_vars = [
-        "ASK_DATABASE_URL",
-        "SKETCH2BIM_DATABASE_URL",
+        "PLATFORM_DATABASE_URL",
     ]
     
     for env_var in required_env_vars:
@@ -97,7 +85,7 @@ async def readiness_probe(
             status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
             detail={
                 "status": "not_ready",
-                "service": "KVSHVL Platform API",
+                "service": "Platform API",
                 "checks": checks
             }
         )
@@ -106,7 +94,7 @@ async def readiness_probe(
         status_code=200,
         content={
             "status": "ready",
-            "service": "KVSHVL Platform API",
+            "service": "Platform API",
             "checks": checks
         }
     )

@@ -1,6 +1,6 @@
 /**
  * Shared Razorpay checkout utilities
- * Used across ASK, Reframe, and Sketch2BIM
+ * Used for Sketch2BIM payments
  */
 
 import { logger } from '@/lib/logger';

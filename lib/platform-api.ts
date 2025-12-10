@@ -1,13 +1,13 @@
 /**
- * Platform-wide API Client for KVSHVL Platform Feasibility Analysis
- * Fetches data from all projects (ASK, Sketch2BIM, Reframe) via the ASK backend.
+ * Platform-wide API Client for KVSHVL
+ * Fetches data for KVSHVL platform analysis.
  */
 
 import logger from "@/lib/logger";
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 
-// Type definitions (mirrored from ASK frontend client)
+// Type definitions for platform analysis
 export interface UnitEconomics {
   project: string;
   revenue_per_user_paise: number;
@@ -255,7 +255,7 @@ export async function getUsage(days: number = 30): Promise<unknown> {
 }
 
 export async function getSummary(): Promise<unknown> {
-  return fetchAPI('/api/monitoring/summary');
+  return fetchAPI('/api/sketch2bim/monitoring/summary');
 }
 
 export async function getAlerts(): Promise<{

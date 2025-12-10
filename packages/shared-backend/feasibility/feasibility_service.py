@@ -13,8 +13,8 @@ log = logging.getLogger(__name__)
 # Pricing structure (in paise, ₹1 = 100 paise)
 # Shared across all projects - using "monthly"/"yearly" standard
 PRICING_TIERS = {
-    "weekly": 129900,  # ₹1,299/weekly
-    "monthly": 349900,  # ₹3,499/monthly
+    "weekly": 29900,  # ₹299/weekly
+    "monthly": 299900,  # ₹2,999/monthly
     "yearly": 2999900,  # ₹29,999/yearly
 }
 
@@ -53,7 +53,7 @@ def calculate_unit_economics(
     Calculate unit economics for a project.
     
     Args:
-        project_name: Name of the project (ask, sketch2bim, reframe)
+        project_name: Name of the project (sketch2bim)
         cost_per_user: Direct cost per user (in USD or paise)
         revenue_per_user: Revenue per user after fees (in paise)
         shared_infrastructure_cost_per_user: Allocated shared infrastructure cost per user

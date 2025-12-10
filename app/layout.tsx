@@ -1,9 +1,11 @@
 import type { Metadata, Viewport } from 'next'
+import { headers } from 'next/headers'
 import { Inter } from 'next/font/google'
 import { ThemeProvider } from '@kushalsamant/design-template'
 import { AuthProvider } from '@/lib/auth-provider'
-import HeaderWrapper from '@/components/HeaderWrapper'
-import FooterWrapper from '@/components/FooterWrapper'
+import { getCurrentSession } from '@/lib/auth'
+import ConditionalLayoutWrapper from '@/components/ConditionalLayoutWrapper'
+import Analytics from '@/components/Analytics'
 import '@kushalsamant/design-template/styles/globals.css'
 import './globals.css'
 
@@ -15,26 +17,26 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'KVSHVL',
-    template: '%s | KVSHVL',
+    default: 'Sketch2BIM - Transform Sketches into BIM Models',
+    template: '%s | Sketch2BIM',
   },
-  description: 'Licensed architect and software developer. Problem solver across architecture, SaaS development, and design. 150+ projects, 296 essays.',
-  keywords: 'Architecture, CSS, HTML, Javascript, People, Places, Visual Art, Web',
+  description: 'Transform hand-drawn architectural sketches into BIM models. Building information modeling for architectural, landscape, urban design, and urban planning projects. Convert your sketches into industry-standard IFC, DWG, RVT, and SKP formats.',
+  keywords: 'BIM, Building Information Modeling, Architecture, Sketch to BIM, IFC, CAD, Architectural Design, Sketch Conversion',
   authors: [{ name: 'Kushal Samant' }],
   creator: 'Kushal Samant',
   publisher: 'Kushal Samant',
   openGraph: {
-    title: 'KVSHVL',
-    description: 'Licensed architect and software developer. Problem solver across architecture, SaaS development, and design.',
+    title: 'Sketch2BIM - Transform Sketches into BIM Models',
+    description: 'Transform hand-drawn architectural sketches into BIM models. Building information modeling for architectural, landscape, urban design, and urban planning projects. Convert your sketches into industry-standard IFC, DWG, RVT, and SKP formats.',
     url: 'https://kvshvl.in',
-    siteName: 'KVSHVL',
+    siteName: 'Sketch2BIM',
     locale: 'en_US',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'KVSHVL',
-    description: 'Licensed architect and software developer. Problem solver across architecture, SaaS development, and design.',
+    title: 'Sketch2BIM - Transform Sketches into BIM Models',
+    description: 'Transform hand-drawn architectural sketches into BIM models. Building information modeling for architectural, landscape, urban design, and urban planning projects. Convert your sketches into industry-standard IFC, DWG, RVT, and SKP formats.',
     site: '@kvshvl_',
     creator: '@kvshvl_',
   },
@@ -49,11 +51,12 @@ export const viewport: Viewport = {
   themeColor: '#9333EA',
 }
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
+  const session = await getCurrentSession();
   const organizationSchema = {
     '@context': 'https://schema.org',
     '@type': 'Person',
@@ -94,20 +97,59 @@ export default function RootLayout({
   }
 
   return (
-    <html lang="en" className={inter.variable}>
+    <html lang="en" className={inter.variable} data-theme="light">
       <head>
         <meta name="theme-color" content="#ffffff" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              // Ensure light theme (no dark mode)
+              document.documentElement.setAttribute('data-theme', 'light');
+              document.documentElement.classList.remove('dark');
+            `,
+          }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
         />
+        {/* Google Analytics */}
+        {process.env.NEXT_PUBLIC_GA_ID && (
+          <>
+            <script
+              async
+              src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`}
+            />
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', '${process.env.NEXT_PUBLIC_GA_ID}', {
+                    page_path: window.location.pathname,
+                  });
+                `,
+              }}
+            />
+          </>
+        )}
+        {/* Plausible Analytics */}
+        {process.env.NEXT_PUBLIC_PLAUSIBLE_DOMAIN && (
+          <script
+            defer
+            data-domain={process.env.NEXT_PUBLIC_PLAUSIBLE_DOMAIN}
+            src="https://plausible.io/js/script.js"
+          />
+        )}
       </head>
       <body className={inter.className}>
         <AuthProvider>
         <ThemeProvider>
-          <HeaderWrapper />
-          <main id="main-content">{children}</main>
-          <FooterWrapper />
+          <Analytics />
+          <ConditionalLayoutWrapper>
+            {children}
+          </ConditionalLayoutWrapper>
         </ThemeProvider>
         </AuthProvider>
       </body>

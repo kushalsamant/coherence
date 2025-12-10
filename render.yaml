@@ -26,19 +26,13 @@ services:
       - key: PLATFORM_DEBUG
         value: "false"
       - key: PLATFORM_CORS_ORIGINS
-        value: "https://kvshvl.in,https://www.kvshvl.in,https://ask.kvshvl.in,https://reframe.kvshvl.in,https://sketch2bim.kvshvl.in"
+        value: "https://kvshvl.in,https://www.kvshvl.in,https://sketch2bim.kvshvl.in"
       
-      # Database Configuration (Upstash Postgres)
-      # Upstash Postgres uses separate databases (not schemas)
-      # ASK and Sketch2BIM each have their own database connection strings
-      - key: ASK_DATABASE_URL
+      # Database Configuration (Shared Platform Database)
+      # Shared database used by home site and sketch2bim
+      - key: PLATFORM_DATABASE_URL
         sync: false
-        # Upstash Postgres connection string for ASK database
-        # Format: postgresql://[USER]:[PASSWORD]@[HOST]:[PORT]/[DATABASE]
-        # Get from: https://console.upstash.com/postgres
-      - key: SKETCH2BIM_DATABASE_URL
-        sync: false
-        # Upstash Postgres connection string for Sketch2BIM database
+        # Shared platform database connection string
         # Format: postgresql://[USER]:[PASSWORD]@[HOST]:[PORT]/[DATABASE]
         # Get from: https://console.upstash.com/postgres
       
@@ -56,42 +50,24 @@ services:
       - key: PLATFORM_RAZORPAY_WEBHOOK_SECRET
         sync: false
       - key: PLATFORM_RAZORPAY_PLAN_WEEKLY
-        value: "plan_Rnb1CCVRIvBK2W"
+        value: "plan_RpPWbi4QjNg3be"
       - key: PLATFORM_RAZORPAY_PLAN_MONTHLY
-        value: "plan_Rnb1CsrwHntisk"
+        value: "plan_RpPWcMzjryEIxp"
       - key: PLATFORM_RAZORPAY_PLAN_YEARLY
-        value: "plan_Rnb1DZy2EHhHqT"
+        value: "plan_RpPWcsVTseLwnQ"
       
-      # App-specific environment variables (namespaced)
-      # ASK Configuration
-      - key: ASK_GROQ_API_KEY
-        sync: false
-      - key: ASK_GROQ_API_BASE
-        value: "https://api.groq.com/openai/v1"
-      - key: ASK_GROQ_MODEL
-        value: "llama-3.1-70b-versatile"
+      # Note: Sketch2BIM-specific environment variables removed
+      # Sketch2BIM is now a separate repository with its own deployment
       
-      # Reframe Configuration
-      - key: REFRAME_GROQ_API_KEY
+      # Supabase Configuration (replaces NextAuth/Google OAuth)
+      - key: NEXT_PUBLIC_SUPABASE_URL
         sync: false
-      - key: REFRAME_FREE_LIMIT
-        value: "5"
-      
-      # Sketch2BIM Configuration
-      - key: SKETCH2BIM_GROQ_API_KEY
+      - key: NEXT_PUBLIC_SUPABASE_ANON_KEY
         sync: false
-      - key: SKETCH2BIM_REPLICATE_API_KEY
-        sync: false
-      - key: SKETCH2BIM_REPLICATE_MODEL_ID
-        value: "kushalsamant/sketch2bim-processor"
-      - key: SKETCH2BIM_BUNNY_STORAGE_ZONE
-        sync: false
-      - key: SKETCH2BIM_BUNNY_ACCESS_KEY
-        sync: false
-      - key: SKETCH2BIM_BUNNY_CDN_HOSTNAME
+      - key: SUPABASE_SERVICE_ROLE_KEY
         sync: false
       
-      # Authentication
+      # Legacy Authentication (deprecated - kept for backward compatibility)
       - key: PLATFORM_NEXTAUTH_SECRET
         sync: false
       - key: PLATFORM_AUTH_SECRET
@@ -102,9 +78,9 @@ services:
         value: "writetokushaldsamant@gmail.com,kushaldsamant@gmail.com,samant.kushal@gmail.com,yourmailproject@gmail.com"
 
 # Notes:
-# - Single unified backend service replaces 3 separate services
-# - Uses Upstash Postgres databases (separate databases for ASK and Sketch2BIM)
+# - Platform backend service (home site)
+# - Uses shared platform database (PLATFORM_DATABASE_URL)
 # - Uses shared Upstash Redis for caching
-# - Unified Razorpay configuration for platform-wide subscriptions
-# - App-specific env vars are namespaced (ASK_*, REFRAME_*, SKETCH2BIM_*)
+# - Unified Razorpay configuration for subscriptions
+# - Sketch2BIM is now a separate repository with its own deployment
 # - All secrets use sync: false to prompt for values in Render Dashboard

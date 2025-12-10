@@ -91,10 +91,8 @@ function SubscribeContent() {
       period: 'per week',
       description: 'Perfect for short-term projects.',
       features: [
-        'Access to all KVSHVL platform apps',
-        'ASK: Daily Research',
-        'Reframe',
-        'Sketch2BIM',
+        'Access to Sketch2BIM',
+        'Transform sketches to BIM models',
         '7-day access',
         'All features unlocked'
       ],
@@ -108,10 +106,8 @@ function SubscribeContent() {
       period: 'per month',
       description: 'Best value for regular users.',
       features: [
-        'Access to all KVSHVL platform apps',
-        'ASK: Daily Research',
-        'Reframe',
-        'Sketch2BIM',
+        'Access to Sketch2BIM',
+        'Transform sketches to BIM models',
         '30-day access',
         'All features unlocked',
         'Priority support'
@@ -126,10 +122,8 @@ function SubscribeContent() {
       period: 'per year',
       description: 'Maximum savings for long-term use.',
       features: [
-        'Access to all KVSHVL platform apps',
-        'ASK: Daily Research',
-        'Reframe',
-        'Sketch2BIM',
+        'Access to Sketch2BIM',
+        'Transform sketches to BIM models',
         '365-day access',
         'All features unlocked',
         'Priority support',

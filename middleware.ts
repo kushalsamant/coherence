@@ -32,17 +32,6 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // For app routes (/ask, /reframe, /sketch2bim)
-  // Subscription checking is handled at the API level for each request
-  // This allows for more flexible access control and better error handling
-  if (
-    pathname.startsWith('/ask') ||
-    pathname.startsWith('/reframe') ||
-    pathname.startsWith('/sketch2bim')
-  ) {
-    // Allow access - individual API routes handle subscription validation
-  }
-
   return NextResponse.next();
 }
 

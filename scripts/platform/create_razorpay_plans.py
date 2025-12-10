@@ -60,9 +60,9 @@ PLANS = [
         "period": "weekly",
         "interval": 1,
         "item": {
-            "name": "KVSHVL Platform - Weekly Subscription",
-            "description": "Weekly access to all KVSHVL platform apps (ASK, Reframe, Sketch2BIM)",
-            "amount": 129900,  # ₹1,299 in paise
+            "name": "Weekly Subscription",
+            "description": "Weekly platform access",
+            "amount": 29900,  # ₹299 in paise
             "currency": "INR"
         },
         "notes": {
@@ -74,9 +74,9 @@ PLANS = [
         "period": "monthly",
         "interval": 1,
         "item": {
-            "name": "KVSHVL Platform - Monthly Subscription",
-            "description": "Monthly access to all KVSHVL platform apps (ASK, Reframe, Sketch2BIM)",
-            "amount": 349900,  # ₹3,499 in paise
+            "name": "Monthly Subscription",
+            "description": "Monthly platform access",
+            "amount": 299900,  # ₹2,999 in paise
             "currency": "INR"
         },
         "notes": {
@@ -88,8 +88,8 @@ PLANS = [
         "period": "yearly",
         "interval": 1,
         "item": {
-            "name": "KVSHVL Platform - Yearly Subscription",
-            "description": "Yearly access to all KVSHVL platform apps (ASK, Reframe, Sketch2BIM)",
+            "name": "Yearly Subscription",
+            "description": "Yearly platform access",
             "amount": 2999900,  # ₹29,999 in paise
             "currency": "INR"
         },
@@ -124,22 +124,23 @@ def create_plan(plan_data):
         return None
 
 def check_existing_plans():
-    """Check if plans already exist"""
+    """Check if plans already exist with new names and amounts"""
     try:
         plans = client.plan.all()
         existing = {}
         if plans and 'items' in plans:
             for plan in plans['items']:
                 item_name = plan.get('item', {}).get('name', '')
+                item_amount = plan.get('item', {}).get('amount', 0)
                 notes = plan.get('notes', {})
                 
-                # Match by name and platform note
-                if 'KVSHVL Platform' in item_name and notes.get('platform') == 'kvshvl':
-                    if 'Week' in item_name:
+                # Match by exact new name, amount, and platform note
+                if notes.get('platform') == 'kvshvl':
+                    if item_name == 'Weekly Subscription' and item_amount == 29900:
                         existing['weekly'] = plan['id']
-                    elif 'Month' in item_name and 'yearly' not in existing:
+                    elif item_name == 'Monthly Subscription' and item_amount == 299900:
                         existing['monthly'] = plan['id']
-                    elif 'Year' in item_name:
+                    elif item_name == 'Yearly Subscription' and item_amount == 2999900:
                         existing['yearly'] = plan['id']
         return existing
     except Exception as e:

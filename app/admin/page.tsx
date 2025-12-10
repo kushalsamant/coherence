@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { useSession } from '@/lib/auth-provider'
+import { useAuth } from '@/lib/auth-provider'
 import { useRouter } from 'next/navigation'
 import { Card } from '@kushalsamant/design-template'
 import { logger } from '@/lib/logger'
@@ -27,7 +27,7 @@ import SharedCostsChart from '@/components/platform-dashboard/SharedCostsChart'
 import ProjectComparisonChart from '@/components/platform-dashboard/ProjectComparisonChart'
 
 export default function RootPlatformDashboard() {
-  const { data: session, status } = useSession()
+  const { user, session, loading: authLoading } = useAuth()
   const router = useRouter()
 
   const [loading, setLoading] = useState(true)
@@ -45,7 +45,11 @@ export default function RootPlatformDashboard() {
   // Check authentication and admin access
   useEffect(() => {
     const checkAccess = async () => {
-      if (status === 'unauthenticated') {
+      if (authLoading) {
+        return
+      }
+      
+      if (!user || !session) {
         router.push('/api/auth/signin')
         return
       }
@@ -240,9 +244,7 @@ export default function RootPlatformDashboard() {
             className="px-3 py-2 border rounded-md bg-background"
           >
             <option value="all">All Projects</option>
-            <option value="ask">ASK</option>
             <option value="sketch2bim">Sketch2BIM</option>
-            <option value="reframe">Reframe</option>
           </select>
         </div>
       </div>
@@ -289,7 +291,7 @@ export default function RootPlatformDashboard() {
         </a>
         <span> · </span>
         <a
-          href={`${CLIENT_CONFIG.API_URL}/api/ask/monitoring/summary`}
+          href={`${CLIENT_CONFIG.API_URL}/api/sketch2bim/monitoring/summary`}
           target="_blank"
           rel="noreferrer"
           className="underline hover:text-primary"

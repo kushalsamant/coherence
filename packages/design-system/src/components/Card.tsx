@@ -6,6 +6,8 @@ interface CardProps {
   className?: string
   hover?: boolean
   onClick?: () => void
+  href?: string
+  LinkComponent?: React.ComponentType<any>
   style?: React.CSSProperties
 }
 
@@ -15,12 +17,31 @@ export default function Card({
   className = '',
   hover = true,
   onClick,
+  href,
+  LinkComponent,
   style,
 }: CardProps) {
   const baseClasses = 'card'
   const variantClasses = variant === 'elevated' ? 'card-elevated' : variant === 'outlined' ? 'card-outlined' : ''
   const hoverClass = hover ? 'card-hover' : ''
   const classes = `${baseClasses} ${variantClasses} ${hoverClass} ${className}`.trim()
+
+  // If href is provided, render as link
+  if (href) {
+    const Link = LinkComponent || (({ href, className, children, ...props }: any) => (
+      <a href={href} className={className} {...props}>{children}</a>
+    ))
+    
+    return (
+      <Link
+        href={href}
+        className={classes}
+        style={{ ...style, textDecoration: 'none', color: 'inherit', display: 'block' }}
+      >
+        {children}
+      </Link>
+    )
+  }
 
   if (onClick) {
     return (

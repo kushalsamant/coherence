@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { authFunction as auth } from '@/app/ask/auth';
+import { auth } from '@/lib/auth';
 import { logger } from '@/lib/logger';
 import { API_CONFIG } from "@/lib/config";
 

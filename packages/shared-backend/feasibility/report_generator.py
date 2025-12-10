@@ -42,7 +42,7 @@ def generate_feasibility_report_json(
             "generated_at": datetime.utcnow().isoformat(),
             "report_type": "business_feasibility_analysis",
             "platform": "KVSHVL",
-            "projects": ["ASK", "Sketch2BIM", "Reframe"],
+            "projects": ["Sketch2BIM"],
         },
         "executive_summary": {
             "platform_revenue_usd": consolidated_data.get("platform_margins", {}).get("total_revenue_usd", 0),

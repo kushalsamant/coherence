@@ -71,29 +71,13 @@ export const fileUploadSchema = z.object({
   mimetype: z.string().min(1, 'MIME type is required'),
 });
 
-/**
- * ASK-specific schemas
- */
-export const askGenerationSchema = z.object({
-  keywords: keywordsSchema,
-  session_id: z.string().optional(),
-  theme: themeSchema.optional(),
-  count: z.coerce.number().int().positive().max(10).default(1),
-});
-
-/**
- * Reframe-specific schemas
- */
-export const reframeGenerationSchema = z.object({
-  content: z.string().min(10, 'Content must be at least 10 characters'),
-  tone: z.enum(['professional', 'casual', 'academic', 'creative']).default('professional'),
-});
+// Removed legacy app schemas - platform now focuses on Sketch2BIM
 
 /**
  * Sketch2BIM-specific schemas
  */
 export const sketch2bimJobSchema = z.object({
-  project_type: z.enum(['architecture', 'engineering']).default('architecture'),
+  project_type: z.enum(['architecture', 'landscape', 'urban_design', 'urban_planning']).default('architecture'),
   detection_confidence: z.coerce.number().min(0).max(1).default(0.5),
 });
 

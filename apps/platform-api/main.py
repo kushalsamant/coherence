@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Unified FastAPI Backend Server for KVSHVL Platform
-Combines ASK, Reframe, and Sketch2BIM backends into a single service
+KVSHVL Platform API Server
+FastAPI backend for platform - Subscription management and user authentication
+Note: Sketch2BIM API is now in a separate repository
 """
 
 import sys
@@ -47,32 +48,20 @@ except Exception as e:
     raise
 
 try:
-    from routers.ask import router as ask_router
-    logger.info("✅ ASK router imported successfully")
-except Exception as e:
-    logger.error(f"❌ Failed to import ASK router: {e}")
-    raise
-
-try:
-    from routers.reframe import router as reframe_router
-    logger.info("✅ Reframe router imported successfully")
-except Exception as e:
-    logger.error(f"❌ Failed to import Reframe router: {e}")
-    raise
-
-try:
-    from routers.sketch2bim import router as sketch2bim_router
-    logger.info("✅ Sketch2BIM router imported successfully")
-except Exception as e:
-    logger.error(f"❌ Failed to import Sketch2BIM router: {e}")
-    raise
-
-try:
     from routers import subscriptions
     logger.info("✅ Subscriptions router imported successfully")
 except Exception as e:
     logger.error(f"❌ Failed to import Subscriptions router: {e}")
     raise
+
+try:
+    from routers import users
+    logger.info("✅ Users router imported successfully")
+except Exception as e:
+    logger.error(f"❌ Failed to import Users router: {e}")
+    raise
+
+# Note: Sketch2BIM router is now in the sketch2bim repository
 
 # Get CORS origins from centralized config
 CORS_ORIGINS = settings.cors_origins_list
@@ -81,7 +70,7 @@ CORS_ORIGINS = settings.cors_origins_list
 logger.info("Creating FastAPI application...")
 app = FastAPI(
     title=settings.APP_NAME,
-    description="Unified API for KVSHVL platform applications: ASK, Reframe, and Sketch2BIM",
+    description="KVSHVL Platform API - Subscription management and user authentication",
     version=settings.VERSION,
     docs_url="/docs" if not settings.is_production else None,  # Disable docs in production for security
     redoc_url="/redoc" if not settings.is_production else None
@@ -109,18 +98,15 @@ logger.info("Including routers...")
 app.include_router(health.router)
 logger.info("✅ Health router included at root level")
 
-app.include_router(ask_router, prefix="/api/ask", tags=["ask"])
-logger.info("✅ ASK router included at /api/ask")
+# Note: Sketch2BIM router is now in the sketch2bim repository (separate deployment)
 
-app.include_router(reframe_router, prefix="/api/reframe", tags=["reframe"])
-logger.info("✅ Reframe router included at /api/reframe")
-
-app.include_router(sketch2bim_router, prefix="/api/sketch2bim", tags=["sketch2bim"])
-logger.info("✅ Sketch2BIM router included at /api/sketch2bim")
-
-# Unified subscription routes
+# Platform subscription routes
 app.include_router(subscriptions.router, prefix="/api/subscriptions", tags=["subscriptions"])
 logger.info("✅ Subscriptions router included at /api/subscriptions")
+
+# Platform user routes (for external apps)
+app.include_router(users.router, prefix="/api/users", tags=["users"])
+logger.info("✅ Users router included at /api/users")
 
 logger.info("=" * 80)
 logger.info("All routers loaded successfully. Application ready.")
@@ -129,10 +115,8 @@ logger.info("  - GET  /")
 logger.info("  - GET  /health")
 logger.info("  - GET  /health/live")
 logger.info("  - GET  /health/ready")
-logger.info("  - *    /api/ask/*")
-logger.info("  - *    /api/reframe/*")
-logger.info("  - *    /api/sketch2bim/*")
 logger.info("  - *    /api/subscriptions/*")
+logger.info("  - *    /api/users/*")
 logger.info("=" * 80)
 
 
@@ -144,25 +128,16 @@ async def startup_event():
     logger.info(f"Debug mode: {settings.DEBUG}")
     logger.info(f"Workers: {settings.WORKERS}")
     
-    # Test database connections
-    logger.info("Testing database connections...")
+    # Test database connection
+    logger.info("Testing database connection...")
     try:
-        from database.ask import engine as ask_engine
-        with ask_engine.connect() as conn:
+        from database.platform import engine as platform_engine
+        with platform_engine.connect() as conn:
             conn.execute(text("SELECT 1"))
-        logger.info("✅ ASK database connection successful")
+        logger.info("✅ Platform database connection successful")
     except Exception as e:
-        logger.error(f"❌ ASK database connection failed: {e}")
-        logger.warning("Continuing without ASK database - some features may not work")
-    
-    try:
-        from database.sketch2bim import engine as sketch2bim_engine
-        with sketch2bim_engine.connect() as conn:
-            conn.execute(text("SELECT 1"))
-        logger.info("✅ Sketch2BIM database connection successful")
-    except Exception as e:
-        logger.error(f"❌ Sketch2BIM database connection failed: {e}")
-        logger.warning("Continuing without Sketch2BIM database - some features may not work")
+        logger.error(f"❌ Platform database connection failed: {e}")
+        logger.warning("Continuing without database - some features may not work")
 
 
 @app.get("/")
@@ -171,18 +146,17 @@ async def root():
     return {
         "message": settings.APP_NAME,
         "version": settings.VERSION,
-        "apps": ["ask", "reframe", "sketch2bim"],
+        "app": "platform",
         "status": "operational",
         "environment": settings.ENVIRONMENT,
+        "description": "KVSHVL Platform API - Subscription management and user authentication",
         "endpoints": {
             "health": "/health",
             "health_live": "/health/live",
             "health_ready": "/health/ready",
             "docs": "/docs" if not settings.is_production else None,
-            "ask": "/api/ask",
-            "reframe": "/api/reframe",
-            "sketch2bim": "/api/sketch2bim",
-            "subscriptions": "/api/subscriptions"
+            "subscriptions": "/api/subscriptions",
+            "users": "/api/users"
         }
     }
 

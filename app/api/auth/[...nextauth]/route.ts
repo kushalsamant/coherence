@@ -1,9 +1,13 @@
-import { handlers } from "@/lib/auth";
+// Legacy NextAuth route - replaced with Supabase Auth
+// This file is kept for backward compatibility during migration
+// All auth routes are now handled by Supabase Auth
 
-// Log to verify the route is being loaded
-console.log("NextAuth route handler loaded, handlers:", typeof handlers);
+import { NextResponse } from 'next/server';
 
-export const GET = handlers.GET;
-export const POST = handlers.POST;
-export const runtime = "nodejs";
+export async function GET() {
+  return NextResponse.redirect('/api/auth/signin');
+}
 
+export async function POST() {
+  return NextResponse.json({ error: 'NextAuth is deprecated. Use Supabase Auth instead.' }, { status: 410 });
+}

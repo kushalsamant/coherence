@@ -6,7 +6,8 @@
 import React, { type ReactNode, type ComponentType } from "react";
 import ThemeProvider from "./ThemeProvider";
 import AppFooter from "./AppFooter";
-import { SessionProvider } from "next-auth/react";
+// Note: SessionProvider removed - apps should use their own AuthProvider
+// This component no longer wraps with SessionProvider to allow apps to use Supabase Auth
 import type { AppLayoutProps } from "./AppLayoutProps";
 
 const DEFAULT_SOCIAL_LINKS = [
@@ -56,23 +57,21 @@ export function AppLayout({
 
   return (
     <ThemeProvider>
-      <SessionProvider>
-        {headerContent}
-        <main id="main-content" role="main">
-          {children}
-        </main>
-        <AppFooter
-          legalLinks={legalLinks}
-          socialLinks={socialLinks}
-          branding={footerBranding || brandingText}
-          companyLink={companyLink}
-          companyLabel={companyLabel}
-          LinkComponent={LinkComponent}
-        />
-        {additionalBodyContent.map((content, index) => (
-          <React.Fragment key={index}>{content}</React.Fragment>
-        ))}
-      </SessionProvider>
+      {headerContent}
+      <main role="main">
+        {children}
+      </main>
+      <AppFooter
+        legalLinks={legalLinks}
+        socialLinks={socialLinks}
+        branding={footerBranding || brandingText}
+        companyLink={companyLink}
+        companyLabel={companyLabel}
+        LinkComponent={LinkComponent}
+      />
+      {additionalBodyContent.map((content, index) => (
+        <React.Fragment key={index}>{content}</React.Fragment>
+      ))}
     </ThemeProvider>
   );
 }

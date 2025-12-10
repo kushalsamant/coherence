@@ -1,10 +1,25 @@
-// Note: Environment variables are loaded from root .env.local for local development
+// Note: Environment variables are loaded from .env.local.frontend for local development
 // Production environment variables are configured in Vercel dashboard
 
 const path = require('path');
+const dotenv = require('dotenv');
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true',
 });
+
+// Load frontend environment file based on environment
+// Next.js doesn't natively support custom env file names, so we load manually
+const envFile = process.env.NODE_ENV === 'production' 
+  ? '.env.production.frontend' 
+  : '.env.local.frontend';
+
+// Try to load the frontend env file (silently fail if it doesn't exist)
+try {
+  dotenv.config({ path: path.resolve(__dirname, envFile) });
+} catch (error) {
+  // File doesn't exist yet - that's okay, will use system env vars or defaults
+  console.warn(`Warning: ${envFile} not found. Using system environment variables.`);
+}
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
