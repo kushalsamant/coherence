@@ -181,6 +181,16 @@ Yalgi,&nbsp;Mohit.
 
 These are the projects/ventures I've worked on.
 
+## sketch2bim
+
+**sketch2bim** is an experimental open-source repository exploring the translation of early-stage architectural sketch thinking into structured, machine-readable BIM logic.
+
+The project investigates how loose, designer-first workflows (such as SketchUp-style massing and conceptual geometry) can be incrementally formalized into parametric, rule-based building information without forcing premature rigidity or software lock-in.
+
+Rather than attempting direct file-format conversion, sketch2bim focuses on encoding architectural intent early in the design process, so that spatial decisions, proportions, and construction logic remain traceable as projects move toward documentation, fabrication, or automation.
+
+The repository sits at the intersection of architectural research, scripting, and open-source construction systems, and functions as a research tool, teaching aid, and foundation for future automation workflows in BIM and digital construction.
+
 <a href="https://github.com/kushalsamant/ask" rel="noopener noreferrer" target="_blank">_ASK_: Daily Research</a>. <br>
 <a href="https://geometry.printify.com" rel="noopener noreferrer" target="_blank">Geometry</a>. <br>
 Assistant Professor of Architecture at Dr D.Y. Patil School of Architecture, Navi Mumbai. <br>
