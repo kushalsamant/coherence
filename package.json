@@ -39,7 +39,7 @@
     "@supabase/ssr": "^0.5.2",
     "@supabase/supabase-js": "^2.47.10",
     "@types/react-syntax-highlighter": "^15.5.11",
-    "@upstash/ratelimit": "^2.0.7",
+    "@upstash/ratelimit": "^2.0.8",
     "@upstash/redis": "^1.35.6",
     "axios": "^1.6.5",
     "class-variance-authority": "^0.7.1",
@@ -61,11 +61,11 @@
     "remark": "^15.0.1",
     "remark-gfm": "^4.0.0",
     "remark-html": "^16.0.1",
-    "socket.io-client": "^4.6.1",
+    "socket.io-client": "^4.8.3",
     "tailwind-merge": "^3.3.1",
     "three": "^0.160.0",
     "three-stdlib": "^2.28.0",
-    "web-ifc": "^0.0.51",
+    "web-ifc": "^0.0.74",
     "zod": "^3.22.4"
   },
   "devDependencies": {
