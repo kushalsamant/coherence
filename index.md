@@ -1,5 +1,12 @@
 ---
 layout: default
+title: index.md
+description: >-
+  A growing collection of notes, frameworks, and working material to support
+  long-term independent practice.
+---
+---
+layout: default
 title: Thinking Library
 description: A growing collection of notes, frameworks, and working material to support long-term independent practice.
 ---
