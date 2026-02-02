@@ -1,0 +1,154 @@
+name: Dependabot PR Review and Management
+
+on:
+  schedule:
+    # Run every Friday at 00:00 UTC
+    - cron: '0 0 * * 5'
+  workflow_dispatch: # Allow manual execution
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  review-dependabot-prs:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup GitHub CLI
+        uses: actions4gh/setup-gh@v1
+
+      - name: Fetch all branches
+        run: git fetch --all
+
+      - name: List Dependabot PRs
+        id: list-prs
+        run: |
+          echo "Checking for Dependabot pull requests..."
+          
+          # Get all open Dependabot PRs (check both dependabot and dependabot[bot] authors)
+          PRS=$(gh pr list --state open --json number,title,state,mergeable,isDraft,url,headRefName,updatedAt,labels,statusCheckRollup,author --jq '.[] | select((.author.login == "dependabot[bot]") and (.isDraft == false))')
+          
+          if [ -z "$PRS" ]; then
+            echo "No open Dependabot PRs found."
+            echo "has_prs=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          # Save PRs to file for processing
+          echo "$PRS" | jq -s '.' > prs.json
+          PR_COUNT=$(cat prs.json | jq 'length')
+          echo "Found $PR_COUNT Dependabot PR(s):"
+          cat prs.json | jq -r '.[] | "- #\(.number): \(.title) [\(.state)]"'
+          echo "has_prs=true" >> $GITHUB_OUTPUT
+
+      - name: Review and process each PR
+        if: steps.list-prs.outputs.has_prs == 'true'
+        run: |
+          cat prs.json | jq -c '.[]' | while read -r pr; do
+            PR_NUMBER=$(echo "$pr" | jq -r '.number')
+            PR_TITLE=$(echo "$pr" | jq -r '.title')
+            MERGEABLE=$(echo "$pr" | jq -r '.mergeable')
+            UPDATED_AT=$(echo "$pr" | jq -r '.updatedAt')
+            STATUS_CHECK=$(echo "$pr" | jq -r '.statusCheckRollup[]?.conclusion // "PENDING"')
+            
+            echo ""
+            echo "=========================================="
+            echo "Reviewing PR #$PR_NUMBER: $PR_TITLE"
+            echo "=========================================="
+            echo "Mergeable: $MERGEABLE"
+            echo "Last updated: $UPDATED_AT"
+            echo "Status checks: $STATUS_CHECK"
+            
+            # Check if PR is outdated (older than 30 days)
+            # Parse ISO 8601 date (format: 2024-01-15T10:30:00Z)
+            UPDATED_DATE=$(echo "$UPDATED_AT" | sed 's/T/ /; s/Z$//')
+            UPDATED_TIMESTAMP=$(date -u -d "$UPDATED_DATE" +%s 2>/dev/null || date -u +%s)
+            CURRENT_TIMESTAMP=$(date +%s)
+            if [ "$UPDATED_TIMESTAMP" != "0" ] && [ "$UPDATED_TIMESTAMP" -gt 0 ]; then
+              DAYS_OLD=$(( ($CURRENT_TIMESTAMP - $UPDATED_TIMESTAMP) / 86400 ))
+            else
+              DAYS_OLD=0
+            fi
+            
+            echo "Days since last update: $DAYS_OLD"
+            
+            # Get detailed PR status
+            PR_DETAILS=$(gh pr view $PR_NUMBER --json state,mergeable,mergeStateStatus,statusCheckRollup,labels --jq '.')
+            
+            # Check all CI statuses - all must be SUCCESS
+            CI_STATUSES=$(echo "$PR_DETAILS" | jq -r '.statusCheckRollup[]?.conclusion // empty')
+            ALL_CI_PASSING=true
+            HAS_FAILURES=false
+            
+            if [ -z "$CI_STATUSES" ]; then
+              ALL_CI_PASSING=false
+              echo "No CI status checks found"
+            else
+              echo "CI Status checks:"
+              for status in $CI_STATUSES; do
+                echo "  - $status"
+                if [ "$status" != "SUCCESS" ]; then
+                  ALL_CI_PASSING=false
+                  if [ "$status" = "FAILURE" ]; then
+                    HAS_FAILURES=true
+                  fi
+                fi
+              done
+            fi
+            
+            MERGE_STATE=$(echo "$PR_DETAILS" | jq -r '.mergeStateStatus // "UNKNOWN"')
+            echo "Merge State: $MERGE_STATE"
+            
+            # Decision logic
+            if [ "$MERGEABLE" = "true" ] && [ "$ALL_CI_PASSING" = "true" ] && [ "$MERGE_STATE" != "BLOCKED" ]; then
+              echo "✅ PR #$PR_NUMBER is ready to merge (CI passing, no conflicts)"
+              echo "Merging PR #$PR_NUMBER..."
+              gh pr merge $PR_NUMBER --squash --delete-branch || echo "Failed to merge PR #$PR_NUMBER"
+            elif [ "$HAS_FAILURES" = "true" ] || [ "$MERGE_STATE" = "BLOCKED" ]; then
+              echo "❌ PR #$PR_NUMBER has failing CI or conflicts"
+              echo "Closing PR #$PR_NUMBER..."
+              gh pr close $PR_NUMBER --comment "Automatically closed: CI checks are failing or PR has merge conflicts that need manual resolution." || echo "Failed to close PR #$PR_NUMBER"
+            elif [ "$DAYS_OLD" -gt 30 ]; then
+              echo "⏰ PR #$PR_NUMBER is outdated (older than 30 days)"
+              echo "Closing PR #$PR_NUMBER..."
+              gh pr close $PR_NUMBER --comment "Automatically closed: PR is outdated (older than 30 days) and may need to be recreated with latest changes." || echo "Failed to close PR #$PR_NUMBER"
+            else
+              echo "⏳ PR #$PR_NUMBER is pending review or CI is still running"
+              echo "Keeping PR #$PR_NUMBER open for manual review"
+            fi
+          done
+
+      - name: Clean up local branches
+        run: |
+          echo "Cleaning up merged branches..."
+          git fetch --prune
+          
+          # Delete local branches that track deleted remote branches
+          git branch -vv | grep ': gone]' | awk '{print $1}' | xargs -r git branch -D || true
+          
+          echo "Branch cleanup complete."
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Dependabot PR Review Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Review completed at $(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f prs.json ]; then
+            PR_COUNT=$(cat prs.json | jq 'length')
+            if [ "$PR_COUNT" -gt 0 ]; then
+              echo "Found and processed $PR_COUNT Dependabot PR(s)" >> $GITHUB_STEP_SUMMARY
+            else
+              echo "No Dependabot PRs found" >> $GITHUB_STEP_SUMMARY
+            fi
+          else
+            echo "No Dependabot PRs found" >> $GITHUB_STEP_SUMMARY
+          fi

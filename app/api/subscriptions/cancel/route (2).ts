@@ -1,0 +1,43 @@
+import { NextRequest, NextResponse } from 'next/server';
+import { auth } from '@/lib/auth';
+import { logger } from '@/lib/logger';
+import { API_CONFIG } from "@/lib/config";
+
+export const dynamic = 'force-dynamic';
+
+export async function POST(req: NextRequest) {
+  try {
+    const session = await auth();
+    
+    if (!session?.user?.id) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    }
+
+    const API_URL = API_CONFIG.PLATFORM_API_URL;
+    
+    const response = await fetch(`${API_URL}/api/subscriptions/cancel`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${session.user.id}`,
+      },
+    });
+
+    if (!response.ok) {
+      return NextResponse.json(
+        { error: 'Failed to cancel subscription' },
+        { status: response.status }
+      );
+    }
+
+    const data = await response.json();
+    return NextResponse.json(data);
+  } catch (error: any) {
+    logger.error('Cancel subscription error:', error);
+    return NextResponse.json(
+      { error: error.message || 'Internal server error' },
+      { status: 500 }
+    );
+  }
+}
+

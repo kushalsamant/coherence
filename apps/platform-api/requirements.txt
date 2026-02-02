@@ -1,0 +1,43 @@
+# Unified Platform API Requirements
+# Combines dependencies from all three backend services
+
+# Shared backend package (install from local path)
+# Note: This is installed separately in build command, but kept here for reference
+# -e ../../packages/shared-backend
+
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+gunicorn>=21.2.0
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+
+# Database
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+psycopg2-binary>=2.9.9
+
+# Redis
+redis>=5.0.0
+hiredis>=2.2.0
+
+# Authentication
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+python-multipart>=0.0.6
+
+# Payments
+razorpay>=1.4.0
+
+# AI/ML services
+groq>=0.4.0
+openai>=1.0.0
+
+# HTTP client
+httpx>=0.25.0
+requests>=2.31.0
+
+# Utilities
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dateutil>=2.8.2
+

@@ -1,0 +1,41 @@
+{
+  "name": "@kushalsamant/design-template",
+  "version": "1.3.2",
+  "description": "Unified design system and component library for KVSHVL projects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "styles",
+    "src"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "design-system",
+    "components",
+    "react",
+    "nextjs",
+    "typescript"
+  ],
+  "author": "Kushal Samant",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "next": "^14.0.0 || ^15.0.0 || ^16.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kushalsamant/kushalsamant.github.io.git",
+    "directory": "packages/design-system"
+  }
+}
