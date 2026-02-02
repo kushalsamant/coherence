@@ -1,3 +1,9 @@
+---
+layout: default
+title: Thinking Library
+description: A growing collection of notes, frameworks, and working material to support long-term independent practice.
+---
+
 # Thinking
 
 If you work independently, you already know the problem.  
