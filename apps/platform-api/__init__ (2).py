@@ -1,4 +1,0 @@
-"""
-KVSHVL Platform Unified API
-"""
-
