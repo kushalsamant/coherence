@@ -1,36 +1,62 @@
-# Thinking
+# Coherence
 
-If you work independently, you already know the problem.  
-Thoughts get scattered. Useful ideas disappear into old notes.
+If you write or work independently, you already know the problem.
+Thoughts accumulate faster than they can be revisited.
 
-Work gets messy. Decisions repeat.  
-Trying to keep everything in your head becomes mentally exhausting over time.
+Ideas scatter across drafts, posts, and notes.
+Connections weaken. Arguments repeat. Useful contradictions get lost in volume.
 
-## A simple way to organize thinking
-
-This is a growing collection of notes, frameworks, and working material  
-meant to support long-term practice.
-
-No noise. No hype. No unnecessary complexity.
-
-## Why people keep a thinking library
-
-- Keeps ideas and decisions in one place  
-- Reduces repeated mental effort  
-- Useful for independent and creative work  
-- Designed to grow slowly over time  
-
-This is where extended notes and downloadable resources are collected.
+Over time, thinking becomes harder to hold together.
 
 ---
 
-[**View resource library**](https://kvshvl.gumroad.com/)
+## A quarterly distillation
+
+This is a periodic distillation of long-form writing.
+
+Every quarter, a body of published work is reviewed and edited down into a single, coherent document.
+Not rewritten. Not summarized.
+Structured.
+
+Recurring arguments are clarified.
+Overlapping ideas are merged.
+Contradictions are made visible instead of hidden.
+
+The result is a slow, readable archive of thinking over time.
 
 ---
 
-Keeping a simple thinking system helps reduce friction  
-and makes consistent work easier to sustain.
+## Why this exists
+
+* To reduce repetition across years of writing
+* To make long-term thinking visible in one place
+* To preserve coherence that platforms do not reward
+* To support independent, sustained intellectual work
+
+This is not a feed.
+It is not optimized for attention.
 
 ---
 
-*Notes and resources are updated as the work continues.*
+## What each volume contains
+
+* A curated selection from 40–60 essays
+* Core arguments and recurring ideas
+* Editorial structure across themes
+* A single PDF, designed to be revisited
+
+Each volume stands on its own.
+
+---
+
+[**View Quarterly Distillations**](https://kvshvl.gumroad.com/)
+
+---
+
+This is a slow project.
+Released infrequently.
+Maintained deliberately.
+
+---
+
+*Volumes are added as the writing accumulates.*
