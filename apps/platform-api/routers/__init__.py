@@ -1,4 +1,0 @@
-"""
-Platform API Routers
-"""
-

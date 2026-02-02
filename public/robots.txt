@@ -1,8 +1,0 @@
-# Robots.txt for kvshvl.in
-User-agent: *
-Allow: /
-Disallow: /api/
-Disallow: /account
-Disallow: /admin
-
-Sitemap: https://kvshvl.in/sitemap.xml
