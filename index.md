@@ -49,7 +49,7 @@ Each volume stands on its own.
 
 ---
 
-[**View Quarterly Distillations**](https://kvshvl.gumroad.com/)
+[**View quarterly distillations**](https://kvshvl.gumroad.com/)
 
 ---
 
